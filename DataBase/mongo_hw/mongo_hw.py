@@ -17,15 +17,32 @@ dif_date_reg = datetime.now() - timedelta(days = 30)
 dif_date_event = datetime.now() - timedelta(days = 14) 
 
 # формирую запрос на основании задания
-query = {
-    "$and": [
-        {'user_info.registration_date': {'$lt': dif_date_reg}},
-        {'event_time': {'$lt': dif_date_event}}
-    ]   
-}
+query = [
+    # Фильтрация по дате регистрации >= dif_date_reg
+    {"$match": {
+        "user_info.registration_date": {"$lt": dif_date_reg}
+    }},
+    # Группировка по user_id и вычисление max event_time, а также регистрационной даты (берем первую, поскольку в группе она одинаковая)
+ {"$group": {
+        "_id": "$user_id",
+        "max_event_time": {"$max": "$event_time"},
+        "registration_date": {"$first": "$user_info.registration_date"}
+    }},
+    # Фильтрация по активности: max_event_time >= dif_date_event
+ {"$match": {
+        "max_event_time": {"$lt": dif_date_event}
+    }},
+    # Оставляю только нужные поля
+    {"$project": {
+        "user_id": "$_id",
+        "max_event_time": 1,
+        "registration_date": 1,
+        "_id": 0
+    }}
+]
 
 #выполняю запрос на в mongo
-archived_users = collection.find(query, {"user_id": 1, "_id": 0})
+archived_users = collection.aggregate(query)
 
 # Создаём список user_id для использовании в отчете
 archived_user_ids = [doc['user_id'] for doc in archived_users]
@@ -41,9 +58,12 @@ report = {
 output_dir = os.getcwd()
 file_path = os.path.join(output_dir, f'''report_from_{datetime.now().date().strftime("%Y-%m-%d")}.json''')
 
-
 # Запись отчёта в файл .json
 with open(file_path, 'w', encoding='utf-8') as f:
     json.dump(report, f, ensure_ascii=False, indent=2)
 
 print(f"Отчёт сохранён в {file_path}")
+
+#удаляю полученных пользовтелей из коллекции
+result = collection.delete_many({"user_id": {"$in": archived_user_ids}})
+print(f"Deleted {result.deleted_count} documents")
