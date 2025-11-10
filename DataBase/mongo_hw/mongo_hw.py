@@ -66,4 +66,4 @@ print(f"Отчёт сохранён в {file_path}")
 
 #удаляю полученных пользовтелей из коллекции
 result = collection.delete_many({"user_id": {"$in": archived_user_ids}})
-print(f"Deleted {result.deleted_count} documents")
+print(f"Удалено {result.deleted_count} документов(пользователей)")
