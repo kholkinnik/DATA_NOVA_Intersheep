@@ -4,6 +4,16 @@ from kafka import KafkaProducer
 import json
 import time
 
+# библиотеки для переменных окружения
+import os
+from dotenv import load_dotenv
+# Загружаем переменные окружения
+load_dotenv()
+
+POSTGRES_DB = os.getenv("POSTGRES_DB")
+POSTGRES_USER = os.getenv("POSTGRES_USER")
+POSTGRES_PASSWORD = os.getenv("POSTGRES_PASSWORD")  
+
 # Подключение к Kafka
 producer = KafkaProducer(
     bootstrap_servers='localhost:9092',
@@ -12,7 +22,10 @@ producer = KafkaProducer(
 
 # Подключаюсь к БД 
 conn = psycopg2.connect(
-    dbname="test_db", user="admin", password="admin", host="localhost", port=5432
+    dbname = POSTGRES_DB,
+    user = POSTGRES_USER,
+    password = POSTGRES_PASSWORD,
+    host="localhost", port=5432
 )
 cursor = conn.cursor()
 
