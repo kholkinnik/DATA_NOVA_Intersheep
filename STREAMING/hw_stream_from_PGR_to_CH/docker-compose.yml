@@ -1,4 +1,4 @@
-version: '3.8'
+version: '3.9'
 
 services:
   zookeeper:
@@ -11,7 +11,7 @@ services:
   kafka:
     image: confluentinc/cp-kafka:7.3.3
     ports:
-      - "9092:9092"
+      - ${KAFKA_HOST}
     depends_on:
       - zookeeper
     environment:
@@ -22,11 +22,11 @@ services:
   postgres:
     image: postgres:15
     ports:
-      - "5432:5432"
+      - ${POSTGRES_PORT}
     environment:
-      POSTGRES_USER: admin
-      POSTGRES_PASSWORD: admin
-      POSTGRES_DB: test_db
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
     volumes:
       - pgdata:/var/lib/postgresql/data
       - ./user_logins.sql:/docker-entrypoint-initdb.d/user_logins.sql # смонтирует данные при перезапуске контейнера
@@ -43,8 +43,8 @@ services:
         soft: 262144
         hard: 262144            
     environment:
-      CLICKHOUSE_USER: user
-      CLICKHOUSE_PASSWORD: strongpassword
+      CLICKHOUSE_USER: ${CLICKHOUSE_USER}
+      CLICKHOUSE_PASSWORD: ${CLICKHOUSE_PASSWORD}
       CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
     volumes:
       - clickhouse_data:/var/lib/clickhouse    

@@ -4,6 +4,9 @@ docker-compose up -d
 * при первом запуске будет сформирован Датасет, в соответствии скрипта user_logins.sql
 * проверь загрузилисьли данные
 
+# запусти зависимости из requirments
+pip install -r requirements.txt
+
 # Запусти producer запуска процесса записи в топик kafka
 python producer.py - скрипт прочитает данные из БД и положит их в топик "streaming_hw_kafka"
 
