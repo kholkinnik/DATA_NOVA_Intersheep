@@ -26,6 +26,14 @@ python producer.py
 python comsumer.py
 
 Ctrl+C - останавливаю загрузки
+_________________________________________________________
+# Работа с Kafka  в контейнере 
+docker exec -it <имя контейнера> bash
+# посомтреть перечнь топиков 
+kafka-topics --list --bootstrap-server localhost:9092
+
+# Посмотри данные в топике
+kafka-console-consumer --bootstrap-server localhost:9092 --topic test-topic --from-beginning
 _______________________________________________________
 # устанавливаю библиотеку для работы с postgres
 pip install psycopg2
