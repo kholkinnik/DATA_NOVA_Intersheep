@@ -2,3 +2,4 @@
 venv/
 ./STREAMING/ALARM/.env
 ./STREAMING/STREAMING/hw_stream_from_PGR_to_CH/.env
+./S3/.env

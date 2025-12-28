@@ -1,0 +1,8 @@
+2025-12-28 12:34:21,124 - DataPipeline - INFO - Starting Data Pipeline...
+2025-12-28 12:34:21,124 - DataPipeline - INFO - Find 1 CSV in watch_folder
+2025-12-28 12:34:21,124 - DataPipeline - INFO - Processing file watch_folder\simple.csv
+2025-12-28 12:34:21,124 - DataPipeline - INFO - Read 6 rows from simple.csv
+2025-12-28 12:34:21,124 - DataPipeline - INFO - Rows in file 6 after 5 rows
+2025-12-28 12:34:21,124 - DataPipeline - INFO - File processed_simple_20251228_123421.csv moved in temp
+2025-12-28 12:34:21,394 - DataPipeline - INFO - File processed_simple_20251228_123421.csv moved in s3
+2025-12-28 12:34:21,406 - DataPipeline - INFO - File archived: archive\simple.csv
