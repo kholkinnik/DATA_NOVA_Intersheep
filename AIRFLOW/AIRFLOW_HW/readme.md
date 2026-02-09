@@ -7,28 +7,10 @@
 
 **Полный путь данных**: `MSSQL → CSV → PostgreSQL (схема xdc)`
 
-## Пример структуры
-dags/
-├── auto_etl_generator.py # ← Этот скрипт (генератор DAG)
-└── data/
-└── scripts_sql/
-├── xDC_SERVICE_CATEGORIES/ # ← DAG: auto_dag_xDC_SERVICE_CATEGORIES
-│ ├── SERVICE_CATEGORIES.sql # 1️⃣ Извлечение из MSSQL
-│ ├── CREATE_TABLE_POSTGRES_SERVICE_CATEGORIES.sql # 2️⃣ DDL таблицы PG
-│ ├── CLEAN_TABLE_POSTGRES_SERVICE_CATEGORIES.sql # 3️⃣ Очистка данных по {{ ds }}
-│ └── SERVICE_CATEGORIES.csv # 4️⃣ [ГЕНЕРИРУЕТСЯ] промежуточный файл
-│
-└── xDC_TARIFS/ # ← DAG: auto_dag_xDC_TARIFS
-├── TARIFS.sql
-├── CREATE_TABLE_POSTGRES_TARIFS.sql
-├── CLEAN_TABLE_POSTGRES_TARIFS.sql
-└── TARIFS.csv # [ГЕНЕРИРУЕТСЯ]
+## Нейминг внутри папок `SCRIPTS_FOLDER`:
 
+**Папка**: `xDC_{NAME}` {NAME}- наименование витрины
 
-## Нейминг внутри папок
-
-**Папка**: `xDC_{NAME}`  
-**Таблица PG**: `xdc.{NAME}`  
 **Файлы**:
 - `{NAME}.sql` — извлечение из MSSQL
 - `CREATE_TABLE_POSTGRES_{NAME}.sql` — DDL для postgres (если не существует)
@@ -37,14 +19,14 @@ dags/
 
 ## Быстрое добаление новой витрины
 ##### 1. Создать папку
-mkdir -p data/scripts_sql/xDC_NEW_VITRINA
+mkdir -p data/scripts_sql/xDC_{NEW_NAME}
 
 ###### 2. Добавить 3 обязательных SQL файла:
-    - NEW_VITRINA.sql
-    - CREATE_TABLE_POSTGRES_NEW_VITRINA.sql  
-    - CLEAN_TABLE_POSTGRES_NEW_VITRINA.sql
+    - {NEW_NAME}.sql   запрос на выгрузку из MSSQL
+    - CREATE_TABLE_POSTGRES_{NEW_NAME}.sql  создание таблицы в Postgres(если не существует)
+    - CLEAN_TABLE_POSTGRES_{NEW_NAME}.sql   проверка на идемпотентность ( если выгрузка по дате используй в скрипте {{ds}})
 
-###### 3. ✅ DAG auto_dag_xDC_NEW_VITRINA готов!
+###### 3. ✅ DAG auto_dag_xDC_{NEW_NAME} готов!
 ###### 4. Проверить: airflow dags list | grep NEW_VITRINA ( или через UI AIRFLOW)
 
 ## Особенности реализации
@@ -53,7 +35,4 @@ mkdir -p data/scripts_sql/xDC_NEW_VITRINA
 | 💾 CSV-посредник     - Надежная передача данных между разными БД                   
 | 🏷️ Теги              - auto-generated для фильтрации в UI                          
 | 📅 Ручной запуск     - schedule_interval=None + max_active_runs=1                  
-| 🛡️ Обработка ошибок   - Логирование + raise для retry в Airflow                     
-
-
-
+| 🛡️ Обработка ошибок   - Логирование + raise для retry в Airflow 
