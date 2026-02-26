@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1027",
+  "first_name": "Антонина",
+  "last_name": "Соколова",
+  "email": "elizar_2018@example.net",
+  "phone": "+7 581 960 25 78",
+  "birth_date": "1978-07-04",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.825797",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-D30E4BB426",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Воронеж",
+    "street": "пр. Морской",
+    "house": "73",
+    "postal_code": "524251",
+    "coordinates": {
+      "latitude": 51.668767,
+      "longitude": 39.189663
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Воронеж",
+    "street": "ул. Дорожников",
+    "house": "558",
+    "apartment": "85",
+    "postal_code": "853037"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

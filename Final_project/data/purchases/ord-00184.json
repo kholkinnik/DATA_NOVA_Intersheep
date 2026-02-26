@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00184",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Вадим",
+    "last_name": "Галкин"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на алл. Маркса",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Калининград",
+      "street": "алл. Маркса",
+      "house": "17",
+      "postal_code": "453384",
+      "coordinates": {
+        "latitude": 54.705358,
+        "longitude": 20.503049
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Ветчина из индейки",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 170.0,
+      "total_price": 170.0,
+      "kbju": {
+        "calories": 245.7,
+        "protein": 28.5,
+        "fat": 21.3,
+        "carbohydrates": 5.3
+      },
+      "manufacturer": {
+        "name": "ООО «Индейка»",
+        "country": "Россия",
+        "website": "https://индейка.ru",
+        "inn": "8961121715"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Пшено",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 40.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 8.9,
+        "fat": 5.3,
+        "carbohydrates": 57.4
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "6773187483"
+      }
+    }
+  ],
+  "total_amount": 210.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "бул. Кузнечный",
+    "house": "6/1",
+    "apartment": "25",
+    "postal_code": "630964"
+  },
+  "purchase_datetime": "2026-01-04T12:26:17.970559"
+}

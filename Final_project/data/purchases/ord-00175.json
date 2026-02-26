@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00175",
+  "customer": {
+    "customer_id": "cus-1011",
+    "first_name": "Людмила",
+    "last_name": "Яковлева"
+  },
+  "store": {
+    "store_id": "store-027",
+    "store_name": "Большая Пикча — Магазин на пр. Хуторской",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тверь",
+      "street": "пр. Хуторской",
+      "house": "3",
+      "postal_code": "872489",
+      "coordinates": {
+        "latitude": 56.86034,
+        "longitude": 35.916177
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1045",
+      "name": "Баклажаны",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 120.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 32.5,
+        "protein": 2.5,
+        "fat": 0.2,
+        "carbohydrates": 5.3
+      },
+      "manufacturer": {
+        "name": "Агрокультура",
+        "country": "Россия",
+        "website": "https://агрокультура.ru",
+        "inn": "8592319850"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Ветчина из индейки",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 170.0,
+      "total_price": 340.0,
+      "kbju": {
+        "calories": 245.7,
+        "protein": 28.5,
+        "fat": 21.3,
+        "carbohydrates": 5.3
+      },
+      "manufacturer": {
+        "name": "ООО «Индейка»",
+        "country": "Россия",
+        "website": "https://индейка.ru",
+        "inn": "8961121715"
+      }
+    }
+  ],
+  "total_amount": 460.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тула",
+    "street": "ул. 60 лет СССР",
+    "house": "84",
+    "apartment": "93",
+    "postal_code": "392233"
+  },
+  "purchase_datetime": "2025-12-13T12:26:17.964543"
+}

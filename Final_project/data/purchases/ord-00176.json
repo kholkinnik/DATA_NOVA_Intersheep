@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00176",
+  "customer": {
+    "customer_id": "cus-1013",
+    "first_name": "Богдан",
+    "last_name": "Щукин"
+  },
+  "store": {
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на ш. Ярославское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Хабаровск",
+      "street": "ш. Ярославское",
+      "house": "261",
+      "postal_code": "444998",
+      "coordinates": {
+        "latitude": 48.489261,
+        "longitude": 135.067104
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1020",
+      "name": "Айран",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 55.0,
+      "kbju": {
+        "calories": 63.5,
+        "protein": 9.0,
+        "fat": 14.0,
+        "carbohydrates": 11.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "4299168204"
+      }
+    },
+    {
+      "product_id": "prd-1038",
+      "name": "Гранат",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 56.6,
+        "protein": 1.6,
+        "fat": 0.6,
+        "carbohydrates": 18.1
+      },
+      "manufacturer": {
+        "name": "Азербайджанские фрукты",
+        "country": "Россия",
+        "website": "https://азербайджанскиефрукты.ru",
+        "inn": "7841587425"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "name": "Сушки простые",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 303.5,
+        "protein": 9.8,
+        "fat": 5.9,
+        "carbohydrates": 59.0
+      },
+      "manufacturer": {
+        "name": "ООО «Крендель»",
+        "country": "Россия",
+        "website": "https://крендель.ru",
+        "inn": "2278186010"
+      }
+    }
+  ],
+  "total_amount": 375.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "пр. Минский",
+    "house": "5/5",
+    "apartment": "26",
+    "postal_code": "862455"
+  },
+  "purchase_datetime": "2026-01-11T12:26:17.964543"
+}

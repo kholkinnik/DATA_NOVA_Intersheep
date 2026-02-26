@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00126",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Фирс",
+    "last_name": "Соловьев"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на алл. Главная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тула",
+      "street": "алл. Главная",
+      "house": "846",
+      "postal_code": "772603",
+      "coordinates": {
+        "latitude": 54.204343,
+        "longitude": 37.60926
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1033",
+      "name": "Облепиха",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 220.0,
+      "kbju": {
+        "calories": 65.2,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 13.9
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "3798021529"
+      }
+    }
+  ],
+  "total_amount": 220.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "бул. Целинный",
+    "house": "61",
+    "apartment": "85",
+    "postal_code": "566100"
+  },
+  "purchase_datetime": "2026-01-21T12:26:17.931983"
+}

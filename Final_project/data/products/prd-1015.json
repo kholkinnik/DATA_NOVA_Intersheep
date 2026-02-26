@@ -1,0 +1,24 @@
+{
+  "id": "prd-1015",
+  "name": "Яйцо куриное С1",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Отборное куриное яйцо, 10 шт",
+  "kbju": {
+    "calories": 136.2,
+    "protein": 25.5,
+    "fat": 23.4,
+    "carbohydrates": 9.4
+  },
+  "price": 85.0,
+  "unit": "уп",
+  "origin_country": "Россия",
+  "expiry_days": 25,
+  "is_organic": false,
+  "barcode": "2728248534825",
+  "manufacturer": {
+    "name": "Птицефабрика «Роскар»",
+    "country": "Россия",
+    "website": "https://птицефабрикароскар.ru",
+    "inn": "2845693261"
+  }
+}

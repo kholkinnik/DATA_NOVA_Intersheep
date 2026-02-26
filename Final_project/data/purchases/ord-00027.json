@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00027",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Татьяна",
+    "last_name": "Киселева"
+  },
+  "store": {
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на ш. Ангарское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Томск",
+      "street": "ш. Ангарское",
+      "house": "1/8",
+      "postal_code": "492257",
+      "coordinates": {
+        "latitude": 56.495084,
+        "longitude": 84.978366
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1034",
+      "name": "Нектарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 190.0,
+      "total_price": 380.0,
+      "kbju": {
+        "calories": 37.9,
+        "protein": 0.7,
+        "fat": 0.1,
+        "carbohydrates": 14.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "6082942444"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Лосось слабосолёный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 350.0,
+      "total_price": 1050.0,
+      "kbju": {
+        "calories": 127.0,
+        "protein": 19.9,
+        "fat": 3.5,
+        "carbohydrates": 10.5
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "3658307396"
+      }
+    }
+  ],
+  "total_amount": 1430.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ул. Щербакова",
+    "house": "3/8",
+    "apartment": "58",
+    "postal_code": "212133"
+  },
+  "purchase_datetime": "2026-01-01T12:26:17.861908"
+}

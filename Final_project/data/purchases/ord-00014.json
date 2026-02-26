@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00014",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Анжела",
+    "last_name": "Козлова"
+  },
+  "store": {
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на наб. Кольцевая",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Киров",
+      "street": "наб. Кольцевая",
+      "house": "37",
+      "postal_code": "571953",
+      "coordinates": {
+        "latitude": 58.603966,
+        "longitude": 49.655592
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "name": "Кускус",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 271.7,
+        "protein": 11.4,
+        "fat": 1.1,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "ООО «Мистраль»",
+        "country": "Россия",
+        "website": "https://мистраль.ru",
+        "inn": "4074032825"
+      }
+    },
+    {
+      "product_id": "prd-1041",
+      "name": "Кукуруза в початках",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 52.3,
+        "protein": 2.1,
+        "fat": 0.4,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "Агрокультура",
+        "country": "Россия",
+        "website": "https://агрокультура.ru",
+        "inn": "4910275461"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Пшено",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 8.9,
+        "fat": 5.3,
+        "carbohydrates": 57.4
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "6773187483"
+      }
+    }
+  ],
+  "total_amount": 330.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Барнаул",
+    "street": "пер. Морозова",
+    "house": "2",
+    "apartment": "32",
+    "postal_code": "516512"
+  },
+  "purchase_datetime": "2026-01-29T12:26:17.848058"
+}

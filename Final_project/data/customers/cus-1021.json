@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1021",
+  "first_name": "Афанасий",
+  "last_name": "Ефремов",
+  "email": "vorontsovelise@example.net",
+  "phone": "88298917096",
+  "birth_date": "2002-11-20",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.816768",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-CA81EBAC5C",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "бул. Пригородный",
+    "house": "7",
+    "postal_code": "011349",
+    "coordinates": {
+      "latitude": 56.127627,
+      "longitude": 40.390096
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "ул. Орловская",
+    "house": "568",
+    "apartment": "11",
+    "postal_code": "997414"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1002",
+  "first_name": "Иосиф",
+  "last_name": "Осипов",
+  "email": "ysubbotin@example.com",
+  "phone": "86005509987",
+  "birth_date": "2005-12-08",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.799067",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-C467B9DE6F",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Вахитова",
+    "house": "8",
+    "postal_code": "159471",
+    "coordinates": {
+      "latitude": 56.13861,
+      "longitude": 40.405585
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Социалистический",
+    "house": "2",
+    "apartment": "37",
+    "postal_code": "982943"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

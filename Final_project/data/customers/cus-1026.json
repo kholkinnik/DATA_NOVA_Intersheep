@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1026",
+  "first_name": "Лидия",
+  "last_name": "Карпова",
+  "email": "angelina_68@example.net",
+  "phone": "+7 234 092 3873",
+  "birth_date": "1979-06-05",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.825797",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-9EFD3E9B43",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Тверь",
+    "street": "пр. Хуторской",
+    "house": "3",
+    "postal_code": "872489",
+    "coordinates": {
+      "latitude": 56.86034,
+      "longitude": 35.916177
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тверь",
+    "street": "наб. Льва Толстого",
+    "house": "8",
+    "apartment": "64",
+    "postal_code": "667056"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

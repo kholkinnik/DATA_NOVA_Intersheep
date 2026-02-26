@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00044",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Нонна",
+    "last_name": "Лыткина"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на пр. Морской",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Воронеж",
+      "street": "пр. Морской",
+      "house": "73",
+      "postal_code": "524251",
+      "coordinates": {
+        "latitude": 51.668767,
+        "longitude": 39.189663
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1034",
+      "name": "Нектарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 190.0,
+      "total_price": 760.0,
+      "kbju": {
+        "calories": 37.9,
+        "protein": 0.7,
+        "fat": 0.1,
+        "carbohydrates": 14.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "6082942444"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Хлеб Дарницкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 144.0,
+      "kbju": {
+        "calories": 221.7,
+        "protein": 7.0,
+        "fat": 4.9,
+        "carbohydrates": 45.9
+      },
+      "manufacturer": {
+        "name": "АО «Хлебозавод №1»",
+        "country": "Россия",
+        "website": "https://хлебозавод№1.ru",
+        "inn": "3713027229"
+      }
+    },
+    {
+      "product_id": "prd-1046",
+      "name": "Помидоры черри",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "уп",
+      "price_per_unit": 85.0,
+      "total_price": 170.0,
+      "kbju": {
+        "calories": 30.2,
+        "protein": 0.9,
+        "fat": 0.7,
+        "carbohydrates": 2.8
+      },
+      "manufacturer": {
+        "name": "Белая дача",
+        "country": "Россия",
+        "website": "https://белаядача.ru",
+        "inn": "5629675214"
+      }
+    }
+  ],
+  "total_amount": 1074.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Сочи",
+    "street": "наб. Тульская",
+    "house": "158",
+    "apartment": "26",
+    "postal_code": "887348"
+  },
+  "purchase_datetime": "2026-02-15T12:26:17.873975"
+}

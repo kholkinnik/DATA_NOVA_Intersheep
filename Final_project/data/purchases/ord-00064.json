@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00064",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Вадим",
+    "last_name": "Галкин"
+  },
+  "store": {
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на ш. Ярославское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Хабаровск",
+      "street": "ш. Ярославское",
+      "house": "261",
+      "postal_code": "444998",
+      "coordinates": {
+        "latitude": 48.489261,
+        "longitude": 135.067104
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 215.5,
+        "protein": 11.1,
+        "fat": 2.9,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "5634433830"
+      }
+    },
+    {
+      "product_id": "prd-1040",
+      "name": "Помидоры маринованные",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 42.5,
+        "protein": 2.6,
+        "fat": 0.5,
+        "carbohydrates": 5.7
+      },
+      "manufacturer": {
+        "name": "ООО «Консервный завод»",
+        "country": "Россия",
+        "website": "https://консервныйзавод.ru",
+        "inn": "9323217357"
+      }
+    }
+  ],
+  "total_amount": 290.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "бул. Кузнечный",
+    "house": "6/1",
+    "apartment": "25",
+    "postal_code": "630964"
+  },
+  "purchase_datetime": "2026-02-13T12:26:17.891445"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00045",
+  "customer": {
+    "customer_id": "cus-1011",
+    "first_name": "Людмила",
+    "last_name": "Яковлева"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на ш. Кирпичное",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тольятти",
+      "street": "ш. Кирпичное",
+      "house": "40",
+      "postal_code": "427676",
+      "coordinates": {
+        "latitude": 53.51688,
+        "longitude": 49.42454
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1039",
+      "name": "Мандарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 130.0,
+      "total_price": 260.0,
+      "kbju": {
+        "calories": 92.5,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "Кавказские фрукты",
+        "country": "Россия",
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "2644966910"
+      }
+    },
+    {
+      "product_id": "prd-1048",
+      "name": "Огурцы маринованные",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 52.5,
+        "protein": 1.6,
+        "fat": 0.7,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Консервный завод»",
+        "country": "Россия",
+        "website": "https://консервныйзавод.ru",
+        "inn": "1093090771"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Хлеб Дарницкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 48.0,
+      "kbju": {
+        "calories": 221.7,
+        "protein": 7.0,
+        "fat": 4.9,
+        "carbohydrates": 45.9
+      },
+      "manufacturer": {
+        "name": "АО «Хлебозавод №1»",
+        "country": "Россия",
+        "website": "https://хлебозавод№1.ru",
+        "inn": "3713027229"
+      }
+    }
+  ],
+  "total_amount": 488.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тула",
+    "street": "ул. 60 лет СССР",
+    "house": "84",
+    "apartment": "93",
+    "postal_code": "392233"
+  },
+  "purchase_datetime": "2026-01-01T12:26:17.873975"
+}

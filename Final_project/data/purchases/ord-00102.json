@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00102",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Остап",
+    "last_name": "Шарапов"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на ул. Кубанская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Киров",
+      "street": "ул. Кубанская",
+      "house": "11",
+      "postal_code": "151438",
+      "coordinates": {
+        "latitude": 58.5954,
+        "longitude": 49.66755
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1012",
+      "name": "Яйцо перепелиное",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "уп",
+      "price_per_unit": 75.0,
+      "total_price": 75.0,
+      "kbju": {
+        "calories": 170.3,
+        "protein": 28.4,
+        "fat": 6.3,
+        "carbohydrates": 8.0
+      },
+      "manufacturer": {
+        "name": "ИП «Перепел»",
+        "country": "Россия",
+        "website": "https://перепел.ru",
+        "inn": "7114722297"
+      }
+    }
+  ],
+  "total_amount": 75.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "пер. Московский",
+    "house": "55",
+    "apartment": "80",
+    "postal_code": "097190"
+  },
+  "purchase_datetime": "2025-12-16T12:26:17.914026"
+}

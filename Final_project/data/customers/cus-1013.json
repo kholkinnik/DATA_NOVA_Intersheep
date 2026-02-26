@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1013",
+  "first_name": "Богдан",
+  "last_name": "Щукин",
+  "email": "jaropolk68@example.net",
+  "phone": "88113639593",
+  "birth_date": "1957-12-28",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.808162",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-2B630B6FA7",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "бул. Тополиный",
+    "house": "9/5",
+    "postal_code": "832619",
+    "coordinates": {
+      "latitude": 43.133525,
+      "longitude": 131.912086
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "пр. Минский",
+    "house": "5/5",
+    "apartment": "26",
+    "postal_code": "862455"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1020",
+  "first_name": "Исидор",
+  "last_name": "Филатов",
+  "email": "chernovapraskovja@example.org",
+  "phone": "+7 (665) 643-73-66",
+  "birth_date": "2005-06-21",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.816768",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-6B7D707C01",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Самара",
+    "street": "ш. Шолохова",
+    "house": "762",
+    "postal_code": "550648",
+    "coordinates": {
+      "latitude": 53.243789,
+      "longitude": 50.212846
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Самара",
+    "street": "бул. Уральский",
+    "house": "967",
+    "apartment": "34",
+    "postal_code": "405265"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

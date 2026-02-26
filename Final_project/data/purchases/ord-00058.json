@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00058",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Милован",
+    "last_name": "Кабанов"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на бул. Дальневосточный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Хабаровск",
+      "street": "бул. Дальневосточный",
+      "house": "475",
+      "postal_code": "428060",
+      "coordinates": {
+        "latitude": 48.472644,
+        "longitude": 135.07392
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1024",
+      "name": "Масло топлёное",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 196.0,
+        "protein": 7.6,
+        "fat": 15.0,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "ООО «Маслозавод»",
+        "country": "Россия",
+        "website": "https://маслозавод.ru",
+        "inn": "7035526724"
+      }
+    }
+  ],
+  "total_amount": 450.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "пер. Шмидта",
+    "house": "9/6",
+    "apartment": "44",
+    "postal_code": "821745"
+  },
+  "purchase_datetime": "2026-02-18T12:26:17.883917"
+}

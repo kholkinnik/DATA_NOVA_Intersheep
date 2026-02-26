@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00087",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Евпраксия",
+    "last_name": "Капустина"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на алл. Павлика Морозова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Омск",
+      "street": "алл. Павлика Морозова",
+      "house": "3/7",
+      "postal_code": "879014",
+      "coordinates": {
+        "latitude": 54.989357,
+        "longitude": 73.360557
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1029",
+      "name": "Варенец",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 97.2,
+        "protein": 4.2,
+        "fat": 5.6,
+        "carbohydrates": 7.7
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "5406598357"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Сыворотка молочная",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 160.0,
+      "kbju": {
+        "calories": 83.5,
+        "protein": 8.4,
+        "fat": 8.2,
+        "carbohydrates": 4.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "7566742432"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Сельдь слабосолёная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 520.0,
+      "kbju": {
+        "calories": 244.7,
+        "protein": 23.1,
+        "fat": 9.3,
+        "carbohydrates": 5.5
+      },
+      "manufacturer": {
+        "name": "ООО «Рыбный край»",
+        "country": "Россия",
+        "website": "https://рыбныйкрай.ru",
+        "inn": "0250771238"
+      }
+    }
+  ],
+  "total_amount": 830.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "бул. Партизанский",
+    "house": "8",
+    "apartment": "35",
+    "postal_code": "163667"
+  },
+  "purchase_datetime": "2026-02-22T12:26:17.906456"
+}

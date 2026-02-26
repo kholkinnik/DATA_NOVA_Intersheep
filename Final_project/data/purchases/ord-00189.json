@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00189",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Валентина",
+    "last_name": "Галкина"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на бул. Балтийский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Магнитогорск",
+      "street": "бул. Балтийский",
+      "house": "3/1",
+      "postal_code": "874533",
+      "coordinates": {
+        "latitude": 53.431437,
+        "longitude": 58.986291
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "name": "Лаваш армянский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 110.0,
+      "kbju": {
+        "calories": 322.8,
+        "protein": 8.2,
+        "fat": 5.3,
+        "carbohydrates": 40.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "4660721133"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Яйцо перепелиное",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "уп",
+      "price_per_unit": 75.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 170.3,
+        "protein": 28.4,
+        "fat": 6.3,
+        "carbohydrates": 8.0
+      },
+      "manufacturer": {
+        "name": "ИП «Перепел»",
+        "country": "Россия",
+        "website": "https://перепел.ru",
+        "inn": "7114722297"
+      }
+    },
+    {
+      "product_id": "prd-1038",
+      "name": "Гранат",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 56.6,
+        "protein": 1.6,
+        "fat": 0.6,
+        "carbohydrates": 18.1
+      },
+      "manufacturer": {
+        "name": "Азербайджанские фрукты",
+        "country": "Россия",
+        "website": "https://азербайджанскиефрукты.ru",
+        "inn": "7841587425"
+      }
+    }
+  ],
+  "total_amount": 710.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Кемерово",
+    "street": "пер. 60 лет Октября",
+    "house": "6",
+    "apartment": "66",
+    "postal_code": "254196"
+  },
+  "purchase_datetime": "2026-02-10T12:26:17.972567"
+}

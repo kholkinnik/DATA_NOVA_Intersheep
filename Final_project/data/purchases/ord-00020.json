@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00020",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Любовь",
+    "last_name": "Шашкова"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на алл. Маркса",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Калининград",
+      "street": "алл. Маркса",
+      "house": "17",
+      "postal_code": "453384",
+      "coordinates": {
+        "latitude": 54.705358,
+        "longitude": 20.503049
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1023",
+      "name": "Сыр Российский",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 200.0,
+      "total_price": 400.0,
+      "kbju": {
+        "calories": 92.0,
+        "protein": 8.4,
+        "fat": 11.0,
+        "carbohydrates": 11.9
+      },
+      "manufacturer": {
+        "name": "Сыробогатов",
+        "country": "Россия",
+        "website": "https://сыробогатов.ru",
+        "inn": "6401001435"
+      }
+    }
+  ],
+  "total_amount": 400.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Астрахань",
+    "street": "бул. Речной",
+    "house": "172",
+    "apartment": "24",
+    "postal_code": "461290"
+  },
+  "purchase_datetime": "2026-01-16T12:26:17.856397"
+}

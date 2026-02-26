@@ -1,0 +1,24 @@
+{
+  "id": "prd-1038",
+  "name": "Гранат",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Свежий гранат, 1 шт",
+  "kbju": {
+    "calories": 56.6,
+    "protein": 1.6,
+    "fat": 0.6,
+    "carbohydrates": 18.1
+  },
+  "price": 60.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 12,
+  "is_organic": true,
+  "barcode": "2489043735939",
+  "manufacturer": {
+    "name": "Азербайджанские фрукты",
+    "country": "Россия",
+    "website": "https://азербайджанскиефрукты.ru",
+    "inn": "7841587425"
+  }
+}

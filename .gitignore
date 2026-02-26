@@ -3,3 +3,22 @@ venv/
 ./STREAMING/ALARM/.env
 ./STREAMING/STREAMING/hw_stream_from_PGR_to_CH/.env
 ./S3/.env
+
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+
+
+
+/Final_project/containers/jars/
+ 
+
+ # Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00161",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Галактион",
+    "last_name": "Меркушев"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на пр. Горняцкий",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Барнаул",
+      "street": "пр. Горняцкий",
+      "house": "6/4",
+      "postal_code": "614541",
+      "coordinates": {
+        "latitude": 53.355167,
+        "longitude": 83.774523
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1021",
+      "name": "Сливки 10%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 65.0,
+      "total_price": 325.0,
+      "kbju": {
+        "calories": 129.8,
+        "protein": 3.4,
+        "fat": 2.7,
+        "carbohydrates": 5.2
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "0343918089"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Облепиха",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
+      "kbju": {
+        "calories": 65.2,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 13.9
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "3798021529"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Мандарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 130.0,
+      "total_price": 260.0,
+      "kbju": {
+        "calories": 92.5,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "Кавказские фрукты",
+        "country": "Россия",
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "2644966910"
+      }
+    }
+  ],
+  "total_amount": 915.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "пр. Красный",
+    "house": "498",
+    "apartment": "85",
+    "postal_code": "754359"
+  },
+  "purchase_datetime": "2026-02-19T12:26:17.956520"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00022",
+  "customer": {
+    "customer_id": "cus-1000",
+    "first_name": "Елизавета",
+    "last_name": "Гришина"
+  },
+  "store": {
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на ш. Кавказское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Магнитогорск",
+      "street": "ш. Кавказское",
+      "house": "362",
+      "postal_code": "931420",
+      "coordinates": {
+        "latitude": 53.429453,
+        "longitude": 58.981475
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1005",
+      "name": "Мука пшеничная в/с",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 340.0,
+      "kbju": {
+        "calories": 300.9,
+        "protein": 9.0,
+        "fat": 3.6,
+        "carbohydrates": 41.4
+      },
+      "manufacturer": {
+        "name": "ООО «Мельница»",
+        "country": "Россия",
+        "website": "https://мельница.ru",
+        "inn": "2040079171"
+      }
+    },
+    {
+      "product_id": "prd-1030",
+      "name": "Чернослив",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 83.8,
+        "protein": 2.0,
+        "fat": 0.6,
+        "carbohydrates": 9.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "2088449068"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Груши Конференция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 56.9,
+        "protein": 1.7,
+        "fat": 0.2,
+        "carbohydrates": 12.9
+      },
+      "manufacturer": {
+        "name": "ИП Фруктовый сад",
+        "country": "Россия",
+        "website": "https://фруктовыйсад.ru",
+        "inn": "9511559493"
+      }
+    }
+  ],
+  "total_amount": 990.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "пер. Союзный",
+    "house": "7/2",
+    "apartment": "32",
+    "postal_code": "006733"
+  },
+  "purchase_datetime": "2025-11-28T12:26:17.858404"
+}

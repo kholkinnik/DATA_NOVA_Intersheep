@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00038",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Фирс",
+    "last_name": "Соловьев"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на алл. Павлика Морозова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Омск",
+      "street": "алл. Павлика Морозова",
+      "house": "3/7",
+      "postal_code": "879014",
+      "coordinates": {
+        "latitude": 54.989357,
+        "longitude": 73.360557
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 400.0,
+      "kbju": {
+        "calories": 59.3,
+        "protein": 2.1,
+        "fat": 0.2,
+        "carbohydrates": 8.3
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "7637037210"
+      }
+    }
+  ],
+  "total_amount": 400.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "бул. Целинный",
+    "house": "61",
+    "apartment": "85",
+    "postal_code": "566100"
+  },
+  "purchase_datetime": "2025-11-29T12:26:17.867160"
+}

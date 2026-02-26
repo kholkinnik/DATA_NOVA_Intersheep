@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00042",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Елена",
+    "last_name": "Дементьева"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на пер. Ушакова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "пер. Ушакова",
+      "house": "7/8",
+      "postal_code": "578069",
+      "coordinates": {
+        "latitude": 51.54155,
+        "longitude": 46.040976
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Яйцо куриное С1",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "уп",
+      "price_per_unit": 85.0,
+      "total_price": 340.0,
+      "kbju": {
+        "calories": 136.2,
+        "protein": 25.5,
+        "fat": 23.4,
+        "carbohydrates": 9.4
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Роскар»",
+        "country": "Россия",
+        "website": "https://птицефабрикароскар.ru",
+        "inn": "2845693261"
+      }
+    }
+  ],
+  "total_amount": 340.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Архангельск",
+    "street": "ш. Белорусское",
+    "house": "2",
+    "apartment": "56",
+    "postal_code": "626291"
+  },
+  "purchase_datetime": "2025-12-09T12:26:17.873975"
+}

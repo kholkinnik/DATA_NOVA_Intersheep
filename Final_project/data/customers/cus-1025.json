@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1025",
+  "first_name": "Остап",
+  "last_name": "Шарапов",
+  "email": "tamarabragina@example.org",
+  "phone": "81130663982",
+  "birth_date": "1989-07-20",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.823130",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-DD2B545856",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "бул. Балтийский",
+    "house": "3/1",
+    "postal_code": "874533",
+    "coordinates": {
+      "latitude": 53.431437,
+      "longitude": 58.986291
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "пер. Московский",
+    "house": "55",
+    "apartment": "80",
+    "postal_code": "097190"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

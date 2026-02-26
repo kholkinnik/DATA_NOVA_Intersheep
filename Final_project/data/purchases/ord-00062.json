@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00062",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Алевтина",
+    "last_name": "Ковалева"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на ул. Степная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Пенза",
+      "street": "ул. Степная",
+      "house": "2",
+      "postal_code": "319095",
+      "coordinates": {
+        "latitude": 53.196398,
+        "longitude": 44.964529
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 270.0,
+      "kbju": {
+        "calories": 215.5,
+        "protein": 11.1,
+        "fat": 2.9,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "5634433830"
+      }
+    }
+  ],
+  "total_amount": 270.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Волгоград",
+    "street": "ул. Российская",
+    "house": "7/9",
+    "apartment": "68",
+    "postal_code": "995514"
+  },
+  "purchase_datetime": "2026-02-16T12:26:17.888829"
+}

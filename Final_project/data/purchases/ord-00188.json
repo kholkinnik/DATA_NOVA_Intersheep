@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00188",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Зиновий",
+    "last_name": "Одинцов"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на ул. Снежная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ставрополь",
+      "street": "ул. Снежная",
+      "house": "18",
+      "postal_code": "598361",
+      "coordinates": {
+        "latitude": 45.050451,
+        "longitude": 41.968825
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "name": "Грудка куриная копчёная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 210.0,
+      "total_price": 420.0,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 22.4,
+        "fat": 22.8,
+        "carbohydrates": 6.5
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Окская»",
+        "country": "Россия",
+        "website": "https://птицефабриккская.ru",
+        "inn": "2380135991"
+      }
+    },
+    {
+      "product_id": "prd-1044",
+      "name": "Грибы шампиньоны",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 36.2,
+        "protein": 2.9,
+        "fat": 0.3,
+        "carbohydrates": 8.3
+      },
+      "manufacturer": {
+        "name": "ООО «Грибная ферма»",
+        "country": "Россия",
+        "website": "https://грибнаяферма.ru",
+        "inn": "7489031829"
+      }
+    }
+  ],
+  "total_amount": 510.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "наб. Социалистическая",
+    "house": "8/4",
+    "apartment": "32",
+    "postal_code": "095704"
+  },
+  "purchase_datetime": "2026-02-04T12:26:17.972567"
+}

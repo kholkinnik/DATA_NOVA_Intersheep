@@ -1,0 +1,142 @@
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.3.3
+    hostname: zookeeper
+    container_name: zookeeper
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+
+  kafka:
+    image: confluentinc/cp-kafka:7.3.3
+    hostname: kafka
+    container_name: kafka
+    ports:
+      - "9092:9092"
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,EXTERNAL:PLAINTEXT
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,EXTERNAL://localhost:9092
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:29092,EXTERNAL://0.0.0.0:9092
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+
+  clickhouse:
+    image: clickhouse/clickhouse-server:25.3
+    container_name: clickhouse
+    restart: always
+    ports:
+      - "8123:8123"
+      - "9000:9000"
+    ulimits:
+      nofile:
+        soft: 262144
+        hard: 262144
+    environment:
+      CLICKHOUSE_USER: default
+      CLICKHOUSE_PASSWORD: password
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:8123/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  mongo:
+    image: mongo:6.0
+    container_name: mongo_db
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+  
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    restart: unless-stopped
+    ports:
+      - "3000:3000" # Порт для веб-интерфейса Grafana
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin # Логин администратора Grafana
+      - GF_SECURITY_ADMIN_PASSWORD=admin # Пароль администратора Grafana
+      - GF_INSTALL_PLUGINS=grafana-clickhouse-datasource
+    volumes:
+      - ./containers/grafana_data:/var/lib/grafana
+    depends_on:
+      - clickhouse
+
+  jupyter:
+    image: quay.io/jupyter/pyspark-notebook:spark-3.5.0  # ✅ PySpark 3.5.x
+    container_name: jupyter-lab
+    ports:
+      - "8888:8888" # Порт для веб-интерфейса
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=
+      - JUPYTER_PASSWORD=
+      - JUPYTER_ALLOW_ORIGIN=*
+      - JUPYTER_ALLOW_REMOTE_ACCESS=true
+      - JUPYTER_NO_PASSWORD=yes
+      - SPARK_DRIVER_EXTRA_CLASSPATH=/opt/spark/jars/*
+      - SPARK_EXECUTOR_EXTRA_CLASSPATH=/opt/spark/jars/*
+    command: start.sh jupyter lab --LabApp.token='' --LabApp.password=''
+    volumes:
+      - ./containers/notebooks:/home/jovyan/work
+      - ./containers/spark:/opt/spark/logs
+      - ./containers/jars:/opt/spark/jars      # Сюда джарники для БД подсунь
+    restart: unless-stopped
+   # ✅ networks в КОНЦЕ сервиса
+    networks:
+      - default
+
+  minio:
+    image: quay.io/minio/minio:latest
+    container_name: minio-demo
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: admin
+      MINIO_ROOT_PASSWORD: StrongPassword123!
+    ports:
+      - "9002:9000"   # S3 API порт (т.к. 9000 занят Clickhouse)
+      - "9001:9001"   # Веб-консоль
+    volumes:
+      - ./containers/minio-data:/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 30s
+      timeout: 20s
+      retries: 3
+
+  createbuckets:
+    image: minio/mc
+    depends_on:
+      minio:
+        condition: service_healthy
+    entrypoint: >
+      /bin/sh -c "
+      /usr/bin/mc alias set myminio http://minio:9000 admin StrongPassword123!;
+      /usr/bin/mc mb myminio/report-clickhouse;
+      /usr/bin/mc anonymous set public myminio/report-clickhouse;
+      exit 0;
+      "
+     # ✅ networks 
+    networks:
+      - default
+    
+
+volumes:
+  clickhouse_data:
+  mongo_data:
+  grafana_data:

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1004",
+  "first_name": "Евпраксия",
+  "last_name": "Капустина",
+  "email": "irinavasileva@example.net",
+  "phone": "+76973208610",
+  "birth_date": "1988-03-20",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.803695",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-39B877F64B",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "ш. Пролетарское",
+    "house": "66",
+    "postal_code": "792854",
+    "coordinates": {
+      "latitude": 54.717062,
+      "longitude": 20.50728
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "бул. Партизанский",
+    "house": "8",
+    "apartment": "35",
+    "postal_code": "163667"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

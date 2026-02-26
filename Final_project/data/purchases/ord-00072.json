@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00072",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Александра",
+    "last_name": "Устинова"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на наб. Жуковского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Нижний Тагил",
+      "street": "наб. Жуковского",
+      "house": "5/9",
+      "postal_code": "316274",
+      "coordinates": {
+        "latitude": 57.900251,
+        "longitude": 59.984054
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1043",
+      "name": "Имбирь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 17.4,
+        "protein": 1.5,
+        "fat": 0.3,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ИП «Пряности»",
+        "country": "Россия",
+        "website": "https://пряности.ru",
+        "inn": "8129122462"
+      }
+    }
+  ],
+  "total_amount": 120.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "бул. Коммунистический",
+    "house": "7/4",
+    "apartment": "68",
+    "postal_code": "112570"
+  },
+  "purchase_datetime": "2025-12-28T12:26:17.897206"
+}

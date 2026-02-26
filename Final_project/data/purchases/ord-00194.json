@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00194",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Елена",
+    "last_name": "Дементьева"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на ул. Лесная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Томск",
+      "street": "ул. Лесная",
+      "house": "4",
+      "postal_code": "233235",
+      "coordinates": {
+        "latitude": 56.493242,
+        "longitude": 84.972374
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1036",
+      "name": "Изюм",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 270.0,
+      "kbju": {
+        "calories": 99.5,
+        "protein": 1.4,
+        "fat": 0.2,
+        "carbohydrates": 19.3
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "2028787565"
+      }
+    }
+  ],
+  "total_amount": 270.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Архангельск",
+    "street": "ш. Белорусское",
+    "house": "2",
+    "apartment": "56",
+    "postal_code": "626291"
+  },
+  "purchase_datetime": "2025-11-30T12:26:17.979744"
+}

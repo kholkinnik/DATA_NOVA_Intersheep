@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00001",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Клавдия",
+    "last_name": "Соболева"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на алл. Маркса",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Калининград",
+      "street": "алл. Маркса",
+      "house": "17",
+      "postal_code": "453384",
+      "coordinates": {
+        "latitude": 54.705358,
+        "longitude": 20.503049
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 270.0,
+      "kbju": {
+        "calories": 215.5,
+        "protein": 11.1,
+        "fat": 2.9,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "5634433830"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Закваска для йогурта",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 131.7,
+        "protein": 3.9,
+        "fat": 3.6,
+        "carbohydrates": 9.9
+      },
+      "manufacturer": {
+        "name": "ООО «Молочная культура»",
+        "country": "Россия",
+        "website": "https://молочнаякультура.ru",
+        "inn": "1321876893"
+      }
+    }
+  ],
+  "total_amount": 360.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Нижний Тагил",
+    "street": "бул. Заовражный",
+    "house": "18",
+    "apartment": "65",
+    "postal_code": "460293"
+  },
+  "purchase_datetime": "2026-02-07T12:26:17.839258"
+}

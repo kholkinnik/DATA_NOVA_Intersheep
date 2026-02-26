@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1011",
+  "first_name": "Людмила",
+  "last_name": "Яковлева",
+  "email": "galina1992@example.net",
+  "phone": "8 944 754 3480",
+  "birth_date": "1993-04-10",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.808162",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-2367E6B37C",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Тула",
+    "street": "алл. Главная",
+    "house": "846",
+    "postal_code": "772603",
+    "coordinates": {
+      "latitude": 54.204343,
+      "longitude": 37.60926
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тула",
+    "street": "ул. 60 лет СССР",
+    "house": "84",
+    "apartment": "93",
+    "postal_code": "392233"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1005",
+  "first_name": "Фока",
+  "last_name": "Муравьев",
+  "email": "ppahomov@example.com",
+  "phone": "8 (945) 690-7004",
+  "birth_date": "1980-02-26",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.803695",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-1AF12C58C7",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "ш. Советской Армии",
+    "house": "21",
+    "postal_code": "252459",
+    "coordinates": {
+      "latitude": 56.13455,
+      "longitude": 40.401732
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "ул. Черемушки",
+    "house": "8",
+    "apartment": "64",
+    "postal_code": "497248"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

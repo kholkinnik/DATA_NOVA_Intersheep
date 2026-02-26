@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00120",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Татьяна",
+    "last_name": "Киселева"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Островского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Самара",
+      "street": "пер. Островского",
+      "house": "4/5",
+      "postal_code": "597753",
+      "coordinates": {
+        "latitude": 53.241655,
+        "longitude": 50.219265
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 215.5,
+        "protein": 11.1,
+        "fat": 2.9,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "5634433830"
+      }
+    }
+  ],
+  "total_amount": 90.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ул. Щербакова",
+    "house": "3/8",
+    "apartment": "58",
+    "postal_code": "212133"
+  },
+  "purchase_datetime": "2025-12-19T12:26:17.922525"
+}

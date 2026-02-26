@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00181",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Василиса",
+    "last_name": "Беляева"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на бул. Щербакова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Сочи",
+      "street": "бул. Щербакова",
+      "house": "93",
+      "postal_code": "436788",
+      "coordinates": {
+        "latitude": 43.602828,
+        "longitude": 39.730286
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "name": "Лаваш армянский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 55.0,
+      "kbju": {
+        "calories": 322.8,
+        "protein": 8.2,
+        "fat": 5.3,
+        "carbohydrates": 40.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "4660721133"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Яйцо куриное С1",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "уп",
+      "price_per_unit": 85.0,
+      "total_price": 425.0,
+      "kbju": {
+        "calories": 136.2,
+        "protein": 25.5,
+        "fat": 23.4,
+        "carbohydrates": 9.4
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Роскар»",
+        "country": "Россия",
+        "website": "https://птицефабрикароскар.ru",
+        "inn": "2845693261"
+      }
+    }
+  ],
+  "total_amount": 480.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "пр. Базарный",
+    "house": "4/4",
+    "apartment": "26",
+    "postal_code": "542824"
+  },
+  "purchase_datetime": "2026-01-07T12:26:17.968554"
+}

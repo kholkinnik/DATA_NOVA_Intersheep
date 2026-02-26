@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00091",
+  "customer": {
+    "customer_id": "cus-1023",
+    "first_name": "Герасим",
+    "last_name": "Медведев"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на наб. Советской Армии",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Киров",
+      "street": "наб. Советской Армии",
+      "house": "9/8",
+      "postal_code": "637253",
+      "coordinates": {
+        "latitude": 58.606039,
+        "longitude": 49.655387
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1042",
+      "name": "Огурцы длинноплодные",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 130.0,
+      "total_price": 650.0,
+      "kbju": {
+        "calories": 40.0,
+        "protein": 1.8,
+        "fat": 0.5,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Агрокультура",
+        "country": "Россия",
+        "website": "https://агрокультура.ru",
+        "inn": "1973888347"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Хлеб Дарницкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 96.0,
+      "kbju": {
+        "calories": 221.7,
+        "protein": 7.0,
+        "fat": 4.9,
+        "carbohydrates": 45.9
+      },
+      "manufacturer": {
+        "name": "АО «Хлебозавод №1»",
+        "country": "Россия",
+        "website": "https://хлебозавод№1.ru",
+        "inn": "3713027229"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Облепиха",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 440.0,
+      "kbju": {
+        "calories": 65.2,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 13.9
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "3798021529"
+      }
+    }
+  ],
+  "total_amount": 1186.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ставрополь",
+    "street": "ш. Новое",
+    "house": "4",
+    "apartment": "41",
+    "postal_code": "333406"
+  },
+  "purchase_datetime": "2026-02-01T12:26:17.907156"
+}

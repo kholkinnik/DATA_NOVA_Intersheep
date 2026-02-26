@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00140",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Марфа",
+    "last_name": "Лаврентьева"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на ш. Пролетарское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Калининград",
+      "street": "ш. Пролетарское",
+      "house": "66",
+      "postal_code": "792854",
+      "coordinates": {
+        "latitude": 54.717062,
+        "longitude": 20.50728
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1039",
+      "name": "Мандарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
+      "kbju": {
+        "calories": 92.5,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "Кавказские фрукты",
+        "country": "Россия",
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "2644966910"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Лаваш армянский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 165.0,
+      "kbju": {
+        "calories": 322.8,
+        "protein": 8.2,
+        "fat": 5.3,
+        "carbohydrates": 40.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "4660721133"
+      }
+    }
+  ],
+  "total_amount": 295.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "ш. Вавилова",
+    "house": "99",
+    "apartment": "98",
+    "postal_code": "910141"
+  },
+  "purchase_datetime": "2025-12-11T12:26:17.939385"
+}

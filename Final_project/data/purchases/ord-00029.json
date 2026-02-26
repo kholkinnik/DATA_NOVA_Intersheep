@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00029",
+  "customer": {
+    "customer_id": "cus-1012",
+    "first_name": "Кира",
+    "last_name": "Гуляева"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на ул. Снежная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ставрополь",
+      "street": "ул. Снежная",
+      "house": "18",
+      "postal_code": "598361",
+      "coordinates": {
+        "latitude": 45.050451,
+        "longitude": 41.968825
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Сушки простые",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 160.0,
+      "kbju": {
+        "calories": 303.5,
+        "protein": 9.8,
+        "fat": 5.9,
+        "carbohydrates": 59.0
+      },
+      "manufacturer": {
+        "name": "ООО «Крендель»",
+        "country": "Россия",
+        "website": "https://крендель.ru",
+        "inn": "2278186010"
+      }
+    },
+    {
+      "product_id": "prd-1024",
+      "name": "Масло топлёное",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 150.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 196.0,
+        "protein": 7.6,
+        "fat": 15.0,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "ООО «Маслозавод»",
+        "country": "Россия",
+        "website": "https://маслозавод.ru",
+        "inn": "7035526724"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Стейк из лосося",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 450.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 255.4,
+        "protein": 23.3,
+        "fat": 13.4,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "6793176216"
+      }
+    }
+  ],
+  "total_amount": 1210.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "пер. Нагорный",
+    "house": "676",
+    "apartment": "44",
+    "postal_code": "457283"
+  },
+  "purchase_datetime": "2026-01-14T12:26:17.867160"
+}
