@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00147",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Леонтий",
+    "last_name": "Попов"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на пер. Ушакова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "пер. Ушакова",
+      "house": "7/8",
+      "postal_code": "578069",
+      "coordinates": {
+        "latitude": 51.54155,
+        "longitude": 46.040976
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1031",
+      "name": "Лайм",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 25.0,
+      "total_price": 25.0,
+      "kbju": {
+        "calories": 95.8,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 17.9
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "4286200729"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Закваска для йогурта",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 30.0,
+      "kbju": {
+        "calories": 131.7,
+        "protein": 3.9,
+        "fat": 3.6,
+        "carbohydrates": 9.9
+      },
+      "manufacturer": {
+        "name": "ООО «Молочная культура»",
+        "country": "Россия",
+        "website": "https://молочнаякультура.ru",
+        "inn": "1321876893"
+      }
+    }
+  ],
+  "total_amount": 55.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "бул. Пушкинский",
+    "house": "3",
+    "apartment": "100",
+    "postal_code": "540988"
+  },
+  "purchase_datetime": "2026-01-27T12:26:17.947033"
+}

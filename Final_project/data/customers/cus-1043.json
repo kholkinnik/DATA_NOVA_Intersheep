@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1043",
+  "first_name": "Леонтий",
+  "last_name": "Попов",
+  "email": "orlovaljubov@example.org",
+  "phone": "+78300166842",
+  "birth_date": "1965-11-05",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.839258",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-C7441E3C82",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "наб. Кольцевая",
+    "house": "37",
+    "postal_code": "571953",
+    "coordinates": {
+      "latitude": 58.603966,
+      "longitude": 49.655592
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "бул. Пушкинский",
+    "house": "3",
+    "apartment": "100",
+    "postal_code": "540988"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

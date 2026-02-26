@@ -1,0 +1,24 @@
+{
+  "id": "prd-1046",
+  "name": "Помидоры черри",
+  "group": "🥦 Овощи и зелень",
+  "description": "Красные помидоры черри на ветке, 250 г",
+  "kbju": {
+    "calories": 30.2,
+    "protein": 0.9,
+    "fat": 0.7,
+    "carbohydrates": 2.8
+  },
+  "price": 85.0,
+  "unit": "уп",
+  "origin_country": "Россия",
+  "expiry_days": 20,
+  "is_organic": true,
+  "barcode": "7811402665857",
+  "manufacturer": {
+    "name": "Белая дача",
+    "country": "Россия",
+    "website": "https://белаядача.ru",
+    "inn": "5629675214"
+  }
+}

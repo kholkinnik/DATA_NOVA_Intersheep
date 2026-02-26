@@ -1,0 +1,24 @@
+{
+  "id": "prd-1032",
+  "name": "Киви",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Зелёный киви, 1 кг",
+  "kbju": {
+    "calories": 59.1,
+    "protein": 0.8,
+    "fat": 0.4,
+    "carbohydrates": 15.7
+  },
+  "price": 200.0,
+  "unit": "кг",
+  "origin_country": "Россия",
+  "expiry_days": 11,
+  "is_organic": false,
+  "barcode": "2863024459791",
+  "manufacturer": {
+    "name": "ИП Фруктовый сад",
+    "country": "Россия",
+    "website": "https://фруктовыйсад.ru",
+    "inn": "2384512137"
+  }
+}

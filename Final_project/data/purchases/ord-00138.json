@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00138",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Флорентин",
+    "last_name": "Кулаков"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на ш. Шолохова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Самара",
+      "street": "ш. Шолохова",
+      "house": "762",
+      "postal_code": "550648",
+      "coordinates": {
+        "latitude": 53.243789,
+        "longitude": 50.212846
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "name": "Красная икра",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 550.0,
+      "total_price": 2750.0,
+      "kbju": {
+        "calories": 299.8,
+        "protein": 20.0,
+        "fat": 12.4,
+        "carbohydrates": 3.9
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "0296498445"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Сельдь слабосолёная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 390.0,
+      "kbju": {
+        "calories": 244.7,
+        "protein": 23.1,
+        "fat": 9.3,
+        "carbohydrates": 5.5
+      },
+      "manufacturer": {
+        "name": "ООО «Рыбный край»",
+        "country": "Россия",
+        "website": "https://рыбныйкрай.ru",
+        "inn": "0250771238"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Хлебцы ржаные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 322.5,
+        "protein": 10.8,
+        "fat": 1.5,
+        "carbohydrates": 43.3
+      },
+      "manufacturer": {
+        "name": "ООО «Здоровое питание»",
+        "country": "Россия",
+        "website": "https://здоровоепитание.ru",
+        "inn": "1215619007"
+      }
+    }
+  ],
+  "total_amount": 3240.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Пермь",
+    "street": "ш. Космическое",
+    "house": "9",
+    "apartment": "53",
+    "postal_code": "762381"
+  },
+  "purchase_datetime": "2026-01-05T12:26:17.939385"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1007",
+  "first_name": "Варвара",
+  "last_name": "Пономарева",
+  "email": "sidor_1980@example.net",
+  "phone": "8 (059) 585-0517",
+  "birth_date": "1978-12-28",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.806151",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-0597C44253",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "ш. Кутузова",
+    "house": "3",
+    "postal_code": "133473",
+    "coordinates": {
+      "latitude": 48.479624,
+      "longitude": 135.068644
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "бул. Ярославский",
+    "house": "7/1",
+    "apartment": "20",
+    "postal_code": "060701"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

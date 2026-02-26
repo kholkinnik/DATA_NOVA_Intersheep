@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1003",
+  "first_name": "Марина",
+  "last_name": "Потапова",
+  "email": "danila_09@example.org",
+  "phone": "+72151917630",
+  "birth_date": "2003-07-21",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.799067",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-DB38DBD992",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Тольятти",
+    "street": "ш. Кирпичное",
+    "house": "40",
+    "postal_code": "427676",
+    "coordinates": {
+      "latitude": 53.51688,
+      "longitude": 49.42454
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тольятти",
+    "street": "ул. Сосновая",
+    "house": "8",
+    "apartment": "27",
+    "postal_code": "910789"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

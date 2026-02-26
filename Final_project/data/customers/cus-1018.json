@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1018",
+  "first_name": "Вадим",
+  "last_name": "Галкин",
+  "email": "zhuravlevevstafi@example.com",
+  "phone": "86174318756",
+  "birth_date": "1983-05-13",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.814608",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-FFFF20C165",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "алл. Маркса",
+    "house": "17",
+    "postal_code": "453384",
+    "coordinates": {
+      "latitude": 54.705358,
+      "longitude": 20.503049
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "бул. Кузнечный",
+    "house": "6/1",
+    "apartment": "25",
+    "postal_code": "630964"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

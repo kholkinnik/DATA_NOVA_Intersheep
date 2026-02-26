@@ -1,0 +1,39 @@
+{
+  "store_id": "store-010",
+  "store_name": "Большая Пикча — Магазин на пр. Горняцкий",
+  "store_network": "Большая Пикча",
+  "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
+  "type": "offline",
+  "categories": [
+    "🥖 Зерновые и хлебобулочные изделия",
+    "🥩 Мясо, рыба, яйца и бобовые",
+    "🥛 Молочные продукты",
+    "🍏 Фрукты и ягоды",
+    "🥦 Овощи и зелень"
+  ],
+  "manager": {
+    "name": "Галактион Чеславович Галкин",
+    "phone": "+7 467 717 2269",
+    "email": "sila94@example.com"
+  },
+  "location": {
+    "country": "Россия",
+    "city": "Барнаул",
+    "street": "пр. Горняцкий",
+    "house": "6/4",
+    "postal_code": "614541",
+    "coordinates": {
+      "latitude": 53.355167,
+      "longitude": 83.774523
+    }
+  },
+  "opening_hours": {
+    "mon_fri": "09:00-21:00",
+    "sat": "10:00-20:00",
+    "sun": "10:00-18:00"
+  },
+  "accepts_online_orders": true,
+  "delivery_available": true,
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-02-26"
+}

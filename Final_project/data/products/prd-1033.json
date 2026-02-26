@@ -1,0 +1,24 @@
+{
+  "id": "prd-1033",
+  "name": "Облепиха",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Свежая облепиха, 250 г",
+  "kbju": {
+    "calories": 65.2,
+    "protein": 1.7,
+    "fat": 0.8,
+    "carbohydrates": 13.9
+  },
+  "price": 110.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 22,
+  "is_organic": true,
+  "barcode": "2606678883471",
+  "manufacturer": {
+    "name": "ИП Ягодная поляна",
+    "country": "Россия",
+    "website": "https://ягоднаяполяна.ru",
+    "inn": "3798021529"
+  }
+}

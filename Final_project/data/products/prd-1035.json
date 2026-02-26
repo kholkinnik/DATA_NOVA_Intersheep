@@ -1,0 +1,24 @@
+{
+  "id": "prd-1035",
+  "name": "Грейпфрут",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Красный грейпфрут, 1 шт",
+  "kbju": {
+    "calories": 90.1,
+    "protein": 1.2,
+    "fat": 0.1,
+    "carbohydrates": 12.8
+  },
+  "price": 50.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 10,
+  "is_organic": false,
+  "barcode": "5367652825791",
+  "manufacturer": {
+    "name": "ИП Цитрус",
+    "country": "Россия",
+    "website": "https://цитрус.ru",
+    "inn": "2352500799"
+  }
+}

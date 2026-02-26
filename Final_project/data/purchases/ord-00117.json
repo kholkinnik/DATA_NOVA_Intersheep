@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00117",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Василиса",
+    "last_name": "Шарова"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на ш. Пролетарское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Калининград",
+      "street": "ш. Пролетарское",
+      "house": "66",
+      "postal_code": "792854",
+      "coordinates": {
+        "latitude": 54.717062,
+        "longitude": 20.50728
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1047",
+      "name": "Укроп свежий",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 80.0,
+      "kbju": {
+        "calories": 34.7,
+        "protein": 2.8,
+        "fat": 0.8,
+        "carbohydrates": 3.8
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "0755465364"
+      }
+    }
+  ],
+  "total_amount": 80.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Пенза",
+    "street": "ш. Тургенева",
+    "house": "73",
+    "apartment": "74",
+    "postal_code": "127544"
+  },
+  "purchase_datetime": "2025-12-15T12:26:17.922525"
+}

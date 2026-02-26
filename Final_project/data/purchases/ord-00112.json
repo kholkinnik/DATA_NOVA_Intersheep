@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00112",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Исидор",
+    "last_name": "Филатов"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на ул. Степная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Пенза",
+      "street": "ул. Степная",
+      "house": "2",
+      "postal_code": "319095",
+      "coordinates": {
+        "latitude": 53.196398,
+        "longitude": 44.964529
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 59.3,
+        "protein": 2.1,
+        "fat": 0.2,
+        "carbohydrates": 8.3
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "7637037210"
+      }
+    },
+    {
+      "product_id": "prd-1034",
+      "name": "Нектарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 190.0,
+      "total_price": 950.0,
+      "kbju": {
+        "calories": 37.9,
+        "protein": 0.7,
+        "fat": 0.1,
+        "carbohydrates": 14.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "6082942444"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Мандарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
+      "kbju": {
+        "calories": 92.5,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "Кавказские фрукты",
+        "country": "Россия",
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "2644966910"
+      }
+    }
+  ],
+  "total_amount": 1180.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Самара",
+    "street": "бул. Уральский",
+    "house": "967",
+    "apartment": "34",
+    "postal_code": "405265"
+  },
+  "purchase_datetime": "2026-02-21T12:26:17.922525"
+}

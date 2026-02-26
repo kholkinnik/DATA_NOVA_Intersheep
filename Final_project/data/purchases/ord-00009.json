@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00009",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Марфа",
+    "last_name": "Лаврентьева"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на ул. Степная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Пенза",
+      "street": "ул. Степная",
+      "house": "2",
+      "postal_code": "319095",
+      "coordinates": {
+        "latitude": 53.196398,
+        "longitude": 44.964529
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "name": "Хлебцы ржаные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 322.5,
+        "protein": 10.8,
+        "fat": 1.5,
+        "carbohydrates": 43.3
+      },
+      "manufacturer": {
+        "name": "ООО «Здоровое питание»",
+        "country": "Россия",
+        "website": "https://здоровоепитание.ru",
+        "inn": "1215619007"
+      }
+    }
+  ],
+  "total_amount": 200.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "ш. Вавилова",
+    "house": "99",
+    "apartment": "98",
+    "postal_code": "910141"
+  },
+  "purchase_datetime": "2025-12-12T12:26:17.845622"
+}

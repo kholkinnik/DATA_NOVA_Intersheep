@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1033",
+  "first_name": "Петр",
+  "last_name": "Дмитриев",
+  "email": "vjacheslav86@example.net",
+  "phone": "+7 474 114 82 95",
+  "birth_date": "1982-11-02",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.829489",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-1B4C00BBE1",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Самара",
+    "street": "ш. Болотное",
+    "house": "3",
+    "postal_code": "826846",
+    "coordinates": {
+      "latitude": 53.241021,
+      "longitude": 50.215799
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Самара",
+    "street": "пр. Шолохова",
+    "house": "8/4",
+    "apartment": "100",
+    "postal_code": "265025"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "prd-1036",
+  "name": "Изюм",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Сушёный виноград, 300 г",
+  "kbju": {
+    "calories": 99.5,
+    "protein": 1.4,
+    "fat": 0.2,
+    "carbohydrates": 19.3
+  },
+  "price": 90.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 10,
+  "is_organic": false,
+  "barcode": "8636601740810",
+  "manufacturer": {
+    "name": "ООО «Сухофрукты»",
+    "country": "Россия",
+    "website": "https://сухофрукты.ru",
+    "inn": "2028787565"
+  }
+}

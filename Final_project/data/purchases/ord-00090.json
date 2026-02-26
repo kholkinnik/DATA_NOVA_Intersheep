@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00090",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Валентина",
+    "last_name": "Галкина"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на бул. Пригородный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владимир",
+      "street": "бул. Пригородный",
+      "house": "7",
+      "postal_code": "011349",
+      "coordinates": {
+        "latitude": 56.127627,
+        "longitude": 40.390096
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "name": "Хлебцы ржаные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 50.0,
+      "kbju": {
+        "calories": 322.5,
+        "protein": 10.8,
+        "fat": 1.5,
+        "carbohydrates": 43.3
+      },
+      "manufacturer": {
+        "name": "ООО «Здоровое питание»",
+        "country": "Россия",
+        "website": "https://здоровоепитание.ru",
+        "inn": "1215619007"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Красная икра",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 550.0,
+      "total_price": 2200.0,
+      "kbju": {
+        "calories": 299.8,
+        "protein": 20.0,
+        "fat": 12.4,
+        "carbohydrates": 3.9
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "0296498445"
+      }
+    },
+    {
+      "product_id": "prd-1031",
+      "name": "Лайм",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 25.0,
+      "total_price": 25.0,
+      "kbju": {
+        "calories": 95.8,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 17.9
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "4286200729"
+      }
+    }
+  ],
+  "total_amount": 2275.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Кемерово",
+    "street": "пер. 60 лет Октября",
+    "house": "6",
+    "apartment": "66",
+    "postal_code": "254196"
+  },
+  "purchase_datetime": "2026-02-14T12:26:17.907156"
+}

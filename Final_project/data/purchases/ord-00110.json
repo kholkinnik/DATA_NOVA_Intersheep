@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00110",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Нонна",
+    "last_name": "Лыткина"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на ш. Болотное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Самара",
+      "street": "ш. Болотное",
+      "house": "3",
+      "postal_code": "826846",
+      "coordinates": {
+        "latitude": 53.241021,
+        "longitude": 50.215799
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1026",
+      "name": "Сметана 20%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 320.0,
+      "kbju": {
+        "calories": 59.2,
+        "protein": 3.6,
+        "fat": 5.7,
+        "carbohydrates": 7.5
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "3157409391"
+      }
+    }
+  ],
+  "total_amount": 320.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Сочи",
+    "street": "наб. Тульская",
+    "house": "158",
+    "apartment": "26",
+    "postal_code": "887348"
+  },
+  "purchase_datetime": "2026-02-20T12:26:17.922525"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00186",
+  "customer": {
+    "customer_id": "cus-1012",
+    "first_name": "Кира",
+    "last_name": "Гуляева"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на ул. Лесная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Томск",
+      "street": "ул. Лесная",
+      "house": "4",
+      "postal_code": "233235",
+      "coordinates": {
+        "latitude": 56.493242,
+        "longitude": 84.972374
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 59.3,
+        "protein": 2.1,
+        "fat": 0.2,
+        "carbohydrates": 8.3
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "7637037210"
+      }
+    },
+    {
+      "product_id": "prd-1024",
+      "name": "Масло топлёное",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 196.0,
+        "protein": 7.6,
+        "fat": 15.0,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "ООО «Маслозавод»",
+        "country": "Россия",
+        "website": "https://маслозавод.ru",
+        "inn": "7035526724"
+      }
+    },
+    {
+      "product_id": "prd-1045",
+      "name": "Баклажаны",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 120.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 32.5,
+        "protein": 2.5,
+        "fat": 0.2,
+        "carbohydrates": 5.3
+      },
+      "manufacturer": {
+        "name": "Агрокультура",
+        "country": "Россия",
+        "website": "https://агрокультура.ru",
+        "inn": "8592319850"
+      }
+    }
+  ],
+  "total_amount": 1150.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "пер. Нагорный",
+    "house": "676",
+    "apartment": "44",
+    "postal_code": "457283"
+  },
+  "purchase_datetime": "2025-12-19T12:26:17.972567"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "prd-1005",
+  "name": "Мука пшеничная в/с",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "Мука для выпечки, 2 кг",
+  "kbju": {
+    "calories": 300.9,
+    "protein": 9.0,
+    "fat": 3.6,
+    "carbohydrates": 41.4
+  },
+  "price": 85.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 8,
+  "is_organic": false,
+  "barcode": "7251824282773",
+  "manufacturer": {
+    "name": "ООО «Мельница»",
+    "country": "Россия",
+    "website": "https://мельница.ru",
+    "inn": "2040079171"
+  }
+}

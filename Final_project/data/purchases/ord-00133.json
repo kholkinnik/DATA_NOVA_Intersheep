@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00133",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Зиновий",
+    "last_name": "Одинцов"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на бул. Дальневосточный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Хабаровск",
+      "street": "бул. Дальневосточный",
+      "house": "475",
+      "postal_code": "428060",
+      "coordinates": {
+        "latitude": 48.472644,
+        "longitude": 135.07392
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1047",
+      "name": "Укроп свежий",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 20.0,
+      "kbju": {
+        "calories": 34.7,
+        "protein": 2.8,
+        "fat": 0.8,
+        "carbohydrates": 3.8
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "0755465364"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Изюм",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 270.0,
+      "kbju": {
+        "calories": 99.5,
+        "protein": 1.4,
+        "fat": 0.2,
+        "carbohydrates": 19.3
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "2028787565"
+      }
+    },
+    {
+      "product_id": "prd-1045",
+      "name": "Баклажаны",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 120.0,
+      "total_price": 480.0,
+      "kbju": {
+        "calories": 32.5,
+        "protein": 2.5,
+        "fat": 0.2,
+        "carbohydrates": 5.3
+      },
+      "manufacturer": {
+        "name": "Агрокультура",
+        "country": "Россия",
+        "website": "https://агрокультура.ru",
+        "inn": "8592319850"
+      }
+    }
+  ],
+  "total_amount": 770.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "наб. Социалистическая",
+    "house": "8/4",
+    "apartment": "32",
+    "postal_code": "095704"
+  },
+  "purchase_datetime": "2026-02-13T12:26:17.933989"
+}

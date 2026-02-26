@@ -1,0 +1,6 @@
+faker
+pymongo
+python-dotenv
+kafka-python
+clickhouse-connect
+clickhouse-driver

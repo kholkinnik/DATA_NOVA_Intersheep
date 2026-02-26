@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1000",
+  "first_name": "Елизавета",
+  "last_name": "Гришина",
+  "email": "jmorozov@example.com",
+  "phone": "+7 (663) 744-3669",
+  "birth_date": "1970-07-29",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.799067",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-2A65485F84",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ул. Лесная",
+    "house": "4",
+    "postal_code": "233235",
+    "coordinates": {
+      "latitude": 56.493242,
+      "longitude": 84.972374
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "пер. Союзный",
+    "house": "7/2",
+    "apartment": "32",
+    "postal_code": "006733"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

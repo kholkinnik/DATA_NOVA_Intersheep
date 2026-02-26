@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00104",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Зиновий",
+    "last_name": "Одинцов"
+  },
+  "store": {
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на ш. Кавказское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Магнитогорск",
+      "street": "ш. Кавказское",
+      "house": "362",
+      "postal_code": "931420",
+      "coordinates": {
+        "latitude": 53.429453,
+        "longitude": 58.981475
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1005",
+      "name": "Мука пшеничная в/с",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 340.0,
+      "kbju": {
+        "calories": 300.9,
+        "protein": 9.0,
+        "fat": 3.6,
+        "carbohydrates": 41.4
+      },
+      "manufacturer": {
+        "name": "ООО «Мельница»",
+        "country": "Россия",
+        "website": "https://мельница.ru",
+        "inn": "2040079171"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Ветчина из индейки",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 170.0,
+      "total_price": 680.0,
+      "kbju": {
+        "calories": 245.7,
+        "protein": 28.5,
+        "fat": 21.3,
+        "carbohydrates": 5.3
+      },
+      "manufacturer": {
+        "name": "ООО «Индейка»",
+        "country": "Россия",
+        "website": "https://индейка.ru",
+        "inn": "8961121715"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Кускус",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 271.7,
+        "protein": 11.4,
+        "fat": 1.1,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "ООО «Мистраль»",
+        "country": "Россия",
+        "website": "https://мистраль.ru",
+        "inn": "4074032825"
+      }
+    }
+  ],
+  "total_amount": 1470.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "наб. Социалистическая",
+    "house": "8/4",
+    "apartment": "32",
+    "postal_code": "095704"
+  },
+  "purchase_datetime": "2026-02-23T12:26:17.918878"
+}

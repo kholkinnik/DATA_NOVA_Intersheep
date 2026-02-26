@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00134",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Татьяна",
+    "last_name": "Киселева"
+  },
+  "store": {
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на бул. Кооперативный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Кемерово",
+      "street": "бул. Кооперативный",
+      "house": "811",
+      "postal_code": "749659",
+      "coordinates": {
+        "latitude": 55.358843,
+        "longitude": 86.094316
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "name": "Хлеб Дарницкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 192.0,
+      "kbju": {
+        "calories": 221.7,
+        "protein": 7.0,
+        "fat": 4.9,
+        "carbohydrates": 45.9
+      },
+      "manufacturer": {
+        "name": "АО «Хлебозавод №1»",
+        "country": "Россия",
+        "website": "https://хлебозавод№1.ru",
+        "inn": "3713027229"
+      }
+    }
+  ],
+  "total_amount": 192.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ул. Щербакова",
+    "house": "3/8",
+    "apartment": "58",
+    "postal_code": "212133"
+  },
+  "purchase_datetime": "2025-12-18T12:26:17.933989"
+}

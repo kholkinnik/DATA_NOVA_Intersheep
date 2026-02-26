@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1016",
+  "first_name": "Любовь",
+  "last_name": "Шашкова",
+  "email": "sidorsavin@example.net",
+  "phone": "+7 410 353 78 49",
+  "birth_date": "1966-06-19",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.813659",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-54DEE20DC5",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Астрахань",
+    "street": "ул. Дружбы",
+    "house": "30",
+    "postal_code": "069543",
+    "coordinates": {
+      "latitude": 46.352494,
+      "longitude": 48.04646
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Астрахань",
+    "street": "бул. Речной",
+    "house": "172",
+    "apartment": "24",
+    "postal_code": "461290"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "prd-1018",
+  "name": "Вареники с картошкой",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Замороженные, 450 г",
+  "kbju": {
+    "calories": 144.2,
+    "protein": 24.3,
+    "fat": 24.0,
+    "carbohydrates": 8.4
+  },
+  "price": 110.0,
+  "unit": "уп",
+  "origin_country": "Россия",
+  "expiry_days": 21,
+  "is_organic": true,
+  "barcode": "2877152229379",
+  "manufacturer": {
+    "name": "ООО «Домашние вареники»",
+    "country": "Россия",
+    "website": "https://домашниевареники.ru",
+    "inn": "1616508635"
+  }
+}

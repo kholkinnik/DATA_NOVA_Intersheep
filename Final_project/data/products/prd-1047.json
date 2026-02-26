@@ -1,0 +1,24 @@
+{
+  "id": "prd-1047",
+  "name": "Укроп свежий",
+  "group": "🥦 Овощи и зелень",
+  "description": "Пучок укропа",
+  "kbju": {
+    "calories": 34.7,
+    "protein": 2.8,
+    "fat": 0.8,
+    "carbohydrates": 3.8
+  },
+  "price": 20.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 14,
+  "is_organic": true,
+  "barcode": "0185288429573",
+  "manufacturer": {
+    "name": "ИП «Зелень»",
+    "country": "Россия",
+    "website": "https://зелень.ru",
+    "inn": "0755465364"
+  }
+}

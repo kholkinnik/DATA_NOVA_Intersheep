@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00092",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Василиса",
+    "last_name": "Сидорова"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на бул. Олимпийский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Санкт-Петербург",
+      "street": "бул. Олимпийский",
+      "house": "4",
+      "postal_code": "509936",
+      "coordinates": {
+        "latitude": 59.933434,
+        "longitude": 30.339506
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1026",
+      "name": "Сметана 20%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 240.0,
+      "kbju": {
+        "calories": 59.2,
+        "protein": 3.6,
+        "fat": 5.7,
+        "carbohydrates": 7.5
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "3157409391"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Стейк из лосося",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 450.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 255.4,
+        "protein": 23.3,
+        "fat": 13.4,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "6793176216"
+      }
+    }
+  ],
+  "total_amount": 690.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Саратов",
+    "street": "ш. Прибрежное",
+    "house": "9",
+    "apartment": "83",
+    "postal_code": "759930"
+  },
+  "purchase_datetime": "2026-02-10T12:26:17.907156"
+}

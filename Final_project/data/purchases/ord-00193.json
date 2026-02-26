@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00193",
+  "customer": {
+    "customer_id": "cus-1000",
+    "first_name": "Елизавета",
+    "last_name": "Гришина"
+  },
+  "store": {
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на ш. Ангарское",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Томск",
+      "street": "ш. Ангарское",
+      "house": "1/8",
+      "postal_code": "492257",
+      "coordinates": {
+        "latitude": 56.495084,
+        "longitude": 84.978366
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Яйцо куриное С1",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "уп",
+      "price_per_unit": 85.0,
+      "total_price": 170.0,
+      "kbju": {
+        "calories": 136.2,
+        "protein": 25.5,
+        "fat": 23.4,
+        "carbohydrates": 9.4
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Роскар»",
+        "country": "Россия",
+        "website": "https://птицефабрикароскар.ru",
+        "inn": "2845693261"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Хлеб Дарницкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 240.0,
+      "kbju": {
+        "calories": 221.7,
+        "protein": 7.0,
+        "fat": 4.9,
+        "carbohydrates": 45.9
+      },
+      "manufacturer": {
+        "name": "АО «Хлебозавод №1»",
+        "country": "Россия",
+        "website": "https://хлебозавод№1.ru",
+        "inn": "3713027229"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Стейк из лосося",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 450.0,
+      "total_price": 1800.0,
+      "kbju": {
+        "calories": 255.4,
+        "protein": 23.3,
+        "fat": 13.4,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "6793176216"
+      }
+    }
+  ],
+  "total_amount": 2210.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "пер. Союзный",
+    "house": "7/2",
+    "apartment": "32",
+    "postal_code": "006733"
+  },
+  "purchase_datetime": "2026-02-13T12:26:17.976299"
+}

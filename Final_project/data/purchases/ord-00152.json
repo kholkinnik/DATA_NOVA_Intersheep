@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00152",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Леонтий",
+    "last_name": "Попов"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на бул. Пригородный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владимир",
+      "street": "бул. Пригородный",
+      "house": "7",
+      "postal_code": "011349",
+      "coordinates": {
+        "latitude": 56.127627,
+        "longitude": 40.390096
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1032",
+      "name": "Киви",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 200.0,
+      "total_price": 800.0,
+      "kbju": {
+        "calories": 59.1,
+        "protein": 0.8,
+        "fat": 0.4,
+        "carbohydrates": 15.7
+      },
+      "manufacturer": {
+        "name": "ИП Фруктовый сад",
+        "country": "Россия",
+        "website": "https://фруктовыйсад.ru",
+        "inn": "2384512137"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Сыворотка молочная",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 83.5,
+        "protein": 8.4,
+        "fat": 8.2,
+        "carbohydrates": 4.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "7566742432"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Мандарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 130.0,
+      "total_price": 520.0,
+      "kbju": {
+        "calories": 92.5,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "Кавказские фрукты",
+        "country": "Россия",
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "2644966910"
+      }
+    }
+  ],
+  "total_amount": 1440.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "бул. Пушкинский",
+    "house": "3",
+    "apartment": "100",
+    "postal_code": "540988"
+  },
+  "purchase_datetime": "2025-12-22T12:26:17.950499"
+}

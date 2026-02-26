@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00101",
+  "customer": {
+    "customer_id": "cus-1030",
+    "first_name": "Никандр",
+    "last_name": "Зиновьев"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на пер. Ушакова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "пер. Ушакова",
+      "house": "7/8",
+      "postal_code": "578069",
+      "coordinates": {
+        "latitude": 51.54155,
+        "longitude": 46.040976
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 215.5,
+        "protein": 11.1,
+        "fat": 2.9,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "5634433830"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Яйцо перепелиное",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "уп",
+      "price_per_unit": 75.0,
+      "total_price": 375.0,
+      "kbju": {
+        "calories": 170.3,
+        "protein": 28.4,
+        "fat": 6.3,
+        "carbohydrates": 8.0
+      },
+      "manufacturer": {
+        "name": "ИП «Перепел»",
+        "country": "Россия",
+        "website": "https://перепел.ru",
+        "inn": "7114722297"
+      }
+    }
+  ],
+  "total_amount": 825.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "ул. Пушкина",
+    "house": "35",
+    "apartment": "29",
+    "postal_code": "922541"
+  },
+  "purchase_datetime": "2026-02-12T12:26:17.914026"
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00130",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Галактион",
+    "last_name": "Меркушев"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на ул. Дружбы",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Астрахань",
+      "street": "ул. Дружбы",
+      "house": "30",
+      "postal_code": "069543",
+      "coordinates": {
+        "latitude": 46.352494,
+        "longitude": 48.04646
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Макароны рожки",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 55.0,
+      "kbju": {
+        "calories": 298.0,
+        "protein": 8.6,
+        "fat": 5.5,
+        "carbohydrates": 42.6
+      },
+      "manufacturer": {
+        "name": "ООО «Шебекинские»",
+        "country": "Россия",
+        "website": "https://шебекинские.ru",
+        "inn": "1380544810"
+      }
+    }
+  ],
+  "total_amount": 55.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "пр. Красный",
+    "house": "498",
+    "apartment": "85",
+    "postal_code": "754359"
+  },
+  "purchase_datetime": "2025-12-05T12:26:17.933989"
+}

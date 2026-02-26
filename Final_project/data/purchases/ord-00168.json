@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00168",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Василиса",
+    "last_name": "Беляева"
+  },
+  "store": {
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на пр. Шевченко",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Краснодар",
+      "street": "пр. Шевченко",
+      "house": "1",
+      "postal_code": "635840",
+      "coordinates": {
+        "latitude": 45.039853,
+        "longitude": 38.973815
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Сушки простые",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 80.0,
+      "kbju": {
+        "calories": 303.5,
+        "protein": 9.8,
+        "fat": 5.9,
+        "carbohydrates": 59.0
+      },
+      "manufacturer": {
+        "name": "ООО «Крендель»",
+        "country": "Россия",
+        "website": "https://крендель.ru",
+        "inn": "2278186010"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 215.5,
+        "protein": 11.1,
+        "fat": 2.9,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "5634433830"
+      }
+    },
+    {
+      "product_id": "prd-1026",
+      "name": "Сметана 20%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 80.0,
+      "kbju": {
+        "calories": 59.2,
+        "protein": 3.6,
+        "fat": 5.7,
+        "carbohydrates": 7.5
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "3157409391"
+      }
+    }
+  ],
+  "total_amount": 340.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "пр. Базарный",
+    "house": "4/4",
+    "apartment": "26",
+    "postal_code": "542824"
+  },
+  "purchase_datetime": "2025-12-14T12:26:17.960533"
+}

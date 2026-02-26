@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00035",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Евпраксия",
+    "last_name": "Капустина"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на ш. Болотное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Самара",
+      "street": "ш. Болотное",
+      "house": "3",
+      "postal_code": "826846",
+      "coordinates": {
+        "latitude": 53.241021,
+        "longitude": 50.215799
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Сельдь слабосолёная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 650.0,
+      "kbju": {
+        "calories": 244.7,
+        "protein": 23.1,
+        "fat": 9.3,
+        "carbohydrates": 5.5
+      },
+      "manufacturer": {
+        "name": "ООО «Рыбный край»",
+        "country": "Россия",
+        "website": "https://рыбныйкрай.ru",
+        "inn": "0250771238"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Хлеб Дарницкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 96.0,
+      "kbju": {
+        "calories": 221.7,
+        "protein": 7.0,
+        "fat": 4.9,
+        "carbohydrates": 45.9
+      },
+      "manufacturer": {
+        "name": "АО «Хлебозавод №1»",
+        "country": "Россия",
+        "website": "https://хлебозавод№1.ru",
+        "inn": "3713027229"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Грудка куриная копчёная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 210.0,
+      "total_price": 1050.0,
+      "kbju": {
+        "calories": 149.7,
+        "protein": 22.4,
+        "fat": 22.8,
+        "carbohydrates": 6.5
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Окская»",
+        "country": "Россия",
+        "website": "https://птицефабриккская.ru",
+        "inn": "2380135991"
+      }
+    }
+  ],
+  "total_amount": 1796.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "бул. Партизанский",
+    "house": "8",
+    "apartment": "35",
+    "postal_code": "163667"
+  },
+  "purchase_datetime": "2026-02-25T12:26:17.867160"
+}

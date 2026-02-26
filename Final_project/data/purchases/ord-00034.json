@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00034",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Елена",
+    "last_name": "Дементьева"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на пр. Леонова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Архангельск",
+      "street": "пр. Леонова",
+      "house": "7",
+      "postal_code": "169623",
+      "coordinates": {
+        "latitude": 64.537301,
+        "longitude": 40.512714
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1022",
+      "name": "Тан",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 190.2,
+        "protein": 4.2,
+        "fat": 13.2,
+        "carbohydrates": 6.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "9159646954"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Лаваш армянский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 220.0,
+      "kbju": {
+        "calories": 322.8,
+        "protein": 8.2,
+        "fat": 5.3,
+        "carbohydrates": 40.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "4660721133"
+      }
+    },
+    {
+      "product_id": "prd-1034",
+      "name": "Нектарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 190.0,
+      "total_price": 950.0,
+      "kbju": {
+        "calories": 37.9,
+        "protein": 0.7,
+        "fat": 0.1,
+        "carbohydrates": 14.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "6082942444"
+      }
+    }
+  ],
+  "total_amount": 1290.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Архангельск",
+    "street": "ш. Белорусское",
+    "house": "2",
+    "apartment": "56",
+    "postal_code": "626291"
+  },
+  "purchase_datetime": "2026-02-23T12:26:17.867160"
+}

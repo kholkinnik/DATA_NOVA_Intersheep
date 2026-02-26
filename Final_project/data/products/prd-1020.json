@@ -1,0 +1,24 @@
+{
+  "id": "prd-1020",
+  "name": "Айран",
+  "group": "🥛 Молочные продукты",
+  "description": "Кисломолочный напиток, 500 мл",
+  "kbju": {
+    "calories": 63.5,
+    "protein": 9.0,
+    "fat": 14.0,
+    "carbohydrates": 11.5
+  },
+  "price": 55.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 25,
+  "is_organic": false,
+  "barcode": "2457654491902",
+  "manufacturer": {
+    "name": "ООО «Молочный край»",
+    "country": "Россия",
+    "website": "https://молочныйкрай.ru",
+    "inn": "4299168204"
+  }
+}

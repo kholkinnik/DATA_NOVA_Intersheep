@@ -1,0 +1,24 @@
+{
+  "id": "prd-1030",
+  "name": "Чернослив",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Сушёная слива без косточки, 300 г",
+  "kbju": {
+    "calories": 83.8,
+    "protein": 2.0,
+    "fat": 0.6,
+    "carbohydrates": 9.2
+  },
+  "price": 100.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 19,
+  "is_organic": true,
+  "barcode": "5068774474798",
+  "manufacturer": {
+    "name": "ООО «Сухофрукты»",
+    "country": "Россия",
+    "website": "https://сухофрукты.ru",
+    "inn": "2088449068"
+  }
+}

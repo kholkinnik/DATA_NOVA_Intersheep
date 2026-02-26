@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00079",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Антонина",
+    "last_name": "Соколова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Фурманова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Волгоград",
+      "street": "ул. Фурманова",
+      "house": "86",
+      "postal_code": "106051",
+      "coordinates": {
+        "latitude": 48.70989,
+        "longitude": 44.510359
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1028",
+      "name": "Закваска для йогурта",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 131.7,
+        "protein": 3.9,
+        "fat": 3.6,
+        "carbohydrates": 9.9
+      },
+      "manufacturer": {
+        "name": "ООО «Молочная культура»",
+        "country": "Россия",
+        "website": "https://молочнаякультура.ru",
+        "inn": "1321876893"
+      }
+    },
+    {
+      "product_id": "prd-1047",
+      "name": "Укроп свежий",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 80.0,
+      "kbju": {
+        "calories": 34.7,
+        "protein": 2.8,
+        "fat": 0.8,
+        "carbohydrates": 3.8
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "0755465364"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Варенец",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 97.2,
+        "protein": 4.2,
+        "fat": 5.6,
+        "carbohydrates": 7.7
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "5406598357"
+      }
+    }
+  ],
+  "total_amount": 380.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Воронеж",
+    "street": "ул. Дорожников",
+    "house": "558",
+    "apartment": "85",
+    "postal_code": "853037"
+  },
+  "purchase_datetime": "2025-11-30T12:26:17.900214"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1038",
+  "first_name": "Марфа",
+  "last_name": "Лаврентьева",
+  "email": "denis78@example.com",
+  "phone": "8 (055) 235-50-27",
+  "birth_date": "2002-07-28",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.835224",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-FD993A341E",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "наб. Советской Армии",
+    "house": "9/8",
+    "postal_code": "637253",
+    "coordinates": {
+      "latitude": 58.606039,
+      "longitude": 49.655387
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "ш. Вавилова",
+    "house": "99",
+    "apartment": "98",
+    "postal_code": "910141"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

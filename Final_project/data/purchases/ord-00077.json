@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00077",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Лидия",
+    "last_name": "Карпова"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на бул. Пригородный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владимир",
+      "street": "бул. Пригородный",
+      "house": "7",
+      "postal_code": "011349",
+      "coordinates": {
+        "latitude": 56.127627,
+        "longitude": 40.390096
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1021",
+      "name": "Сливки 10%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 65.0,
+      "total_price": 325.0,
+      "kbju": {
+        "calories": 129.8,
+        "protein": 3.4,
+        "fat": 2.7,
+        "carbohydrates": 5.2
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "0343918089"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Стейк из лосося",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 450.0,
+      "total_price": 1800.0,
+      "kbju": {
+        "calories": 255.4,
+        "protein": 23.3,
+        "fat": 13.4,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "6793176216"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Варенец",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 97.2,
+        "protein": 4.2,
+        "fat": 5.6,
+        "carbohydrates": 7.7
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "5406598357"
+      }
+    }
+  ],
+  "total_amount": 2325.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тверь",
+    "street": "наб. Льва Толстого",
+    "house": "8",
+    "apartment": "64",
+    "postal_code": "667056"
+  },
+  "purchase_datetime": "2026-02-07T12:26:17.900214"
+}

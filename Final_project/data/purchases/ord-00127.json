@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00127",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Милован",
+    "last_name": "Кабанов"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на алл. Главная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тула",
+      "street": "алл. Главная",
+      "house": "846",
+      "postal_code": "772603",
+      "coordinates": {
+        "latitude": 54.204343,
+        "longitude": 37.60926
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1020",
+      "name": "Айран",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 165.0,
+      "kbju": {
+        "calories": 63.5,
+        "protein": 9.0,
+        "fat": 14.0,
+        "carbohydrates": 11.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "4299168204"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Хлебцы ржаные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 322.5,
+        "protein": 10.8,
+        "fat": 1.5,
+        "carbohydrates": 43.3
+      },
+      "manufacturer": {
+        "name": "ООО «Здоровое питание»",
+        "country": "Россия",
+        "website": "https://здоровоепитание.ru",
+        "inn": "1215619007"
+      }
+    }
+  ],
+  "total_amount": 315.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "пер. Шмидта",
+    "house": "9/6",
+    "apartment": "44",
+    "postal_code": "821745"
+  },
+  "purchase_datetime": "2026-02-24T12:26:17.931983"
+}

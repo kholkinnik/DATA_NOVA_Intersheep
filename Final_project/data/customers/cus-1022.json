@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1022",
+  "first_name": "Александра",
+  "last_name": "Устинова",
+  "email": "vasili_77@example.com",
+  "phone": "+7 (124) 699-26-14",
+  "birth_date": "2006-09-06",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.816768",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-0CA1DC50BE",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "пер. Ручейный",
+    "house": "34",
+    "postal_code": "387221",
+    "coordinates": {
+      "latitude": 56.49185,
+      "longitude": 84.97336
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "бул. Коммунистический",
+    "house": "7/4",
+    "apartment": "68",
+    "postal_code": "112570"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

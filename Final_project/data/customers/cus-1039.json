@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1039",
+  "first_name": "Милован",
+  "last_name": "Кабанов",
+  "email": "smirnovjan@example.org",
+  "phone": "8 (366) 834-5508",
+  "birth_date": "1978-12-07",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.837242",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-28BB19F45C",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "бул. Дальневосточный",
+    "house": "475",
+    "postal_code": "428060",
+    "coordinates": {
+      "latitude": 48.472644,
+      "longitude": 135.07392
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "пер. Шмидта",
+    "house": "9/6",
+    "apartment": "44",
+    "postal_code": "821745"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

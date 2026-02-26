@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1032",
+  "first_name": "Фирс",
+  "last_name": "Соловьев",
+  "email": "vinogradovizot@example.org",
+  "phone": "84785871725",
+  "birth_date": "1979-01-12",
+  "gender": "male",
+  "registration_date": "2026-02-26T12:26:17.829489",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-0AAABC0D82",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "ул. Пожарского",
+    "house": "1/7",
+    "postal_code": "628668",
+    "coordinates": {
+      "latitude": 50.60355,
+      "longitude": 36.59668
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "бул. Целинный",
+    "house": "61",
+    "apartment": "85",
+    "postal_code": "566100"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1008",
+  "first_name": "Валентина",
+  "last_name": "Трофимова",
+  "email": "arhipovkirill@example.org",
+  "phone": "8 (627) 787-18-85",
+  "birth_date": "1994-01-28",
+  "gender": "female",
+  "registration_date": "2026-02-26T12:26:17.806151",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-8F6DBEF4FA",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Омск",
+    "street": "пер. Железнодорожный",
+    "house": "86",
+    "postal_code": "214924",
+    "coordinates": {
+      "latitude": 54.993127,
+      "longitude": 73.362941
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Омск",
+    "street": "бул. Механический",
+    "house": "43",
+    "apartment": "56",
+    "postal_code": "891300"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

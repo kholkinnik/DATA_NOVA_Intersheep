@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00074",
+  "customer": {
+    "customer_id": "cus-1008",
+    "first_name": "Валентина",
+    "last_name": "Трофимова"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на ш. Ватутина",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Севастополь",
+      "street": "ш. Ватутина",
+      "house": "834",
+      "postal_code": "103880",
+      "coordinates": {
+        "latitude": 44.616504,
+        "longitude": 33.533902
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1020",
+      "name": "Айран",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 55.0,
+      "kbju": {
+        "calories": 63.5,
+        "protein": 9.0,
+        "fat": 14.0,
+        "carbohydrates": 11.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "4299168204"
+      }
+    },
+    {
+      "product_id": "prd-1034",
+      "name": "Нектарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 190.0,
+      "total_price": 950.0,
+      "kbju": {
+        "calories": 37.9,
+        "protein": 0.7,
+        "fat": 0.1,
+        "carbohydrates": 14.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "6082942444"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Стейк из лосося",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 450.0,
+      "total_price": 1800.0,
+      "kbju": {
+        "calories": 255.4,
+        "protein": 23.3,
+        "fat": 13.4,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "6793176216"
+      }
+    }
+  ],
+  "total_amount": 2805.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Омск",
+    "street": "бул. Механический",
+    "house": "43",
+    "apartment": "56",
+    "postal_code": "891300"
+  },
+  "purchase_datetime": "2026-02-16T12:26:17.898130"
+}

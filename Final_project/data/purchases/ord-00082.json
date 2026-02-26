@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00082",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Нонна",
+    "last_name": "Лыткина"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на алл. Маркса",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Калининград",
+      "street": "алл. Маркса",
+      "house": "17",
+      "postal_code": "453384",
+      "coordinates": {
+        "latitude": 54.705358,
+        "longitude": 20.503049
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1039",
+      "name": "Мандарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 130.0,
+      "total_price": 520.0,
+      "kbju": {
+        "calories": 92.5,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "Кавказские фрукты",
+        "country": "Россия",
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "2644966910"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Пшено",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 40.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 8.9,
+        "fat": 5.3,
+        "carbohydrates": 57.4
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "6773187483"
+      }
+    },
+    {
+      "product_id": "prd-1043",
+      "name": "Имбирь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 40.0,
+      "kbju": {
+        "calories": 17.4,
+        "protein": 1.5,
+        "fat": 0.3,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ИП «Пряности»",
+        "country": "Россия",
+        "website": "https://пряности.ru",
+        "inn": "8129122462"
+      }
+    }
+  ],
+  "total_amount": 600.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Сочи",
+    "street": "наб. Тульская",
+    "house": "158",
+    "apartment": "26",
+    "postal_code": "887348"
+  },
+  "purchase_datetime": "2026-01-25T12:26:17.902219"
+}

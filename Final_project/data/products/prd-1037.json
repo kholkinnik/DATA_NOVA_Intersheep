@@ -1,0 +1,24 @@
+{
+  "id": "prd-1037",
+  "name": "Груши Конференция",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Сочные груши, 1 кг",
+  "kbju": {
+    "calories": 56.9,
+    "protein": 1.7,
+    "fat": 0.2,
+    "carbohydrates": 12.9
+  },
+  "price": 150.0,
+  "unit": "кг",
+  "origin_country": "Россия",
+  "expiry_days": 6,
+  "is_organic": true,
+  "barcode": "5031409272878",
+  "manufacturer": {
+    "name": "ИП Фруктовый сад",
+    "country": "Россия",
+    "website": "https://фруктовыйсад.ru",
+    "inn": "9511559493"
+  }
+}

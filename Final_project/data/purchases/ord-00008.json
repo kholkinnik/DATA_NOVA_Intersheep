@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00008",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Фирс",
+    "last_name": "Соловьев"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на алл. Павлика Морозова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Омск",
+      "street": "алл. Павлика Морозова",
+      "house": "3/7",
+      "postal_code": "879014",
+      "coordinates": {
+        "latitude": 54.989357,
+        "longitude": 73.360557
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1034",
+      "name": "Нектарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 190.0,
+      "total_price": 760.0,
+      "kbju": {
+        "calories": 37.9,
+        "protein": 0.7,
+        "fat": 0.1,
+        "carbohydrates": 14.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "6082942444"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Закваска для йогурта",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 131.7,
+        "protein": 3.9,
+        "fat": 3.6,
+        "carbohydrates": 9.9
+      },
+      "manufacturer": {
+        "name": "ООО «Молочная культура»",
+        "country": "Россия",
+        "website": "https://молочнаякультура.ru",
+        "inn": "1321876893"
+      }
+    },
+    {
+      "product_id": "prd-1047",
+      "name": "Укроп свежий",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 40.0,
+      "kbju": {
+        "calories": 34.7,
+        "protein": 2.8,
+        "fat": 0.8,
+        "carbohydrates": 3.8
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "0755465364"
+      }
+    }
+  ],
+  "total_amount": 920.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "бул. Целинный",
+    "house": "61",
+    "apartment": "85",
+    "postal_code": "566100"
+  },
+  "purchase_datetime": "2026-02-19T12:26:17.845622"
+}

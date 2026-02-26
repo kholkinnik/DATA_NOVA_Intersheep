@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00047",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Святослав",
+    "last_name": "Филиппов"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на ул. Волжская",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Пермь",
+      "street": "ул. Волжская",
+      "house": "354",
+      "postal_code": "072153",
+      "coordinates": {
+        "latitude": 58.018912,
+        "longitude": 56.243092
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1031",
+      "name": "Лайм",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 25.0,
+      "total_price": 50.0,
+      "kbju": {
+        "calories": 95.8,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 17.9
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "4286200729"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Изюм",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 99.5,
+        "protein": 1.4,
+        "fat": 0.2,
+        "carbohydrates": 19.3
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "2028787565"
+      }
+    },
+    {
+      "product_id": "prd-1020",
+      "name": "Айран",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 220.0,
+      "kbju": {
+        "calories": 63.5,
+        "protein": 9.0,
+        "fat": 14.0,
+        "carbohydrates": 11.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "4299168204"
+      }
+    }
+  ],
+  "total_amount": 360.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Севастополь",
+    "street": "пер. Ангарский",
+    "house": "2",
+    "apartment": "56",
+    "postal_code": "454690"
+  },
+  "purchase_datetime": "2026-01-06T12:26:17.878644"
+}

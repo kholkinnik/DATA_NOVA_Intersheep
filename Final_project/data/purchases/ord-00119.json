@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00119",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Иосиф",
+    "last_name": "Осипов"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на пер. Железнодорожный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Омск",
+      "street": "пер. Железнодорожный",
+      "house": "86",
+      "postal_code": "214924",
+      "coordinates": {
+        "latitude": 54.993127,
+        "longitude": 73.362941
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1035",
+      "name": "Грейпфрут",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 90.1,
+        "protein": 1.2,
+        "fat": 0.1,
+        "carbohydrates": 12.8
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "2352500799"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Яйцо куриное С1",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "уп",
+      "price_per_unit": 85.0,
+      "total_price": 170.0,
+      "kbju": {
+        "calories": 136.2,
+        "protein": 25.5,
+        "fat": 23.4,
+        "carbohydrates": 9.4
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Роскар»",
+        "country": "Россия",
+        "website": "https://птицефабрикароскар.ru",
+        "inn": "2845693261"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Груши Конференция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 750.0,
+      "kbju": {
+        "calories": 56.9,
+        "protein": 1.7,
+        "fat": 0.2,
+        "carbohydrates": 12.9
+      },
+      "manufacturer": {
+        "name": "ИП Фруктовый сад",
+        "country": "Россия",
+        "website": "https://фруктовыйсад.ru",
+        "inn": "9511559493"
+      }
+    }
+  ],
+  "total_amount": 1120.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Социалистический",
+    "house": "2",
+    "apartment": "37",
+    "postal_code": "982943"
+  },
+  "purchase_datetime": "2025-12-28T12:26:17.922525"
+}

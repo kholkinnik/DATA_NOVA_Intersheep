@@ -1,0 +1,24 @@
+{
+  "id": "prd-1002",
+  "name": "Макароны рожки",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "Классические рожки, 450 г",
+  "kbju": {
+    "calories": 298.0,
+    "protein": 8.6,
+    "fat": 5.5,
+    "carbohydrates": 42.6
+  },
+  "price": 55.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 12,
+  "is_organic": false,
+  "barcode": "4415617672988",
+  "manufacturer": {
+    "name": "ООО «Шебекинские»",
+    "country": "Россия",
+    "website": "https://шебекинские.ru",
+    "inn": "1380544810"
+  }
+}

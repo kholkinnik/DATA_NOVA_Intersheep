@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00141",
+  "customer": {
+    "customer_id": "cus-1013",
+    "first_name": "Богдан",
+    "last_name": "Щукин"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на ш. Кирпичное",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тольятти",
+      "street": "ш. Кирпичное",
+      "house": "40",
+      "postal_code": "427676",
+      "coordinates": {
+        "latitude": 53.51688,
+        "longitude": 49.42454
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 59.3,
+        "protein": 2.1,
+        "fat": 0.2,
+        "carbohydrates": 8.3
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "7637037210"
+      }
+    }
+  ],
+  "total_amount": 100.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "пр. Минский",
+    "house": "5/5",
+    "apartment": "26",
+    "postal_code": "862455"
+  },
+  "purchase_datetime": "2026-01-18T12:26:17.939385"
+}

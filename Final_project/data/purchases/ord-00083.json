@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00083",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Нонна",
+    "last_name": "Лыткина"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на алл. Главная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тула",
+      "street": "алл. Главная",
+      "house": "846",
+      "postal_code": "772603",
+      "coordinates": {
+        "latitude": 54.204343,
+        "longitude": 37.60926
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Пшено",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 80.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 8.9,
+        "fat": 5.3,
+        "carbohydrates": 57.4
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "6773187483"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Красная икра",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 550.0,
+      "total_price": 2200.0,
+      "kbju": {
+        "calories": 299.8,
+        "protein": 20.0,
+        "fat": 12.4,
+        "carbohydrates": 3.9
+      },
+      "manufacturer": {
+        "name": "Русское море",
+        "country": "Россия",
+        "website": "https://русскоеморе.ru",
+        "inn": "0296498445"
+      }
+    }
+  ],
+  "total_amount": 2280.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Сочи",
+    "street": "наб. Тульская",
+    "house": "158",
+    "apartment": "26",
+    "postal_code": "887348"
+  },
+  "purchase_datetime": "2026-01-07T12:26:17.902219"
+}

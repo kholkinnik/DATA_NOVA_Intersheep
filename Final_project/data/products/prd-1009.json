@@ -1,0 +1,24 @@
+{
+  "id": "prd-1009",
+  "name": "Хлебцы ржаные",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "Хрустящие хлебцы, 150 г",
+  "kbju": {
+    "calories": 322.5,
+    "protein": 10.8,
+    "fat": 1.5,
+    "carbohydrates": 43.3
+  },
+  "price": 50.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 6,
+  "is_organic": false,
+  "barcode": "5916544201085",
+  "manufacturer": {
+    "name": "ООО «Здоровое питание»",
+    "country": "Россия",
+    "website": "https://здоровоепитание.ru",
+    "inn": "1215619007"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00178",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Галактион",
+    "last_name": "Меркушев"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на бул. Олимпийский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Санкт-Петербург",
+      "street": "бул. Олимпийский",
+      "house": "4",
+      "postal_code": "509936",
+      "coordinates": {
+        "latitude": 59.933434,
+        "longitude": 30.339506
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1048",
+      "name": "Огурцы маринованные",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 52.5,
+        "protein": 1.6,
+        "fat": 0.7,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Консервный завод»",
+        "country": "Россия",
+        "website": "https://консервныйзавод.ru",
+        "inn": "1093090771"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Пшено",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 8.9,
+        "fat": 5.3,
+        "carbohydrates": 57.4
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "6773187483"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Облепиха",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 110.0,
+      "kbju": {
+        "calories": 65.2,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 13.9
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "3798021529"
+      }
+    }
+  ],
+  "total_amount": 320.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Хабаровск",
+    "street": "пр. Красный",
+    "house": "498",
+    "apartment": "85",
+    "postal_code": "754359"
+  },
+  "purchase_datetime": "2026-02-14T12:26:17.966548"
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00164",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Валентина",
+    "last_name": "Галкина"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на бул. Тополиный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владивосток",
+      "street": "бул. Тополиный",
+      "house": "9/5",
+      "postal_code": "832619",
+      "coordinates": {
+        "latitude": 43.133525,
+        "longitude": 131.912086
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 270.0,
+      "kbju": {
+        "calories": 215.5,
+        "protein": 11.1,
+        "fat": 2.9,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "5634433830"
+      }
+    }
+  ],
+  "total_amount": 270.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Кемерово",
+    "street": "пер. 60 лет Октября",
+    "house": "6",
+    "apartment": "66",
+    "postal_code": "254196"
+  },
+  "purchase_datetime": "2026-01-08T12:26:17.958526"
+}

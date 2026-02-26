@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00037",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Елена",
+    "last_name": "Дементьева"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на пер. Ушакова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "пер. Ушакова",
+      "house": "7/8",
+      "postal_code": "578069",
+      "coordinates": {
+        "latitude": 51.54155,
+        "longitude": 46.040976
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1037",
+      "name": "Груши Конференция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 56.9,
+        "protein": 1.7,
+        "fat": 0.2,
+        "carbohydrates": 12.9
+      },
+      "manufacturer": {
+        "name": "ИП Фруктовый сад",
+        "country": "Россия",
+        "website": "https://фруктовыйсад.ru",
+        "inn": "9511559493"
+      }
+    },
+    {
+      "product_id": "prd-1020",
+      "name": "Айран",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 165.0,
+      "kbju": {
+        "calories": 63.5,
+        "protein": 9.0,
+        "fat": 14.0,
+        "carbohydrates": 11.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "4299168204"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Изюм",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 99.5,
+        "protein": 1.4,
+        "fat": 0.2,
+        "carbohydrates": 19.3
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "2028787565"
+      }
+    }
+  ],
+  "total_amount": 1065.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Архангельск",
+    "street": "ш. Белорусское",
+    "house": "2",
+    "apartment": "56",
+    "postal_code": "626291"
+  },
+  "purchase_datetime": "2025-12-13T12:26:17.867160"
+}

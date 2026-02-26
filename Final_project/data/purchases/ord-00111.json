@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00111",
+  "customer": {
+    "customer_id": "cus-1019",
+    "first_name": "Зинаида",
+    "last_name": "Федорова"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на ш. Ватутина",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Севастополь",
+      "street": "ш. Ватутина",
+      "house": "834",
+      "postal_code": "103880",
+      "coordinates": {
+        "latitude": 44.616504,
+        "longitude": 33.533902
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1037",
+      "name": "Груши Конференция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 56.9,
+        "protein": 1.7,
+        "fat": 0.2,
+        "carbohydrates": 12.9
+      },
+      "manufacturer": {
+        "name": "ИП Фруктовый сад",
+        "country": "Россия",
+        "website": "https://фруктовыйсад.ru",
+        "inn": "9511559493"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Макароны рожки",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 275.0,
+      "kbju": {
+        "calories": 298.0,
+        "protein": 8.6,
+        "fat": 5.5,
+        "carbohydrates": 42.6
+      },
+      "manufacturer": {
+        "name": "ООО «Шебекинские»",
+        "country": "Россия",
+        "website": "https://шебекинские.ru",
+        "inn": "1380544810"
+      }
+    }
+  ],
+  "total_amount": 875.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "пер. Овражный",
+    "house": "37",
+    "apartment": "32",
+    "postal_code": "714657"
+  },
+  "purchase_datetime": "2026-02-04T12:26:17.922525"
+}

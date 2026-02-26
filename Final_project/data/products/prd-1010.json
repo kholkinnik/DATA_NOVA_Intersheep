@@ -1,0 +1,24 @@
+{
+  "id": "prd-1010",
+  "name": "Говядина тушёная",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Консервы, 325 г",
+  "kbju": {
+    "calories": 245.7,
+    "protein": 21.0,
+    "fat": 6.2,
+    "carbohydrates": 2.6
+  },
+  "price": 120.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 16,
+  "is_organic": false,
+  "barcode": "3836176552398",
+  "manufacturer": {
+    "name": "ООО «Мясной двор»",
+    "country": "Россия",
+    "website": "https://мяснойдвор.ru",
+    "inn": "0043346684"
+  }
+}

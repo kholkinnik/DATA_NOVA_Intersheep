@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00132",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Татьяна",
+    "last_name": "Киселева"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на ул. Дружбы",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Астрахань",
+      "street": "ул. Дружбы",
+      "house": "30",
+      "postal_code": "069543",
+      "coordinates": {
+        "latitude": 46.352494,
+        "longitude": 48.04646
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "name": "Хлебцы ржаные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 250.0,
+      "kbju": {
+        "calories": 322.5,
+        "protein": 10.8,
+        "fat": 1.5,
+        "carbohydrates": 43.3
+      },
+      "manufacturer": {
+        "name": "ООО «Здоровое питание»",
+        "country": "Россия",
+        "website": "https://здоровоепитание.ru",
+        "inn": "1215619007"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Киви",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 200.0,
+      "total_price": 1000.0,
+      "kbju": {
+        "calories": 59.1,
+        "protein": 0.8,
+        "fat": 0.4,
+        "carbohydrates": 15.7
+      },
+      "manufacturer": {
+        "name": "ИП Фруктовый сад",
+        "country": "Россия",
+        "website": "https://фруктовыйсад.ru",
+        "inn": "2384512137"
+      }
+    },
+    {
+      "product_id": "prd-1035",
+      "name": "Грейпфрут",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 90.1,
+        "protein": 1.2,
+        "fat": 0.1,
+        "carbohydrates": 12.8
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "2352500799"
+      }
+    }
+  ],
+  "total_amount": 1350.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ул. Щербакова",
+    "house": "3/8",
+    "apartment": "58",
+    "postal_code": "212133"
+  },
+  "purchase_datetime": "2026-02-13T12:26:17.933989"
+}
