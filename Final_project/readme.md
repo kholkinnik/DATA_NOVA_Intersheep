@@ -10,7 +10,7 @@
 ☁️ MinIO (S3 storage)
 🤖 Telegram Bot alerting
 
-Предварительная схема pipeline:
+Cхема pipeline:
 ![Final_project/screenshots/pipeline_etl.jpg](screenshots/pipeline_etl.jpg)
 
 #### 📋Подготовка и запуск Docker compose 
@@ -28,13 +28,13 @@
 5. Consumer: Kafka → ClickHouse (RAW слой) python- 005_kafka_consumer.py
 6. Настройка Grafana + Alerting
 > ###### - Подключись: http://localhost:3000
-###### - Plugin: grafana-clickhouse-datasource
-###### - Telegram alerting (инструкции в инете)
-###### - python 006_generator_alarm_grafana.py
+> ###### - Plugin: grafana-clickhouse-datasource
+> ###### - Telegram alerting (инструкции в инете)
+> ###### - python 006_generator_alarm_grafana.py
 
 7. Spark отчет в Jupyter
 > ###### - Открой: http://localhost:8888/lab
-###### - Пример: work/Final_report.ipynb
+> ###### - Пример: work/Final_report.ipynb
 
 8. Проверь отчет в MinIO
 > ###### - Админка: http://localhost:9001
