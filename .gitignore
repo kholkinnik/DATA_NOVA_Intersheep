@@ -15,7 +15,11 @@ __pycache__/
 env/
 ENV/
 
+# Все папки jars
+jars/
 
+# Все папки logs  
+logs/
 
 /Final_project/containers/jars/
  
