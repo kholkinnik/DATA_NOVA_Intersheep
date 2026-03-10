@@ -2,79 +2,79 @@
   "purchase_id": "ord-00006",
   "customer": {
     "customer_id": "cus-1011",
-    "first_name": "Никон",
-    "last_name": "Шубин"
+    "first_name": "Варвара",
+    "last_name": "Аксенова"
   },
   "store": {
-    "store_id": "store-033",
-    "store_name": "Маленькая Пикча — Магазин на алл. Революции",
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на алл. Воровского",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владимир",
-      "street": "алл. Революции",
-      "house": "2",
-      "postal_code": "304094",
+      "city": "Барнаул",
+      "street": "алл. Воровского",
+      "house": "29",
+      "postal_code": "591973",
       "coordinates": {
-        "latitude": 56.139013,
-        "longitude": 40.404611
+        "latitude": 53.350304,
+        "longitude": 83.767415
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1033",
-      "name": "Брусника",
+      "product_id": "prd-1038",
+      "name": "Крыжовник",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 95.0,
-      "total_price": 95.0,
+      "price_per_unit": 80.0,
+      "total_price": 160.0,
       "kbju": {
-        "calories": 99.7,
-        "protein": 0.8,
-        "fat": 0.4,
-        "carbohydrates": 10.2
+        "calories": 41.4,
+        "protein": 0.6,
+        "fat": 0.3,
+        "carbohydrates": 19.2
       },
       "manufacturer": {
         "name": "ИП Ягодная поляна",
         "country": "Россия",
         "website": "https://ягоднаяполяна.ru",
-        "inn": "7966740421"
+        "inn": "1469683626"
       }
     },
     {
-      "product_id": "prd-1038",
-      "name": "Чернослив",
+      "product_id": "prd-1033",
+      "name": "Инжир",
       "category": "🍏 Фрукты и ягоды",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 100.0,
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
       "kbju": {
-        "calories": 33.4,
-        "protein": 1.3,
-        "fat": 0.5,
-        "carbohydrates": 18.2
+        "calories": 85.0,
+        "protein": 1.6,
+        "fat": 0.3,
+        "carbohydrates": 12.7
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "Кавказские фрукты",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "5737508318"
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "3325592298"
       }
     }
   ],
-  "total_amount": 195.0,
+  "total_amount": 290.0,
   "payment_method": "card",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "пер. Путейский",
-    "house": "3/6",
-    "apartment": "57",
-    "postal_code": "156540"
+    "city": "Ижевск",
+    "street": "наб. Подстанция",
+    "house": "615",
+    "apartment": "32",
+    "postal_code": "582776"
   },
-  "purchase_datetime": "2026-02-19T17:57:36.134188"
+  "purchase_datetime": "2025-12-30T19:09:09.780000"
 }

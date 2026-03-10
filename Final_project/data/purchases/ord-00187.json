@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00187",
   "customer": {
-    "customer_id": "cus-1008",
-    "first_name": "Валентина",
-    "last_name": "Крылова"
+    "customer_id": "cus-1028",
+    "first_name": "Светлана",
+    "last_name": "Титова"
   },
   "store": {
-    "store_id": "store-007",
-    "store_name": "Большая Пикча — Магазин на ш. Приозерное",
-    "store_network": "Большая Пикча",
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на бул. Серова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Балашиха",
-      "street": "ш. Приозерное",
-      "house": "1",
-      "postal_code": "883921",
+      "city": "Краснодар",
+      "street": "бул. Серова",
+      "house": "8/3",
+      "postal_code": "793357",
       "coordinates": {
-        "latitude": 55.798939,
-        "longitude": 37.929929
+        "latitude": 45.042573,
+        "longitude": 38.979058
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Фасоль белая",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 65.0,
-      "total_price": 195.0,
-      "kbju": {
-        "calories": 154.8,
-        "protein": 15.4,
-        "fat": 10.2,
-        "carbohydrates": 8.1
-      },
-      "manufacturer": {
-        "name": "ООО «Крупяной двор»",
-        "country": "Россия",
-        "website": "https://крупянойдвор.ru",
-        "inn": "9825245926"
-      }
-    },
-    {
-      "product_id": "prd-1026",
-      "name": "Сыр Маасдам",
+      "product_id": "prd-1024",
+      "name": "Сыр Моцарелла",
       "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 250.0,
-      "total_price": 750.0,
+      "price_per_unit": 100.0,
+      "total_price": 500.0,
       "kbju": {
-        "calories": 87.2,
-        "protein": 4.1,
-        "fat": 6.0,
-        "carbohydrates": 4.6
+        "calories": 116.0,
+        "protein": 9.8,
+        "fat": 9.2,
+        "carbohydrates": 7.1
       },
       "manufacturer": {
-        "name": "ООО «Сыробогатов»",
+        "name": "ООО «Италика»",
         "country": "Россия",
-        "website": "https://сыробогатов.ru",
-        "inn": "5185580479"
+        "website": "https://италика.ru",
+        "inn": "3633846073"
       }
     }
   ],
-  "total_amount": 945.0,
+  "total_amount": 500.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Саратов",
-    "street": "пер. Мелиоративный",
-    "house": "8/5",
-    "apartment": "83",
-    "postal_code": "794283"
+    "city": "Пенза",
+    "street": "пр. Осенний",
+    "house": "13",
+    "apartment": "74",
+    "postal_code": "244565"
   },
-  "purchase_datetime": "2026-01-21T17:57:36.294282"
+  "purchase_datetime": "2026-01-08T19:09:09.878485"
 }

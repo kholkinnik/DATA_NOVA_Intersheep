@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1022",
-  "first_name": "Иннокентий",
-  "last_name": "Мельников",
-  "email": "titkonovalov@example.com",
-  "phone": "8 (361) 089-7025",
-  "birth_date": "2001-04-16",
-  "gender": "male",
-  "registration_date": "2025-12-13T17:57:36.109198",
+  "first_name": "Алина",
+  "last_name": "Кузнецова",
+  "email": "kazakovdemjan@example.net",
+  "phone": "82682098786",
+  "birth_date": "1982-04-13",
+  "gender": "female",
+  "registration_date": "2026-01-26T19:09:09.759113",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-13BDAC6471",
+  "loyalty_card_number": "LOYAL-4945DD5CCE",
   "purchase_location": {
     "country": "Россия",
-    "city": "Белгород",
-    "street": "алл. Лунная",
-    "house": "996",
-    "postal_code": "003029",
+    "city": "Волгоград",
+    "street": "наб. Революции",
+    "house": "1",
+    "postal_code": "556959",
     "coordinates": {
-      "latitude": 50.588138,
-      "longitude": 36.578235
+      "latitude": 48.699699,
+      "longitude": 44.510105
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Белгород",
-    "street": "ул. Овражная",
-    "house": "9/5",
-    "apartment": "80",
-    "postal_code": "322141"
+    "city": "Волгоград",
+    "street": "ул. Азовская",
+    "house": "73",
+    "apartment": "23",
+    "postal_code": "584832"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": true
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
   }
 }

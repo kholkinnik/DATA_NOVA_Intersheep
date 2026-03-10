@@ -1,6 +1,6 @@
 {
   "store_id": "store-020",
-  "store_name": "Большая Пикча — Магазин на бул. Февральский",
+  "store_name": "Большая Пикча — Магазин на наб. 50 лет Октября",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Тимур Тихонович Козлов",
-    "phone": "8 (000) 614-22-54",
-    "email": "paramon_72@example.org"
+    "name": "Одинцова Лидия Макаровна",
+    "phone": "+7 (886) 078-3932",
+    "email": "julija_62@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Ижевск",
-    "street": "бул. Февральский",
-    "house": "80",
-    "postal_code": "329029",
+    "city": "Владимир",
+    "street": "наб. 50 лет Октября",
+    "house": "7/9",
+    "postal_code": "834662",
     "coordinates": {
-      "latitude": 56.847632,
-      "longitude": 53.206254
+      "latitude": 56.143245,
+      "longitude": 40.395272
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1031",
-  "first_name": "Герман",
-  "last_name": "Попов",
-  "email": "igor_90@example.com",
-  "phone": "8 879 316 8736",
-  "birth_date": "1981-01-09",
+  "first_name": "Остромир",
+  "last_name": "Шаров",
+  "email": "kornil36@example.net",
+  "phone": "+7 421 748 4678",
+  "birth_date": "1957-02-17",
   "gender": "male",
-  "registration_date": "2026-02-23T17:57:36.109198",
+  "registration_date": "2025-12-21T19:09:09.766985",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-26EC49C23C",
+  "loyalty_card_number": "LOYAL-68097072F0",
   "purchase_location": {
     "country": "Россия",
-    "city": "Калининград",
-    "street": "пер. Парковый",
-    "house": "566",
-    "postal_code": "004425",
+    "city": "Белгород",
+    "street": "пер. Мельничный",
+    "house": "92",
+    "postal_code": "259457",
     "coordinates": {
-      "latitude": 54.707861,
-      "longitude": 20.500571
+      "latitude": 50.604761,
+      "longitude": 36.596048
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Калининград",
-    "street": "ш. Осипенко",
-    "house": "43",
-    "apartment": "20",
-    "postal_code": "673690"
+    "city": "Белгород",
+    "street": "пр. Степана Разина",
+    "house": "708",
+    "apartment": "9",
+    "postal_code": "282539"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
+    "preferred_payment_method": "card",
     "receive_promotions": true
   }
 }

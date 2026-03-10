@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00068",
   "customer": {
-    "customer_id": "cus-1018",
-    "first_name": "Алина",
-    "last_name": "Борисова"
+    "customer_id": "cus-1007",
+    "first_name": "Станимир",
+    "last_name": "Ермаков"
   },
   "store": {
-    "store_id": "store-041",
-    "store_name": "Маленькая Пикча — Магазин на пер. Карла Маркса",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на алл. Одесская",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ульяновск",
-      "street": "пер. Карла Маркса",
-      "house": "8/7",
-      "postal_code": "507091",
+      "city": "Пенза",
+      "street": "алл. Одесская",
+      "house": "751",
+      "postal_code": "192855",
       "coordinates": {
-        "latitude": 54.32274,
-        "longitude": 48.393284
+        "latitude": 53.202,
+        "longitude": 44.970668
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1027",
-      "name": "Мороженое пломбир",
+      "product_id": "prd-1025",
+      "name": "Сыворотка молочная",
       "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 130.0,
-      "total_price": 650.0,
+      "price_per_unit": 40.0,
+      "total_price": 80.0,
       "kbju": {
-        "calories": 133.0,
-        "protein": 7.5,
-        "fat": 11.1,
-        "carbohydrates": 4.8
+        "calories": 199.6,
+        "protein": 4.0,
+        "fat": 1.6,
+        "carbohydrates": 6.9
       },
       "manufacturer": {
-        "name": "ООО «Айсберг»",
+        "name": "ООО «Молочный край»",
         "country": "Россия",
-        "website": "https://айсберг.ru",
-        "inn": "4545124016"
+        "website": "https://молочныйкрай.ru",
+        "inn": "8225289525"
       }
     },
     {
-      "product_id": "prd-1049",
-      "name": "Морковь мытая",
+      "product_id": "prd-1023",
+      "name": "Йогурт питьевой клубничный",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 192.0,
+      "kbju": {
+        "calories": 191.1,
+        "protein": 4.9,
+        "fat": 14.3,
+        "carbohydrates": 9.0
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3163770889"
+      }
+    },
+    {
+      "product_id": "prd-1043",
+      "name": "Сельдерей корневой",
       "category": "🥦 Овощи и зелень",
       "quantity": 2,
-      "unit": "кг",
-      "price_per_unit": 45.0,
-      "total_price": 90.0,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 100.0,
       "kbju": {
-        "calories": 49.7,
-        "protein": 1.1,
-        "fat": 0.6,
-        "carbohydrates": 6.4
+        "calories": 29.4,
+        "protein": 0.8,
+        "fat": 0.5,
+        "carbohydrates": 6.0
       },
       "manufacturer": {
         "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
         "website": "https://фермерскоехозяйстволето.ru",
-        "inn": "4052033610"
+        "inn": "0862782320"
       }
     }
   ],
-  "total_amount": 740.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 372.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Магнитогорск",
-    "street": "ул. Подлесная",
-    "house": "6",
-    "apartment": "24",
-    "postal_code": "075887"
+    "city": "Хабаровск",
+    "street": "алл. Покровская",
+    "house": "1/6",
+    "apartment": "89",
+    "postal_code": "516949"
   },
-  "purchase_datetime": "2026-02-21T17:57:36.183168"
+  "purchase_datetime": "2026-02-22T19:09:09.811497"
 }

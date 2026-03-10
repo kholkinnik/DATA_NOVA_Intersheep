@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00088",
   "customer": {
-    "customer_id": "cus-1002",
-    "first_name": "Марфа",
-    "last_name": "Меркушева"
+    "customer_id": "cus-1041",
+    "first_name": "Эмилия",
+    "last_name": "Афанасьева"
   },
   "store": {
-    "store_id": "store-045",
-    "store_name": "Маленькая Пикча — Магазин на наб. Смоленская",
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ул. Космонавтов",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Тюмень",
-      "street": "наб. Смоленская",
-      "house": "6",
-      "postal_code": "109913",
+      "city": "Рязань",
+      "street": "ул. Космонавтов",
+      "house": "4",
+      "postal_code": "795685",
       "coordinates": {
-        "latitude": 57.145189,
-        "longitude": 65.528693
+        "latitude": 54.612136,
+        "longitude": 39.735359
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1041",
-      "name": "Кинза свежая",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
+      "product_id": "prd-1005",
+      "name": "Пшено",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 25.0,
-      "total_price": 100.0,
+      "price_per_unit": 40.0,
+      "total_price": 40.0,
       "kbju": {
-        "calories": 34.5,
-        "protein": 2.6,
-        "fat": 0.1,
-        "carbohydrates": 4.5
+        "calories": 260.5,
+        "protein": 12.0,
+        "fat": 4.5,
+        "carbohydrates": 58.9
       },
       "manufacturer": {
-        "name": "ИП «Зелень»",
+        "name": "ООО «Крупяной двор»",
         "country": "Россия",
-        "website": "https://зелень.ru",
-        "inn": "1623815573"
+        "website": "https://крупянойдвор.ru",
+        "inn": "8570148518"
       }
     },
     {
       "product_id": "prd-1002",
-      "name": "Печенье сахарное",
+      "name": "Овсяные хлопья",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 70.0,
-      "total_price": 140.0,
+      "price_per_unit": 45.0,
+      "total_price": 90.0,
       "kbju": {
-        "calories": 324.2,
-        "protein": 6.0,
-        "fat": 2.0,
-        "carbohydrates": 41.9
+        "calories": 259.0,
+        "protein": 7.4,
+        "fat": 2.6,
+        "carbohydrates": 50.4
       },
       "manufacturer": {
-        "name": "ООО «Кондитер»",
+        "name": "ООО «Овсянка»",
         "country": "Россия",
-        "website": "https://кондитер.ru",
-        "inn": "1078687409"
+        "website": "https://овсянка.ru",
+        "inn": "2299793789"
       }
     }
   ],
-  "total_amount": 240.0,
-  "payment_method": "card",
+  "total_amount": 130.0,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "наб. Краснофлотская",
-    "house": "2",
-    "apartment": "48",
-    "postal_code": "221508"
+    "city": "Барнаул",
+    "street": "ул. Комсомольская",
+    "house": "7",
+    "apartment": "58",
+    "postal_code": "815517"
   },
-  "purchase_datetime": "2026-01-07T17:57:36.202461"
+  "purchase_datetime": "2026-01-18T19:09:09.825654"
 }

@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00048",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Исидор",
-    "last_name": "Ефремов"
+    "customer_id": "cus-1044",
+    "first_name": "Феофан",
+    "last_name": "Быков"
   },
   "store": {
-    "store_id": "store-034",
-    "store_name": "Маленькая Пикча — Магазин на пер. Прудный",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на наб. 50 лет Октября",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Саратов",
-      "street": "пер. Прудный",
-      "house": "9/9",
-      "postal_code": "854352",
+      "city": "Владимир",
+      "street": "наб. 50 лет Октября",
+      "house": "7/9",
+      "postal_code": "834662",
       "coordinates": {
-        "latitude": 51.525155,
-        "longitude": 46.026787
+        "latitude": 56.143245,
+        "longitude": 40.395272
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1003",
-      "name": "Лаваш тонкий",
+      "product_id": "prd-1013",
+      "name": "Горох колотый",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 244.7,
+        "protein": 16.0,
+        "fat": 14.9,
+        "carbohydrates": 6.1
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "4511537443"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Мюсли с орехами",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 60.0,
-      "total_price": 180.0,
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
       "kbju": {
-        "calories": 317.4,
-        "protein": 6.8,
-        "fat": 2.9,
-        "carbohydrates": 59.2
+        "calories": 310.4,
+        "protein": 6.9,
+        "fat": 2.3,
+        "carbohydrates": 44.1
       },
       "manufacturer": {
-        "name": "ООО «Кавказская кухня»",
+        "name": "ООО «Здоровое утро»",
         "country": "Россия",
-        "website": "https://кавказскаякухня.ru",
-        "inn": "0149115327"
-      }
-    },
-    {
-      "product_id": "prd-1029",
-      "name": "Закваска для йогурта",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 30.0,
-      "total_price": 60.0,
-      "kbju": {
-        "calories": 89.6,
-        "protein": 7.7,
-        "fat": 11.2,
-        "carbohydrates": 3.1
-      },
-      "manufacturer": {
-        "name": "ООО «Молочная культура»",
-        "country": "Россия",
-        "website": "https://молочнаякультура.ru",
-        "inn": "4147659609"
-      }
-    },
-    {
-      "product_id": "prd-1025",
-      "name": "Сливки 35%",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 200.0,
-      "kbju": {
-        "calories": 77.8,
-        "protein": 10.0,
-        "fat": 7.1,
-        "carbohydrates": 3.7
-      },
-      "manufacturer": {
-        "name": "Простоквашино",
-        "country": "Россия",
-        "website": "https://простоквашино.ru",
-        "inn": "1267810496"
+        "website": "https://здоровоеутро.ru",
+        "inn": "2656122869"
       }
     }
   ],
-  "total_amount": 440.0,
+  "total_amount": 510.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Саратов",
-    "street": "ш. Союзное",
-    "house": "2/3",
-    "apartment": "56",
-    "postal_code": "135471"
+    "city": "Барнаул",
+    "street": "ш. Гаражное",
+    "house": "157",
+    "apartment": "36",
+    "postal_code": "580238"
   },
-  "purchase_datetime": "2025-12-28T17:57:36.166764"
+  "purchase_datetime": "2026-01-16T19:09:09.799949"
 }

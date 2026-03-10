@@ -1,24 +1,24 @@
 {
   "id": "prd-1035",
-  "name": "Нектарины",
+  "name": "Финики",
   "group": "🍏 Фрукты и ягоды",
-  "description": "Гладкие персики, 1 кг",
+  "description": "Сушёные финики, 500 г",
   "kbju": {
-    "calories": 55.9,
+    "calories": 50.6,
     "protein": 0.8,
-    "fat": 0.2,
-    "carbohydrates": 11.1
+    "fat": 0.7,
+    "carbohydrates": 18.4
   },
-  "price": 190.0,
-  "unit": "кг",
+  "price": 150.0,
+  "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 16,
+  "expiry_days": 11,
   "is_organic": false,
-  "barcode": "0188463258722",
+  "barcode": "8144325855548",
   "manufacturer": {
-    "name": "Кубанские фрукты",
+    "name": "ООО «Сухофрукты»",
     "country": "Россия",
-    "website": "https://кубанскиефрукты.ru",
-    "inn": "5719187927"
+    "website": "https://сухофрукты.ru",
+    "inn": "9784600632"
   }
 }

@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1038",
-  "first_name": "Глафира",
-  "last_name": "Рябова",
-  "email": "davidovgavrila@example.com",
-  "phone": "+7 (358) 708-3060",
-  "birth_date": "1964-02-06",
+  "first_name": "Эмилия",
+  "last_name": "Селиверстова",
+  "email": "emerkushev@example.net",
+  "phone": "+7 (326) 780-42-12",
+  "birth_date": "1956-03-12",
   "gender": "female",
-  "registration_date": "2025-12-10T17:57:36.126393",
+  "registration_date": "2026-01-04T19:09:09.766985",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-8C58ADB494",
+  "loyalty_card_number": "LOYAL-40E03ADAD0",
   "purchase_location": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "ул. Сельская",
-    "house": "5/5",
-    "postal_code": "646443",
+    "city": "Уфа",
+    "street": "пр. Крылова",
+    "house": "49",
+    "postal_code": "239977",
     "coordinates": {
-      "latitude": 51.831632,
-      "longitude": 107.577692
+      "latitude": 54.737043,
+      "longitude": 55.967023
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "пер. Ручейный",
-    "house": "1",
-    "apartment": "62",
-    "postal_code": "051294"
+    "city": "Уфа",
+    "street": "алл. Королева",
+    "house": "892",
+    "apartment": "4",
+    "postal_code": "905151"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

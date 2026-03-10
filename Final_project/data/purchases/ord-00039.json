@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00039",
   "customer": {
-    "customer_id": "cus-1022",
-    "first_name": "Иннокентий",
-    "last_name": "Мельников"
+    "customer_id": "cus-1016",
+    "first_name": "Анатолий",
+    "last_name": "Зимин"
   },
   "store": {
-    "store_id": "store-028",
-    "store_name": "Большая Пикча — Магазин на пр. Дзержинского",
+    "store_id": "store-027",
+    "store_name": "Большая Пикча — Магазин на ул. Весенняя",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Самара",
-      "street": "пр. Дзержинского",
-      "house": "18",
-      "postal_code": "824453",
+      "city": "Пермь",
+      "street": "ул. Весенняя",
+      "house": "218",
+      "postal_code": "291897",
       "coordinates": {
-        "latitude": 53.251358,
-        "longitude": 50.223879
+        "latitude": 58.006447,
+        "longitude": 56.245452
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 50.0,
-      "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
-      },
-      "manufacturer": {
-        "name": "Danone",
-        "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
-      }
-    },
-    {
-      "product_id": "prd-1028",
-      "name": "Сыр Плавленый",
+      "product_id": "prd-1022",
+      "name": "Снежок",
       "category": "🥛 Молочные продукты",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 35.0,
-      "total_price": 105.0,
+      "price_per_unit": 55.0,
+      "total_price": 165.0,
       "kbju": {
-        "calories": 197.8,
-        "protein": 3.9,
-        "fat": 12.6,
-        "carbohydrates": 7.2
+        "calories": 82.7,
+        "protein": 7.6,
+        "fat": 1.8,
+        "carbohydrates": 5.0
       },
       "manufacturer": {
-        "name": "ООО «Сырок»",
+        "name": "Вимм-Билль-Данн",
         "country": "Россия",
-        "website": "https://сырок.ru",
-        "inn": "4295304954"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Овсяные хлопья",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 45.0,
-      "total_price": 90.0,
-      "kbju": {
-        "calories": 238.1,
-        "protein": 12.0,
-        "fat": 4.7,
-        "carbohydrates": 51.5
-      },
-      "manufacturer": {
-        "name": "ООО «Овсянка»",
-        "country": "Россия",
-        "website": "https://овсянка.ru",
-        "inn": "0162446009"
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "0415662193"
       }
     }
   ],
-  "total_amount": 245.0,
+  "total_amount": 165.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Белгород",
-    "street": "ул. Овражная",
-    "house": "9/5",
-    "apartment": "80",
-    "postal_code": "322141"
+    "city": "Оренбург",
+    "street": "пр. Курганный",
+    "house": "1",
+    "apartment": "95",
+    "postal_code": "798285"
   },
-  "purchase_datetime": "2025-12-18T17:57:36.157530"
+  "purchase_datetime": "2026-02-08T19:09:09.799949"
 }

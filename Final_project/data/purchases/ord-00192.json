@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00192",
   "customer": {
-    "customer_id": "cus-1042",
-    "first_name": "Октябрина",
-    "last_name": "Бурова"
+    "customer_id": "cus-1004",
+    "first_name": "Харлампий",
+    "last_name": "Комиссаров"
   },
   "store": {
-    "store_id": "store-031",
-    "store_name": "Маленькая Пикча — Магазин на бул. Толстого",
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на бул. Серова",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Тюмень",
-      "street": "бул. Толстого",
-      "house": "492",
-      "postal_code": "631260",
+      "city": "Краснодар",
+      "street": "бул. Серова",
+      "house": "8/3",
+      "postal_code": "793357",
       "coordinates": {
-        "latitude": 57.149287,
-        "longitude": 65.53511
+        "latitude": 45.042573,
+        "longitude": 38.979058
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1015",
-      "name": "Фасоль красная в собственном соку",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
+      "product_id": "prd-1001",
+      "name": "Пирожок с картошкой",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 90.0,
-      "total_price": 90.0,
+      "price_per_unit": 35.0,
+      "total_price": 175.0,
       "kbju": {
-        "calories": 230.4,
-        "protein": 26.9,
-        "fat": 13.5,
-        "carbohydrates": 0.4
+        "calories": 207.3,
+        "protein": 6.7,
+        "fat": 1.7,
+        "carbohydrates": 48.8
       },
       "manufacturer": {
-        "name": "Бондюэль",
+        "name": "ООО «Домашняя выпечка»",
         "country": "Россия",
-        "website": "https://бондюэль.ru",
-        "inn": "8320355207"
+        "website": "https://домашняявыпечка.ru",
+        "inn": "0792488984"
       }
     },
     {
-      "product_id": "prd-1001",
-      "name": "Хлеб Бородинский",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
+      "product_id": "prd-1035",
+      "name": "Финики",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 55.0,
-      "total_price": 220.0,
+      "price_per_unit": 150.0,
+      "total_price": 300.0,
       "kbju": {
-        "calories": 302.2,
-        "protein": 7.5,
-        "fat": 5.4,
-        "carbohydrates": 42.0
+        "calories": 50.6,
+        "protein": 0.8,
+        "fat": 0.7,
+        "carbohydrates": 18.4
       },
       "manufacturer": {
-        "name": "ООО «Коломенский пекарь»",
+        "name": "ООО «Сухофрукты»",
         "country": "Россия",
-        "website": "https://коломенскийпекарь.ru",
-        "inn": "1868975782"
+        "website": "https://сухофрукты.ru",
+        "inn": "9784600632"
       }
     }
   ],
-  "total_amount": 310.0,
+  "total_amount": 475.0,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Москва",
-    "street": "наб. Донская",
-    "house": "38",
-    "apartment": "21",
-    "postal_code": "664599"
+    "city": "Оренбург",
+    "street": "ул. Новосельская",
+    "house": "74",
+    "apartment": "84",
+    "postal_code": "021388"
   },
-  "purchase_datetime": "2026-02-16T17:57:36.300795"
+  "purchase_datetime": "2026-01-12T19:09:09.879532"
 }

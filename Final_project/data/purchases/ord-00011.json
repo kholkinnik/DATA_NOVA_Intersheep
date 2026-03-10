@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00011",
   "customer": {
-    "customer_id": "cus-1036",
-    "first_name": "Гаврила",
-    "last_name": "Елисеев"
+    "customer_id": "cus-1024",
+    "first_name": "Анжела",
+    "last_name": "Самойлова"
   },
   "store": {
-    "store_id": "store-020",
-    "store_name": "Большая Пикча — Магазин на бул. Февральский",
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на пер. Свердлова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ижевск",
-      "street": "бул. Февральский",
-      "house": "80",
-      "postal_code": "329029",
+      "city": "Белгород",
+      "street": "пер. Свердлова",
+      "house": "977",
+      "postal_code": "272074",
       "coordinates": {
-        "latitude": 56.847632,
-        "longitude": 53.206254
+        "latitude": 50.603854,
+        "longitude": 36.591365
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
+      "product_id": "prd-1014",
+      "name": "Конина",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 110.0,
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 400.0,
+      "total_price": 1600.0,
       "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
+        "calories": 320.1,
+        "protein": 20.0,
+        "fat": 17.6,
+        "carbohydrates": 1.7
       },
       "manufacturer": {
-        "name": "Птицефабрика «Северная»",
+        "name": "АО «Табун»",
         "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
+        "website": "https://табун.ru",
+        "inn": "1260330660"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Сыворотка молочная",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 199.6,
+        "protein": 4.0,
+        "fat": 1.6,
+        "carbohydrates": 6.9
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "8225289525"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Пирожок с картошкой",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 35.0,
+      "total_price": 175.0,
+      "kbju": {
+        "calories": 207.3,
+        "protein": 6.7,
+        "fat": 1.7,
+        "carbohydrates": 48.8
+      },
+      "manufacturer": {
+        "name": "ООО «Домашняя выпечка»",
+        "country": "Россия",
+        "website": "https://домашняявыпечка.ru",
+        "inn": "0792488984"
       }
     }
   ],
-  "total_amount": 110.0,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 1975.0,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Томск",
-    "street": "ш. Жукова",
-    "house": "7",
-    "apartment": "1",
-    "postal_code": "164588"
+    "city": "Ижевск",
+    "street": "наб. Инженерная",
+    "house": "75",
+    "apartment": "39",
+    "postal_code": "595671"
   },
-  "purchase_datetime": "2026-01-02T17:57:36.138146"
+  "purchase_datetime": "2026-02-21T19:09:09.781999"
 }

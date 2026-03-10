@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00193",
   "customer": {
-    "customer_id": "cus-1032",
-    "first_name": "Ермил",
-    "last_name": "Савин"
+    "customer_id": "cus-1024",
+    "first_name": "Анжела",
+    "last_name": "Самойлова"
   },
   "store": {
-    "store_id": "store-028",
-    "store_name": "Большая Пикча — Магазин на пр. Дзержинского",
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на бул. Вокзальный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Самара",
-      "street": "пр. Дзержинского",
-      "house": "18",
-      "postal_code": "824453",
+      "city": "Ижевск",
+      "street": "бул. Вокзальный",
+      "house": "6/8",
+      "postal_code": "189685",
       "coordinates": {
-        "latitude": 53.251358,
-        "longitude": 50.223879
+        "latitude": 56.849325,
+        "longitude": 53.20278
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1008",
-      "name": "Булочка для бургера",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 3,
-      "unit": "уп",
-      "price_per_unit": 60.0,
-      "total_price": 180.0,
-      "kbju": {
-        "calories": 293.2,
-        "protein": 11.6,
-        "fat": 5.0,
-        "carbohydrates": 56.8
-      },
-      "manufacturer": {
-        "name": "ООО «Булка»",
-        "country": "Россия",
-        "website": "https://булка.ru",
-        "inn": "6303059533"
-      }
-    },
-    {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1049",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 150.0,
+      "price_per_unit": 100.0,
+      "total_price": 400.0,
       "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
+        "calories": 38.5,
+        "protein": 1.1,
+        "fat": 0.4,
+        "carbohydrates": 2.4
       },
       "manufacturer": {
-        "name": "Danone",
+        "name": "Италика",
         "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
-      }
-    },
-    {
-      "product_id": "prd-1011",
-      "name": "Мидии в масле",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 150.0,
-      "total_price": 150.0,
-      "kbju": {
-        "calories": 133.4,
-        "protein": 22.0,
-        "fat": 11.1,
-        "carbohydrates": 2.1
-      },
-      "manufacturer": {
-        "name": "ООО «Морепродукт»",
-        "country": "Россия",
-        "website": "https://морепродукт.ru",
-        "inn": "5750711306"
+        "website": "https://италика.ru",
+        "inn": "3027808151"
       }
     }
   ],
-  "total_amount": 480.0,
+  "total_amount": 400.0,
   "payment_method": "card",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Ломоносова",
-    "house": "352",
-    "apartment": "57",
-    "postal_code": "331588"
+    "city": "Ижевск",
+    "street": "наб. Инженерная",
+    "house": "75",
+    "apartment": "39",
+    "postal_code": "595671"
   },
-  "purchase_datetime": "2025-12-17T17:57:36.301794"
+  "purchase_datetime": "2025-12-26T19:09:09.879532"
 }

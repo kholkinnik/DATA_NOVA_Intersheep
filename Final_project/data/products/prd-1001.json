@@ -1,24 +1,24 @@
 {
   "id": "prd-1001",
-  "name": "Хлеб Бородинский",
+  "name": "Пирожок с картошкой",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Ржаной хлеб с кориандром, нарезанный",
+  "description": "Печёный пирожок из дрожжевого теста",
   "kbju": {
-    "calories": 302.2,
-    "protein": 7.5,
-    "fat": 5.4,
-    "carbohydrates": 42.0
+    "calories": 207.3,
+    "protein": 6.7,
+    "fat": 1.7,
+    "carbohydrates": 48.8
   },
-  "price": 55.0,
+  "price": 35.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 9,
+  "expiry_days": 13,
   "is_organic": false,
-  "barcode": "2737718056583",
+  "barcode": "5513725219237",
   "manufacturer": {
-    "name": "ООО «Коломенский пекарь»",
+    "name": "ООО «Домашняя выпечка»",
     "country": "Россия",
-    "website": "https://коломенскийпекарь.ru",
-    "inn": "1868975782"
+    "website": "https://домашняявыпечка.ru",
+    "inn": "0792488984"
   }
 }

@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1009",
-  "first_name": "Анжелика",
-  "last_name": "Носова",
-  "email": "askold2025@example.com",
-  "phone": "+7 (303) 099-1010",
-  "birth_date": "1997-05-26",
-  "gender": "female",
-  "registration_date": "2026-02-16T17:57:36.102976",
+  "first_name": "Лучезар",
+  "last_name": "Сорокин",
+  "email": "leon_71@example.com",
+  "phone": "8 (214) 864-6389",
+  "birth_date": "1982-10-10",
+  "gender": "male",
+  "registration_date": "2026-01-24T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-62A50E97DC",
+  "loyalty_card_number": "LOYAL-8D27EFBE21",
   "purchase_location": {
     "country": "Россия",
-    "city": "Краснодар",
-    "street": "ул. Высотная",
-    "house": "595",
-    "postal_code": "058824",
+    "city": "Барнаул",
+    "street": "пер. Некрасова",
+    "house": "4",
+    "postal_code": "717845",
     "coordinates": {
-      "latitude": 45.028884,
-      "longitude": 38.976453
+      "latitude": 53.360323,
+      "longitude": 83.77218
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Краснодар",
-    "street": "пер. Ватутина",
+    "city": "Барнаул",
+    "street": "ш. Садовое",
     "house": "7",
-    "apartment": "47",
-    "postal_code": "342287"
+    "apartment": "37",
+    "postal_code": "653369"
   },
   "preferences": {
     "preferred_language": "ru",

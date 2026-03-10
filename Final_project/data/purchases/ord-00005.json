@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00005",
   "customer": {
-    "customer_id": "cus-1044",
-    "first_name": "Конон",
-    "last_name": "Бобров"
+    "customer_id": "cus-1036",
+    "first_name": "Остромир",
+    "last_name": "Поляков"
   },
   "store": {
-    "store_id": "store-026",
-    "store_name": "Большая Пикча — Магазин на ш. Водников",
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пер. Беляева",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владивосток",
-      "street": "ш. Водников",
-      "house": "2",
-      "postal_code": "061270",
+      "city": "Томск",
+      "street": "пер. Беляева",
+      "house": "3",
+      "postal_code": "143215",
       "coordinates": {
-        "latitude": 43.141065,
-        "longitude": 131.912086
+        "latitude": 56.492361,
+        "longitude": 84.972922
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1037",
-      "name": "Бананы",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
-      "unit": "кг",
-      "price_per_unit": 95.0,
-      "total_price": 285.0,
+      "product_id": "prd-1009",
+      "name": "Булгур",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 340.0,
       "kbju": {
-        "calories": 79.7,
-        "protein": 1.0,
-        "fat": 0.2,
-        "carbohydrates": 9.8
+        "calories": 255.2,
+        "protein": 10.7,
+        "fat": 5.5,
+        "carbohydrates": 49.3
       },
       "manufacturer": {
-        "name": "Эко-Фрукты",
+        "name": "ООО «Мистраль»",
         "country": "Россия",
-        "website": "https://эко-фрукты.ru",
-        "inn": "4842169369"
+        "website": "https://мистраль.ru",
+        "inn": "6002803257"
+      }
+    },
+    {
+      "product_id": "prd-1040",
+      "name": "Кабачки",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 70.0,
+      "total_price": 350.0,
+      "kbju": {
+        "calories": 47.5,
+        "protein": 1.3,
+        "fat": 0.3,
+        "carbohydrates": 5.1
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "8544353715"
       }
     }
   ],
-  "total_amount": 285.0,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 690.0,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "пер. Физкультурный",
-    "house": "5",
-    "apartment": "3",
-    "postal_code": "063371"
+    "city": "Екатеринбург",
+    "street": "ш. Лазурное",
+    "house": "143",
+    "apartment": "58",
+    "postal_code": "740810"
   },
-  "purchase_datetime": "2026-03-05T17:57:36.134188"
+  "purchase_datetime": "2026-01-14T19:09:09.779005"
 }

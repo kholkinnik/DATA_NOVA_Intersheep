@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1002",
-  "first_name": "Марфа",
-  "last_name": "Меркушева",
-  "email": "reginabelova@example.com",
-  "phone": "8 993 691 53 08",
-  "birth_date": "1973-07-02",
+  "first_name": "Раиса",
+  "last_name": "Быкова",
+  "email": "savva2012@example.net",
+  "phone": "8 (206) 816-7347",
+  "birth_date": "2003-02-02",
   "gender": "female",
-  "registration_date": "2026-01-15T17:57:36.095856",
+  "registration_date": "2026-02-27T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-A77546E0DE",
+  "loyalty_card_number": "LOYAL-2BE19C8E18",
   "purchase_location": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "бул. Докучаева",
-    "house": "80",
-    "postal_code": "941109",
+    "city": "Нижний Тагил",
+    "street": "бул. Мирный",
+    "house": "563",
+    "postal_code": "349274",
     "coordinates": {
-      "latitude": 57.159651,
-      "longitude": 65.530977
+      "latitude": 57.910527,
+      "longitude": 59.986213
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "наб. Краснофлотская",
-    "house": "2",
-    "apartment": "48",
-    "postal_code": "221508"
+    "city": "Нижний Тагил",
+    "street": "пер. Орловский",
+    "house": "4",
+    "apartment": "86",
+    "postal_code": "084407"
   },
   "preferences": {
     "preferred_language": "ru",

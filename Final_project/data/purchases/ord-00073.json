@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00073",
   "customer": {
-    "customer_id": "cus-1044",
-    "first_name": "Конон",
-    "last_name": "Бобров"
+    "customer_id": "cus-1035",
+    "first_name": "Елена",
+    "last_name": "Кошелева"
   },
   "store": {
-    "store_id": "store-007",
-    "store_name": "Большая Пикча — Магазин на ш. Приозерное",
-    "store_network": "Большая Пикча",
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на пр. Крылова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Балашиха",
-      "street": "ш. Приозерное",
-      "house": "1",
-      "postal_code": "883921",
+      "city": "Уфа",
+      "street": "пр. Крылова",
+      "house": "49",
+      "postal_code": "239977",
       "coordinates": {
-        "latitude": 55.798939,
-        "longitude": 37.929929
+        "latitude": 54.737043,
+        "longitude": 55.967023
       }
     }
   },
   "items": [
     {
       "product_id": "prd-1005",
-      "name": "Полба",
+      "name": "Пшено",
       "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 120.0,
+      "price_per_unit": 40.0,
       "total_price": 120.0,
       "kbju": {
-        "calories": 236.2,
-        "protein": 11.5,
-        "fat": 1.3,
-        "carbohydrates": 59.0
+        "calories": 260.5,
+        "protein": 12.0,
+        "fat": 4.5,
+        "carbohydrates": 58.9
       },
       "manufacturer": {
-        "name": "ООО «Здоровое зерно»",
+        "name": "ООО «Крупяной двор»",
         "country": "Россия",
-        "website": "https://здоровоезерно.ru",
-        "inn": "8224754920"
+        "website": "https://крупянойдвор.ru",
+        "inn": "8570148518"
       }
     },
     {
-      "product_id": "prd-1036",
-      "name": "Арбуз",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
+      "product_id": "prd-1002",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 250.0,
-      "total_price": 1250.0,
+      "price_per_unit": 45.0,
+      "total_price": 135.0,
       "kbju": {
-        "calories": 92.1,
-        "protein": 0.5,
-        "fat": 0.2,
-        "carbohydrates": 18.4
+        "calories": 259.0,
+        "protein": 7.4,
+        "fat": 2.6,
+        "carbohydrates": 50.4
       },
       "manufacturer": {
-        "name": "Астраханские арбузы",
+        "name": "ООО «Овсянка»",
         "country": "Россия",
-        "website": "https://астраханскиеарбузы.ru",
-        "inn": "6713441892"
+        "website": "https://овсянка.ru",
+        "inn": "2299793789"
       }
     },
     {
-      "product_id": "prd-1038",
-      "name": "Чернослив",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 400.0,
+      "product_id": "prd-1048",
+      "name": "Свекла",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 35.0,
+      "total_price": 70.0,
       "kbju": {
-        "calories": 33.4,
-        "protein": 1.3,
+        "calories": 40.8,
+        "protein": 1.1,
         "fat": 0.5,
-        "carbohydrates": 18.2
+        "carbohydrates": 7.4
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "5737508318"
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "1779343790"
       }
     }
   ],
-  "total_amount": 1770.0,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 325.0,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "пер. Физкультурный",
-    "house": "5",
-    "apartment": "3",
-    "postal_code": "063371"
+    "city": "Рязань",
+    "street": "пер. Кубанский",
+    "house": "7/5",
+    "apartment": "28",
+    "postal_code": "807273"
   },
-  "purchase_datetime": "2026-02-03T17:57:36.189156"
+  "purchase_datetime": "2026-03-06T19:09:09.811497"
 }

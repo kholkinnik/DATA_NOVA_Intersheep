@@ -1,6 +1,6 @@
 {
   "store_id": "store-043",
-  "store_name": "Маленькая Пикча — Магазин на ул. 50 лет Октября",
+  "store_name": "Маленькая Пикча — Магазин на бул. Просторный",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Всеслав Алексеевич Белов",
-    "phone": "+7 955 857 3190",
-    "email": "novikovluchezar@example.net"
+    "name": "Самсонова Любовь Кирилловна",
+    "phone": "+7 923 299 3832",
+    "email": "evfrosinijalukina@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Москва",
-    "street": "ул. 50 лет Октября",
-    "house": "2/5",
-    "postal_code": "674748",
+    "city": "Пенза",
+    "street": "бул. Просторный",
+    "house": "9",
+    "postal_code": "872254",
     "coordinates": {
-      "latitude": 55.757578,
-      "longitude": 37.626976
+      "latitude": 53.200727,
+      "longitude": 44.966498
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-03-10"
 }

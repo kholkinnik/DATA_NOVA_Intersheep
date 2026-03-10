@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00159",
   "customer": {
-    "customer_id": "cus-1023",
-    "first_name": "Ксения",
-    "last_name": "Савельева"
+    "customer_id": "cus-1026",
+    "first_name": "Елизавета",
+    "last_name": "Котова"
   },
   "store": {
-    "store_id": "store-024",
-    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на пр. Гастелло",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владимир",
-      "street": "ш. Ломоносова",
-      "house": "842",
-      "postal_code": "193551",
+      "city": "Набережные Челны",
+      "street": "пр. Гастелло",
+      "house": "46",
+      "postal_code": "791867",
       "coordinates": {
-        "latitude": 56.132124,
-        "longitude": 40.387311
+        "latitude": 55.748699,
+        "longitude": 52.404732
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1048",
-      "name": "Редис",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1009",
+      "name": "Булгур",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 170.0,
+      "kbju": {
+        "calories": 255.2,
+        "protein": 10.7,
+        "fat": 5.5,
+        "carbohydrates": 49.3
+      },
+      "manufacturer": {
+        "name": "ООО «Мистраль»",
+        "country": "Россия",
+        "website": "https://мистраль.ru",
+        "inn": "6002803257"
+      }
+    },
+    {
+      "product_id": "prd-1031",
+      "name": "Ананас",
+      "category": "🍏 Фрукты и ягоды",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 30.0,
-      "total_price": 30.0,
+      "price_per_unit": 150.0,
+      "total_price": 150.0,
       "kbju": {
-        "calories": 30.7,
-        "protein": 1.3,
-        "fat": 0.3,
-        "carbohydrates": 10.0
+        "calories": 49.7,
+        "protein": 1.5,
+        "fat": 0.6,
+        "carbohydrates": 9.6
+      },
+      "manufacturer": {
+        "name": "Тропические фрукты",
+        "country": "Россия",
+        "website": "https://тропическиефрукты.ru",
+        "inn": "5491167505"
+      }
+    },
+    {
+      "product_id": "prd-1043",
+      "name": "Сельдерей корневой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 29.4,
+        "protein": 0.8,
+        "fat": 0.5,
+        "carbohydrates": 6.0
       },
       "manufacturer": {
         "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
         "website": "https://фермерскоехозяйстволето.ru",
-        "inn": "6503657799"
+        "inn": "0862782320"
       }
     }
   ],
-  "total_amount": 30.0,
+  "total_amount": 470.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Крупской",
-    "house": "14",
-    "apartment": "97",
-    "postal_code": "966241"
+    "city": "Пермь",
+    "street": "ш. Карла Либкнехта",
+    "house": "1/5",
+    "apartment": "73",
+    "postal_code": "289951"
   },
-  "purchase_datetime": "2026-02-19T17:57:36.264893"
+  "purchase_datetime": "2026-01-29T19:09:09.858117"
 }

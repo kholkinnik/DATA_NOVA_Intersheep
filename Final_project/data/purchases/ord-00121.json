@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00121",
   "customer": {
-    "customer_id": "cus-1012",
-    "first_name": "Валерия",
-    "last_name": "Лихачева"
+    "customer_id": "cus-1009",
+    "first_name": "Лучезар",
+    "last_name": "Сорокин"
   },
   "store": {
-    "store_id": "store-013",
-    "store_name": "Большая Пикча — Магазин на пер. Короткий",
-    "store_network": "Большая Пикча",
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на пер. Мельничный",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Симферополь",
-      "street": "пер. Короткий",
-      "house": "2",
-      "postal_code": "839580",
+      "city": "Белгород",
+      "street": "пер. Мельничный",
+      "house": "92",
+      "postal_code": "259457",
       "coordinates": {
-        "latitude": 44.954025,
-        "longitude": 34.119035
+        "latitude": 50.604761,
+        "longitude": 36.596048
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1045",
-      "name": "Чеснок",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1019",
+      "name": "Сардины в масле",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 2,
-      "unit": "кг",
-      "price_per_unit": 150.0,
-      "total_price": 300.0,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 190.0,
       "kbju": {
-        "calories": 50.9,
-        "protein": 1.4,
-        "fat": 0.6,
-        "carbohydrates": 7.3
+        "calories": 156.0,
+        "protein": 22.0,
+        "fat": 13.4,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "ИП «Огородник»",
+        "name": "ООО «Рыбные консервы»",
         "country": "Россия",
-        "website": "https://огородник.ru",
-        "inn": "9765085333"
+        "website": "https://рыбныеконсервы.ru",
+        "inn": "4948064786"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Мюсли с орехами",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
+      "kbju": {
+        "calories": 310.4,
+        "protein": 6.9,
+        "fat": 2.3,
+        "carbohydrates": 44.1
+      },
+      "manufacturer": {
+        "name": "ООО «Здоровое утро»",
+        "country": "Россия",
+        "website": "https://здоровоеутро.ru",
+        "inn": "2656122869"
+      }
+    },
+    {
+      "product_id": "prd-1043",
+      "name": "Сельдерей корневой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 250.0,
+      "kbju": {
+        "calories": 29.4,
+        "protein": 0.8,
+        "fat": 0.5,
+        "carbohydrates": 6.0
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "0862782320"
       }
     }
   ],
-  "total_amount": 300.0,
-  "payment_method": "cash",
+  "total_amount": 770.0,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "ш. Достоевского",
-    "house": "8/9",
-    "apartment": "86",
-    "postal_code": "239862"
+    "city": "Барнаул",
+    "street": "ш. Садовое",
+    "house": "7",
+    "apartment": "37",
+    "postal_code": "653369"
   },
-  "purchase_datetime": "2026-01-07T17:57:36.231593"
+  "purchase_datetime": "2026-01-07T19:09:09.841143"
 }

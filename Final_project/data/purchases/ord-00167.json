@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00167",
   "customer": {
-    "customer_id": "cus-1038",
-    "first_name": "Глафира",
-    "last_name": "Рябова"
+    "customer_id": "cus-1023",
+    "first_name": "Иларион",
+    "last_name": "Михайлов"
   },
   "store": {
-    "store_id": "store-005",
-    "store_name": "Большая Пикча — Магазин на пер. Крестьянский",
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на алл. Смирнова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Волгоград",
-      "street": "пер. Крестьянский",
-      "house": "797",
-      "postal_code": "959410",
+      "city": "Хабаровск",
+      "street": "алл. Смирнова",
+      "house": "5/3",
+      "postal_code": "556655",
       "coordinates": {
-        "latitude": 48.699683,
-        "longitude": 44.515249
+        "latitude": 48.488297,
+        "longitude": 135.081803
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1001",
-      "name": "Хлеб Бородинский",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1048",
+      "name": "Свекла",
+      "category": "🥦 Овощи и зелень",
       "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 55.0,
-      "total_price": 220.0,
-      "kbju": {
-        "calories": 302.2,
-        "protein": 7.5,
-        "fat": 5.4,
-        "carbohydrates": 42.0
-      },
-      "manufacturer": {
-        "name": "ООО «Коломенский пекарь»",
-        "country": "Россия",
-        "website": "https://коломенскийпекарь.ru",
-        "inn": "1868975782"
-      }
-    },
-    {
-      "product_id": "prd-1032",
-      "name": "Абрикосы",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 2,
       "unit": "кг",
-      "price_per_unit": 170.0,
-      "total_price": 340.0,
+      "price_per_unit": 35.0,
+      "total_price": 140.0,
       "kbju": {
-        "calories": 60.3,
+        "calories": 40.8,
         "protein": 1.1,
-        "fat": 0.8,
-        "carbohydrates": 18.0
+        "fat": 0.5,
+        "carbohydrates": 7.4
       },
       "manufacturer": {
-        "name": "Кубанские фрукты",
+        "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
-        "website": "https://кубанскиефрукты.ru",
-        "inn": "3476861227"
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "1779343790"
       }
     }
   ],
-  "total_amount": 560.0,
-  "payment_method": "cash",
+  "total_amount": 140.0,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "пер. Ручейный",
-    "house": "1",
-    "apartment": "62",
-    "postal_code": "051294"
+    "city": "Тюмень",
+    "street": "пер. Механизаторов",
+    "house": "288",
+    "apartment": "35",
+    "postal_code": "559401"
   },
-  "purchase_datetime": "2026-02-05T17:57:36.272553"
+  "purchase_datetime": "2026-03-03T19:09:09.858117"
 }

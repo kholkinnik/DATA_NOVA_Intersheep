@@ -1,6 +1,6 @@
 {
   "store_id": "store-018",
-  "store_name": "Большая Пикча — Магазин на алл. Высоковольтная",
+  "store_name": "Большая Пикча — Магазин на ул. Промышленная",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Рябов Лаврентий Димитриевич",
-    "phone": "+7 (883) 075-0576",
-    "email": "noskovaekaterina@example.org"
+    "name": "Красильников Вячеслав Ануфриевич",
+    "phone": "+7 (020) 929-0867",
+    "email": "lavrentevaelena@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "алл. Высоковольтная",
-    "house": "59",
-    "postal_code": "727324",
+    "city": "Уфа",
+    "street": "ул. Промышленная",
+    "house": "911",
+    "postal_code": "049897",
     "coordinates": {
-      "latitude": 44.952833,
-      "longitude": 34.103069
+      "latitude": 54.737483,
+      "longitude": 55.980166
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

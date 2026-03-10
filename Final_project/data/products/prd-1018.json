@@ -1,24 +1,24 @@
 {
   "id": "prd-1018",
-  "name": "Камбала тушка",
+  "name": "Котлеты домашние",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Замороженная, 1 кг",
+  "description": "Замороженные, 400 г",
   "kbju": {
-    "calories": 264.8,
-    "protein": 27.0,
-    "fat": 21.9,
-    "carbohydrates": 14.4
+    "calories": 345.2,
+    "protein": 20.0,
+    "fat": 20.7,
+    "carbohydrates": 10.2
   },
-  "price": 220.0,
-  "unit": "кг",
+  "price": 150.0,
+  "unit": "уп",
   "origin_country": "Россия",
-  "expiry_days": 17,
-  "is_organic": false,
-  "barcode": "1103008986068",
+  "expiry_days": 19,
+  "is_organic": true,
+  "barcode": "5492555125805",
   "manufacturer": {
-    "name": "Дальморепродукт",
+    "name": "ООО «Мясные полуфабрикаты»",
     "country": "Россия",
-    "website": "https://дальморепродукт.ru",
-    "inn": "6271784897"
+    "website": "https://мясныеполуфабрикаты.ru",
+    "inn": "3384785060"
   }
 }

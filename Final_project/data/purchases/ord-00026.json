@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00026",
   "customer": {
-    "customer_id": "cus-1004",
-    "first_name": "Светлана",
-    "last_name": "Федосеева"
+    "customer_id": "cus-1003",
+    "first_name": "Сергей",
+    "last_name": "Архипов"
   },
   "store": {
-    "store_id": "store-002",
-    "store_name": "Большая Пикча — Магазин на наб. Целинная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на ул. Волгоградская",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Челябинск",
-      "street": "наб. Целинная",
-      "house": "34",
-      "postal_code": "748924",
+      "city": "Новосибирск",
+      "street": "ул. Волгоградская",
+      "house": "8",
+      "postal_code": "384264",
       "coordinates": {
-        "latitude": 55.163174,
-        "longitude": 61.431151
+        "latitude": 55.021852,
+        "longitude": 82.913795
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1041",
-      "name": "Кинза свежая",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 1,
+      "product_id": "prd-1032",
+      "name": "Курага",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 25.0,
-      "total_price": 25.0,
+      "price_per_unit": 120.0,
+      "total_price": 360.0,
       "kbju": {
-        "calories": 34.5,
-        "protein": 2.6,
-        "fat": 0.1,
-        "carbohydrates": 4.5
+        "calories": 95.4,
+        "protein": 0.6,
+        "fat": 0.4,
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "ИП «Зелень»",
+        "name": "ООО «Сухофрукты»",
         "country": "Россия",
-        "website": "https://зелень.ru",
-        "inn": "1623815573"
+        "website": "https://сухофрукты.ru",
+        "inn": "5992736913"
       }
     }
   ],
-  "total_amount": 25.0,
+  "total_amount": 360.0,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Волгоград",
-    "street": "ул. Прохладная",
-    "house": "6",
-    "apartment": "63",
-    "postal_code": "200366"
+    "city": "Воронеж",
+    "street": "ул. Интернациональная",
+    "house": "278",
+    "apartment": "7",
+    "postal_code": "000048"
   },
-  "purchase_datetime": "2026-02-28T17:57:36.148439"
+  "purchase_datetime": "2026-01-14T19:09:09.781999"
 }

@@ -1,24 +1,24 @@
 {
   "id": "prd-1025",
-  "name": "Сливки 35%",
+  "name": "Сыворотка молочная",
   "group": "🥛 Молочные продукты",
-  "description": "Для взбивания, 200 мл",
+  "description": "Питьевая, 1 л",
   "kbju": {
-    "calories": 77.8,
-    "protein": 10.0,
-    "fat": 7.1,
-    "carbohydrates": 3.7
+    "calories": 199.6,
+    "protein": 4.0,
+    "fat": 1.6,
+    "carbohydrates": 6.9
   },
-  "price": 100.0,
+  "price": 40.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 11,
-  "is_organic": false,
-  "barcode": "1857325481514",
+  "expiry_days": 27,
+  "is_organic": true,
+  "barcode": "8121474717569",
   "manufacturer": {
-    "name": "Простоквашино",
+    "name": "ООО «Молочный край»",
     "country": "Россия",
-    "website": "https://простоквашино.ru",
-    "inn": "1267810496"
+    "website": "https://молочныйкрай.ru",
+    "inn": "8225289525"
   }
 }

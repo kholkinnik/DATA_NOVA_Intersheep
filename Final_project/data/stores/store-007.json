@@ -1,6 +1,6 @@
 {
   "store_id": "store-007",
-  "store_name": "Большая Пикча — Магазин на ш. Приозерное",
+  "store_name": "Большая Пикча — Магазин на бул. Правды",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Лаврентьев Герман Чеславович",
-    "phone": "8 837 816 0785",
-    "email": "seliverstovatatjana@example.org"
+    "name": "Артемьев Нифонт Борисович",
+    "phone": "8 251 225 09 90",
+    "email": "fevronijaribakova@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "ш. Приозерное",
-    "house": "1",
-    "postal_code": "883921",
+    "city": "Москва",
+    "street": "бул. Правды",
+    "house": "51",
+    "postal_code": "956240",
     "coordinates": {
-      "latitude": 55.798939,
-      "longitude": 37.929929
+      "latitude": 55.762646,
+      "longitude": 37.609722
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

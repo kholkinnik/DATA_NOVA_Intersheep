@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00157",
   "customer": {
-    "customer_id": "cus-1005",
-    "first_name": "Светозар",
-    "last_name": "Беляков"
+    "customer_id": "cus-1001",
+    "first_name": "Лаврентий",
+    "last_name": "Лазарев"
   },
   "store": {
-    "store_id": "store-024",
-    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
-    "store_network": "Большая Пикча",
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на алл. Воровского",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владимир",
-      "street": "ш. Ломоносова",
-      "house": "842",
-      "postal_code": "193551",
+      "city": "Барнаул",
+      "street": "алл. Воровского",
+      "house": "29",
+      "postal_code": "591973",
       "coordinates": {
-        "latitude": 56.132124,
-        "longitude": 40.387311
+        "latitude": 53.350304,
+        "longitude": 83.767415
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1033",
+      "product_id": "prd-1039",
       "name": "Брусника",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 1,
+      "quantity": 5,
       "unit": "шт",
       "price_per_unit": 95.0,
-      "total_price": 95.0,
+      "total_price": 475.0,
       "kbju": {
-        "calories": 99.7,
-        "protein": 0.8,
-        "fat": 0.4,
-        "carbohydrates": 10.2
+        "calories": 73.5,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbohydrates": 10.3
       },
       "manufacturer": {
         "name": "ИП Ягодная поляна",
         "country": "Россия",
         "website": "https://ягоднаяполяна.ru",
-        "inn": "7966740421"
+        "inn": "1796229374"
       }
     }
   ],
-  "total_amount": 95.0,
+  "total_amount": 475.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Барнаул",
-    "street": "ш. Раздольное",
-    "house": "43",
-    "apartment": "82",
-    "postal_code": "218085"
+    "city": "Чебоксары",
+    "street": "пер. Заречный",
+    "house": "311",
+    "apartment": "42",
+    "postal_code": "514252"
   },
-  "purchase_datetime": "2026-03-07T17:57:36.262898"
+  "purchase_datetime": "2026-02-23T19:09:09.858117"
 }

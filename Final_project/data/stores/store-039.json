@@ -1,6 +1,6 @@
 {
   "store_id": "store-039",
-  "store_name": "Маленькая Пикча — Магазин на ул. Сельская",
+  "store_name": "Маленькая Пикча — Магазин на пр. Крылова",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Константин Артёмович Воробьев",
-    "phone": "+70150059439",
-    "email": "dmitrievfeliks@example.net"
+    "name": "Бронислав Абрамович Кондратьев",
+    "phone": "+7 (330) 221-25-93",
+    "email": "filaret2007@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "ул. Сельская",
-    "house": "5/5",
-    "postal_code": "646443",
+    "city": "Уфа",
+    "street": "пр. Крылова",
+    "house": "49",
+    "postal_code": "239977",
     "coordinates": {
-      "latitude": 51.831632,
-      "longitude": 107.577692
+      "latitude": 54.737043,
+      "longitude": 55.967023
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

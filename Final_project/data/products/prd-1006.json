@@ -1,24 +1,24 @@
 {
   "id": "prd-1006",
-  "name": "Гречка",
+  "name": "Рис круглозёрный",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Крупа гречневая ядрица, 900 г",
+  "description": "Рис для плова, 900 г",
   "kbju": {
-    "calories": 240.3,
-    "protein": 11.7,
-    "fat": 4.8,
-    "carbohydrates": 50.5
+    "calories": 215.4,
+    "protein": 9.5,
+    "fat": 5.9,
+    "carbohydrates": 58.9
   },
-  "price": 75.0,
+  "price": 80.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 25,
+  "expiry_days": 20,
   "is_organic": false,
-  "barcode": "5290603798151",
+  "barcode": "1400834783619",
   "manufacturer": {
-    "name": "ООО «Мистраль»",
+    "name": "АО «Агроимпорт»",
     "country": "Россия",
-    "website": "https://мистраль.ru",
-    "inn": "6141052240"
+    "website": "https://агроимпорт.ru",
+    "inn": "2507177426"
   }
 }

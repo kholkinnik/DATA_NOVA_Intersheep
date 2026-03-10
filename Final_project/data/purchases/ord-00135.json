@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00135",
   "customer": {
-    "customer_id": "cus-1016",
-    "first_name": "Александра",
-    "last_name": "Стрелкова"
+    "customer_id": "cus-1034",
+    "first_name": "Антонина",
+    "last_name": "Федотова"
   },
   "store": {
-    "store_id": "store-041",
-    "store_name": "Маленькая Пикча — Магазин на пер. Карла Маркса",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на бул. Вокзальный",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ульяновск",
-      "street": "пер. Карла Маркса",
-      "house": "8/7",
-      "postal_code": "507091",
+      "city": "Ижевск",
+      "street": "бул. Вокзальный",
+      "house": "6/8",
+      "postal_code": "189685",
       "coordinates": {
-        "latitude": 54.32274,
-        "longitude": 48.393284
+        "latitude": 56.849325,
+        "longitude": 53.20278
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1026",
-      "name": "Сыр Маасдам",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 250.0,
-      "total_price": 250.0,
+      "product_id": "prd-1017",
+      "name": "Яйцо перепелиное",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "уп",
+      "price_per_unit": 75.0,
+      "total_price": 150.0,
       "kbju": {
-        "calories": 87.2,
-        "protein": 4.1,
-        "fat": 6.0,
-        "carbohydrates": 4.6
+        "calories": 200.4,
+        "protein": 26.1,
+        "fat": 23.7,
+        "carbohydrates": 12.2
       },
       "manufacturer": {
-        "name": "ООО «Сыробогатов»",
+        "name": "ИП «Перепел»",
         "country": "Россия",
-        "website": "https://сыробогатов.ru",
-        "inn": "5185580479"
+        "website": "https://перепел.ru",
+        "inn": "3661177130"
       }
     },
     {
-      "product_id": "prd-1024",
-      "name": "Йогурт питьевой клубничный",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
+      "product_id": "prd-1019",
+      "name": "Сардины в масле",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 48.0,
-      "total_price": 48.0,
+      "price_per_unit": 95.0,
+      "total_price": 190.0,
       "kbju": {
-        "calories": 151.1,
-        "protein": 9.0,
-        "fat": 11.5,
-        "carbohydrates": 12.0
+        "calories": 156.0,
+        "protein": 22.0,
+        "fat": 13.4,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "Danone",
+        "name": "ООО «Рыбные консервы»",
         "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3928715855"
+        "website": "https://рыбныеконсервы.ru",
+        "inn": "4948064786"
       }
     }
   ],
-  "total_amount": 298.0,
+  "total_amount": 340.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Севастополь",
-    "street": "наб. Дарвина",
-    "house": "43",
-    "apartment": "77",
-    "postal_code": "319629"
+    "city": "Краснодар",
+    "street": "ул. Горького",
+    "house": "4",
+    "apartment": "69",
+    "postal_code": "459039"
   },
-  "purchase_datetime": "2026-02-26T17:57:36.241908"
+  "purchase_datetime": "2025-12-12T19:09:09.841143"
 }

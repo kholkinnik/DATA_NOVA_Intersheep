@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00060",
   "customer": {
-    "customer_id": "cus-1001",
-    "first_name": "Мария",
-    "last_name": "Артемьева"
+    "customer_id": "cus-1035",
+    "first_name": "Елена",
+    "last_name": "Кошелева"
   },
   "store": {
-    "store_id": "store-021",
-    "store_name": "Большая Пикча — Магазин на алл. Кузнецова",
-    "store_network": "Большая Пикча",
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Щербакова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Курск",
-      "street": "алл. Кузнецова",
-      "house": "1",
-      "postal_code": "957961",
+      "city": "Нижний Новгород",
+      "street": "пер. Щербакова",
+      "house": "7",
+      "postal_code": "924885",
       "coordinates": {
-        "latitude": 51.735868,
-        "longitude": 36.185717
+        "latitude": 56.331715,
+        "longitude": 44.000386
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
+      "product_id": "prd-1010",
+      "name": "Тунец в собственном соку",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 330.0,
+      "price_per_unit": 120.0,
+      "total_price": 240.0,
       "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
+        "calories": 321.8,
+        "protein": 25.6,
+        "fat": 3.2,
+        "carbohydrates": 6.8
       },
       "manufacturer": {
-        "name": "Птицефабрика «Северная»",
+        "name": "ООО «Морепродукт»",
         "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
+        "website": "https://морепродукт.ru",
+        "inn": "1426105985"
       }
     },
     {
-      "product_id": "prd-1041",
-      "name": "Кинза свежая",
+      "product_id": "prd-1043",
+      "name": "Сельдерей корневой",
       "category": "🥦 Овощи и зелень",
-      "quantity": 2,
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 25.0,
-      "total_price": 50.0,
+      "price_per_unit": 50.0,
+      "total_price": 200.0,
       "kbju": {
-        "calories": 34.5,
-        "protein": 2.6,
-        "fat": 0.1,
-        "carbohydrates": 4.5
+        "calories": 29.4,
+        "protein": 0.8,
+        "fat": 0.5,
+        "carbohydrates": 6.0
       },
       "manufacturer": {
-        "name": "ИП «Зелень»",
+        "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
-        "website": "https://зелень.ru",
-        "inn": "1623815573"
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "0862782320"
       }
     }
   ],
-  "total_amount": 380.0,
+  "total_amount": 440.0,
   "payment_method": "cash",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "наб. Ангарская",
-    "house": "4/7",
-    "apartment": "98",
-    "postal_code": "356308"
+    "city": "Рязань",
+    "street": "пер. Кубанский",
+    "house": "7/5",
+    "apartment": "28",
+    "postal_code": "807273"
   },
-  "purchase_datetime": "2025-12-18T17:57:36.173133"
+  "purchase_datetime": "2026-01-31T19:09:09.809482"
 }

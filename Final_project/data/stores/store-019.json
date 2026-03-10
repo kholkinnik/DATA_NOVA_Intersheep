@@ -1,6 +1,6 @@
 {
   "store_id": "store-019",
-  "store_name": "Большая Пикча — Магазин на пер. Камский",
+  "store_name": "Большая Пикча — Магазин на пер. Свердлова",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Александра Романовна Ларионова",
-    "phone": "+7 154 314 1979",
-    "email": "zosima63@example.com"
+    "name": "Платон Федосьевич Рябов",
+    "phone": "83726718095",
+    "email": "majavasileva@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Магнитогорск",
-    "street": "пер. Камский",
-    "house": "36",
-    "postal_code": "521736",
+    "city": "Белгород",
+    "street": "пер. Свердлова",
+    "house": "977",
+    "postal_code": "272074",
     "coordinates": {
-      "latitude": 53.413617,
-      "longitude": 58.971875
+      "latitude": 50.603854,
+      "longitude": 36.591365
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

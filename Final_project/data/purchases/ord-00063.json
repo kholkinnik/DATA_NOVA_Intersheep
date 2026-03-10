@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00063",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Исидор",
-    "last_name": "Ефремов"
+    "customer_id": "cus-1004",
+    "first_name": "Харлампий",
+    "last_name": "Комиссаров"
   },
   "store": {
-    "store_id": "store-010",
-    "store_name": "Большая Пикча — Магазин на ул. Высотная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на пр. Гаражный",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Краснодар",
-      "street": "ул. Высотная",
-      "house": "595",
-      "postal_code": "058824",
+      "city": "Пермь",
+      "street": "пр. Гаражный",
+      "house": "5",
+      "postal_code": "252023",
       "coordinates": {
-        "latitude": 45.028884,
-        "longitude": 38.976453
+        "latitude": 58.004755,
+        "longitude": 56.251467
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "product_id": "prd-1033",
+      "name": "Инжир",
+      "category": "🍏 Фрукты и ягоды",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 110.0,
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
       "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
+        "calories": 85.0,
+        "protein": 1.6,
+        "fat": 0.3,
+        "carbohydrates": 12.7
       },
       "manufacturer": {
-        "name": "Птицефабрика «Северная»",
+        "name": "Кавказские фрукты",
         "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "3325592298"
       }
     }
   ],
-  "total_amount": 110.0,
-  "payment_method": "card",
-  "is_delivery": true,
+  "total_amount": 130.0,
+  "payment_method": "cash",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Саратов",
-    "street": "ш. Союзное",
-    "house": "2/3",
-    "apartment": "56",
-    "postal_code": "135471"
+    "city": "Оренбург",
+    "street": "ул. Новосельская",
+    "house": "74",
+    "apartment": "84",
+    "postal_code": "021388"
   },
-  "purchase_datetime": "2026-01-06T17:57:36.181157"
+  "purchase_datetime": "2026-03-04T19:09:09.811497"
 }

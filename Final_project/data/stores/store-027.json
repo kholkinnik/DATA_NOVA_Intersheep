@@ -1,6 +1,6 @@
 {
   "store_id": "store-027",
-  "store_name": "Большая Пикча — Магазин на ул. Восточная",
+  "store_name": "Большая Пикча — Магазин на ул. Весенняя",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Синклитикия Вениаминовна Фокина",
-    "phone": "8 453 232 6818",
-    "email": "komissarovmartin@example.com"
+    "name": "Зиновьева Ирина Кирилловна",
+    "phone": "8 425 004 5521",
+    "email": "ymironova@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Ростов-на-Дону",
-    "street": "ул. Восточная",
-    "house": "9",
-    "postal_code": "620753",
+    "city": "Пермь",
+    "street": "ул. Весенняя",
+    "house": "218",
+    "postal_code": "291897",
     "coordinates": {
-      "latitude": 47.232524,
-      "longitude": 39.706131
+      "latitude": 58.006447,
+      "longitude": 56.245452
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

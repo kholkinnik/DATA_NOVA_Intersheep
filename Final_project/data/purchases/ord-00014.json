@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00014",
   "customer": {
-    "customer_id": "cus-1020",
-    "first_name": "Севастьян",
-    "last_name": "Борисов"
+    "customer_id": "cus-1042",
+    "first_name": "Михаил",
+    "last_name": "Логинов"
   },
   "store": {
-    "store_id": "store-022",
-    "store_name": "Большая Пикча — Магазин на наб. Гафури",
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на ул. Калинина",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ижевск",
-      "street": "наб. Гафури",
-      "house": "2/5",
-      "postal_code": "302578",
+      "city": "Волгоград",
+      "street": "ул. Калинина",
+      "house": "5",
+      "postal_code": "247980",
       "coordinates": {
-        "latitude": 56.843537,
-        "longitude": 53.217387
+        "latitude": 48.711553,
+        "longitude": 44.507736
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1000",
-      "name": "Мука пшеничная в/с",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 85.0,
-      "total_price": 85.0,
+      "product_id": "prd-1015",
+      "name": "Вареники с картошкой",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "уп",
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
       "kbju": {
-        "calories": 254.9,
-        "protein": 9.5,
-        "fat": 1.1,
-        "carbohydrates": 52.4
+        "calories": 135.5,
+        "protein": 17.0,
+        "fat": 8.1,
+        "carbohydrates": 13.7
       },
       "manufacturer": {
-        "name": "ООО «Мельница»",
+        "name": "ООО «Домашние вареники»",
         "country": "Россия",
-        "website": "https://мельница.ru",
-        "inn": "1484891216"
-      }
-    },
-    {
-      "product_id": "prd-1002",
-      "name": "Печенье сахарное",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 70.0,
-      "total_price": 70.0,
-      "kbju": {
-        "calories": 324.2,
-        "protein": 6.0,
-        "fat": 2.0,
-        "carbohydrates": 41.9
-      },
-      "manufacturer": {
-        "name": "ООО «Кондитер»",
-        "country": "Россия",
-        "website": "https://кондитер.ru",
-        "inn": "1078687409"
+        "website": "https://домашниевареники.ru",
+        "inn": "6238389761"
       }
     }
   ],
-  "total_amount": 155.0,
-  "payment_method": "cash",
-  "is_delivery": true,
+  "total_amount": 330.0,
+  "payment_method": "card",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Курск",
-    "street": "наб. Гастелло",
-    "house": "868",
-    "apartment": "94",
-    "postal_code": "032682"
+    "city": "Пенза",
+    "street": "бул. Угловой",
+    "house": "6",
+    "apartment": "64",
+    "postal_code": "861584"
   },
-  "purchase_datetime": "2026-02-19T17:57:36.141771"
+  "purchase_datetime": "2026-01-31T19:09:09.781999"
 }

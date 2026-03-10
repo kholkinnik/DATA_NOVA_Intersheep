@@ -1,6 +1,6 @@
 {
   "store_id": "store-009",
-  "store_name": "Большая Пикча — Магазин на ш. Крайнее",
+  "store_name": "Большая Пикча — Магазин на ш. Литейное",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Иванов Эрнест Антипович",
-    "phone": "+7 (528) 579-75-12",
-    "email": "izjaslav83@example.com"
+    "name": "Ефим Архипович Субботин",
+    "phone": "+7 (713) 618-7139",
+    "email": "stojan_1985@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Саратов",
-    "street": "ш. Крайнее",
-    "house": "57",
-    "postal_code": "969550",
+    "city": "Набережные Челны",
+    "street": "ш. Литейное",
+    "house": "591",
+    "postal_code": "757311",
     "coordinates": {
-      "latitude": 51.526265,
-      "longitude": 46.031033
+      "latitude": 55.749725,
+      "longitude": 52.40402
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

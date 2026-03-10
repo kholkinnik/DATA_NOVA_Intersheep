@@ -1,6 +1,6 @@
 {
   "store_id": "store-033",
-  "store_name": "Маленькая Пикча — Магазин на алл. Революции",
+  "store_name": "Маленькая Пикча — Магазин на пер. Торговый",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Попов Семен Трофимович",
-    "phone": "8 (591) 710-0649",
-    "email": "evgraf_24@example.net"
+    "name": "Зинаида Никифоровна Орехова",
+    "phone": "+7 (066) 512-46-70",
+    "email": "spartak1982@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "алл. Революции",
-    "house": "2",
-    "postal_code": "304094",
+    "city": "Набережные Челны",
+    "street": "пер. Торговый",
+    "house": "8/1",
+    "postal_code": "289375",
     "coordinates": {
-      "latitude": 56.139013,
-      "longitude": 40.404611
+      "latitude": 55.735832,
+      "longitude": 52.4045
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

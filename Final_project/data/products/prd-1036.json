@@ -1,24 +1,24 @@
 {
   "id": "prd-1036",
-  "name": "Арбуз",
+  "name": "Абрикосы",
   "group": "🍏 Фрукты и ягоды",
-  "description": "Свежий арбуз, 1 шт (≈5 кг)",
+  "description": "Сладкие абрикосы, 1 кг",
   "kbju": {
-    "calories": 92.1,
-    "protein": 0.5,
-    "fat": 0.2,
-    "carbohydrates": 18.4
+    "calories": 37.0,
+    "protein": 1.6,
+    "fat": 0.6,
+    "carbohydrates": 10.9
   },
-  "price": 250.0,
-  "unit": "шт",
+  "price": 170.0,
+  "unit": "кг",
   "origin_country": "Россия",
   "expiry_days": 11,
-  "is_organic": true,
-  "barcode": "4288252944907",
+  "is_organic": false,
+  "barcode": "7097275320059",
   "manufacturer": {
-    "name": "Астраханские арбузы",
+    "name": "Кубанские фрукты",
     "country": "Россия",
-    "website": "https://астраханскиеарбузы.ru",
-    "inn": "6713441892"
+    "website": "https://кубанскиефрукты.ru",
+    "inn": "2628915967"
   }
 }

@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00178",
   "customer": {
-    "customer_id": "cus-1019",
-    "first_name": "Евсей",
-    "last_name": "Ковалев"
+    "customer_id": "cus-1001",
+    "first_name": "Лаврентий",
+    "last_name": "Лазарев"
   },
   "store": {
-    "store_id": "store-040",
-    "store_name": "Маленькая Пикча — Магазин на ул. Вокзальная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на пер. Некрасова",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Екатеринбург",
-      "street": "ул. Вокзальная",
-      "house": "35",
-      "postal_code": "932596",
+      "city": "Барнаул",
+      "street": "пер. Некрасова",
+      "house": "4",
+      "postal_code": "717845",
       "coordinates": {
-        "latitude": 56.830604,
-        "longitude": 60.608126
+        "latitude": 53.360323,
+        "longitude": 83.77218
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1016",
-      "name": "Манты",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
-      "unit": "уп",
-      "price_per_unit": 180.0,
+      "product_id": "prd-1004",
+      "name": "Макароны спагетти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 60.0,
       "total_price": 180.0,
       "kbju": {
-        "calories": 245.3,
-        "protein": 27.7,
-        "fat": 19.5,
-        "carbohydrates": 12.0
+        "calories": 347.9,
+        "protein": 10.4,
+        "fat": 3.5,
+        "carbohydrates": 41.9
       },
       "manufacturer": {
-        "name": "ООО «Восточные пельмени»",
+        "name": "ООО «Макфа»",
         "country": "Россия",
-        "website": "https://восточныепельмени.ru",
-        "inn": "3404107841"
-      }
-    },
-    {
-      "product_id": "prd-1047",
-      "name": "Грибы шампиньоны",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 90.0,
-      "total_price": 360.0,
-      "kbju": {
-        "calories": 44.6,
-        "protein": 2.9,
-        "fat": 0.5,
-        "carbohydrates": 2.9
-      },
-      "manufacturer": {
-        "name": "ООО «Грибная ферма»",
-        "country": "Россия",
-        "website": "https://грибнаяферма.ru",
-        "inn": "2372272673"
+        "website": "https://макфа.ru",
+        "inn": "3951013214"
       }
     }
   ],
-  "total_amount": 540.0,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 180.0,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Ижевск",
-    "street": "алл. Новая",
-    "house": "68",
-    "apartment": "46",
-    "postal_code": "508121"
+    "city": "Чебоксары",
+    "street": "пер. Заречный",
+    "house": "311",
+    "apartment": "42",
+    "postal_code": "514252"
   },
-  "purchase_datetime": "2026-01-10T17:57:36.286556"
+  "purchase_datetime": "2026-02-17T19:09:09.872558"
 }

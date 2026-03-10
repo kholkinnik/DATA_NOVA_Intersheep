@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00045",
   "customer": {
-    "customer_id": "cus-1002",
-    "first_name": "Марфа",
-    "last_name": "Меркушева"
+    "customer_id": "cus-1024",
+    "first_name": "Анжела",
+    "last_name": "Самойлова"
   },
   "store": {
-    "store_id": "store-024",
-    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на пер. Таежный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владимир",
-      "street": "ш. Ломоносова",
-      "house": "842",
-      "postal_code": "193551",
+      "city": "Оренбург",
+      "street": "пер. Таежный",
+      "house": "6/2",
+      "postal_code": "387994",
       "coordinates": {
-        "latitude": 56.132124,
-        "longitude": 40.387311
+        "latitude": 51.769162,
+        "longitude": 55.101172
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Камбала тушка",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
-      "unit": "кг",
-      "price_per_unit": 220.0,
-      "total_price": 1100.0,
-      "kbju": {
-        "calories": 264.8,
-        "protein": 27.0,
-        "fat": 21.9,
-        "carbohydrates": 14.4
-      },
-      "manufacturer": {
-        "name": "Дальморепродукт",
-        "country": "Россия",
-        "website": "https://дальморепродукт.ru",
-        "inn": "6271784897"
-      }
-    },
-    {
-      "product_id": "prd-1038",
-      "name": "Чернослив",
+      "product_id": "prd-1030",
+      "name": "Манго",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 1,
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 100.0,
+      "price_per_unit": 120.0,
+      "total_price": 600.0,
       "kbju": {
-        "calories": 33.4,
-        "protein": 1.3,
-        "fat": 0.5,
-        "carbohydrates": 18.2
+        "calories": 68.7,
+        "protein": 1.0,
+        "fat": 0.4,
+        "carbohydrates": 5.6
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "Тропические фрукты",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "5737508318"
+        "website": "https://тропическиефрукты.ru",
+        "inn": "4742502578"
       }
     }
   ],
-  "total_amount": 1200.0,
-  "payment_method": "card",
+  "total_amount": 600.0,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "наб. Краснофлотская",
-    "house": "2",
-    "apartment": "48",
-    "postal_code": "221508"
+    "city": "Ижевск",
+    "street": "наб. Инженерная",
+    "house": "75",
+    "apartment": "39",
+    "postal_code": "595671"
   },
-  "purchase_datetime": "2026-03-05T17:57:36.164755"
+  "purchase_datetime": "2025-12-30T19:09:09.799949"
 }

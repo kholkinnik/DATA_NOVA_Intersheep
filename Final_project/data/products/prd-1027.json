@@ -1,24 +1,24 @@
 {
   "id": "prd-1027",
-  "name": "Мороженое пломбир",
+  "name": "Сметана 20%",
   "group": "🥛 Молочные продукты",
-  "description": "Ванильное, 500 г",
+  "description": "Сметана, 300 г",
   "kbju": {
-    "calories": 133.0,
-    "protein": 7.5,
-    "fat": 11.1,
-    "carbohydrates": 4.8
+    "calories": 93.9,
+    "protein": 9.6,
+    "fat": 13.8,
+    "carbohydrates": 10.1
   },
-  "price": 130.0,
+  "price": 80.0,
   "unit": "шт",
   "origin_country": "Россия",
   "expiry_days": 6,
-  "is_organic": true,
-  "barcode": "2652804601747",
+  "is_organic": false,
+  "barcode": "7230140463608",
   "manufacturer": {
-    "name": "ООО «Айсберг»",
+    "name": "Простоквашино",
     "country": "Россия",
-    "website": "https://айсберг.ru",
-    "inn": "4545124016"
+    "website": "https://простоквашино.ru",
+    "inn": "3313924198"
   }
 }

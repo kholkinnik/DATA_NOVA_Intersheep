@@ -1,6 +1,6 @@
 {
   "store_id": "store-006",
-  "store_name": "Большая Пикча — Магазин на ул. Дорожная",
+  "store_name": "Большая Пикча — Магазин на ш. Пригородное",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Парфен Вячеславович Беляев",
-    "phone": "8 783 779 05 56",
-    "email": "vsevolod45@example.com"
+    "name": "Лазарь Антипович Сысоев",
+    "phone": "8 (397) 293-61-90",
+    "email": "ponomarevapelageja@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Барнаул",
-    "street": "ул. Дорожная",
-    "house": "916",
-    "postal_code": "507430",
+    "city": "Пермь",
+    "street": "ш. Пригородное",
+    "house": "1/9",
+    "postal_code": "158778",
     "coordinates": {
-      "latitude": 53.35194,
-      "longitude": 83.77341
+      "latitude": 58.0028,
+      "longitude": 56.250872
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

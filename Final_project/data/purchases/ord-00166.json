@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00166",
   "customer": {
-    "customer_id": "cus-1040",
-    "first_name": "Ульяна",
-    "last_name": "Зиновьева"
+    "customer_id": "cus-1028",
+    "first_name": "Светлана",
+    "last_name": "Титова"
   },
   "store": {
-    "store_id": "store-044",
-    "store_name": "Маленькая Пикча — Магазин на ул. Льва Толстого",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на наб. Республиканская",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Омск",
-      "street": "ул. Льва Толстого",
-      "house": "6/4",
-      "postal_code": "211189",
+      "city": "Ижевск",
+      "street": "наб. Республиканская",
+      "house": "481",
+      "postal_code": "817868",
       "coordinates": {
-        "latitude": 54.988481,
-        "longitude": 73.361615
+        "latitude": 56.844445,
+        "longitude": 53.205683
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
+      "product_id": "prd-1012",
+      "name": "Сельдь слабосолёная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 50.0,
+      "price_per_unit": 130.0,
+      "total_price": 520.0,
       "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
+        "calories": 328.3,
+        "protein": 25.5,
+        "fat": 15.9,
+        "carbohydrates": 7.4
       },
       "manufacturer": {
-        "name": "Danone",
+        "name": "ООО «Рыбный край»",
         "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
+        "website": "https://рыбныйкрай.ru",
+        "inn": "6471619959"
+      }
+    },
+    {
+      "product_id": "prd-1045",
+      "name": "Картофель мытый",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 40.0,
+      "total_price": 40.0,
+      "kbju": {
+        "calories": 40.4,
+        "protein": 2.8,
+        "fat": 0.8,
+        "carbohydrates": 5.3
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "3737517956"
       }
     }
   ],
-  "total_amount": 50.0,
-  "payment_method": "cash",
+  "total_amount": 560.0,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Ульяновск",
-    "street": "бул. Западный",
-    "house": "5/8",
-    "apartment": "31",
-    "postal_code": "869510"
+    "city": "Пенза",
+    "street": "пр. Осенний",
+    "house": "13",
+    "apartment": "74",
+    "postal_code": "244565"
   },
-  "purchase_datetime": "2026-02-22T17:57:36.271556"
+  "purchase_datetime": "2026-02-01T19:09:09.858117"
 }

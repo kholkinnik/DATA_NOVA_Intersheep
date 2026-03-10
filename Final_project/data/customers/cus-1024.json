@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1024",
-  "first_name": "Ермолай",
-  "last_name": "Котов",
-  "email": "zuevmoke@example.net",
-  "phone": "+7 (546) 004-78-03",
-  "birth_date": "1981-06-07",
-  "gender": "male",
-  "registration_date": "2026-02-24T17:57:36.109198",
+  "first_name": "Анжела",
+  "last_name": "Самойлова",
+  "email": "ninelfokina@example.net",
+  "phone": "8 312 234 04 80",
+  "birth_date": "1971-03-14",
+  "gender": "female",
+  "registration_date": "2026-03-01T19:09:09.761118",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-9A73B34C14",
+  "loyalty_card_number": "LOYAL-45499321A7",
   "purchase_location": {
     "country": "Россия",
-    "city": "Красноярск",
-    "street": "ш. Островского",
-    "house": "2",
-    "postal_code": "556125",
+    "city": "Ижевск",
+    "street": "наб. Республиканская",
+    "house": "481",
+    "postal_code": "817868",
     "coordinates": {
-      "latitude": 56.019131,
-      "longitude": 92.850536
+      "latitude": 56.844445,
+      "longitude": 53.205683
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Красноярск",
-    "street": "пр. Тельмана",
-    "house": "6/3",
-    "apartment": "5",
-    "postal_code": "201224"
+    "city": "Ижевск",
+    "street": "наб. Инженерная",
+    "house": "75",
+    "apartment": "39",
+    "postal_code": "595671"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
+    "preferred_payment_method": "cash",
     "receive_promotions": false
   }
 }

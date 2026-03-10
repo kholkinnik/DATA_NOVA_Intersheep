@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00120",
   "customer": {
-    "customer_id": "cus-1012",
-    "first_name": "Валерия",
-    "last_name": "Лихачева"
+    "customer_id": "cus-1018",
+    "first_name": "Синклитикия",
+    "last_name": "Селиверстова"
   },
   "store": {
-    "store_id": "store-023",
-    "store_name": "Большая Пикча — Магазин на алл. Лунная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пр. Гафури",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Белгород",
-      "street": "алл. Лунная",
-      "house": "996",
-      "postal_code": "003029",
+      "city": "Барнаул",
+      "street": "пр. Гафури",
+      "house": "53",
+      "postal_code": "661113",
       "coordinates": {
-        "latitude": 50.588138,
-        "longitude": 36.578235
+        "latitude": 53.36306,
+        "longitude": 83.764942
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1049",
-      "name": "Морковь мытая",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
-      "unit": "кг",
-      "price_per_unit": 45.0,
-      "total_price": 180.0,
+      "product_id": "prd-1023",
+      "name": "Йогурт питьевой клубничный",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 96.0,
       "kbju": {
-        "calories": 49.7,
-        "protein": 1.1,
-        "fat": 0.6,
-        "carbohydrates": 6.4
+        "calories": 191.1,
+        "protein": 4.9,
+        "fat": 14.3,
+        "carbohydrates": 9.0
       },
       "manufacturer": {
-        "name": "Фермерское хозяйство «Лето»",
+        "name": "Danone",
         "country": "Россия",
-        "website": "https://фермерскоехозяйстволето.ru",
-        "inn": "4052033610"
+        "website": "https://danone.ru",
+        "inn": "3163770889"
       }
     },
     {
-      "product_id": "prd-1007",
+      "product_id": "prd-1000",
       "name": "Кекс столичный",
       "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 3,
+      "quantity": 1,
       "unit": "шт",
       "price_per_unit": 90.0,
-      "total_price": 270.0,
+      "total_price": 90.0,
       "kbju": {
-        "calories": 286.2,
-        "protein": 8.1,
-        "fat": 2.0,
-        "carbohydrates": 57.3
+        "calories": 226.0,
+        "protein": 11.6,
+        "fat": 4.4,
+        "carbohydrates": 50.2
       },
       "manufacturer": {
         "name": "ООО «Кекс»",
         "country": "Россия",
         "website": "https://кекс.ru",
-        "inn": "3214656787"
+        "inn": "4509049327"
       }
     }
   ],
-  "total_amount": 450.0,
+  "total_amount": 186.0,
   "payment_method": "card",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "ш. Достоевского",
-    "house": "8/9",
-    "apartment": "86",
-    "postal_code": "239862"
+    "city": "Белгород",
+    "street": "алл. Сурикова",
+    "house": "23",
+    "apartment": "54",
+    "postal_code": "019990"
   },
-  "purchase_datetime": "2026-01-30T17:57:36.230596"
+  "purchase_datetime": "2026-03-02T19:09:09.841143"
 }

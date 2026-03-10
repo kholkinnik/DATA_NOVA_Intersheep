@@ -1,24 +1,24 @@
 {
   "id": "prd-1013",
-  "name": "Баранина",
+  "name": "Горох колотый",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Охлаждённая, 1 кг",
+  "description": "Сухой горох, 800 г",
   "kbju": {
-    "calories": 207.8,
-    "protein": 24.4,
-    "fat": 13.3,
-    "carbohydrates": 2.3
+    "calories": 244.7,
+    "protein": 16.0,
+    "fat": 14.9,
+    "carbohydrates": 6.1
   },
-  "price": 550.0,
-  "unit": "кг",
+  "price": 45.0,
+  "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 11,
+  "expiry_days": 7,
   "is_organic": false,
-  "barcode": "3848145247891",
+  "barcode": "9098487338885",
   "manufacturer": {
-    "name": "ООО «Фермерское мясо»",
+    "name": "ООО «Крупяной двор»",
     "country": "Россия",
-    "website": "https://фермерскоемясо.ru",
-    "inn": "9820475358"
+    "website": "https://крупянойдвор.ru",
+    "inn": "4511537443"
   }
 }

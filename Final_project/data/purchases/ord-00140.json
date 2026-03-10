@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00140",
   "customer": {
-    "customer_id": "cus-1003",
-    "first_name": "Азарий",
-    "last_name": "Макаров"
+    "customer_id": "cus-1043",
+    "first_name": "Регина",
+    "last_name": "Бурова"
   },
   "store": {
-    "store_id": "store-005",
-    "store_name": "Большая Пикча — Магазин на пер. Крестьянский",
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Волочаевская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Волгоград",
-      "street": "пер. Крестьянский",
-      "house": "797",
-      "postal_code": "959410",
+      "city": "Оренбург",
+      "street": "алл. Волочаевская",
+      "house": "67",
+      "postal_code": "998293",
       "coordinates": {
-        "latitude": 48.699683,
-        "longitude": 44.515249
+        "latitude": 51.769113,
+        "longitude": 55.091894
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1013",
-      "name": "Баранина",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
-      "unit": "кг",
-      "price_per_unit": 550.0,
-      "total_price": 1650.0,
-      "kbju": {
-        "calories": 207.8,
-        "protein": 24.4,
-        "fat": 13.3,
-        "carbohydrates": 2.3
-      },
-      "manufacturer": {
-        "name": "ООО «Фермерское мясо»",
-        "country": "Россия",
-        "website": "https://фермерскоемясо.ru",
-        "inn": "9820475358"
-      }
-    },
-    {
       "product_id": "prd-1041",
-      "name": "Кинза свежая",
+      "name": "Укроп свежий",
       "category": "🥦 Овощи и зелень",
-      "quantity": 3,
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 25.0,
-      "total_price": 75.0,
+      "price_per_unit": 20.0,
+      "total_price": 80.0,
       "kbju": {
-        "calories": 34.5,
-        "protein": 2.6,
-        "fat": 0.1,
-        "carbohydrates": 4.5
+        "calories": 53.8,
+        "protein": 1.0,
+        "fat": 0.3,
+        "carbohydrates": 6.7
       },
       "manufacturer": {
         "name": "ИП «Зелень»",
         "country": "Россия",
         "website": "https://зелень.ru",
-        "inn": "1623815573"
+        "inn": "6330163268"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 95.0,
+      "kbju": {
+        "calories": 73.5,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbohydrates": 10.3
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1796229374"
       }
     }
   ],
-  "total_amount": 1725.0,
-  "payment_method": "card",
-  "is_delivery": true,
+  "total_amount": 175.0,
+  "payment_method": "cash",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Чебоксары",
-    "street": "пр. Ярославский",
-    "house": "4/2",
-    "apartment": "83",
-    "postal_code": "481830"
+    "city": "Новосибирск",
+    "street": "пр. Шаумяна",
+    "house": "4",
+    "apartment": "55",
+    "postal_code": "941592"
   },
-  "purchase_datetime": "2026-02-26T17:57:36.247701"
+  "purchase_datetime": "2026-03-09T19:09:09.841143"
 }

@@ -1,24 +1,24 @@
 {
   "id": "prd-1026",
-  "name": "Сыр Маасдам",
+  "name": "Сыр Косичка",
   "group": "🥛 Молочные продукты",
-  "description": "Полутвёрдый, 300 г",
+  "description": "Копчёный, 200 г",
   "kbju": {
-    "calories": 87.2,
-    "protein": 4.1,
-    "fat": 6.0,
-    "carbohydrates": 4.6
+    "calories": 85.5,
+    "protein": 5.4,
+    "fat": 1.1,
+    "carbohydrates": 10.2
   },
-  "price": 250.0,
+  "price": 130.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 5,
-  "is_organic": true,
-  "barcode": "9800080449703",
+  "expiry_days": 7,
+  "is_organic": false,
+  "barcode": "3933243818460",
   "manufacturer": {
-    "name": "ООО «Сыробогатов»",
+    "name": "ООО «Сыровар»",
     "country": "Россия",
-    "website": "https://сыробогатов.ru",
-    "inn": "5185580479"
+    "website": "https://сыровар.ru",
+    "inn": "7103183531"
   }
 }

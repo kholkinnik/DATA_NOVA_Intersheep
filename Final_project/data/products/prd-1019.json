@@ -1,24 +1,24 @@
 {
   "id": "prd-1019",
-  "name": "Пельмени русские",
+  "name": "Сардины в масле",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Замороженные, 500 г",
+  "description": "Консервы, 240 г",
   "kbju": {
-    "calories": 290.9,
-    "protein": 18.9,
-    "fat": 5.2,
-    "carbohydrates": 2.0
+    "calories": 156.0,
+    "protein": 22.0,
+    "fat": 13.4,
+    "carbohydrates": 9.6
   },
-  "price": 130.0,
-  "unit": "уп",
+  "price": 95.0,
+  "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 28,
-  "is_organic": false,
-  "barcode": "4345238215731",
+  "expiry_days": 18,
+  "is_organic": true,
+  "barcode": "8529933415726",
   "manufacturer": {
-    "name": "ООО «Сибирский гурман»",
+    "name": "ООО «Рыбные консервы»",
     "country": "Россия",
-    "website": "https://сибирскийгурман.ru",
-    "inn": "8707694030"
+    "website": "https://рыбныеконсервы.ru",
+    "inn": "4948064786"
   }
 }

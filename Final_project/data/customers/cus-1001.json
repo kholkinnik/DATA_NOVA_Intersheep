@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1001",
-  "first_name": "Мария",
-  "last_name": "Артемьева",
-  "email": "gromovvisheslav@example.com",
-  "phone": "83222629550",
-  "birth_date": "1983-06-04",
-  "gender": "female",
-  "registration_date": "2026-01-25T17:57:36.095856",
+  "first_name": "Лаврентий",
+  "last_name": "Лазарев",
+  "email": "panovafaina@example.net",
+  "phone": "+7 154 273 71 13",
+  "birth_date": "1960-05-18",
+  "gender": "male",
+  "registration_date": "2026-02-04T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-DCD34EC382",
+  "loyalty_card_number": "LOYAL-B6DB2C48F0",
   "purchase_location": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "наб. Целинная",
-    "house": "34",
-    "postal_code": "748924",
+    "city": "Чебоксары",
+    "street": "ш. Сенное",
+    "house": "8/9",
+    "postal_code": "492060",
     "coordinates": {
-      "latitude": 55.163174,
-      "longitude": 61.431151
+      "latitude": 56.144881,
+      "longitude": 47.252853
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "наб. Ангарская",
-    "house": "4/7",
-    "apartment": "98",
-    "postal_code": "356308"
+    "city": "Чебоксары",
+    "street": "пер. Заречный",
+    "house": "311",
+    "apartment": "42",
+    "postal_code": "514252"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": false
+    "receive_promotions": true
   }
 }

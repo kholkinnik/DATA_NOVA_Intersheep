@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1010",
-  "first_name": "Светлана",
-  "last_name": "Быкова",
-  "email": "praskovja_79@example.com",
-  "phone": "+7 948 222 2161",
-  "birth_date": "1994-08-28",
+  "first_name": "Екатерина",
+  "last_name": "Нестерова",
+  "email": "taras1979@example.org",
+  "phone": "+7 (073) 008-50-11",
+  "birth_date": "1973-06-10",
   "gender": "female",
-  "registration_date": "2026-02-24T17:57:36.104025",
+  "registration_date": "2026-02-07T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-82E7248B55",
+  "loyalty_card_number": "LOYAL-B2D4C13CF7",
   "purchase_location": {
     "country": "Россия",
-    "city": "Красноярск",
-    "street": "алл. З.Космодемьянской",
-    "house": "68",
-    "postal_code": "882212",
+    "city": "Волгоград",
+    "street": "ул. Калинина",
+    "house": "5",
+    "postal_code": "247980",
     "coordinates": {
-      "latitude": 56.003083,
-      "longitude": 92.853782
+      "latitude": 48.711553,
+      "longitude": 44.507736
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Красноярск",
-    "street": "ш. Коммунаров",
-    "house": "48",
-    "apartment": "89",
-    "postal_code": "603037"
+    "city": "Волгоград",
+    "street": "алл. Пожарского",
+    "house": "9/8",
+    "apartment": "53",
+    "postal_code": "673162"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "card",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

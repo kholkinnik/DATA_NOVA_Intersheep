@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00051",
   "customer": {
-    "customer_id": "cus-1034",
-    "first_name": "Ирина",
-    "last_name": "Наумова"
+    "customer_id": "cus-1017",
+    "first_name": "Ферапонт",
+    "last_name": "Ильин"
   },
   "store": {
-    "store_id": "store-014",
-    "store_name": "Большая Пикча — Магазин на пер. Володарского",
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на пр. Гастелло",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Чебоксары",
-      "street": "пер. Володарского",
-      "house": "182",
-      "postal_code": "505264",
+      "city": "Набережные Челны",
+      "street": "пр. Гастелло",
+      "house": "46",
+      "postal_code": "791867",
       "coordinates": {
-        "latitude": 56.139571,
-        "longitude": 47.246618
+        "latitude": 55.748699,
+        "longitude": 52.404732
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 200.0,
-      "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
-      },
-      "manufacturer": {
-        "name": "Danone",
-        "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
-      }
-    },
-    {
-      "product_id": "prd-1038",
-      "name": "Чернослив",
+      "product_id": "prd-1035",
+      "name": "Финики",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 500.0,
+      "price_per_unit": 150.0,
+      "total_price": 150.0,
       "kbju": {
-        "calories": 33.4,
-        "protein": 1.3,
-        "fat": 0.5,
-        "carbohydrates": 18.2
+        "calories": 50.6,
+        "protein": 0.8,
+        "fat": 0.7,
+        "carbohydrates": 18.4
       },
       "manufacturer": {
         "name": "ООО «Сухофрукты»",
         "country": "Россия",
         "website": "https://сухофрукты.ru",
-        "inn": "5737508318"
-      }
-    },
-    {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 330.0,
-      "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
-      },
-      "manufacturer": {
-        "name": "Птицефабрика «Северная»",
-        "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
+        "inn": "9784600632"
       }
     }
   ],
-  "total_amount": 1030.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 150.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Омск",
-    "street": "ул. Пархоменко",
-    "house": "551",
-    "apartment": "31",
-    "postal_code": "956983"
+    "city": "Уфа",
+    "street": "пр. О.Кошевого",
+    "house": "5",
+    "apartment": "56",
+    "postal_code": "336298"
   },
-  "purchase_datetime": "2026-03-01T17:57:36.170003"
+  "purchase_datetime": "2026-03-06T19:09:09.799949"
 }

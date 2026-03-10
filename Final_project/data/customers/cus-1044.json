@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1044",
-  "first_name": "Конон",
-  "last_name": "Бобров",
-  "email": "shilovsigizmund@example.com",
-  "phone": "+74920269005",
-  "birth_date": "1994-04-20",
+  "first_name": "Феофан",
+  "last_name": "Быков",
+  "email": "evdokimovaeleonora@example.org",
+  "phone": "8 (906) 695-86-98",
+  "birth_date": "1960-03-08",
   "gender": "male",
-  "registration_date": "2025-12-24T17:57:36.128402",
+  "registration_date": "2026-01-17T19:09:09.774455",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-95EF3F5621",
+  "loyalty_card_number": "LOYAL-162AEF14BE",
   "purchase_location": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "наб. Смоленская",
-    "house": "6",
-    "postal_code": "109913",
+    "city": "Барнаул",
+    "street": "алл. Воровского",
+    "house": "29",
+    "postal_code": "591973",
     "coordinates": {
-      "latitude": 57.145189,
-      "longitude": 65.528693
+      "latitude": 53.350304,
+      "longitude": 83.767415
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "пер. Физкультурный",
-    "house": "5",
-    "apartment": "3",
-    "postal_code": "063371"
+    "city": "Барнаул",
+    "street": "ш. Гаражное",
+    "house": "157",
+    "apartment": "36",
+    "postal_code": "580238"
   },
   "preferences": {
     "preferred_language": "ru",

@@ -1,24 +1,24 @@
 {
   "id": "prd-1002",
-  "name": "Печенье сахарное",
+  "name": "Овсяные хлопья",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "К чаю, 350 г",
+  "description": "Геркулес, 500 г",
   "kbju": {
-    "calories": 324.2,
-    "protein": 6.0,
-    "fat": 2.0,
-    "carbohydrates": 41.9
+    "calories": 259.0,
+    "protein": 7.4,
+    "fat": 2.6,
+    "carbohydrates": 50.4
   },
-  "price": 70.0,
+  "price": 45.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 27,
-  "is_organic": false,
-  "barcode": "8675808929291",
+  "expiry_days": 13,
+  "is_organic": true,
+  "barcode": "2237727511146",
   "manufacturer": {
-    "name": "ООО «Кондитер»",
+    "name": "ООО «Овсянка»",
     "country": "Россия",
-    "website": "https://кондитер.ru",
-    "inn": "1078687409"
+    "website": "https://овсянка.ru",
+    "inn": "2299793789"
   }
 }

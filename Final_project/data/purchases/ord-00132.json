@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00132",
   "customer": {
-    "customer_id": "cus-1012",
-    "first_name": "Валерия",
-    "last_name": "Лихачева"
+    "customer_id": "cus-1014",
+    "first_name": "Мария",
+    "last_name": "Белова"
   },
   "store": {
     "store_id": "store-045",
-    "store_name": "Маленькая Пикча — Магазин на наб. Смоленская",
+    "store_name": "Маленькая Пикча — Магазин на алл. Воровского",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Тюмень",
-      "street": "наб. Смоленская",
-      "house": "6",
-      "postal_code": "109913",
+      "city": "Барнаул",
+      "street": "алл. Воровского",
+      "house": "29",
+      "postal_code": "591973",
       "coordinates": {
-        "latitude": 57.145189,
-        "longitude": 65.528693
+        "latitude": 53.350304,
+        "longitude": 83.767415
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1015",
-      "name": "Фасоль красная в собственном соку",
+      "product_id": "prd-1017",
+      "name": "Яйцо перепелиное",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 90.0,
-      "total_price": 90.0,
+      "unit": "уп",
+      "price_per_unit": 75.0,
+      "total_price": 75.0,
       "kbju": {
-        "calories": 230.4,
-        "protein": 26.9,
-        "fat": 13.5,
-        "carbohydrates": 0.4
+        "calories": 200.4,
+        "protein": 26.1,
+        "fat": 23.7,
+        "carbohydrates": 12.2
       },
       "manufacturer": {
-        "name": "Бондюэль",
+        "name": "ИП «Перепел»",
         "country": "Россия",
-        "website": "https://бондюэль.ru",
-        "inn": "8320355207"
+        "website": "https://перепел.ru",
+        "inn": "3661177130"
       }
     },
     {
-      "product_id": "prd-1033",
-      "name": "Брусника",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1048",
+      "name": "Свекла",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 35.0,
+      "total_price": 105.0,
+      "kbju": {
+        "calories": 40.8,
+        "protein": 1.1,
+        "fat": 0.5,
+        "carbohydrates": 7.4
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "1779343790"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Конина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 95.0,
-      "total_price": 95.0,
+      "unit": "кг",
+      "price_per_unit": 400.0,
+      "total_price": 400.0,
       "kbju": {
-        "calories": 99.7,
-        "protein": 0.8,
-        "fat": 0.4,
-        "carbohydrates": 10.2
+        "calories": 320.1,
+        "protein": 20.0,
+        "fat": 17.6,
+        "carbohydrates": 1.7
       },
       "manufacturer": {
-        "name": "ИП Ягодная поляна",
+        "name": "АО «Табун»",
         "country": "Россия",
-        "website": "https://ягоднаяполяна.ru",
-        "inn": "7966740421"
-      }
-    },
-    {
-      "product_id": "prd-1039",
-      "name": "Манго",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 240.0,
-      "kbju": {
-        "calories": 61.3,
-        "protein": 1.7,
-        "fat": 0.8,
-        "carbohydrates": 12.1
-      },
-      "manufacturer": {
-        "name": "Тропические фрукты",
-        "country": "Россия",
-        "website": "https://тропическиефрукты.ru",
-        "inn": "9701474826"
+        "website": "https://табун.ru",
+        "inn": "1260330660"
       }
     }
   ],
-  "total_amount": 425.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 580.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "ш. Достоевского",
-    "house": "8/9",
+    "city": "Томск",
+    "street": "наб. Новгородская",
+    "house": "4/2",
     "apartment": "86",
-    "postal_code": "239862"
+    "postal_code": "122444"
   },
-  "purchase_datetime": "2026-02-18T17:57:36.239909"
+  "purchase_datetime": "2026-02-15T19:09:09.841143"
 }

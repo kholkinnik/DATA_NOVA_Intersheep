@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00065",
   "customer": {
-    "customer_id": "cus-1011",
-    "first_name": "Никон",
-    "last_name": "Шубин"
+    "customer_id": "cus-1007",
+    "first_name": "Станимир",
+    "last_name": "Ермаков"
   },
   "store": {
-    "store_id": "store-007",
-    "store_name": "Большая Пикча — Магазин на ш. Приозерное",
-    "store_network": "Большая Пикча",
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на пр. Гаражный",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Балашиха",
-      "street": "ш. Приозерное",
-      "house": "1",
-      "postal_code": "883921",
+      "city": "Пермь",
+      "street": "пр. Гаражный",
+      "house": "5",
+      "postal_code": "252023",
       "coordinates": {
-        "latitude": 55.798939,
-        "longitude": 37.929929
+        "latitude": 58.004755,
+        "longitude": 56.251467
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
+      "product_id": "prd-1008",
+      "name": "Макароны рожки",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 330.0,
+      "price_per_unit": 55.0,
+      "total_price": 220.0,
       "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
+        "calories": 303.3,
+        "protein": 8.3,
+        "fat": 3.3,
+        "carbohydrates": 58.2
       },
       "manufacturer": {
-        "name": "Птицефабрика «Северная»",
+        "name": "ООО «Шебекинские»",
         "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
+        "website": "https://шебекинские.ru",
+        "inn": "8469368887"
       }
     },
     {
-      "product_id": "prd-1006",
-      "name": "Гречка",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
+      "product_id": "prd-1037",
+      "name": "Клюква",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 75.0,
-      "total_price": 150.0,
+      "price_per_unit": 100.0,
+      "total_price": 400.0,
       "kbju": {
-        "calories": 240.3,
-        "protein": 11.7,
-        "fat": 4.8,
-        "carbohydrates": 50.5
+        "calories": 80.0,
+        "protein": 1.0,
+        "fat": 0.6,
+        "carbohydrates": 12.6
       },
       "manufacturer": {
-        "name": "ООО «Мистраль»",
+        "name": "ИП Ягодная поляна",
         "country": "Россия",
-        "website": "https://мистраль.ru",
-        "inn": "6141052240"
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "6354098213"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Котлеты домашние",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "уп",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 345.2,
+        "protein": 20.0,
+        "fat": 20.7,
+        "carbohydrates": 10.2
+      },
+      "manufacturer": {
+        "name": "ООО «Мясные полуфабрикаты»",
+        "country": "Россия",
+        "website": "https://мясныеполуфабрикаты.ru",
+        "inn": "3384785060"
       }
     }
   ],
-  "total_amount": 480.0,
-  "payment_method": "card",
+  "total_amount": 1070.0,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "пер. Путейский",
-    "house": "3/6",
-    "apartment": "57",
-    "postal_code": "156540"
+    "city": "Хабаровск",
+    "street": "алл. Покровская",
+    "house": "1/6",
+    "apartment": "89",
+    "postal_code": "516949"
   },
-  "purchase_datetime": "2025-12-27T17:57:36.181157"
+  "purchase_datetime": "2025-12-10T19:09:09.811497"
 }

@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00019",
   "customer": {
-    "customer_id": "cus-1013",
-    "first_name": "Игорь",
-    "last_name": "Комаров"
+    "customer_id": "cus-1003",
+    "first_name": "Сергей",
+    "last_name": "Архипов"
   },
   "store": {
-    "store_id": "store-041",
-    "store_name": "Маленькая Пикча — Магазин на пер. Карла Маркса",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пер. Беляева",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ульяновск",
-      "street": "пер. Карла Маркса",
-      "house": "8/7",
-      "postal_code": "507091",
+      "city": "Томск",
+      "street": "пер. Беляева",
+      "house": "3",
+      "postal_code": "143215",
       "coordinates": {
-        "latitude": 54.32274,
-        "longitude": 48.393284
+        "latitude": 56.492361,
+        "longitude": 84.972922
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1015",
-      "name": "Фасоль красная в собственном соку",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "product_id": "prd-1043",
+      "name": "Сельдерей корневой",
+      "category": "🥦 Овощи и зелень",
       "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 90.0,
-      "total_price": 450.0,
+      "price_per_unit": 50.0,
+      "total_price": 250.0,
       "kbju": {
-        "calories": 230.4,
-        "protein": 26.9,
-        "fat": 13.5,
-        "carbohydrates": 0.4
+        "calories": 29.4,
+        "protein": 0.8,
+        "fat": 0.5,
+        "carbohydrates": 6.0
       },
       "manufacturer": {
-        "name": "Бондюэль",
+        "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
-        "website": "https://бондюэль.ru",
-        "inn": "8320355207"
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "0862782320"
       }
     },
     {
-      "product_id": "prd-1024",
+      "product_id": "prd-1002",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 135.0,
+      "kbju": {
+        "calories": 259.0,
+        "protein": 7.4,
+        "fat": 2.6,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Овсянка»",
+        "country": "Россия",
+        "website": "https://овсянка.ru",
+        "inn": "2299793789"
+      }
+    },
+    {
+      "product_id": "prd-1023",
       "name": "Йогурт питьевой клубничный",
       "category": "🥛 Молочные продукты",
-      "quantity": 2,
+      "quantity": 1,
       "unit": "шт",
       "price_per_unit": 48.0,
-      "total_price": 96.0,
+      "total_price": 48.0,
       "kbju": {
-        "calories": 151.1,
-        "protein": 9.0,
-        "fat": 11.5,
-        "carbohydrates": 12.0
+        "calories": 191.1,
+        "protein": 4.9,
+        "fat": 14.3,
+        "carbohydrates": 9.0
       },
       "manufacturer": {
         "name": "Danone",
         "country": "Россия",
         "website": "https://danone.ru",
-        "inn": "3928715855"
-      }
-    },
-    {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 100.0,
-      "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
-      },
-      "manufacturer": {
-        "name": "Danone",
-        "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
+        "inn": "3163770889"
       }
     }
   ],
-  "total_amount": 646.0,
-  "payment_method": "cash",
+  "total_amount": 433.0,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Чебоксары",
-    "street": "пр. Марта 8",
-    "house": "8",
-    "apartment": "51",
-    "postal_code": "045325"
+    "city": "Воронеж",
+    "street": "ул. Интернациональная",
+    "house": "278",
+    "apartment": "7",
+    "postal_code": "000048"
   },
-  "purchase_datetime": "2025-12-25T17:57:36.144213"
+  "purchase_datetime": "2025-12-13T19:09:09.781999"
 }

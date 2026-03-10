@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00154",
   "customer": {
-    "customer_id": "cus-1035",
-    "first_name": "Октябрина",
-    "last_name": "Сергеева"
+    "customer_id": "cus-1028",
+    "first_name": "Светлана",
+    "last_name": "Титова"
   },
   "store": {
     "store_id": "store-007",
-    "store_name": "Большая Пикча — Магазин на ш. Приозерное",
+    "store_name": "Большая Пикча — Магазин на бул. Правды",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Балашиха",
-      "street": "ш. Приозерное",
-      "house": "1",
-      "postal_code": "883921",
+      "city": "Москва",
+      "street": "бул. Правды",
+      "house": "51",
+      "postal_code": "956240",
       "coordinates": {
-        "latitude": 55.798939,
-        "longitude": 37.929929
+        "latitude": 55.762646,
+        "longitude": 37.609722
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1045",
-      "name": "Чеснок",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1014",
+      "name": "Конина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 2,
       "unit": "кг",
-      "price_per_unit": 150.0,
-      "total_price": 300.0,
+      "price_per_unit": 400.0,
+      "total_price": 800.0,
       "kbju": {
-        "calories": 50.9,
-        "protein": 1.4,
-        "fat": 0.6,
-        "carbohydrates": 7.3
+        "calories": 320.1,
+        "protein": 20.0,
+        "fat": 17.6,
+        "carbohydrates": 1.7
       },
       "manufacturer": {
-        "name": "ИП «Огородник»",
+        "name": "АО «Табун»",
         "country": "Россия",
-        "website": "https://огородник.ru",
-        "inn": "9765085333"
+        "website": "https://табун.ru",
+        "inn": "1260330660"
       }
     },
     {
-      "product_id": "prd-1004",
-      "name": "Сухари панировочные",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 40.0,
-      "total_price": 160.0,
+      "product_id": "prd-1034",
+      "name": "Апельсины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 120.0,
+      "total_price": 360.0,
       "kbju": {
-        "calories": 243.4,
-        "protein": 9.6,
-        "fat": 5.4,
-        "carbohydrates": 53.0
+        "calories": 83.6,
+        "protein": 1.8,
+        "fat": 0.2,
+        "carbohydrates": 18.3
       },
       "manufacturer": {
-        "name": "ООО «Русский продукт»",
+        "name": "Средиземноморский экспорт",
         "country": "Россия",
-        "website": "https://русскийпродукт.ru",
-        "inn": "0882036165"
-      }
-    },
-    {
-      "product_id": "prd-1025",
-      "name": "Сливки 35%",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 100.0,
-      "kbju": {
-        "calories": 77.8,
-        "protein": 10.0,
-        "fat": 7.1,
-        "carbohydrates": 3.7
-      },
-      "manufacturer": {
-        "name": "Простоквашино",
-        "country": "Россия",
-        "website": "https://простоквашино.ru",
-        "inn": "1267810496"
+        "website": "https://средиземноморскийэкспорт.ru",
+        "inn": "5609742568"
       }
     }
   ],
-  "total_amount": 560.0,
-  "payment_method": "card",
+  "total_amount": 1160.0,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владивосток",
-    "street": "пер. Высотный",
-    "house": "187",
-    "apartment": "73",
-    "postal_code": "360621"
+    "city": "Пенза",
+    "street": "пр. Осенний",
+    "house": "13",
+    "apartment": "74",
+    "postal_code": "244565"
   },
-  "purchase_datetime": "2026-01-09T17:57:36.260766"
+  "purchase_datetime": "2026-01-23T19:09:09.858117"
 }

@@ -1,24 +1,24 @@
 {
   "id": "prd-1017",
-  "name": "Печень куриная",
+  "name": "Яйцо перепелиное",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Охлаждённая, 400 г",
+  "description": "10 шт",
   "kbju": {
-    "calories": 158.4,
-    "protein": 16.3,
-    "fat": 7.4,
-    "carbohydrates": 13.5
+    "calories": 200.4,
+    "protein": 26.1,
+    "fat": 23.7,
+    "carbohydrates": 12.2
   },
-  "price": 110.0,
-  "unit": "шт",
+  "price": 75.0,
+  "unit": "уп",
   "origin_country": "Россия",
-  "expiry_days": 23,
+  "expiry_days": 14,
   "is_organic": true,
-  "barcode": "1002103615005",
+  "barcode": "2263633771046",
   "manufacturer": {
-    "name": "Птицефабрика «Северная»",
+    "name": "ИП «Перепел»",
     "country": "Россия",
-    "website": "https://птицефабрикасеверная.ru",
-    "inn": "8953760795"
+    "website": "https://перепел.ru",
+    "inn": "3661177130"
   }
 }

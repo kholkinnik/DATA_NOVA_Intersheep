@@ -1,6 +1,6 @@
 {
   "store_id": "store-041",
-  "store_name": "Маленькая Пикча — Магазин на пер. Карла Маркса",
+  "store_name": "Маленькая Пикча — Магазин на пер. Щербакова",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Татьяна Олеговна Мясникова",
-    "phone": "+7 (714) 991-85-22",
-    "email": "martinovapraskovja@example.org"
+    "name": "Владимирова Вероника Владиславовна",
+    "phone": "88121796872",
+    "email": "kotovanisim@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Ульяновск",
-    "street": "пер. Карла Маркса",
-    "house": "8/7",
-    "postal_code": "507091",
+    "city": "Нижний Новгород",
+    "street": "пер. Щербакова",
+    "house": "7",
+    "postal_code": "924885",
     "coordinates": {
-      "latitude": 54.32274,
-      "longitude": 48.393284
+      "latitude": 56.331715,
+      "longitude": 44.000386
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

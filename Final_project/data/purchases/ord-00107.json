@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00107",
   "customer": {
-    "customer_id": "cus-1023",
-    "first_name": "Ксения",
-    "last_name": "Савельева"
+    "customer_id": "cus-1024",
+    "first_name": "Анжела",
+    "last_name": "Самойлова"
   },
   "store": {
-    "store_id": "store-015",
-    "store_name": "Большая Пикча — Магазин на пер. Чайковского",
-    "store_network": "Большая Пикча",
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пр. Гафури",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Челябинск",
-      "street": "пер. Чайковского",
-      "house": "7/3",
-      "postal_code": "170687",
+      "city": "Барнаул",
+      "street": "пр. Гафури",
+      "house": "53",
+      "postal_code": "661113",
       "coordinates": {
-        "latitude": 55.170389,
-        "longitude": 61.429472
+        "latitude": 53.36306,
+        "longitude": 83.764942
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Пельмени русские",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
-      "unit": "уп",
-      "price_per_unit": 130.0,
-      "total_price": 130.0,
+      "product_id": "prd-1038",
+      "name": "Крыжовник",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 400.0,
       "kbju": {
-        "calories": 290.9,
-        "protein": 18.9,
-        "fat": 5.2,
-        "carbohydrates": 2.0
+        "calories": 41.4,
+        "protein": 0.6,
+        "fat": 0.3,
+        "carbohydrates": 19.2
       },
       "manufacturer": {
-        "name": "ООО «Сибирский гурман»",
+        "name": "ИП Ягодная поляна",
         "country": "Россия",
-        "website": "https://сибирскийгурман.ru",
-        "inn": "8707694030"
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1469683626"
       }
     }
   ],
-  "total_amount": 130.0,
+  "total_amount": 400.0,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Крупской",
-    "house": "14",
-    "apartment": "97",
-    "postal_code": "966241"
+    "city": "Ижевск",
+    "street": "наб. Инженерная",
+    "house": "75",
+    "apartment": "39",
+    "postal_code": "595671"
   },
-  "purchase_datetime": "2026-01-09T17:57:36.219335"
+  "purchase_datetime": "2026-01-02T19:09:09.825654"
 }

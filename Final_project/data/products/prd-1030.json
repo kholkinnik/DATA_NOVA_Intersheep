@@ -1,24 +1,24 @@
 {
   "id": "prd-1030",
-  "name": "Грейпфрут",
+  "name": "Манго",
   "group": "🍏 Фрукты и ягоды",
-  "description": "Красный грейпфрут, 1 шт",
+  "description": "Спелое манго, 1 шт",
   "kbju": {
-    "calories": 60.7,
-    "protein": 1.5,
-    "fat": 0.6,
-    "carbohydrates": 7.7
+    "calories": 68.7,
+    "protein": 1.0,
+    "fat": 0.4,
+    "carbohydrates": 5.6
   },
-  "price": 50.0,
+  "price": 120.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 12,
+  "expiry_days": 9,
   "is_organic": false,
-  "barcode": "8931894859493",
+  "barcode": "8024683324781",
   "manufacturer": {
-    "name": "ИП Цитрус",
+    "name": "Тропические фрукты",
     "country": "Россия",
-    "website": "https://цитрус.ru",
-    "inn": "2114424981"
+    "website": "https://тропическиефрукты.ru",
+    "inn": "4742502578"
   }
 }

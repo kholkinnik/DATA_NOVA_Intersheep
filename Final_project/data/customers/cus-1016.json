@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1016",
-  "first_name": "Александра",
-  "last_name": "Стрелкова",
-  "email": "teterinanaina@example.org",
-  "phone": "+7 722 883 3863",
-  "birth_date": "1979-09-16",
-  "gender": "female",
-  "registration_date": "2026-02-07T17:57:36.108198",
+  "first_name": "Анатолий",
+  "last_name": "Зимин",
+  "email": "vmolchanov@example.net",
+  "phone": "8 (426) 929-79-21",
+  "birth_date": "1968-04-18",
+  "gender": "male",
+  "registration_date": "2026-02-26T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-7A917AB0CC",
+  "loyalty_card_number": "LOYAL-53BA42BB8A",
   "purchase_location": {
     "country": "Россия",
-    "city": "Севастополь",
-    "street": "пр. Водников",
-    "house": "5/5",
-    "postal_code": "317340",
+    "city": "Оренбург",
+    "street": "алл. Волочаевская",
+    "house": "67",
+    "postal_code": "998293",
     "coordinates": {
-      "latitude": 44.608385,
-      "longitude": 33.524218
+      "latitude": 51.769113,
+      "longitude": 55.091894
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Севастополь",
-    "street": "наб. Дарвина",
-    "house": "43",
-    "apartment": "77",
-    "postal_code": "319629"
+    "city": "Оренбург",
+    "street": "пр. Курганный",
+    "house": "1",
+    "apartment": "95",
+    "postal_code": "798285"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "card",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

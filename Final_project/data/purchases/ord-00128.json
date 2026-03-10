@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00128",
   "customer": {
-    "customer_id": "cus-1014",
-    "first_name": "Евдокия",
-    "last_name": "Аксенова"
+    "customer_id": "cus-1006",
+    "first_name": "Максим",
+    "last_name": "Шаров"
   },
   "store": {
-    "store_id": "store-026",
-    "store_name": "Большая Пикча — Магазин на ш. Водников",
-    "store_network": "Большая Пикча",
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на алл. Карбышева",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владивосток",
-      "street": "ш. Водников",
-      "house": "2",
-      "postal_code": "061270",
+      "city": "Екатеринбург",
+      "street": "алл. Карбышева",
+      "house": "6",
+      "postal_code": "305586",
       "coordinates": {
-        "latitude": 43.141065,
-        "longitude": 131.912086
+        "latitude": 56.840877,
+        "longitude": 60.601196
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1049",
-      "name": "Морковь мытая",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1022",
+      "name": "Снежок",
+      "category": "🥛 Молочные продукты",
       "quantity": 5,
-      "unit": "кг",
-      "price_per_unit": 45.0,
-      "total_price": 225.0,
-      "kbju": {
-        "calories": 49.7,
-        "protein": 1.1,
-        "fat": 0.6,
-        "carbohydrates": 6.4
-      },
-      "manufacturer": {
-        "name": "Фермерское хозяйство «Лето»",
-        "country": "Россия",
-        "website": "https://фермерскоехозяйстволето.ru",
-        "inn": "4052033610"
-      }
-    },
-    {
-      "product_id": "prd-1044",
-      "name": "Маслины",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 400.0,
+      "price_per_unit": 55.0,
+      "total_price": 275.0,
       "kbju": {
-        "calories": 35.1,
-        "protein": 2.4,
-        "fat": 0.3,
-        "carbohydrates": 6.2
+        "calories": 82.7,
+        "protein": 7.6,
+        "fat": 1.8,
+        "carbohydrates": 5.0
       },
       "manufacturer": {
-        "name": "Италика",
+        "name": "Вимм-Билль-Данн",
         "country": "Россия",
-        "website": "https://италика.ru",
-        "inn": "1731751304"
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "0415662193"
       }
     },
     {
-      "product_id": "prd-1016",
-      "name": "Манты",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
-      "unit": "уп",
-      "price_per_unit": 180.0,
-      "total_price": 540.0,
+      "product_id": "prd-1027",
+      "name": "Сметана 20%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 160.0,
       "kbju": {
-        "calories": 245.3,
-        "protein": 27.7,
-        "fat": 19.5,
-        "carbohydrates": 12.0
+        "calories": 93.9,
+        "protein": 9.6,
+        "fat": 13.8,
+        "carbohydrates": 10.1
       },
       "manufacturer": {
-        "name": "ООО «Восточные пельмени»",
+        "name": "Простоквашино",
         "country": "Россия",
-        "website": "https://восточныепельмени.ru",
-        "inn": "3404107841"
+        "website": "https://простоквашино.ru",
+        "inn": "3313924198"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Торт Медовик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 500.0,
+      "kbju": {
+        "calories": 230.5,
+        "protein": 8.3,
+        "fat": 2.8,
+        "carbohydrates": 50.7
+      },
+      "manufacturer": {
+        "name": "ООО «Сластёна»",
+        "country": "Россия",
+        "website": "https://сластёна.ru",
+        "inn": "7728792532"
       }
     }
   ],
-  "total_amount": 1165.0,
-  "payment_method": "cash",
+  "total_amount": 935.0,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "алл. Курортная",
-    "house": "5/1",
-    "apartment": "94",
-    "postal_code": "304109"
+    "city": "Москва",
+    "street": "ш. Строительное",
+    "house": "42",
+    "apartment": "59",
+    "postal_code": "911001"
   },
-  "purchase_datetime": "2026-01-10T17:57:36.237367"
+  "purchase_datetime": "2026-01-29T19:09:09.841143"
 }

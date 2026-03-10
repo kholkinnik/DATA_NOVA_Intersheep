@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1018",
-  "first_name": "Алина",
-  "last_name": "Борисова",
-  "email": "paramonpetrov@example.org",
-  "phone": "+7 129 742 0888",
-  "birth_date": "1991-02-03",
+  "first_name": "Синклитикия",
+  "last_name": "Селиверстова",
+  "email": "trifon_1972@example.org",
+  "phone": "+7 (390) 888-82-72",
+  "birth_date": "1973-11-26",
   "gender": "female",
-  "registration_date": "2026-02-08T17:57:36.109198",
+  "registration_date": "2026-03-07T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-A9E9319DE4",
+  "loyalty_card_number": "LOYAL-F44E62D41A",
   "purchase_location": {
     "country": "Россия",
-    "city": "Магнитогорск",
-    "street": "пер. Камский",
-    "house": "36",
-    "postal_code": "521736",
+    "city": "Белгород",
+    "street": "пер. Свердлова",
+    "house": "977",
+    "postal_code": "272074",
     "coordinates": {
-      "latitude": 53.413617,
-      "longitude": 58.971875
+      "latitude": 50.603854,
+      "longitude": 36.591365
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Магнитогорск",
-    "street": "ул. Подлесная",
-    "house": "6",
-    "apartment": "24",
-    "postal_code": "075887"
+    "city": "Белгород",
+    "street": "алл. Сурикова",
+    "house": "23",
+    "apartment": "54",
+    "postal_code": "019990"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": false
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
   }
 }

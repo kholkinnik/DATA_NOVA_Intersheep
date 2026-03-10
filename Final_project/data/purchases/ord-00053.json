@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00053",
   "customer": {
-    "customer_id": "cus-1009",
-    "first_name": "Анжелика",
-    "last_name": "Носова"
+    "customer_id": "cus-1019",
+    "first_name": "Афанасий",
+    "last_name": "Громов"
   },
   "store": {
-    "store_id": "store-004",
-    "store_name": "Большая Пикча — Магазин на бул. Серова",
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на наб. Гайдара",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Чебоксары",
-      "street": "бул. Серова",
-      "house": "906",
-      "postal_code": "969267",
+      "city": "Нижний Новгород",
+      "street": "наб. Гайдара",
+      "house": "46",
+      "postal_code": "760310",
       "coordinates": {
-        "latitude": 56.150128,
-        "longitude": 47.255986
+        "latitude": 56.322972,
+        "longitude": 43.996448
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1037",
-      "name": "Бананы",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
-      "unit": "кг",
-      "price_per_unit": 95.0,
-      "total_price": 380.0,
-      "kbju": {
-        "calories": 79.7,
-        "protein": 1.0,
-        "fat": 0.2,
-        "carbohydrates": 9.8
-      },
-      "manufacturer": {
-        "name": "Эко-Фрукты",
-        "country": "Россия",
-        "website": "https://эко-фрукты.ru",
-        "inn": "4842169369"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Овсяные хлопья",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 3,
+      "product_id": "prd-1020",
+      "name": "Сыр Адыгейский",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 45.0,
-      "total_price": 135.0,
+      "price_per_unit": 110.0,
+      "total_price": 550.0,
       "kbju": {
-        "calories": 238.1,
-        "protein": 12.0,
-        "fat": 4.7,
-        "carbohydrates": 51.5
+        "calories": 62.6,
+        "protein": 6.0,
+        "fat": 13.9,
+        "carbohydrates": 11.8
       },
       "manufacturer": {
-        "name": "ООО «Овсянка»",
+        "name": "ООО «Адыгейский сыр»",
         "country": "Россия",
-        "website": "https://овсянка.ru",
-        "inn": "0162446009"
+        "website": "https://адыгейскийсыр.ru",
+        "inn": "3595417802"
       }
     }
   ],
-  "total_amount": 515.0,
+  "total_amount": 550.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Краснодар",
-    "street": "пер. Ватутина",
-    "house": "7",
-    "apartment": "47",
-    "postal_code": "342287"
+    "city": "Владимир",
+    "street": "пер. Высоцкого",
+    "house": "7/5",
+    "apartment": "99",
+    "postal_code": "951120"
   },
-  "purchase_datetime": "2026-02-07T17:57:36.170989"
+  "purchase_datetime": "2026-01-04T19:09:09.799949"
 }

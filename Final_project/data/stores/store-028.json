@@ -1,6 +1,6 @@
 {
   "store_id": "store-028",
-  "store_name": "Большая Пикча — Магазин на пр. Дзержинского",
+  "store_name": "Большая Пикча — Магазин на ул. Машиностроителей",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Тарасов Федосий Ермилович",
-    "phone": "87579101438",
-    "email": "nkalinin@example.net"
+    "name": "Глафира Тимуровна Сидорова",
+    "phone": "+7 562 731 5800",
+    "email": "adorofeeva@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Самара",
-    "street": "пр. Дзержинского",
-    "house": "18",
-    "postal_code": "824453",
+    "city": "Пенза",
+    "street": "ул. Машиностроителей",
+    "house": "397",
+    "postal_code": "718441",
     "coordinates": {
-      "latitude": 53.251358,
-      "longitude": 50.223879
+      "latitude": 53.194061,
+      "longitude": 44.959002
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

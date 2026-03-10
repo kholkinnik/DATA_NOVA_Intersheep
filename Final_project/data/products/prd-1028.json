@@ -1,24 +1,24 @@
 {
   "id": "prd-1028",
-  "name": "Сыр Плавленый",
+  "name": "Тан",
   "group": "🥛 Молочные продукты",
-  "description": "Дружба, 90 г",
+  "description": "Кисломолочный напиток, 500 мл",
   "kbju": {
-    "calories": 197.8,
-    "protein": 3.9,
-    "fat": 12.6,
-    "carbohydrates": 7.2
+    "calories": 169.6,
+    "protein": 9.0,
+    "fat": 11.3,
+    "carbohydrates": 3.7
   },
-  "price": 35.0,
+  "price": 60.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 28,
-  "is_organic": false,
-  "barcode": "1025423527957",
+  "expiry_days": 25,
+  "is_organic": true,
+  "barcode": "1758869046194",
   "manufacturer": {
-    "name": "ООО «Сырок»",
+    "name": "ООО «Молочный край»",
     "country": "Россия",
-    "website": "https://сырок.ru",
-    "inn": "4295304954"
+    "website": "https://молочныйкрай.ru",
+    "inn": "7263688501"
   }
 }

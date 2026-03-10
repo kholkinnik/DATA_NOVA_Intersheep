@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00179",
   "customer": {
-    "customer_id": "cus-1032",
-    "first_name": "Ермил",
-    "last_name": "Савин"
+    "customer_id": "cus-1033",
+    "first_name": "Акулина",
+    "last_name": "Кулагина"
   },
   "store": {
-    "store_id": "store-030",
-    "store_name": "Большая Пикча — Магазин на ул. Павлова",
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на наб. Каштановая",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Улан-Удэ",
-      "street": "ул. Павлова",
-      "house": "6/6",
-      "postal_code": "942779",
+      "city": "Пенза",
+      "street": "наб. Каштановая",
+      "house": "8/1",
+      "postal_code": "119305",
       "coordinates": {
-        "latitude": 51.827445,
-        "longitude": 107.583893
+        "latitude": 53.199734,
+        "longitude": 44.959933
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1038",
-      "name": "Чернослив",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 200.0,
+      "product_id": "prd-1015",
+      "name": "Вареники с картошкой",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "уп",
+      "price_per_unit": 110.0,
+      "total_price": 440.0,
       "kbju": {
-        "calories": 33.4,
-        "protein": 1.3,
-        "fat": 0.5,
-        "carbohydrates": 18.2
+        "calories": 135.5,
+        "protein": 17.0,
+        "fat": 8.1,
+        "carbohydrates": 13.7
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "ООО «Домашние вареники»",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "5737508318"
+        "website": "https://домашниевареники.ru",
+        "inn": "6238389761"
       }
     }
   ],
-  "total_amount": 200.0,
-  "payment_method": "card",
-  "is_delivery": true,
+  "total_amount": 440.0,
+  "payment_method": "cash",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Ломоносова",
-    "house": "352",
-    "apartment": "57",
-    "postal_code": "331588"
+    "city": "Пермь",
+    "street": "ш. Хвойное",
+    "house": "39",
+    "apartment": "60",
+    "postal_code": "231493"
   },
-  "purchase_datetime": "2026-01-15T17:57:36.287768"
+  "purchase_datetime": "2026-02-19T19:09:09.873078"
 }

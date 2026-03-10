@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00044",
   "customer": {
-    "customer_id": "cus-1018",
-    "first_name": "Алина",
-    "last_name": "Борисова"
+    "customer_id": "cus-1039",
+    "first_name": "Ксения",
+    "last_name": "Назарова"
   },
   "store": {
-    "store_id": "store-006",
-    "store_name": "Большая Пикча — Магазин на ул. Дорожная",
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на алл. Одесская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Барнаул",
-      "street": "ул. Дорожная",
-      "house": "916",
-      "postal_code": "507430",
+      "city": "Пенза",
+      "street": "алл. Одесская",
+      "house": "751",
+      "postal_code": "192855",
       "coordinates": {
-        "latitude": 53.35194,
-        "longitude": 83.77341
+        "latitude": 53.202,
+        "longitude": 44.970668
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1012",
-      "name": "Кальмары",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "product_id": "prd-1042",
+      "name": "Салат Айсберг",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 250.0,
-      "total_price": 1250.0,
+      "price_per_unit": 60.0,
+      "total_price": 60.0,
       "kbju": {
-        "calories": 165.0,
-        "protein": 29.2,
-        "fat": 3.4,
-        "carbohydrates": 10.6
+        "calories": 42.7,
+        "protein": 2.6,
+        "fat": 0.8,
+        "carbohydrates": 2.4
       },
       "manufacturer": {
-        "name": "Дальморепродукт",
+        "name": "Белая дача",
         "country": "Россия",
-        "website": "https://дальморепродукт.ru",
-        "inn": "9287137924"
-      }
-    },
-    {
-      "product_id": "prd-1007",
-      "name": "Кекс столичный",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 90.0,
-      "total_price": 450.0,
-      "kbju": {
-        "calories": 286.2,
-        "protein": 8.1,
-        "fat": 2.0,
-        "carbohydrates": 57.3
-      },
-      "manufacturer": {
-        "name": "ООО «Кекс»",
-        "country": "Россия",
-        "website": "https://кекс.ru",
-        "inn": "3214656787"
+        "website": "https://белаядача.ru",
+        "inn": "6752866158"
       }
     }
   ],
-  "total_amount": 1700.0,
+  "total_amount": 60.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Магнитогорск",
-    "street": "ул. Подлесная",
-    "house": "6",
-    "apartment": "24",
-    "postal_code": "075887"
+    "city": "Ижевск",
+    "street": "наб. Машиностроителей",
+    "house": "68",
+    "apartment": "37",
+    "postal_code": "409842"
   },
-  "purchase_datetime": "2026-01-06T17:57:36.157530"
+  "purchase_datetime": "2026-02-23T19:09:09.799949"
 }

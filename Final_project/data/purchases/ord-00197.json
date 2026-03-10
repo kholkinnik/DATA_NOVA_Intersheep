@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00197",
   "customer": {
-    "customer_id": "cus-1028",
-    "first_name": "Трифон",
-    "last_name": "Абрамов"
+    "customer_id": "cus-1017",
+    "first_name": "Ферапонт",
+    "last_name": "Ильин"
   },
   "store": {
-    "store_id": "store-037",
-    "store_name": "Маленькая Пикча — Магазин на бул. Севастопольский",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-027",
+    "store_name": "Большая Пикча — Магазин на ул. Весенняя",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Томск",
-      "street": "бул. Севастопольский",
-      "house": "759",
-      "postal_code": "051056",
+      "city": "Пермь",
+      "street": "ул. Весенняя",
+      "house": "218",
+      "postal_code": "291897",
       "coordinates": {
-        "latitude": 56.501398,
-        "longitude": 84.963037
+        "latitude": 58.006447,
+        "longitude": 56.245452
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1025",
-      "name": "Сливки 35%",
+      "product_id": "prd-1026",
+      "name": "Сыр Косичка",
       "category": "🥛 Молочные продукты",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 100.0,
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
       "kbju": {
-        "calories": 77.8,
-        "protein": 10.0,
-        "fat": 7.1,
-        "carbohydrates": 3.7
+        "calories": 85.5,
+        "protein": 5.4,
+        "fat": 1.1,
+        "carbohydrates": 10.2
       },
       "manufacturer": {
-        "name": "Простоквашино",
+        "name": "ООО «Сыровар»",
         "country": "Россия",
-        "website": "https://простоквашино.ru",
-        "inn": "1267810496"
-      }
-    },
-    {
-      "product_id": "prd-1002",
-      "name": "Печенье сахарное",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 70.0,
-      "total_price": 140.0,
-      "kbju": {
-        "calories": 324.2,
-        "protein": 6.0,
-        "fat": 2.0,
-        "carbohydrates": 41.9
-      },
-      "manufacturer": {
-        "name": "ООО «Кондитер»",
-        "country": "Россия",
-        "website": "https://кондитер.ru",
-        "inn": "1078687409"
-      }
-    },
-    {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 100.0,
-      "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
-      },
-      "manufacturer": {
-        "name": "Danone",
-        "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
+        "website": "https://сыровар.ru",
+        "inn": "7103183531"
       }
     }
   ],
-  "total_amount": 340.0,
-  "payment_method": "card",
+  "total_amount": 130.0,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Кемерово",
-    "street": "наб. Виноградная",
-    "house": "4/1",
-    "apartment": "4",
-    "postal_code": "402747"
+    "city": "Уфа",
+    "street": "пр. О.Кошевого",
+    "house": "5",
+    "apartment": "56",
+    "postal_code": "336298"
   },
-  "purchase_datetime": "2026-01-09T17:57:36.304507"
+  "purchase_datetime": "2025-12-25T19:09:09.879532"
 }

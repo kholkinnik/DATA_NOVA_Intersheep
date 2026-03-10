@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00008",
   "customer": {
-    "customer_id": "cus-1031",
-    "first_name": "Герман",
-    "last_name": "Попов"
+    "customer_id": "cus-1027",
+    "first_name": "Святополк",
+    "last_name": "Антонов"
   },
   "store": {
-    "store_id": "store-024",
-    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на наб. Революции",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владимир",
-      "street": "ш. Ломоносова",
-      "house": "842",
-      "postal_code": "193551",
+      "city": "Волгоград",
+      "street": "наб. Революции",
+      "house": "1",
+      "postal_code": "556959",
       "coordinates": {
-        "latitude": 56.132124,
-        "longitude": 40.387311
+        "latitude": 48.699699,
+        "longitude": 44.510105
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1014",
-      "name": "Шашлык из свинины",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
+      "product_id": "prd-1021",
+      "name": "Молоко 3,2%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 320.0,
-      "total_price": 640.0,
+      "price_per_unit": 75.0,
+      "total_price": 300.0,
       "kbju": {
-        "calories": 154.6,
-        "protein": 21.5,
-        "fat": 3.3,
-        "carbohydrates": 8.2
+        "calories": 43.2,
+        "protein": 8.8,
+        "fat": 1.8,
+        "carbohydrates": 11.3
       },
       "manufacturer": {
-        "name": "ООО «Шашлычный двор»",
+        "name": "Вимм-Билль-Данн",
         "country": "Россия",
-        "website": "https://шашлычныйдвор.ru",
-        "inn": "2754811957"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Овсяные хлопья",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 45.0,
-      "total_price": 90.0,
-      "kbju": {
-        "calories": 238.1,
-        "protein": 12.0,
-        "fat": 4.7,
-        "carbohydrates": 51.5
-      },
-      "manufacturer": {
-        "name": "ООО «Овсянка»",
-        "country": "Россия",
-        "website": "https://овсянка.ru",
-        "inn": "0162446009"
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "7910577238"
       }
     }
   ],
-  "total_amount": 730.0,
+  "total_amount": 300.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Калининград",
-    "street": "ш. Осипенко",
-    "house": "43",
-    "apartment": "20",
-    "postal_code": "673690"
+    "city": "Пенза",
+    "street": "пер. Выгонный",
+    "house": "75",
+    "apartment": "48",
+    "postal_code": "739292"
   },
-  "purchase_datetime": "2026-01-13T17:57:36.136718"
+  "purchase_datetime": "2026-01-21T19:09:09.781003"
 }

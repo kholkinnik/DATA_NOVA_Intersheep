@@ -1,24 +1,24 @@
 {
   "id": "prd-1007",
-  "name": "Кекс столичный",
+  "name": "Мюсли с орехами",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "С изюмом, 300 г",
+  "description": "Смесь злаков с орехами, 350 г",
   "kbju": {
-    "calories": 286.2,
-    "protein": 8.1,
-    "fat": 2.0,
-    "carbohydrates": 57.3
+    "calories": 310.4,
+    "protein": 6.9,
+    "fat": 2.3,
+    "carbohydrates": 44.1
   },
-  "price": 90.0,
+  "price": 110.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 28,
+  "expiry_days": 7,
   "is_organic": true,
-  "barcode": "2593563527445",
+  "barcode": "1153009264160",
   "manufacturer": {
-    "name": "ООО «Кекс»",
+    "name": "ООО «Здоровое утро»",
     "country": "Россия",
-    "website": "https://кекс.ru",
-    "inn": "3214656787"
+    "website": "https://здоровоеутро.ru",
+    "inn": "2656122869"
   }
 }

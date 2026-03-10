@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00138",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Анжелика",
-    "last_name": "Лаврентьева"
+    "customer_id": "cus-1029",
+    "first_name": "Полина",
+    "last_name": "Некрасова"
   },
   "store": {
-    "store_id": "store-002",
-    "store_name": "Большая Пикча — Магазин на наб. Целинная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на алл. Тельмана",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Челябинск",
-      "street": "наб. Целинная",
-      "house": "34",
-      "postal_code": "748924",
+      "city": "Ижевск",
+      "street": "алл. Тельмана",
+      "house": "40",
+      "postal_code": "110271",
       "coordinates": {
-        "latitude": 55.163174,
-        "longitude": 61.431151
+        "latitude": 56.861138,
+        "longitude": 53.218005
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1038",
-      "name": "Чернослив",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
+      "product_id": "prd-1047",
+      "name": "Ревень",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 400.0,
+      "price_per_unit": 60.0,
+      "total_price": 60.0,
       "kbju": {
-        "calories": 33.4,
-        "protein": 1.3,
-        "fat": 0.5,
-        "carbohydrates": 18.2
+        "calories": 34.0,
+        "protein": 1.8,
+        "fat": 0.3,
+        "carbohydrates": 7.5
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "5737508318"
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "1018541109"
       }
     },
     {
-      "product_id": "prd-1037",
-      "name": "Бананы",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
-      "unit": "кг",
-      "price_per_unit": 95.0,
-      "total_price": 285.0,
+      "product_id": "prd-1015",
+      "name": "Вареники с картошкой",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "уп",
+      "price_per_unit": 110.0,
+      "total_price": 550.0,
       "kbju": {
-        "calories": 79.7,
-        "protein": 1.0,
-        "fat": 0.2,
-        "carbohydrates": 9.8
+        "calories": 135.5,
+        "protein": 17.0,
+        "fat": 8.1,
+        "carbohydrates": 13.7
       },
       "manufacturer": {
-        "name": "Эко-Фрукты",
+        "name": "ООО «Домашние вареники»",
         "country": "Россия",
-        "website": "https://эко-фрукты.ru",
-        "inn": "4842169369"
+        "website": "https://домашниевареники.ru",
+        "inn": "6238389761"
+      }
+    },
+    {
+      "product_id": "prd-1044",
+      "name": "Редька зеленая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 57.7,
+        "protein": 1.6,
+        "fat": 0.5,
+        "carbohydrates": 5.9
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "9399903981"
       }
     }
   ],
-  "total_amount": 685.0,
+  "total_amount": 710.0,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "ул. Тепличная",
-    "house": "1",
-    "apartment": "3",
-    "postal_code": "542451"
+    "city": "Ростов-на-Дону",
+    "street": "пер. Омский",
+    "house": "4",
+    "apartment": "88",
+    "postal_code": "920440"
   },
-  "purchase_datetime": "2026-03-01T17:57:36.244909"
+  "purchase_datetime": "2026-02-16T19:09:09.841143"
 }

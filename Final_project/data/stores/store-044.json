@@ -1,6 +1,6 @@
 {
   "store_id": "store-044",
-  "store_name": "Маленькая Пикча — Магазин на ул. Льва Толстого",
+  "store_name": "Маленькая Пикча — Магазин на ул. Волгоградская",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Григорий Изотович Доронин",
-    "phone": "8 005 340 76 39",
-    "email": "ilinanikita@example.com"
+    "name": "Селезнева Вероника Геннадиевна",
+    "phone": "8 (311) 399-72-80",
+    "email": "kkulikova@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Омск",
-    "street": "ул. Льва Толстого",
-    "house": "6/4",
-    "postal_code": "211189",
+    "city": "Новосибирск",
+    "street": "ул. Волгоградская",
+    "house": "8",
+    "postal_code": "384264",
     "coordinates": {
-      "latitude": 54.988481,
-      "longitude": 73.361615
+      "latitude": 55.021852,
+      "longitude": 82.913795
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

@@ -1,24 +1,24 @@
 {
   "id": "prd-1034",
-  "name": "Курага",
+  "name": "Апельсины",
   "group": "🍏 Фрукты и ягоды",
-  "description": "Сушёные абрикосы, 300 г",
+  "description": "Сочные апельсины, 1 кг",
   "kbju": {
-    "calories": 82.8,
-    "protein": 0.9,
-    "fat": 0.3,
-    "carbohydrates": 16.2
+    "calories": 83.6,
+    "protein": 1.8,
+    "fat": 0.2,
+    "carbohydrates": 18.3
   },
   "price": 120.0,
-  "unit": "шт",
+  "unit": "кг",
   "origin_country": "Россия",
-  "expiry_days": 13,
-  "is_organic": false,
-  "barcode": "6218749905584",
+  "expiry_days": 11,
+  "is_organic": true,
+  "barcode": "5429570783277",
   "manufacturer": {
-    "name": "ООО «Сухофрукты»",
+    "name": "Средиземноморский экспорт",
     "country": "Россия",
-    "website": "https://сухофрукты.ru",
-    "inn": "7277657027"
+    "website": "https://средиземноморскийэкспорт.ru",
+    "inn": "5609742568"
   }
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-045",
-  "store_name": "Маленькая Пикча — Магазин на наб. Смоленская",
+  "store_name": "Маленькая Пикча — Магазин на алл. Воровского",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Маргарита Филипповна Шестакова",
-    "phone": "+7 (310) 476-5461",
-    "email": "boris_2025@example.org"
+    "name": "Святослав Егорович Потапов",
+    "phone": "+73139592899",
+    "email": "zinaida_83@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "наб. Смоленская",
-    "house": "6",
-    "postal_code": "109913",
+    "city": "Барнаул",
+    "street": "алл. Воровского",
+    "house": "29",
+    "postal_code": "591973",
     "coordinates": {
-      "latitude": 57.145189,
-      "longitude": 65.528693
+      "latitude": 53.350304,
+      "longitude": 83.767415
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

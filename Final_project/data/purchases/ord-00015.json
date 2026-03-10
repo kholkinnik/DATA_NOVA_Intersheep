@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00015",
   "customer": {
-    "customer_id": "cus-1023",
-    "first_name": "Ксения",
-    "last_name": "Савельева"
+    "customer_id": "cus-1028",
+    "first_name": "Светлана",
+    "last_name": "Титова"
   },
   "store": {
-    "store_id": "store-013",
-    "store_name": "Большая Пикча — Магазин на пер. Короткий",
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на ул. Машиностроителей",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Симферополь",
-      "street": "пер. Короткий",
-      "house": "2",
-      "postal_code": "839580",
+      "city": "Пенза",
+      "street": "ул. Машиностроителей",
+      "house": "397",
+      "postal_code": "718441",
       "coordinates": {
-        "latitude": 44.954025,
-        "longitude": 34.119035
+        "latitude": 53.194061,
+        "longitude": 44.959002
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1007",
-      "name": "Кекс столичный",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1018",
+      "name": "Котлеты домашние",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 90.0,
-      "total_price": 270.0,
+      "unit": "уп",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
       "kbju": {
-        "calories": 286.2,
-        "protein": 8.1,
-        "fat": 2.0,
-        "carbohydrates": 57.3
+        "calories": 345.2,
+        "protein": 20.0,
+        "fat": 20.7,
+        "carbohydrates": 10.2
       },
       "manufacturer": {
-        "name": "ООО «Кекс»",
+        "name": "ООО «Мясные полуфабрикаты»",
         "country": "Россия",
-        "website": "https://кекс.ru",
-        "inn": "3214656787"
+        "website": "https://мясныеполуфабрикаты.ru",
+        "inn": "3384785060"
       }
     },
     {
-      "product_id": "prd-1032",
+      "product_id": "prd-1036",
       "name": "Абрикосы",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
+      "quantity": 3,
       "unit": "кг",
       "price_per_unit": 170.0,
-      "total_price": 850.0,
+      "total_price": 510.0,
       "kbju": {
-        "calories": 60.3,
-        "protein": 1.1,
-        "fat": 0.8,
-        "carbohydrates": 18.0
+        "calories": 37.0,
+        "protein": 1.6,
+        "fat": 0.6,
+        "carbohydrates": 10.9
       },
       "manufacturer": {
         "name": "Кубанские фрукты",
         "country": "Россия",
         "website": "https://кубанскиефрукты.ru",
-        "inn": "3476861227"
+        "inn": "2628915967"
       }
     }
   ],
-  "total_amount": 1120.0,
-  "payment_method": "card",
+  "total_amount": 960.0,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Крупской",
-    "house": "14",
-    "apartment": "97",
-    "postal_code": "966241"
+    "city": "Пенза",
+    "street": "пр. Осенний",
+    "house": "13",
+    "apartment": "74",
+    "postal_code": "244565"
   },
-  "purchase_datetime": "2026-01-01T17:57:36.141771"
+  "purchase_datetime": "2025-12-19T19:09:09.781999"
 }

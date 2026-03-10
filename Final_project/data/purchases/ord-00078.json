@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00078",
   "customer": {
-    "customer_id": "cus-1036",
-    "first_name": "Гаврила",
-    "last_name": "Елисеев"
+    "customer_id": "cus-1009",
+    "first_name": "Лучезар",
+    "last_name": "Сорокин"
   },
   "store": {
-    "store_id": "store-045",
-    "store_name": "Маленькая Пикча — Магазин на наб. Смоленская",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на ш. Сенное",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Тюмень",
-      "street": "наб. Смоленская",
-      "house": "6",
-      "postal_code": "109913",
+      "city": "Чебоксары",
+      "street": "ш. Сенное",
+      "house": "8/9",
+      "postal_code": "492060",
       "coordinates": {
-        "latitude": 57.145189,
-        "longitude": 65.528693
+        "latitude": 56.144881,
+        "longitude": 47.252853
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1029",
-      "name": "Закваска для йогурта",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1010",
+      "name": "Тунец в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 30.0,
-      "total_price": 90.0,
+      "price_per_unit": 120.0,
+      "total_price": 240.0,
       "kbju": {
-        "calories": 89.6,
-        "protein": 7.7,
-        "fat": 11.2,
-        "carbohydrates": 3.1
+        "calories": 321.8,
+        "protein": 25.6,
+        "fat": 3.2,
+        "carbohydrates": 6.8
       },
       "manufacturer": {
-        "name": "ООО «Молочная культура»",
+        "name": "ООО «Морепродукт»",
         "country": "Россия",
-        "website": "https://молочнаякультура.ru",
-        "inn": "4147659609"
+        "website": "https://морепродукт.ru",
+        "inn": "1426105985"
+      }
+    },
+    {
+      "product_id": "prd-1022",
+      "name": "Снежок",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 110.0,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 7.6,
+        "fat": 1.8,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Вимм-Билль-Данн",
+        "country": "Россия",
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "0415662193"
       }
     }
   ],
-  "total_amount": 90.0,
-  "payment_method": "cash",
+  "total_amount": 350.0,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Томск",
-    "street": "ш. Жукова",
+    "city": "Барнаул",
+    "street": "ш. Садовое",
     "house": "7",
-    "apartment": "1",
-    "postal_code": "164588"
+    "apartment": "37",
+    "postal_code": "653369"
   },
-  "purchase_datetime": "2026-03-08T17:57:36.193674"
+  "purchase_datetime": "2026-01-03T19:09:09.811497"
 }

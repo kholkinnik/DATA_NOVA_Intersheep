@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00029",
   "customer": {
-    "customer_id": "cus-1017",
-    "first_name": "Акулина",
-    "last_name": "Овчинникова"
+    "customer_id": "cus-1004",
+    "first_name": "Харлампий",
+    "last_name": "Комиссаров"
   },
   "store": {
-    "store_id": "store-015",
-    "store_name": "Большая Пикча — Магазин на пер. Чайковского",
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на пр. Гастелло",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Челябинск",
-      "street": "пер. Чайковского",
-      "house": "7/3",
-      "postal_code": "170687",
+      "city": "Набережные Челны",
+      "street": "пр. Гастелло",
+      "house": "46",
+      "postal_code": "791867",
       "coordinates": {
-        "latitude": 55.170389,
-        "longitude": 61.429472
+        "latitude": 55.748699,
+        "longitude": 52.404732
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1015",
-      "name": "Фасоль красная в собственном соку",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
+      "product_id": "prd-1030",
+      "name": "Манго",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 90.0,
-      "total_price": 90.0,
+      "price_per_unit": 120.0,
+      "total_price": 360.0,
       "kbju": {
-        "calories": 230.4,
-        "protein": 26.9,
-        "fat": 13.5,
-        "carbohydrates": 0.4
+        "calories": 68.7,
+        "protein": 1.0,
+        "fat": 0.4,
+        "carbohydrates": 5.6
       },
       "manufacturer": {
-        "name": "Бондюэль",
+        "name": "Тропические фрукты",
         "country": "Россия",
-        "website": "https://бондюэль.ru",
-        "inn": "8320355207"
+        "website": "https://тропическиефрукты.ru",
+        "inn": "4742502578"
       }
     },
     {
-      "product_id": "prd-1019",
-      "name": "Пельмени русские",
+      "product_id": "prd-1015",
+      "name": "Вареники с картошкой",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 4,
+      "quantity": 3,
       "unit": "уп",
-      "price_per_unit": 130.0,
-      "total_price": 520.0,
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
       "kbju": {
-        "calories": 290.9,
-        "protein": 18.9,
-        "fat": 5.2,
-        "carbohydrates": 2.0
+        "calories": 135.5,
+        "protein": 17.0,
+        "fat": 8.1,
+        "carbohydrates": 13.7
       },
       "manufacturer": {
-        "name": "ООО «Сибирский гурман»",
+        "name": "ООО «Домашние вареники»",
         "country": "Россия",
-        "website": "https://сибирскийгурман.ru",
-        "inn": "8707694030"
+        "website": "https://домашниевареники.ru",
+        "inn": "6238389761"
+      }
+    },
+    {
+      "product_id": "prd-1026",
+      "name": "Сыр Косичка",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 260.0,
+      "kbju": {
+        "calories": 85.5,
+        "protein": 5.4,
+        "fat": 1.1,
+        "carbohydrates": 10.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сыровар»",
+        "country": "Россия",
+        "website": "https://сыровар.ru",
+        "inn": "7103183531"
       }
     }
   ],
-  "total_amount": 610.0,
+  "total_amount": 950.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "алл. Осенняя",
-    "house": "3/6",
-    "apartment": "32",
-    "postal_code": "668106"
+    "city": "Оренбург",
+    "street": "ул. Новосельская",
+    "house": "74",
+    "apartment": "84",
+    "postal_code": "021388"
   },
-  "purchase_datetime": "2025-12-13T17:57:36.152350"
+  "purchase_datetime": "2026-03-07T19:09:09.791130"
 }

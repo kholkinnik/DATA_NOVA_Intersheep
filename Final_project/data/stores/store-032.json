@@ -1,6 +1,6 @@
 {
   "store_id": "store-032",
-  "store_name": "Маленькая Пикча — Магазин на пер. Парковый",
+  "store_name": "Маленькая Пикча — Магазин на пер. Мельничный",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Никонов Гедеон Феофанович",
-    "phone": "8 554 557 4233",
-    "email": "prov_1993@example.org"
+    "name": "Борисов Алексей Юлианович",
+    "phone": "8 862 473 6510",
+    "email": "jivanova@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Калининград",
-    "street": "пер. Парковый",
-    "house": "566",
-    "postal_code": "004425",
+    "city": "Белгород",
+    "street": "пер. Мельничный",
+    "house": "92",
+    "postal_code": "259457",
     "coordinates": {
-      "latitude": 54.707861,
-      "longitude": 20.500571
+      "latitude": 50.604761,
+      "longitude": 36.596048
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

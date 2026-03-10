@@ -1,24 +1,24 @@
 {
   "id": "prd-1015",
-  "name": "Фасоль красная в собственном соку",
+  "name": "Вареники с картошкой",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Консервированная, 400 г",
+  "description": "Замороженные, 450 г",
   "kbju": {
-    "calories": 230.4,
-    "protein": 26.9,
-    "fat": 13.5,
-    "carbohydrates": 0.4
+    "calories": 135.5,
+    "protein": 17.0,
+    "fat": 8.1,
+    "carbohydrates": 13.7
   },
-  "price": 90.0,
-  "unit": "шт",
+  "price": 110.0,
+  "unit": "уп",
   "origin_country": "Россия",
-  "expiry_days": 9,
+  "expiry_days": 23,
   "is_organic": false,
-  "barcode": "1195295842608",
+  "barcode": "9978664545674",
   "manufacturer": {
-    "name": "Бондюэль",
+    "name": "ООО «Домашние вареники»",
     "country": "Россия",
-    "website": "https://бондюэль.ru",
-    "inn": "8320355207"
+    "website": "https://домашниевареники.ru",
+    "inn": "6238389761"
   }
 }

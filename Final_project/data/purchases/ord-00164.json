@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00164",
   "customer": {
-    "customer_id": "cus-1031",
-    "first_name": "Герман",
-    "last_name": "Попов"
+    "customer_id": "cus-1022",
+    "first_name": "Алина",
+    "last_name": "Кузнецова"
   },
   "store": {
-    "store_id": "store-021",
-    "store_name": "Большая Пикча — Магазин на алл. Кузнецова",
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на пер. Таежный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Курск",
-      "street": "алл. Кузнецова",
-      "house": "1",
-      "postal_code": "957961",
+      "city": "Оренбург",
+      "street": "пер. Таежный",
+      "house": "6/2",
+      "postal_code": "387994",
       "coordinates": {
-        "latitude": 51.735868,
-        "longitude": 36.185717
+        "latitude": 51.769162,
+        "longitude": 55.101172
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1039",
-      "name": "Манго",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1028",
+      "name": "Тан",
+      "category": "🥛 Молочные продукты",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 360.0,
+      "price_per_unit": 60.0,
+      "total_price": 180.0,
       "kbju": {
-        "calories": 61.3,
-        "protein": 1.7,
-        "fat": 0.8,
-        "carbohydrates": 12.1
+        "calories": 169.6,
+        "protein": 9.0,
+        "fat": 11.3,
+        "carbohydrates": 3.7
       },
       "manufacturer": {
-        "name": "Тропические фрукты",
+        "name": "ООО «Молочный край»",
         "country": "Россия",
-        "website": "https://тропическиефрукты.ru",
-        "inn": "9701474826"
+        "website": "https://молочныйкрай.ru",
+        "inn": "7263688501"
       }
     },
     {
-      "product_id": "prd-1006",
-      "name": "Гречка",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
+      "product_id": "prd-1039",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 75.0,
-      "total_price": 75.0,
+      "price_per_unit": 95.0,
+      "total_price": 380.0,
       "kbju": {
-        "calories": 240.3,
-        "protein": 11.7,
-        "fat": 4.8,
-        "carbohydrates": 50.5
+        "calories": 73.5,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbohydrates": 10.3
       },
       "manufacturer": {
-        "name": "ООО «Мистраль»",
+        "name": "ИП Ягодная поляна",
         "country": "Россия",
-        "website": "https://мистраль.ru",
-        "inn": "6141052240"
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1796229374"
+      }
+    },
+    {
+      "product_id": "prd-1046",
+      "name": "Фасоль стручковая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 320.0,
+      "kbju": {
+        "calories": 43.2,
+        "protein": 1.4,
+        "fat": 0.5,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "ООО «Овощной рай»",
+        "country": "Россия",
+        "website": "https://овощнойрай.ru",
+        "inn": "6674821212"
       }
     }
   ],
-  "total_amount": 435.0,
-  "payment_method": "cash",
-  "is_delivery": true,
+  "total_amount": 880.0,
+  "payment_method": "card",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Калининград",
-    "street": "ш. Осипенко",
-    "house": "43",
-    "apartment": "20",
-    "postal_code": "673690"
+    "city": "Волгоград",
+    "street": "ул. Азовская",
+    "house": "73",
+    "apartment": "23",
+    "postal_code": "584832"
   },
-  "purchase_datetime": "2025-12-26T17:57:36.267893"
+  "purchase_datetime": "2025-12-18T19:09:09.858117"
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-029",
-  "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+  "store_name": "Большая Пикча — Магазин на наб. Каштановая",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Рожкова Нонна Тимофеевна",
-    "phone": "8 (844) 188-06-52",
-    "email": "xpetuhova@example.com"
+    "name": "Фортунат Захарьевич Панфилов",
+    "phone": "+7 378 266 04 05",
+    "email": "kir1993@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Кемерово",
-    "street": "наб. 8-е Марта",
-    "house": "932",
-    "postal_code": "679874",
+    "city": "Пенза",
+    "street": "наб. Каштановая",
+    "house": "8/1",
+    "postal_code": "119305",
     "coordinates": {
-      "latitude": 55.35299,
-      "longitude": 86.077364
+      "latitude": 53.199734,
+      "longitude": 44.959933
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

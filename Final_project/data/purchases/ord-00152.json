@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00152",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Исидор",
-    "last_name": "Ефремов"
+    "customer_id": "cus-1004",
+    "first_name": "Харлампий",
+    "last_name": "Комиссаров"
   },
   "store": {
-    "store_id": "store-020",
-    "store_name": "Большая Пикча — Магазин на бул. Февральский",
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на пр. Ворошилова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ижевск",
-      "street": "бул. Февральский",
-      "house": "80",
-      "postal_code": "329029",
+      "city": "Ростов-на-Дону",
+      "street": "пр. Ворошилова",
+      "house": "8/5",
+      "postal_code": "841256",
       "coordinates": {
-        "latitude": 56.847632,
-        "longitude": 53.206254
+        "latitude": 47.235012,
+        "longitude": 39.710919
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1000",
-      "name": "Мука пшеничная в/с",
+      "product_id": "prd-1004",
+      "name": "Макароны спагетти",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 85.0,
-      "total_price": 170.0,
+      "price_per_unit": 60.0,
+      "total_price": 120.0,
       "kbju": {
-        "calories": 254.9,
-        "protein": 9.5,
-        "fat": 1.1,
-        "carbohydrates": 52.4
+        "calories": 347.9,
+        "protein": 10.4,
+        "fat": 3.5,
+        "carbohydrates": 41.9
       },
       "manufacturer": {
-        "name": "ООО «Мельница»",
+        "name": "ООО «Макфа»",
         "country": "Россия",
-        "website": "https://мельница.ru",
-        "inn": "1484891216"
+        "website": "https://макфа.ru",
+        "inn": "3951013214"
       }
     }
   ],
-  "total_amount": 170.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 120.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Саратов",
-    "street": "ш. Союзное",
-    "house": "2/3",
-    "apartment": "56",
-    "postal_code": "135471"
+    "city": "Оренбург",
+    "street": "ул. Новосельская",
+    "house": "74",
+    "apartment": "84",
+    "postal_code": "021388"
   },
-  "purchase_datetime": "2026-01-30T17:57:36.258254"
+  "purchase_datetime": "2026-01-13T19:09:09.858117"
 }

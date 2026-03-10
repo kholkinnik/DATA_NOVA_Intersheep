@@ -27,10 +27,13 @@ with DAG(
     dag_id="final_report",
     start_date=datetime(2026, 3, 2),
     schedule_interval=None,
+    #schedule_interval='0 10 * * *',
     catchup=False,
+    tags=['analityc_result']
+    
 ) as dag:
     start = EmptyOperator(
-        task_id = 'start'
+        task_id = 'start_producer'
     )
 
     produce_1 = PythonOperator(

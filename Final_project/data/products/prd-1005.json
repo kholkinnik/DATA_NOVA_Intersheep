@@ -1,24 +1,24 @@
 {
   "id": "prd-1005",
-  "name": "Полба",
+  "name": "Пшено",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Зерновая культура, 500 г",
+  "description": "Крупа, 900 г",
   "kbju": {
-    "calories": 236.2,
-    "protein": 11.5,
-    "fat": 1.3,
-    "carbohydrates": 59.0
+    "calories": 260.5,
+    "protein": 12.0,
+    "fat": 4.5,
+    "carbohydrates": 58.9
   },
-  "price": 120.0,
+  "price": 40.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 11,
-  "is_organic": true,
-  "barcode": "3695079532421",
+  "expiry_days": 24,
+  "is_organic": false,
+  "barcode": "0533217578760",
   "manufacturer": {
-    "name": "ООО «Здоровое зерно»",
+    "name": "ООО «Крупяной двор»",
     "country": "Россия",
-    "website": "https://здоровоезерно.ru",
-    "inn": "8224754920"
+    "website": "https://крупянойдвор.ru",
+    "inn": "8570148518"
   }
 }

@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00018",
   "customer": {
-    "customer_id": "cus-1043",
-    "first_name": "Василиса",
-    "last_name": "Семенова"
+    "customer_id": "cus-1035",
+    "first_name": "Елена",
+    "last_name": "Кошелева"
   },
   "store": {
-    "store_id": "store-038",
-    "store_name": "Маленькая Пикча — Магазин на алл. Лесная",
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на пер. Торговый",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ярославль",
-      "street": "алл. Лесная",
-      "house": "706",
-      "postal_code": "021505",
+      "city": "Набережные Челны",
+      "street": "пер. Торговый",
+      "house": "8/1",
+      "postal_code": "289375",
       "coordinates": {
-        "latitude": 57.633645,
-        "longitude": 39.884674
+        "latitude": 55.735832,
+        "longitude": 52.4045
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1034",
-      "name": "Курага",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1041",
+      "name": "Укроп свежий",
+      "category": "🥦 Овощи и зелень",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 360.0,
+      "price_per_unit": 20.0,
+      "total_price": 60.0,
       "kbju": {
-        "calories": 82.8,
-        "protein": 0.9,
+        "calories": 53.8,
+        "protein": 1.0,
         "fat": 0.3,
-        "carbohydrates": 16.2
+        "carbohydrates": 6.7
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "ИП «Зелень»",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "7277657027"
+        "website": "https://зелень.ru",
+        "inn": "6330163268"
       }
     },
     {
-      "product_id": "prd-1030",
-      "name": "Грейпфрут",
+      "product_id": "prd-1034",
+      "name": "Апельсины",
       "category": "🍏 Фрукты и ягоды",
       "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 200.0,
+      "unit": "кг",
+      "price_per_unit": 120.0,
+      "total_price": 480.0,
       "kbju": {
-        "calories": 60.7,
-        "protein": 1.5,
-        "fat": 0.6,
-        "carbohydrates": 7.7
+        "calories": 83.6,
+        "protein": 1.8,
+        "fat": 0.2,
+        "carbohydrates": 18.3
       },
       "manufacturer": {
-        "name": "ИП Цитрус",
+        "name": "Средиземноморский экспорт",
         "country": "Россия",
-        "website": "https://цитрус.ru",
-        "inn": "2114424981"
+        "website": "https://средиземноморскийэкспорт.ru",
+        "inn": "5609742568"
+      }
+    },
+    {
+      "product_id": "prd-1049",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 38.5,
+        "protein": 1.1,
+        "fat": 0.4,
+        "carbohydrates": 2.4
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "3027808151"
       }
     }
   ],
-  "total_amount": 560.0,
+  "total_amount": 840.0,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Омск",
-    "street": "бул. Марта 8",
-    "house": "723",
-    "apartment": "72",
-    "postal_code": "797273"
+    "city": "Рязань",
+    "street": "пер. Кубанский",
+    "house": "7/5",
+    "apartment": "28",
+    "postal_code": "807273"
   },
-  "purchase_datetime": "2025-12-23T17:57:36.144213"
+  "purchase_datetime": "2026-02-20T19:09:09.781999"
 }

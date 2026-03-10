@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00035",
   "customer": {
-    "customer_id": "cus-1009",
-    "first_name": "Анжелика",
-    "last_name": "Носова"
+    "customer_id": "cus-1001",
+    "first_name": "Лаврентий",
+    "last_name": "Лазарев"
   },
   "store": {
-    "store_id": "store-026",
-    "store_name": "Большая Пикча — Магазин на ш. Водников",
-    "store_network": "Большая Пикча",
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на алл. Карбышева",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владивосток",
-      "street": "ш. Водников",
-      "house": "2",
-      "postal_code": "061270",
+      "city": "Екатеринбург",
+      "street": "алл. Карбышева",
+      "house": "6",
+      "postal_code": "305586",
       "coordinates": {
-        "latitude": 43.141065,
-        "longitude": 131.912086
+        "latitude": 56.840877,
+        "longitude": 60.601196
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1028",
-      "name": "Сыр Плавленый",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 35.0,
-      "total_price": 175.0,
-      "kbju": {
-        "calories": 197.8,
-        "protein": 3.9,
-        "fat": 12.6,
-        "carbohydrates": 7.2
-      },
-      "manufacturer": {
-        "name": "ООО «Сырок»",
-        "country": "Россия",
-        "website": "https://сырок.ru",
-        "inn": "4295304954"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Овсяные хлопья",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 45.0,
-      "total_price": 180.0,
-      "kbju": {
-        "calories": 238.1,
-        "protein": 12.0,
-        "fat": 4.7,
-        "carbohydrates": 51.5
-      },
-      "manufacturer": {
-        "name": "ООО «Овсянка»",
-        "country": "Россия",
-        "website": "https://овсянка.ru",
-        "inn": "0162446009"
-      }
-    },
-    {
-      "product_id": "prd-1016",
-      "name": "Манты",
+      "product_id": "prd-1019",
+      "name": "Сардины в масле",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
-      "unit": "уп",
-      "price_per_unit": 180.0,
-      "total_price": 900.0,
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 285.0,
       "kbju": {
-        "calories": 245.3,
-        "protein": 27.7,
-        "fat": 19.5,
-        "carbohydrates": 12.0
+        "calories": 156.0,
+        "protein": 22.0,
+        "fat": 13.4,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "ООО «Восточные пельмени»",
+        "name": "ООО «Рыбные консервы»",
         "country": "Россия",
-        "website": "https://восточныепельмени.ru",
-        "inn": "3404107841"
+        "website": "https://рыбныеконсервы.ru",
+        "inn": "4948064786"
       }
     }
   ],
-  "total_amount": 1255.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 285.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Краснодар",
-    "street": "пер. Ватутина",
-    "house": "7",
-    "apartment": "47",
-    "postal_code": "342287"
+    "city": "Чебоксары",
+    "street": "пер. Заречный",
+    "house": "311",
+    "apartment": "42",
+    "postal_code": "514252"
   },
-  "purchase_datetime": "2026-01-17T17:57:36.157530"
+  "purchase_datetime": "2026-01-23T19:09:09.796962"
 }

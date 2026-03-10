@@ -1,6 +1,6 @@
 {
   "store_id": "store-008",
-  "store_name": "Большая Пикча — Магазин на наб. Троицкая",
+  "store_name": "Большая Пикча — Магазин на алл. Смирнова",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Титов Макар Иларионович",
-    "phone": "+7 689 485 7020",
-    "email": "aristarhantonov@example.org"
+    "name": "Акулина Юрьевна Гордеева",
+    "phone": "+70209098773",
+    "email": "timofe_2008@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Липецк",
-    "street": "наб. Троицкая",
-    "house": "6",
-    "postal_code": "888182",
+    "city": "Хабаровск",
+    "street": "алл. Смирнова",
+    "house": "5/3",
+    "postal_code": "556655",
     "coordinates": {
-      "latitude": 52.617944,
-      "longitude": 39.593519
+      "latitude": 48.488297,
+      "longitude": 135.081803
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

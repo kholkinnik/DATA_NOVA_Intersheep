@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00069",
   "customer": {
-    "customer_id": "cus-1020",
-    "first_name": "Севастьян",
-    "last_name": "Борисов"
+    "customer_id": "cus-1036",
+    "first_name": "Остромир",
+    "last_name": "Поляков"
   },
   "store": {
-    "store_id": "store-005",
-    "store_name": "Большая Пикча — Магазин на пер. Крестьянский",
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пер. Беляева",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Волгоград",
-      "street": "пер. Крестьянский",
-      "house": "797",
-      "postal_code": "959410",
+      "city": "Томск",
+      "street": "пер. Беляева",
+      "house": "3",
+      "postal_code": "143215",
       "coordinates": {
-        "latitude": 48.699683,
-        "longitude": 44.515249
+        "latitude": 56.492361,
+        "longitude": 84.972922
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1029",
-      "name": "Закваска для йогурта",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 30.0,
-      "total_price": 150.0,
-      "kbju": {
-        "calories": 89.6,
-        "protein": 7.7,
-        "fat": 11.2,
-        "carbohydrates": 3.1
-      },
-      "manufacturer": {
-        "name": "ООО «Молочная культура»",
-        "country": "Россия",
-        "website": "https://молочнаякультура.ru",
-        "inn": "4147659609"
-      }
-    },
-    {
-      "product_id": "prd-1027",
-      "name": "Мороженое пломбир",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 130.0,
-      "total_price": 130.0,
-      "kbju": {
-        "calories": 133.0,
-        "protein": 7.5,
-        "fat": 11.1,
-        "carbohydrates": 4.8
-      },
-      "manufacturer": {
-        "name": "ООО «Айсберг»",
-        "country": "Россия",
-        "website": "https://айсберг.ru",
-        "inn": "4545124016"
-      }
-    },
-    {
-      "product_id": "prd-1018",
-      "name": "Камбала тушка",
+      "product_id": "prd-1011",
+      "name": "Лосось слабосолёный",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 1,
-      "unit": "кг",
-      "price_per_unit": 220.0,
-      "total_price": 220.0,
+      "unit": "шт",
+      "price_per_unit": 350.0,
+      "total_price": 350.0,
       "kbju": {
-        "calories": 264.8,
-        "protein": 27.0,
-        "fat": 21.9,
-        "carbohydrates": 14.4
+        "calories": 209.2,
+        "protein": 23.5,
+        "fat": 4.8,
+        "carbohydrates": 2.5
       },
       "manufacturer": {
-        "name": "Дальморепродукт",
+        "name": "Русское море",
         "country": "Россия",
-        "website": "https://дальморепродукт.ru",
-        "inn": "6271784897"
+        "website": "https://русскоеморе.ru",
+        "inn": "2636876885"
+      }
+    },
+    {
+      "product_id": "prd-1035",
+      "name": "Финики",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 150.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 50.6,
+        "protein": 0.8,
+        "fat": 0.7,
+        "carbohydrates": 18.4
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "9784600632"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Горох колотый",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 244.7,
+        "protein": 16.0,
+        "fat": 14.9,
+        "carbohydrates": 6.1
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "4511537443"
       }
     }
   ],
-  "total_amount": 500.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 1130.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Курск",
-    "street": "наб. Гастелло",
-    "house": "868",
-    "apartment": "94",
-    "postal_code": "032682"
+    "city": "Екатеринбург",
+    "street": "ш. Лазурное",
+    "house": "143",
+    "apartment": "58",
+    "postal_code": "740810"
   },
-  "purchase_datetime": "2026-01-23T17:57:36.185985"
+  "purchase_datetime": "2026-01-18T19:09:09.811497"
 }

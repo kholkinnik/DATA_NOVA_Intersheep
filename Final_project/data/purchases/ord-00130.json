@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00130",
   "customer": {
-    "customer_id": "cus-1009",
-    "first_name": "Анжелика",
-    "last_name": "Носова"
+    "customer_id": "cus-1039",
+    "first_name": "Ксения",
+    "last_name": "Назарова"
   },
   "store": {
-    "store_id": "store-043",
-    "store_name": "Маленькая Пикча — Магазин на ул. 50 лет Октября",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на алл. Смирнова",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Москва",
-      "street": "ул. 50 лет Октября",
-      "house": "2/5",
-      "postal_code": "674748",
+      "city": "Хабаровск",
+      "street": "алл. Смирнова",
+      "house": "5/3",
+      "postal_code": "556655",
       "coordinates": {
-        "latitude": 55.757578,
-        "longitude": 37.626976
+        "latitude": 48.488297,
+        "longitude": 135.081803
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1038",
-      "name": "Чернослив",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1019",
+      "name": "Сардины в масле",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 100.0,
+      "price_per_unit": 95.0,
+      "total_price": 95.0,
       "kbju": {
-        "calories": 33.4,
-        "protein": 1.3,
-        "fat": 0.5,
-        "carbohydrates": 18.2
+        "calories": 156.0,
+        "protein": 22.0,
+        "fat": 13.4,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "ООО «Рыбные консервы»",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "5737508318"
+        "website": "https://рыбныеконсервы.ru",
+        "inn": "4948064786"
       }
     }
   ],
-  "total_amount": 100.0,
-  "payment_method": "cash",
+  "total_amount": 95.0,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Краснодар",
-    "street": "пер. Ватутина",
-    "house": "7",
-    "apartment": "47",
-    "postal_code": "342287"
+    "city": "Ижевск",
+    "street": "наб. Машиностроителей",
+    "house": "68",
+    "apartment": "37",
+    "postal_code": "409842"
   },
-  "purchase_datetime": "2026-01-20T17:57:36.238906"
+  "purchase_datetime": "2025-12-15T19:09:09.841143"
 }

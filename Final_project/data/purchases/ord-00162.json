@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00162",
   "customer": {
-    "customer_id": "cus-1001",
-    "first_name": "Мария",
-    "last_name": "Артемьева"
+    "customer_id": "cus-1013",
+    "first_name": "Никанор",
+    "last_name": "Муравьев"
   },
   "store": {
-    "store_id": "store-009",
-    "store_name": "Большая Пикча — Магазин на ш. Крайнее",
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на наб. Республиканская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Саратов",
-      "street": "ш. Крайнее",
-      "house": "57",
-      "postal_code": "969550",
+      "city": "Ижевск",
+      "street": "наб. Республиканская",
+      "house": "481",
+      "postal_code": "817868",
       "coordinates": {
-        "latitude": 51.526265,
-        "longitude": 46.031033
+        "latitude": 56.844445,
+        "longitude": 53.205683
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1023",
-      "name": "Творог 9%",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
+      "product_id": "prd-1039",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 85.0,
-      "total_price": 170.0,
+      "price_per_unit": 95.0,
+      "total_price": 95.0,
       "kbju": {
-        "calories": 176.2,
-        "protein": 4.2,
-        "fat": 1.3,
-        "carbohydrates": 7.2
+        "calories": 73.5,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbohydrates": 10.3
       },
       "manufacturer": {
-        "name": "Простоквашино",
+        "name": "ИП Ягодная поляна",
         "country": "Россия",
-        "website": "https://простоквашино.ru",
-        "inn": "5126422192"
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1796229374"
       }
     }
   ],
-  "total_amount": 170.0,
+  "total_amount": 95.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "наб. Ангарская",
-    "house": "4/7",
-    "apartment": "98",
-    "postal_code": "356308"
+    "city": "Томск",
+    "street": "пер. Орджоникидзе",
+    "house": "519",
+    "apartment": "12",
+    "postal_code": "794942"
   },
-  "purchase_datetime": "2026-01-30T17:57:36.266892"
+  "purchase_datetime": "2026-02-28T19:09:09.858117"
 }

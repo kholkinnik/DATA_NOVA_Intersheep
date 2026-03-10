@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00057",
   "customer": {
-    "customer_id": "cus-1036",
-    "first_name": "Гаврила",
-    "last_name": "Елисеев"
+    "customer_id": "cus-1035",
+    "first_name": "Елена",
+    "last_name": "Кошелева"
   },
   "store": {
-    "store_id": "store-029",
-    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на пер. Некрасова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Кемерово",
-      "street": "наб. 8-е Марта",
-      "house": "932",
-      "postal_code": "679874",
+      "city": "Барнаул",
+      "street": "пер. Некрасова",
+      "house": "4",
+      "postal_code": "717845",
       "coordinates": {
-        "latitude": 55.35299,
-        "longitude": 86.077364
+        "latitude": 53.360323,
+        "longitude": 83.77218
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "product_id": "prd-1008",
+      "name": "Макароны рожки",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 550.0,
+      "price_per_unit": 55.0,
+      "total_price": 165.0,
       "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
+        "calories": 303.3,
+        "protein": 8.3,
+        "fat": 3.3,
+        "carbohydrates": 58.2
       },
       "manufacturer": {
-        "name": "Птицефабрика «Северная»",
+        "name": "ООО «Шебекинские»",
         "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
+        "website": "https://шебекинские.ru",
+        "inn": "8469368887"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Тан",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 240.0,
+      "kbju": {
+        "calories": 169.6,
+        "protein": 9.0,
+        "fat": 11.3,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "7263688501"
+      }
+    },
+    {
+      "product_id": "prd-1031",
+      "name": "Ананас",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 150.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 49.7,
+        "protein": 1.5,
+        "fat": 0.6,
+        "carbohydrates": 9.6
+      },
+      "manufacturer": {
+        "name": "Тропические фрукты",
+        "country": "Россия",
+        "website": "https://тропическиефрукты.ru",
+        "inn": "5491167505"
       }
     }
   ],
-  "total_amount": 550.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 1005.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Томск",
-    "street": "ш. Жукова",
-    "house": "7",
-    "apartment": "1",
-    "postal_code": "164588"
+    "city": "Рязань",
+    "street": "пер. Кубанский",
+    "house": "7/5",
+    "apartment": "28",
+    "postal_code": "807273"
   },
-  "purchase_datetime": "2026-01-30T17:57:36.173133"
+  "purchase_datetime": "2026-02-10T19:09:09.807797"
 }

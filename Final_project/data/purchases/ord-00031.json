@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00031",
   "customer": {
-    "customer_id": "cus-1027",
-    "first_name": "Андроник",
-    "last_name": "Капустин"
+    "customer_id": "cus-1004",
+    "first_name": "Харлампий",
+    "last_name": "Комиссаров"
   },
   "store": {
-    "store_id": "store-042",
-    "store_name": "Маленькая Пикча — Магазин на бул. Приозерный",
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на ул. Волгоградская",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Кемерово",
-      "street": "бул. Приозерный",
-      "house": "6/6",
-      "postal_code": "728996",
+      "city": "Новосибирск",
+      "street": "ул. Волгоградская",
+      "house": "8",
+      "postal_code": "384264",
       "coordinates": {
-        "latitude": 55.352769,
-        "longitude": 86.085351
+        "latitude": 55.021852,
+        "longitude": 82.913795
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1042",
-      "name": "Свекла",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 1,
-      "unit": "кг",
-      "price_per_unit": 35.0,
-      "total_price": 35.0,
+      "product_id": "prd-1032",
+      "name": "Курага",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 480.0,
       "kbju": {
-        "calories": 27.2,
-        "protein": 2.1,
+        "calories": 95.4,
+        "protein": 0.6,
         "fat": 0.4,
-        "carbohydrates": 2.4
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "Фермерское хозяйство «Лето»",
+        "name": "ООО «Сухофрукты»",
         "country": "Россия",
-        "website": "https://фермерскоехозяйстволето.ru",
-        "inn": "5988697644"
+        "website": "https://сухофрукты.ru",
+        "inn": "5992736913"
       }
     }
   ],
-  "total_amount": 35.0,
+  "total_amount": 480.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Самара",
-    "street": "наб. Безымянная",
-    "house": "448",
-    "apartment": "26",
-    "postal_code": "146639"
+    "city": "Оренбург",
+    "street": "ул. Новосельская",
+    "house": "74",
+    "apartment": "84",
+    "postal_code": "021388"
   },
-  "purchase_datetime": "2026-01-25T17:57:36.154359"
+  "purchase_datetime": "2026-01-19T19:09:09.792140"
 }

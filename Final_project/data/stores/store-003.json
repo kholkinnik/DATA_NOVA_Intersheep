@@ -1,6 +1,6 @@
 {
   "store_id": "store-003",
-  "store_name": "Большая Пикча — Магазин на бул. Докучаева",
+  "store_name": "Большая Пикча — Магазин на бул. Мирный",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Зуев Тихон Артемьевич",
-    "phone": "8 (665) 917-5818",
-    "email": "fade_37@example.org"
+    "name": "Лебедева Евдокия Борисовна",
+    "phone": "+7 (985) 679-78-77",
+    "email": "nekrasovaksenija@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "бул. Докучаева",
-    "house": "80",
-    "postal_code": "941109",
+    "city": "Нижний Тагил",
+    "street": "бул. Мирный",
+    "house": "563",
+    "postal_code": "349274",
     "coordinates": {
-      "latitude": 57.159651,
-      "longitude": 65.530977
+      "latitude": 57.910527,
+      "longitude": 59.986213
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

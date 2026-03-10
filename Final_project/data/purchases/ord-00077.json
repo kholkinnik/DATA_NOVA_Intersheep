@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00077",
   "customer": {
-    "customer_id": "cus-1031",
-    "first_name": "Герман",
-    "last_name": "Попов"
+    "customer_id": "cus-1018",
+    "first_name": "Синклитикия",
+    "last_name": "Селиверстова"
   },
   "store": {
-    "store_id": "store-011",
-    "store_name": "Большая Пикча — Магазин на алл. З.Космодемьянской",
-    "store_network": "Большая Пикча",
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на алл. Тельмана",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Красноярск",
-      "street": "алл. З.Космодемьянской",
-      "house": "68",
-      "postal_code": "882212",
+      "city": "Ижевск",
+      "street": "алл. Тельмана",
+      "house": "40",
+      "postal_code": "110271",
       "coordinates": {
-        "latitude": 56.003083,
-        "longitude": 92.853782
+        "latitude": 56.861138,
+        "longitude": 53.218005
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Печенье сахарное",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1046",
+      "name": "Фасоль стручковая",
+      "category": "🥦 Овощи и зелень",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 70.0,
-      "total_price": 70.0,
+      "price_per_unit": 80.0,
+      "total_price": 80.0,
       "kbju": {
-        "calories": 324.2,
-        "protein": 6.0,
-        "fat": 2.0,
-        "carbohydrates": 41.9
+        "calories": 43.2,
+        "protein": 1.4,
+        "fat": 0.5,
+        "carbohydrates": 6.8
       },
       "manufacturer": {
-        "name": "ООО «Кондитер»",
+        "name": "ООО «Овощной рай»",
         "country": "Россия",
-        "website": "https://кондитер.ru",
-        "inn": "1078687409"
+        "website": "https://овощнойрай.ru",
+        "inn": "6674821212"
+      }
+    },
+    {
+      "product_id": "prd-1034",
+      "name": "Апельсины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 120.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 83.6,
+        "protein": 1.8,
+        "fat": 0.2,
+        "carbohydrates": 18.3
+      },
+      "manufacturer": {
+        "name": "Средиземноморский экспорт",
+        "country": "Россия",
+        "website": "https://средиземноморскийэкспорт.ru",
+        "inn": "5609742568"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Пирожок с картошкой",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 35.0,
+      "total_price": 70.0,
+      "kbju": {
+        "calories": 207.3,
+        "protein": 6.7,
+        "fat": 1.7,
+        "carbohydrates": 48.8
+      },
+      "manufacturer": {
+        "name": "ООО «Домашняя выпечка»",
+        "country": "Россия",
+        "website": "https://домашняявыпечка.ru",
+        "inn": "0792488984"
       }
     }
   ],
-  "total_amount": 70.0,
+  "total_amount": 750.0,
   "payment_method": "cash",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Калининград",
-    "street": "ш. Осипенко",
-    "house": "43",
-    "apartment": "20",
-    "postal_code": "673690"
+    "city": "Белгород",
+    "street": "алл. Сурикова",
+    "house": "23",
+    "apartment": "54",
+    "postal_code": "019990"
   },
-  "purchase_datetime": "2025-12-27T17:57:36.192672"
+  "purchase_datetime": "2026-01-18T19:09:09.811497"
 }
