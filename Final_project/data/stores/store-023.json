@@ -1,6 +1,6 @@
 {
   "store_id": "store-023",
-  "store_name": "Большая Пикча — Магазин на алл. Лунная",
+  "store_name": "Большая Пикча — Магазин на наб. Революции",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Попова Акулина Игоревна",
-    "phone": "8 869 284 88 05",
-    "email": "emilijagorbacheva@example.com"
+    "name": "Емельянова Валерия Петровна",
+    "phone": "88345668555",
+    "email": "bronislav2025@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Белгород",
-    "street": "алл. Лунная",
-    "house": "996",
-    "postal_code": "003029",
+    "city": "Волгоград",
+    "street": "наб. Революции",
+    "house": "1",
+    "postal_code": "556959",
     "coordinates": {
-      "latitude": 50.588138,
-      "longitude": 36.578235
+      "latitude": 48.699699,
+      "longitude": 44.510105
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

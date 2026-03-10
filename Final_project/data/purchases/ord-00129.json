@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00129",
   "customer": {
-    "customer_id": "cus-1018",
-    "first_name": "Алина",
-    "last_name": "Борисова"
+    "customer_id": "cus-1035",
+    "first_name": "Елена",
+    "last_name": "Кошелева"
   },
   "store": {
-    "store_id": "store-010",
-    "store_name": "Большая Пикча — Магазин на ул. Высотная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пр. Гафури",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Краснодар",
-      "street": "ул. Высотная",
-      "house": "595",
-      "postal_code": "058824",
+      "city": "Барнаул",
+      "street": "пр. Гафури",
+      "house": "53",
+      "postal_code": "661113",
       "coordinates": {
-        "latitude": 45.028884,
-        "longitude": 38.976453
+        "latitude": 53.36306,
+        "longitude": 83.764942
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Пельмени русские",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
-      "unit": "уп",
-      "price_per_unit": 130.0,
-      "total_price": 650.0,
+      "product_id": "prd-1005",
+      "name": "Пшено",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 40.0,
       "kbju": {
-        "calories": 290.9,
-        "protein": 18.9,
-        "fat": 5.2,
-        "carbohydrates": 2.0
+        "calories": 260.5,
+        "protein": 12.0,
+        "fat": 4.5,
+        "carbohydrates": 58.9
       },
       "manufacturer": {
-        "name": "ООО «Сибирский гурман»",
+        "name": "ООО «Крупяной двор»",
         "country": "Россия",
-        "website": "https://сибирскийгурман.ru",
-        "inn": "8707694030"
+        "website": "https://крупянойдвор.ru",
+        "inn": "8570148518"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Рис круглозёрный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 160.0,
+      "kbju": {
+        "calories": 215.4,
+        "protein": 9.5,
+        "fat": 5.9,
+        "carbohydrates": 58.9
+      },
+      "manufacturer": {
+        "name": "АО «Агроимпорт»",
+        "country": "Россия",
+        "website": "https://агроимпорт.ru",
+        "inn": "2507177426"
+      }
+    },
+    {
+      "product_id": "prd-1044",
+      "name": "Редька зеленая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 50.0,
+      "kbju": {
+        "calories": 57.7,
+        "protein": 1.6,
+        "fat": 0.5,
+        "carbohydrates": 5.9
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "9399903981"
       }
     }
   ],
-  "total_amount": 650.0,
-  "payment_method": "cash",
+  "total_amount": 250.0,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Магнитогорск",
-    "street": "ул. Подлесная",
-    "house": "6",
-    "apartment": "24",
-    "postal_code": "075887"
+    "city": "Рязань",
+    "street": "пер. Кубанский",
+    "house": "7/5",
+    "apartment": "28",
+    "postal_code": "807273"
   },
-  "purchase_datetime": "2026-01-12T17:57:36.237754"
+  "purchase_datetime": "2025-12-30T19:09:09.841143"
 }

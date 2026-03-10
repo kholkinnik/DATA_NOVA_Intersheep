@@ -1,6 +1,6 @@
 {
   "store_id": "store-036",
-  "store_name": "Маленькая Пикча — Магазин на ул. Речная",
+  "store_name": "Маленькая Пикча — Магазин на ул. Космонавтов",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Игнатов Аполлинарий Егорович",
-    "phone": "86807997404",
-    "email": "ratmirgordeev@example.net"
+    "name": "Анна Натановна Мухина",
+    "phone": "8 (794) 018-52-85",
+    "email": "eleonoraveselova@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Владивосток",
-    "street": "ул. Речная",
-    "house": "5",
-    "postal_code": "459043",
+    "city": "Рязань",
+    "street": "ул. Космонавтов",
+    "house": "4",
+    "postal_code": "795685",
     "coordinates": {
-      "latitude": 43.141105,
-      "longitude": 131.904996
+      "latitude": 54.612136,
+      "longitude": 39.735359
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

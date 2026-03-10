@@ -1,24 +1,24 @@
 {
   "id": "prd-1021",
-  "name": "Айран",
+  "name": "Молоко 3,2%",
   "group": "🥛 Молочные продукты",
-  "description": "Кисломолочный напиток, 500 мл",
+  "description": "Пастеризованное молоко, 1 л",
   "kbju": {
-    "calories": 74.9,
-    "protein": 4.1,
-    "fat": 2.1,
-    "carbohydrates": 4.5
+    "calories": 43.2,
+    "protein": 8.8,
+    "fat": 1.8,
+    "carbohydrates": 11.3
   },
-  "price": 55.0,
+  "price": 75.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 7,
-  "is_organic": true,
-  "barcode": "2667184888640",
+  "expiry_days": 15,
+  "is_organic": false,
+  "barcode": "0709200617079",
   "manufacturer": {
-    "name": "ООО «Молочный край»",
+    "name": "Вимм-Билль-Данн",
     "country": "Россия",
-    "website": "https://молочныйкрай.ru",
-    "inn": "1947487566"
+    "website": "https://вимм-билль-данн.ru",
+    "inn": "7910577238"
   }
 }

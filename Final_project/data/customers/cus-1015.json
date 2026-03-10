@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1015",
-  "first_name": "Феликс",
-  "last_name": "Михайлов",
-  "email": "nikanor_1980@example.org",
-  "phone": "8 026 230 9625",
-  "birth_date": "1992-01-08",
+  "first_name": "Твердислав",
+  "last_name": "Чернов",
+  "email": "marijakosheleva@example.net",
+  "phone": "8 350 626 8519",
+  "birth_date": "1980-01-25",
   "gender": "male",
-  "registration_date": "2025-12-22T17:57:36.107198",
+  "registration_date": "2026-02-03T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-9387069F85",
+  "loyalty_card_number": "LOYAL-805541C91C",
   "purchase_location": {
     "country": "Россия",
-    "city": "Москва",
-    "street": "пр. Торговый",
-    "house": "371",
-    "postal_code": "184061",
+    "city": "Пенза",
+    "street": "алл. Одесская",
+    "house": "751",
+    "postal_code": "192855",
     "coordinates": {
-      "latitude": 55.749273,
-      "longitude": 37.611333
+      "latitude": 53.202,
+      "longitude": 44.970668
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Москва",
-    "street": "ш. Юности",
-    "house": "109",
-    "apartment": "23",
-    "postal_code": "517799"
+    "city": "Пенза",
+    "street": "ш. Крымское",
+    "house": "6",
+    "apartment": "45",
+    "postal_code": "934950"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": true
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
   }
 }

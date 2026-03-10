@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00134",
   "customer": {
-    "customer_id": "cus-1041",
-    "first_name": "Кира",
-    "last_name": "Бирюкова"
+    "customer_id": "cus-1003",
+    "first_name": "Сергей",
+    "last_name": "Архипов"
   },
   "store": {
-    "store_id": "store-017",
-    "store_name": "Большая Пикча — Магазин на пр. Водников",
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на ул. Машиностроителей",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Севастополь",
-      "street": "пр. Водников",
-      "house": "5/5",
-      "postal_code": "317340",
+      "city": "Пенза",
+      "street": "ул. Машиностроителей",
+      "house": "397",
+      "postal_code": "718441",
       "coordinates": {
-        "latitude": 44.608385,
-        "longitude": 33.524218
+        "latitude": 53.194061,
+        "longitude": 44.959002
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1022",
-      "name": "Сыр Моцарелла",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
+      "product_id": "prd-1033",
+      "name": "Инжир",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 100.0,
+      "price_per_unit": 130.0,
+      "total_price": 520.0,
       "kbju": {
-        "calories": 143.0,
-        "protein": 4.8,
-        "fat": 5.0,
-        "carbohydrates": 9.9
+        "calories": 85.0,
+        "protein": 1.6,
+        "fat": 0.3,
+        "carbohydrates": 12.7
       },
       "manufacturer": {
-        "name": "ООО «Италика»",
+        "name": "Кавказские фрукты",
         "country": "Россия",
-        "website": "https://италика.ru",
-        "inn": "8916194523"
+        "website": "https://кавказскиефрукты.ru",
+        "inn": "3325592298"
       }
     },
     {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
+      "product_id": "prd-1014",
+      "name": "Конина",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 330.0,
+      "unit": "кг",
+      "price_per_unit": 400.0,
+      "total_price": 1200.0,
       "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
+        "calories": 320.1,
+        "protein": 20.0,
+        "fat": 17.6,
+        "carbohydrates": 1.7
       },
       "manufacturer": {
-        "name": "Птицефабрика «Северная»",
+        "name": "АО «Табун»",
         "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
+        "website": "https://табун.ru",
+        "inn": "1260330660"
       }
     },
     {
-      "product_id": "prd-1028",
-      "name": "Сыр Плавленый",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
+      "product_id": "prd-1003",
+      "name": "Торт Медовик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 35.0,
-      "total_price": 70.0,
+      "price_per_unit": 250.0,
+      "total_price": 750.0,
       "kbju": {
-        "calories": 197.8,
-        "protein": 3.9,
-        "fat": 12.6,
-        "carbohydrates": 7.2
+        "calories": 230.5,
+        "protein": 8.3,
+        "fat": 2.8,
+        "carbohydrates": 50.7
       },
       "manufacturer": {
-        "name": "ООО «Сырок»",
+        "name": "ООО «Сластёна»",
         "country": "Россия",
-        "website": "https://сырок.ru",
-        "inn": "4295304954"
+        "website": "https://сластёна.ru",
+        "inn": "7728792532"
       }
     }
   ],
-  "total_amount": 500.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 2470.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Кемерово",
-    "street": "бул. Толбухина",
-    "house": "6",
-    "apartment": "83",
-    "postal_code": "866936"
+    "city": "Воронеж",
+    "street": "ул. Интернациональная",
+    "house": "278",
+    "apartment": "7",
+    "postal_code": "000048"
   },
-  "purchase_datetime": "2026-01-20T17:57:36.241908"
+  "purchase_datetime": "2026-02-01T19:09:09.841143"
 }

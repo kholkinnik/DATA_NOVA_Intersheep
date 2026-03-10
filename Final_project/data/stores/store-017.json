@@ -1,6 +1,6 @@
 {
   "store_id": "store-017",
-  "store_name": "Большая Пикча — Магазин на пр. Водников",
+  "store_name": "Большая Пикча — Магазин на алл. Волочаевская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Прохорова Марфа Валериевна",
-    "phone": "+7 (427) 166-64-39",
-    "email": "emeljanovsvetozar@example.org"
+    "name": "Белова Вероника Ивановна",
+    "phone": "89923453736",
+    "email": "varvaranazarova@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Севастополь",
-    "street": "пр. Водников",
-    "house": "5/5",
-    "postal_code": "317340",
+    "city": "Оренбург",
+    "street": "алл. Волочаевская",
+    "house": "67",
+    "postal_code": "998293",
     "coordinates": {
-      "latitude": 44.608385,
-      "longitude": 33.524218
+      "latitude": 51.769113,
+      "longitude": 55.091894
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

@@ -1,24 +1,24 @@
 {
   "id": "prd-1044",
-  "name": "Маслины",
+  "name": "Редька зеленая",
   "group": "🥦 Овощи и зелень",
-  "description": "Консервированные, 300 г",
+  "description": "Свежая редька, 1 шт",
   "kbju": {
-    "calories": 35.1,
-    "protein": 2.4,
-    "fat": 0.3,
-    "carbohydrates": 6.2
+    "calories": 57.7,
+    "protein": 1.6,
+    "fat": 0.5,
+    "carbohydrates": 5.9
   },
-  "price": 100.0,
+  "price": 50.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 10,
-  "is_organic": true,
-  "barcode": "8989900411227",
+  "expiry_days": 14,
+  "is_organic": false,
+  "barcode": "0253040882765",
   "manufacturer": {
-    "name": "Италика",
+    "name": "Фермерское хозяйство «Лето»",
     "country": "Россия",
-    "website": "https://италика.ru",
-    "inn": "1731751304"
+    "website": "https://фермерскоехозяйстволето.ru",
+    "inn": "9399903981"
   }
 }

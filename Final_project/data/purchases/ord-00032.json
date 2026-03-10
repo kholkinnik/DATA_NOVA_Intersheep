@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00032",
   "customer": {
-    "customer_id": "cus-1024",
-    "first_name": "Ермолай",
-    "last_name": "Котов"
+    "customer_id": "cus-1026",
+    "first_name": "Елизавета",
+    "last_name": "Котова"
   },
   "store": {
-    "store_id": "store-004",
-    "store_name": "Большая Пикча — Магазин на бул. Серова",
-    "store_network": "Большая Пикча",
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ул. Космонавтов",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Чебоксары",
-      "street": "бул. Серова",
-      "house": "906",
-      "postal_code": "969267",
+      "city": "Рязань",
+      "street": "ул. Космонавтов",
+      "house": "4",
+      "postal_code": "795685",
       "coordinates": {
-        "latitude": 56.150128,
-        "longitude": 47.255986
+        "latitude": 54.612136,
+        "longitude": 39.735359
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1003",
-      "name": "Лаваш тонкий",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
+      "product_id": "prd-1019",
+      "name": "Сардины в масле",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 60.0,
-      "total_price": 240.0,
+      "price_per_unit": 95.0,
+      "total_price": 190.0,
       "kbju": {
-        "calories": 317.4,
-        "protein": 6.8,
-        "fat": 2.9,
-        "carbohydrates": 59.2
+        "calories": 156.0,
+        "protein": 22.0,
+        "fat": 13.4,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "ООО «Кавказская кухня»",
+        "name": "ООО «Рыбные консервы»",
         "country": "Россия",
-        "website": "https://кавказскаякухня.ru",
-        "inn": "0149115327"
+        "website": "https://рыбныеконсервы.ru",
+        "inn": "4948064786"
+      }
+    },
+    {
+      "product_id": "prd-1043",
+      "name": "Сельдерей корневой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 250.0,
+      "kbju": {
+        "calories": 29.4,
+        "protein": 0.8,
+        "fat": 0.5,
+        "carbohydrates": 6.0
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "0862782320"
+      }
+    },
+    {
+      "product_id": "prd-1027",
+      "name": "Сметана 20%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 160.0,
+      "kbju": {
+        "calories": 93.9,
+        "protein": 9.6,
+        "fat": 13.8,
+        "carbohydrates": 10.1
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "3313924198"
       }
     }
   ],
-  "total_amount": 240.0,
-  "payment_method": "cash",
-  "is_delivery": true,
+  "total_amount": 600.0,
+  "payment_method": "card",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Красноярск",
-    "street": "пр. Тельмана",
-    "house": "6/3",
-    "apartment": "5",
-    "postal_code": "201224"
+    "city": "Пермь",
+    "street": "ш. Карла Либкнехта",
+    "house": "1/5",
+    "apartment": "73",
+    "postal_code": "289951"
   },
-  "purchase_datetime": "2026-02-10T17:57:36.155356"
+  "purchase_datetime": "2026-02-22T19:09:09.793136"
 }

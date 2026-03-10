@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00177",
   "customer": {
-    "customer_id": "cus-1028",
-    "first_name": "Трифон",
-    "last_name": "Абрамов"
+    "customer_id": "cus-1029",
+    "first_name": "Полина",
+    "last_name": "Некрасова"
   },
   "store": {
-    "store_id": "store-019",
-    "store_name": "Большая Пикча — Магазин на пер. Камский",
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Волочаевская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Магнитогорск",
-      "street": "пер. Камский",
-      "house": "36",
-      "postal_code": "521736",
+      "city": "Оренбург",
+      "street": "алл. Волочаевская",
+      "house": "67",
+      "postal_code": "998293",
       "coordinates": {
-        "latitude": 53.413617,
-        "longitude": 58.971875
+        "latitude": 51.769113,
+        "longitude": 55.091894
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Камбала тушка",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
-      "unit": "кг",
-      "price_per_unit": 220.0,
-      "total_price": 1100.0,
+      "product_id": "prd-1029",
+      "name": "Молоко сгущённое",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 280.0,
       "kbju": {
-        "calories": 264.8,
-        "protein": 27.0,
-        "fat": 21.9,
-        "carbohydrates": 14.4
+        "calories": 62.9,
+        "protein": 7.4,
+        "fat": 2.8,
+        "carbohydrates": 9.5
       },
       "manufacturer": {
-        "name": "Дальморепродукт",
+        "name": "ООО «Густияр»",
         "country": "Россия",
-        "website": "https://дальморепродукт.ru",
-        "inn": "6271784897"
+        "website": "https://густияр.ru",
+        "inn": "4184343517"
       }
     }
   ],
-  "total_amount": 1100.0,
-  "payment_method": "card",
+  "total_amount": 280.0,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Кемерово",
-    "street": "наб. Виноградная",
-    "house": "4/1",
-    "apartment": "4",
-    "postal_code": "402747"
+    "city": "Ростов-на-Дону",
+    "street": "пер. Омский",
+    "house": "4",
+    "apartment": "88",
+    "postal_code": "920440"
   },
-  "purchase_datetime": "2026-03-05T17:57:36.286556"
+  "purchase_datetime": "2026-02-03T19:09:09.872031"
 }

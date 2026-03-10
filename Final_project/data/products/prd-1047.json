@@ -1,24 +1,24 @@
 {
   "id": "prd-1047",
-  "name": "Грибы шампиньоны",
+  "name": "Ревень",
   "group": "🥦 Овощи и зелень",
-  "description": "Свежие шампиньоны, 400 г",
+  "description": "Свежий ревень, пучок",
   "kbju": {
-    "calories": 44.6,
-    "protein": 2.9,
-    "fat": 0.5,
-    "carbohydrates": 2.9
+    "calories": 34.0,
+    "protein": 1.8,
+    "fat": 0.3,
+    "carbohydrates": 7.5
   },
-  "price": 90.0,
+  "price": 60.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 8,
+  "expiry_days": 25,
   "is_organic": false,
-  "barcode": "7330026452112",
+  "barcode": "0876264338261",
   "manufacturer": {
-    "name": "ООО «Грибная ферма»",
+    "name": "Фермерское хозяйство «Лето»",
     "country": "Россия",
-    "website": "https://грибнаяферма.ru",
-    "inn": "2372272673"
+    "website": "https://фермерскоехозяйстволето.ru",
+    "inn": "1018541109"
   }
 }

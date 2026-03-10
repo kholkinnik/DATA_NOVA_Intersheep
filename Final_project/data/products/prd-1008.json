@@ -1,24 +1,24 @@
 {
   "id": "prd-1008",
-  "name": "Булочка для бургера",
+  "name": "Макароны рожки",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "С кунжутом, 4 шт",
+  "description": "Классические рожки, 450 г",
   "kbju": {
-    "calories": 293.2,
-    "protein": 11.6,
-    "fat": 5.0,
-    "carbohydrates": 56.8
+    "calories": 303.3,
+    "protein": 8.3,
+    "fat": 3.3,
+    "carbohydrates": 58.2
   },
-  "price": 60.0,
-  "unit": "уп",
+  "price": 55.0,
+  "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 18,
-  "is_organic": false,
-  "barcode": "8100509581276",
+  "expiry_days": 7,
+  "is_organic": true,
+  "barcode": "0060800914860",
   "manufacturer": {
-    "name": "ООО «Булка»",
+    "name": "ООО «Шебекинские»",
     "country": "Россия",
-    "website": "https://булка.ru",
-    "inn": "6303059533"
+    "website": "https://шебекинские.ru",
+    "inn": "8469368887"
   }
 }

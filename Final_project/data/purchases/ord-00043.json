@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00043",
   "customer": {
-    "customer_id": "cus-1032",
-    "first_name": "Ермил",
-    "last_name": "Савин"
+    "customer_id": "cus-1039",
+    "first_name": "Ксения",
+    "last_name": "Назарова"
   },
   "store": {
-    "store_id": "store-039",
-    "store_name": "Маленькая Пикча — Магазин на ул. Сельская",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на ул. Калинина",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Улан-Удэ",
-      "street": "ул. Сельская",
-      "house": "5/5",
-      "postal_code": "646443",
+      "city": "Волгоград",
+      "street": "ул. Калинина",
+      "house": "5",
+      "postal_code": "247980",
       "coordinates": {
-        "latitude": 51.831632,
-        "longitude": 107.577692
+        "latitude": 48.711553,
+        "longitude": 44.507736
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1016",
-      "name": "Манты",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
-      "unit": "уп",
-      "price_per_unit": 180.0,
-      "total_price": 900.0,
+      "product_id": "prd-1039",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 285.0,
       "kbju": {
-        "calories": 245.3,
-        "protein": 27.7,
-        "fat": 19.5,
-        "carbohydrates": 12.0
+        "calories": 73.5,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbohydrates": 10.3
       },
       "manufacturer": {
-        "name": "ООО «Восточные пельмени»",
+        "name": "ИП Ягодная поляна",
         "country": "Россия",
-        "website": "https://восточныепельмени.ru",
-        "inn": "3404107841"
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1796229374"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 225.0,
+      "kbju": {
+        "calories": 259.0,
+        "protein": 7.4,
+        "fat": 2.6,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Овсянка»",
+        "country": "Россия",
+        "website": "https://овсянка.ru",
+        "inn": "2299793789"
       }
     }
   ],
-  "total_amount": 900.0,
+  "total_amount": 510.0,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Ломоносова",
-    "house": "352",
-    "apartment": "57",
-    "postal_code": "331588"
+    "city": "Ижевск",
+    "street": "наб. Машиностроителей",
+    "house": "68",
+    "apartment": "37",
+    "postal_code": "409842"
   },
-  "purchase_datetime": "2026-03-05T17:57:36.157530"
+  "purchase_datetime": "2026-02-10T19:09:09.799949"
 }

@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00079",
   "customer": {
-    "customer_id": "cus-1041",
-    "first_name": "Кира",
-    "last_name": "Бирюкова"
+    "customer_id": "cus-1026",
+    "first_name": "Елизавета",
+    "last_name": "Котова"
   },
   "store": {
-    "store_id": "store-031",
-    "store_name": "Маленькая Пикча — Магазин на бул. Толстого",
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на пр. Крылова",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Тюмень",
-      "street": "бул. Толстого",
-      "house": "492",
-      "postal_code": "631260",
+      "city": "Уфа",
+      "street": "пр. Крылова",
+      "house": "49",
+      "postal_code": "239977",
       "coordinates": {
-        "latitude": 57.149287,
-        "longitude": 65.53511
+        "latitude": 54.737043,
+        "longitude": 55.967023
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 4,
+      "product_id": "prd-1007",
+      "name": "Мюсли с орехами",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 200.0,
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
       "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
+        "calories": 310.4,
+        "protein": 6.9,
+        "fat": 2.3,
+        "carbohydrates": 44.1
       },
       "manufacturer": {
-        "name": "Danone",
+        "name": "ООО «Здоровое утро»",
         "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
+        "website": "https://здоровоеутро.ru",
+        "inn": "2656122869"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Молоко сгущённое",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 70.0,
+      "kbju": {
+        "calories": 62.9,
+        "protein": 7.4,
+        "fat": 2.8,
+        "carbohydrates": 9.5
+      },
+      "manufacturer": {
+        "name": "ООО «Густияр»",
+        "country": "Россия",
+        "website": "https://густияр.ru",
+        "inn": "4184343517"
       }
     }
   ],
-  "total_amount": 200.0,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 400.0,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Кемерово",
-    "street": "бул. Толбухина",
-    "house": "6",
-    "apartment": "83",
-    "postal_code": "866936"
+    "city": "Пермь",
+    "street": "ш. Карла Либкнехта",
+    "house": "1/5",
+    "apartment": "73",
+    "postal_code": "289951"
   },
-  "purchase_datetime": "2025-12-31T17:57:36.194673"
+  "purchase_datetime": "2025-12-31T19:09:09.811497"
 }

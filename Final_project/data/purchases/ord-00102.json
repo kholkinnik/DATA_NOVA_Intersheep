@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00102",
   "customer": {
-    "customer_id": "cus-1017",
-    "first_name": "Акулина",
-    "last_name": "Овчинникова"
+    "customer_id": "cus-1001",
+    "first_name": "Лаврентий",
+    "last_name": "Лазарев"
   },
   "store": {
-    "store_id": "store-011",
-    "store_name": "Большая Пикча — Магазин на алл. З.Космодемьянской",
-    "store_network": "Большая Пикча",
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на бул. Серова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Красноярск",
-      "street": "алл. З.Космодемьянской",
-      "house": "68",
-      "postal_code": "882212",
+      "city": "Краснодар",
+      "street": "бул. Серова",
+      "house": "8/3",
+      "postal_code": "793357",
       "coordinates": {
-        "latitude": 56.003083,
-        "longitude": 92.853782
+        "latitude": 45.042573,
+        "longitude": 38.979058
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1044",
-      "name": "Маслины",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
+      "product_id": "prd-1031",
+      "name": "Ананас",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 300.0,
+      "price_per_unit": 150.0,
+      "total_price": 600.0,
       "kbju": {
-        "calories": 35.1,
-        "protein": 2.4,
-        "fat": 0.3,
-        "carbohydrates": 6.2
+        "calories": 49.7,
+        "protein": 1.5,
+        "fat": 0.6,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "Италика",
+        "name": "Тропические фрукты",
         "country": "Россия",
-        "website": "https://италика.ru",
-        "inn": "1731751304"
-      }
-    },
-    {
-      "product_id": "prd-1024",
-      "name": "Йогурт питьевой клубничный",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 48.0,
-      "total_price": 144.0,
-      "kbju": {
-        "calories": 151.1,
-        "protein": 9.0,
-        "fat": 11.5,
-        "carbohydrates": 12.0
-      },
-      "manufacturer": {
-        "name": "Danone",
-        "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3928715855"
-      }
-    },
-    {
-      "product_id": "prd-1027",
-      "name": "Мороженое пломбир",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 130.0,
-      "total_price": 130.0,
-      "kbju": {
-        "calories": 133.0,
-        "protein": 7.5,
-        "fat": 11.1,
-        "carbohydrates": 4.8
-      },
-      "manufacturer": {
-        "name": "ООО «Айсберг»",
-        "country": "Россия",
-        "website": "https://айсберг.ru",
-        "inn": "4545124016"
+        "website": "https://тропическиефрукты.ru",
+        "inn": "5491167505"
       }
     }
   ],
-  "total_amount": 574.0,
+  "total_amount": 600.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "алл. Осенняя",
-    "house": "3/6",
-    "apartment": "32",
-    "postal_code": "668106"
+    "city": "Чебоксары",
+    "street": "пер. Заречный",
+    "house": "311",
+    "apartment": "42",
+    "postal_code": "514252"
   },
-  "purchase_datetime": "2025-12-10T17:57:36.215715"
+  "purchase_datetime": "2026-02-20T19:09:09.825654"
 }

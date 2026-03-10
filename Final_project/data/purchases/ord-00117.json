@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00117",
   "customer": {
-    "customer_id": "cus-1004",
-    "first_name": "Светлана",
-    "last_name": "Федосеева"
+    "customer_id": "cus-1016",
+    "first_name": "Анатолий",
+    "last_name": "Зимин"
   },
   "store": {
-    "store_id": "store-017",
-    "store_name": "Большая Пикча — Магазин на пр. Водников",
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на пер. Некрасова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Севастополь",
-      "street": "пр. Водников",
-      "house": "5/5",
-      "postal_code": "317340",
+      "city": "Барнаул",
+      "street": "пер. Некрасова",
+      "house": "4",
+      "postal_code": "717845",
       "coordinates": {
-        "latitude": 44.608385,
-        "longitude": 33.524218
+        "latitude": 53.360323,
+        "longitude": 83.77218
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1027",
-      "name": "Мороженое пломбир",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "product_id": "prd-1008",
+      "name": "Макароны рожки",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 130.0,
-      "total_price": 650.0,
+      "price_per_unit": 55.0,
+      "total_price": 55.0,
       "kbju": {
-        "calories": 133.0,
-        "protein": 7.5,
-        "fat": 11.1,
-        "carbohydrates": 4.8
+        "calories": 303.3,
+        "protein": 8.3,
+        "fat": 3.3,
+        "carbohydrates": 58.2
       },
       "manufacturer": {
-        "name": "ООО «Айсберг»",
+        "name": "ООО «Шебекинские»",
         "country": "Россия",
-        "website": "https://айсберг.ru",
-        "inn": "4545124016"
+        "website": "https://шебекинские.ru",
+        "inn": "8469368887"
       }
     },
     {
-      "product_id": "prd-1010",
-      "name": "Фасоль белая",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 4,
+      "product_id": "prd-1026",
+      "name": "Сыр Косичка",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 65.0,
-      "total_price": 260.0,
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
       "kbju": {
-        "calories": 154.8,
-        "protein": 15.4,
-        "fat": 10.2,
-        "carbohydrates": 8.1
+        "calories": 85.5,
+        "protein": 5.4,
+        "fat": 1.1,
+        "carbohydrates": 10.2
       },
       "manufacturer": {
-        "name": "ООО «Крупяной двор»",
+        "name": "ООО «Сыровар»",
         "country": "Россия",
-        "website": "https://крупянойдвор.ru",
-        "inn": "9825245926"
+        "website": "https://сыровар.ru",
+        "inn": "7103183531"
+      }
+    },
+    {
+      "product_id": "prd-1034",
+      "name": "Апельсины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 120.0,
+      "total_price": 360.0,
+      "kbju": {
+        "calories": 83.6,
+        "protein": 1.8,
+        "fat": 0.2,
+        "carbohydrates": 18.3
+      },
+      "manufacturer": {
+        "name": "Средиземноморский экспорт",
+        "country": "Россия",
+        "website": "https://средиземноморскийэкспорт.ru",
+        "inn": "5609742568"
       }
     }
   ],
-  "total_amount": 910.0,
+  "total_amount": 545.0,
   "payment_method": "cash",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Волгоград",
-    "street": "ул. Прохладная",
-    "house": "6",
-    "apartment": "63",
-    "postal_code": "200366"
+    "city": "Оренбург",
+    "street": "пр. Курганный",
+    "house": "1",
+    "apartment": "95",
+    "postal_code": "798285"
   },
-  "purchase_datetime": "2026-01-08T17:57:36.228076"
+  "purchase_datetime": "2025-12-19T19:09:09.841143"
 }

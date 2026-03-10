@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00038",
   "customer": {
-    "customer_id": "cus-1000",
-    "first_name": "Алевтина",
-    "last_name": "Терентьева"
+    "customer_id": "cus-1030",
+    "first_name": "Автоном",
+    "last_name": "Маслов"
   },
   "store": {
-    "store_id": "store-039",
-    "store_name": "Маленькая Пикча — Магазин на ул. Сельская",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на наб. Каштановая",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Улан-Удэ",
-      "street": "ул. Сельская",
-      "house": "5/5",
-      "postal_code": "646443",
+      "city": "Пенза",
+      "street": "наб. Каштановая",
+      "house": "8/1",
+      "postal_code": "119305",
       "coordinates": {
-        "latitude": 51.831632,
-        "longitude": 107.577692
+        "latitude": 53.199734,
+        "longitude": 44.959933
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Фасоль белая",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "product_id": "prd-1021",
+      "name": "Молоко 3,2%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 65.0,
-      "total_price": 325.0,
+      "price_per_unit": 75.0,
+      "total_price": 225.0,
       "kbju": {
-        "calories": 154.8,
-        "protein": 15.4,
-        "fat": 10.2,
-        "carbohydrates": 8.1
+        "calories": 43.2,
+        "protein": 8.8,
+        "fat": 1.8,
+        "carbohydrates": 11.3
       },
       "manufacturer": {
-        "name": "ООО «Крупяной двор»",
+        "name": "Вимм-Билль-Данн",
         "country": "Россия",
-        "website": "https://крупянойдвор.ru",
-        "inn": "9825245926"
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "7910577238"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Тунец в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 321.8,
+        "protein": 25.6,
+        "fat": 3.2,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "ООО «Морепродукт»",
+        "country": "Россия",
+        "website": "https://морепродукт.ru",
+        "inn": "1426105985"
       }
     }
   ],
-  "total_amount": 325.0,
+  "total_amount": 345.0,
   "payment_method": "card",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Киров",
-    "street": "ул. Декабристов",
-    "house": "1",
-    "apartment": "64",
-    "postal_code": "133651"
+    "city": "Челябинск",
+    "street": "ш. Льва Толстого",
+    "house": "24",
+    "apartment": "52",
+    "postal_code": "834686"
   },
-  "purchase_datetime": "2026-02-08T17:57:36.157530"
+  "purchase_datetime": "2026-01-15T19:09:09.798953"
 }

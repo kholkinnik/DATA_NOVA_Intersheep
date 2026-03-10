@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1014",
-  "first_name": "Евдокия",
-  "last_name": "Аксенова",
-  "email": "natankorolev@example.net",
-  "phone": "+7 (245) 109-9320",
-  "birth_date": "2002-09-13",
+  "first_name": "Мария",
+  "last_name": "Белова",
+  "email": "pestovaskold@example.org",
+  "phone": "83829960467",
+  "birth_date": "1969-03-07",
   "gender": "female",
-  "registration_date": "2026-01-17T17:57:36.107198",
+  "registration_date": "2026-02-17T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-01692D732C",
+  "loyalty_card_number": "LOYAL-8A99D16902",
   "purchase_location": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "пер. Чайковского",
-    "house": "7/3",
-    "postal_code": "170687",
+    "city": "Томск",
+    "street": "наб. Новгородская",
+    "house": "1/9",
+    "postal_code": "188860",
     "coordinates": {
-      "latitude": 55.170389,
-      "longitude": 61.429472
+      "latitude": 56.490847,
+      "longitude": 84.97497
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "алл. Курортная",
-    "house": "5/1",
-    "apartment": "94",
-    "postal_code": "304109"
+    "city": "Томск",
+    "street": "наб. Новгородская",
+    "house": "4/2",
+    "apartment": "86",
+    "postal_code": "122444"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

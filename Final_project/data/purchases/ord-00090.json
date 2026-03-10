@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00090",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Исидор",
-    "last_name": "Ефремов"
+    "customer_id": "cus-1019",
+    "first_name": "Афанасий",
+    "last_name": "Громов"
   },
   "store": {
-    "store_id": "store-006",
-    "store_name": "Большая Пикча — Магазин на ул. Дорожная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на алл. Тельмана",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Барнаул",
-      "street": "ул. Дорожная",
-      "house": "916",
-      "postal_code": "507430",
+      "city": "Ижевск",
+      "street": "алл. Тельмана",
+      "house": "40",
+      "postal_code": "110271",
       "coordinates": {
-        "latitude": 53.35194,
-        "longitude": 83.77341
+        "latitude": 56.861138,
+        "longitude": 53.218005
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Сухари панировочные",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
+      "product_id": "prd-1019",
+      "name": "Сардины в масле",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 40.0,
-      "total_price": 200.0,
+      "price_per_unit": 95.0,
+      "total_price": 380.0,
       "kbju": {
-        "calories": 243.4,
-        "protein": 9.6,
-        "fat": 5.4,
-        "carbohydrates": 53.0
+        "calories": 156.0,
+        "protein": 22.0,
+        "fat": 13.4,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "ООО «Русский продукт»",
+        "name": "ООО «Рыбные консервы»",
         "country": "Россия",
-        "website": "https://русскийпродукт.ru",
-        "inn": "0882036165"
+        "website": "https://рыбныеконсервы.ru",
+        "inn": "4948064786"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 285.0,
+      "kbju": {
+        "calories": 73.5,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbohydrates": 10.3
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1796229374"
+      }
+    },
+    {
+      "product_id": "prd-1022",
+      "name": "Снежок",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 275.0,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 7.6,
+        "fat": 1.8,
+        "carbohydrates": 5.0
+      },
+      "manufacturer": {
+        "name": "Вимм-Билль-Данн",
+        "country": "Россия",
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "0415662193"
       }
     }
   ],
-  "total_amount": 200.0,
-  "payment_method": "card",
+  "total_amount": 940.0,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Саратов",
-    "street": "ш. Союзное",
-    "house": "2/3",
-    "apartment": "56",
-    "postal_code": "135471"
+    "city": "Владимир",
+    "street": "пер. Высоцкого",
+    "house": "7/5",
+    "apartment": "99",
+    "postal_code": "951120"
   },
-  "purchase_datetime": "2026-01-26T17:57:36.204600"
+  "purchase_datetime": "2026-02-13T19:09:09.825654"
 }

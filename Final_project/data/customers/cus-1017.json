@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1017",
-  "first_name": "Акулина",
-  "last_name": "Овчинникова",
-  "email": "uagafonov@example.org",
-  "phone": "8 (482) 203-9839",
-  "birth_date": "1965-08-23",
-  "gender": "female",
-  "registration_date": "2025-12-21T17:57:36.108198",
+  "first_name": "Ферапонт",
+  "last_name": "Ильин",
+  "email": "vorobevavasilisa@example.org",
+  "phone": "8 556 335 0761",
+  "birth_date": "1957-10-20",
+  "gender": "male",
+  "registration_date": "2026-01-27T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-56A25CF9AB",
+  "loyalty_card_number": "LOYAL-ABA0DA76FF",
   "purchase_location": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "алл. Высоковольтная",
-    "house": "59",
-    "postal_code": "727324",
+    "city": "Уфа",
+    "street": "ул. Промышленная",
+    "house": "911",
+    "postal_code": "049897",
     "coordinates": {
-      "latitude": 44.952833,
-      "longitude": 34.103069
+      "latitude": 54.737483,
+      "longitude": 55.980166
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "алл. Осенняя",
-    "house": "3/6",
-    "apartment": "32",
-    "postal_code": "668106"
+    "city": "Уфа",
+    "street": "пр. О.Кошевого",
+    "house": "5",
+    "apartment": "56",
+    "postal_code": "336298"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
+    "preferred_payment_method": "card",
     "receive_promotions": true
   }
 }

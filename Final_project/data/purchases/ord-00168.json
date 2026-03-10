@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00168",
   "customer": {
-    "customer_id": "cus-1016",
-    "first_name": "Александра",
-    "last_name": "Стрелкова"
+    "customer_id": "cus-1026",
+    "first_name": "Елизавета",
+    "last_name": "Котова"
   },
   "store": {
-    "store_id": "store-005",
-    "store_name": "Большая Пикча — Магазин на пер. Крестьянский",
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Волочаевская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Волгоград",
-      "street": "пер. Крестьянский",
-      "house": "797",
-      "postal_code": "959410",
+      "city": "Оренбург",
+      "street": "алл. Волочаевская",
+      "house": "67",
+      "postal_code": "998293",
       "coordinates": {
-        "latitude": 48.699683,
-        "longitude": 44.515249
+        "latitude": 51.769113,
+        "longitude": 55.091894
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1032",
-      "name": "Абрикосы",
+      "product_id": "prd-1046",
+      "name": "Фасоль стручковая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 80.0,
+      "kbju": {
+        "calories": 43.2,
+        "protein": 1.4,
+        "fat": 0.5,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "ООО «Овощной рай»",
+        "country": "Россия",
+        "website": "https://овощнойрай.ru",
+        "inn": "6674821212"
+      }
+    },
+    {
+      "product_id": "prd-1034",
+      "name": "Апельсины",
       "category": "🍏 Фрукты и ягоды",
       "quantity": 5,
       "unit": "кг",
-      "price_per_unit": 170.0,
-      "total_price": 850.0,
+      "price_per_unit": 120.0,
+      "total_price": 600.0,
       "kbju": {
-        "calories": 60.3,
-        "protein": 1.1,
-        "fat": 0.8,
-        "carbohydrates": 18.0
+        "calories": 83.6,
+        "protein": 1.8,
+        "fat": 0.2,
+        "carbohydrates": 18.3
       },
       "manufacturer": {
-        "name": "Кубанские фрукты",
+        "name": "Средиземноморский экспорт",
         "country": "Россия",
-        "website": "https://кубанскиефрукты.ru",
-        "inn": "3476861227"
-      }
-    },
-    {
-      "product_id": "prd-1033",
-      "name": "Брусника",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 95.0,
-      "total_price": 190.0,
-      "kbju": {
-        "calories": 99.7,
-        "protein": 0.8,
-        "fat": 0.4,
-        "carbohydrates": 10.2
-      },
-      "manufacturer": {
-        "name": "ИП Ягодная поляна",
-        "country": "Россия",
-        "website": "https://ягоднаяполяна.ru",
-        "inn": "7966740421"
-      }
-    },
-    {
-      "product_id": "prd-1008",
-      "name": "Булочка для бургера",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
-      "unit": "уп",
-      "price_per_unit": 60.0,
-      "total_price": 300.0,
-      "kbju": {
-        "calories": 293.2,
-        "protein": 11.6,
-        "fat": 5.0,
-        "carbohydrates": 56.8
-      },
-      "manufacturer": {
-        "name": "ООО «Булка»",
-        "country": "Россия",
-        "website": "https://булка.ru",
-        "inn": "6303059533"
+        "website": "https://средиземноморскийэкспорт.ru",
+        "inn": "5609742568"
       }
     }
   ],
-  "total_amount": 1340.0,
+  "total_amount": 680.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Севастополь",
-    "street": "наб. Дарвина",
-    "house": "43",
-    "apartment": "77",
-    "postal_code": "319629"
+    "city": "Пермь",
+    "street": "ш. Карла Либкнехта",
+    "house": "1/5",
+    "apartment": "73",
+    "postal_code": "289951"
   },
-  "purchase_datetime": "2026-02-05T17:57:36.275295"
+  "purchase_datetime": "2025-12-12T19:09:09.858117"
 }

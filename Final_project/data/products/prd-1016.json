@@ -1,24 +1,24 @@
 {
   "id": "prd-1016",
-  "name": "Манты",
+  "name": "Шашлык из свинины",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Замороженные, 500 г",
+  "description": "Маринованный, 500 г",
   "kbju": {
-    "calories": 245.3,
-    "protein": 27.7,
-    "fat": 19.5,
-    "carbohydrates": 12.0
+    "calories": 224.9,
+    "protein": 17.9,
+    "fat": 17.9,
+    "carbohydrates": 12.7
   },
-  "price": 180.0,
-  "unit": "уп",
+  "price": 320.0,
+  "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 18,
+  "expiry_days": 10,
   "is_organic": false,
-  "barcode": "6960089116051",
+  "barcode": "1572004413173",
   "manufacturer": {
-    "name": "ООО «Восточные пельмени»",
+    "name": "ООО «Шашлычный двор»",
     "country": "Россия",
-    "website": "https://восточныепельмени.ru",
-    "inn": "3404107841"
+    "website": "https://шашлычныйдвор.ru",
+    "inn": "4814050842"
   }
 }

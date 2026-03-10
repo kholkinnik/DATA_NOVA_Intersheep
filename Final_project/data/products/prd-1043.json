@@ -1,24 +1,24 @@
 {
   "id": "prd-1043",
-  "name": "Квашеная капуста",
+  "name": "Сельдерей корневой",
   "group": "🥦 Овощи и зелень",
-  "description": "Квашеная капуста с морковью, 500 г",
+  "description": "Корень сельдерея, 1 шт",
   "kbju": {
-    "calories": 36.9,
-    "protein": 3.0,
+    "calories": 29.4,
+    "protein": 0.8,
     "fat": 0.5,
-    "carbohydrates": 3.9
+    "carbohydrates": 6.0
   },
-  "price": 60.0,
+  "price": 50.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 5,
-  "is_organic": false,
-  "barcode": "8370267886016",
+  "expiry_days": 27,
+  "is_organic": true,
+  "barcode": "7753774410867",
   "manufacturer": {
-    "name": "ИП «Соленья»",
+    "name": "Фермерское хозяйство «Лето»",
     "country": "Россия",
-    "website": "https://соленья.ru",
-    "inn": "8202780478"
+    "website": "https://фермерскоехозяйстволето.ru",
+    "inn": "0862782320"
   }
 }

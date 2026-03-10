@@ -1,6 +1,6 @@
 {
   "store_id": "store-025",
-  "store_name": "Большая Пикча — Магазин на ш. Островского",
+  "store_name": "Большая Пикча — Магазин на наб. Республиканская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Семенова Октябрина Дмитриевна",
-    "phone": "+7 647 948 5783",
-    "email": "luchezar_2020@example.net"
+    "name": "Мокей Харламович Беляев",
+    "phone": "+7 (284) 057-6146",
+    "email": "shilovkapiton@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Красноярск",
-    "street": "ш. Островского",
-    "house": "2",
-    "postal_code": "556125",
+    "city": "Ижевск",
+    "street": "наб. Республиканская",
+    "house": "481",
+    "postal_code": "817868",
     "coordinates": {
-      "latitude": 56.019131,
-      "longitude": 92.850536
+      "latitude": 56.844445,
+      "longitude": 53.205683
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

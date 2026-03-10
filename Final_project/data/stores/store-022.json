@@ -1,6 +1,6 @@
 {
   "store_id": "store-022",
-  "store_name": "Большая Пикча — Магазин на наб. Гафури",
+  "store_name": "Большая Пикча — Магазин на пер. Фурманова",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Нонна Леонидовна Гущина",
-    "phone": "+7 622 927 9798",
-    "email": "spartak1970@example.org"
+    "name": "Прасковья Богдановна Селиверстова",
+    "phone": "+7 343 212 04 28",
+    "email": "juvenalistepanov@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Ижевск",
-    "street": "наб. Гафури",
-    "house": "2/5",
-    "postal_code": "302578",
+    "city": "Самара",
+    "street": "пер. Фурманова",
+    "house": "1",
+    "postal_code": "101558",
     "coordinates": {
-      "latitude": 56.843537,
-      "longitude": 53.217387
+      "latitude": 53.244814,
+      "longitude": 50.227516
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

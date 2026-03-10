@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00165",
   "customer": {
-    "customer_id": "cus-1029",
-    "first_name": "Иванна",
-    "last_name": "Орлова"
+    "customer_id": "cus-1010",
+    "first_name": "Екатерина",
+    "last_name": "Нестерова"
   },
   "store": {
-    "store_id": "store-004",
-    "store_name": "Большая Пикча — Магазин на бул. Серова",
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пер. Беляева",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Чебоксары",
-      "street": "бул. Серова",
-      "house": "906",
-      "postal_code": "969267",
+      "city": "Томск",
+      "street": "пер. Беляева",
+      "house": "3",
+      "postal_code": "143215",
       "coordinates": {
-        "latitude": 56.150128,
-        "longitude": 47.255986
+        "latitude": 56.492361,
+        "longitude": 84.972922
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
+      "product_id": "prd-1000",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 110.0,
+      "price_per_unit": 90.0,
+      "total_price": 360.0,
       "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
+        "calories": 226.0,
+        "protein": 11.6,
+        "fat": 4.4,
+        "carbohydrates": 50.2
       },
       "manufacturer": {
-        "name": "Птицефабрика «Северная»",
+        "name": "ООО «Кекс»",
         "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
+        "website": "https://кекс.ru",
+        "inn": "4509049327"
       }
     },
     {
-      "product_id": "prd-1019",
-      "name": "Пельмени русские",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
-      "unit": "уп",
-      "price_per_unit": 130.0,
-      "total_price": 260.0,
+      "product_id": "prd-1021",
+      "name": "Молоко 3,2%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 75.0,
+      "total_price": 375.0,
       "kbju": {
-        "calories": 290.9,
-        "protein": 18.9,
-        "fat": 5.2,
-        "carbohydrates": 2.0
+        "calories": 43.2,
+        "protein": 8.8,
+        "fat": 1.8,
+        "carbohydrates": 11.3
       },
       "manufacturer": {
-        "name": "ООО «Сибирский гурман»",
+        "name": "Вимм-Билль-Данн",
         "country": "Россия",
-        "website": "https://сибирскийгурман.ru",
-        "inn": "8707694030"
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "7910577238"
       }
     }
   ],
-  "total_amount": 370.0,
+  "total_amount": 735.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "алл. Димитрова",
-    "house": "387",
-    "apartment": "72",
-    "postal_code": "231661"
+    "city": "Волгоград",
+    "street": "алл. Пожарского",
+    "house": "9/8",
+    "apartment": "53",
+    "postal_code": "673162"
   },
-  "purchase_datetime": "2026-03-07T17:57:36.270336"
+  "purchase_datetime": "2026-01-02T19:09:09.858117"
 }

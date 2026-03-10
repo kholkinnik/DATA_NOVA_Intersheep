@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00161",
   "customer": {
-    "customer_id": "cus-1032",
-    "first_name": "Ермил",
-    "last_name": "Савин"
+    "customer_id": "cus-1029",
+    "first_name": "Полина",
+    "last_name": "Некрасова"
   },
   "store": {
-    "store_id": "store-038",
-    "store_name": "Маленькая Пикча — Магазин на алл. Лесная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на ул. Калинина",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ярославль",
-      "street": "алл. Лесная",
-      "house": "706",
-      "postal_code": "021505",
+      "city": "Волгоград",
+      "street": "ул. Калинина",
+      "house": "5",
+      "postal_code": "247980",
       "coordinates": {
-        "latitude": 57.633645,
-        "longitude": 39.884674
+        "latitude": 48.711553,
+        "longitude": 44.507736
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1001",
-      "name": "Хлеб Бородинский",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1042",
+      "name": "Салат Айсберг",
+      "category": "🥦 Овощи и зелень",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 55.0,
-      "total_price": 220.0,
+      "price_per_unit": 60.0,
+      "total_price": 240.0,
       "kbju": {
-        "calories": 302.2,
-        "protein": 7.5,
-        "fat": 5.4,
-        "carbohydrates": 42.0
+        "calories": 42.7,
+        "protein": 2.6,
+        "fat": 0.8,
+        "carbohydrates": 2.4
       },
       "manufacturer": {
-        "name": "ООО «Коломенский пекарь»",
+        "name": "Белая дача",
         "country": "Россия",
-        "website": "https://коломенскийпекарь.ru",
-        "inn": "1868975782"
+        "website": "https://белаядача.ru",
+        "inn": "6752866158"
+      }
+    },
+    {
+      "product_id": "prd-1041",
+      "name": "Укроп свежий",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 60.0,
+      "kbju": {
+        "calories": 53.8,
+        "protein": 1.0,
+        "fat": 0.3,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "6330163268"
+      }
+    },
+    {
+      "product_id": "prd-1040",
+      "name": "Кабачки",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 70.0,
+      "total_price": 140.0,
+      "kbju": {
+        "calories": 47.5,
+        "protein": 1.3,
+        "fat": 0.3,
+        "carbohydrates": 5.1
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "8544353715"
       }
     }
   ],
-  "total_amount": 220.0,
+  "total_amount": 440.0,
   "payment_method": "card",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Ломоносова",
-    "house": "352",
-    "apartment": "57",
-    "postal_code": "331588"
+    "city": "Ростов-на-Дону",
+    "street": "пер. Омский",
+    "house": "4",
+    "apartment": "88",
+    "postal_code": "920440"
   },
-  "purchase_datetime": "2025-12-27T17:57:36.265899"
+  "purchase_datetime": "2025-12-18T19:09:09.858117"
 }

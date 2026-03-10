@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00111",
   "customer": {
-    "customer_id": "cus-1007",
-    "first_name": "Оксана",
-    "last_name": "Костина"
+    "customer_id": "cus-1030",
+    "first_name": "Автоном",
+    "last_name": "Маслов"
   },
   "store": {
-    "store_id": "store-027",
-    "store_name": "Большая Пикча — Магазин на ул. Восточная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на пр. Крылова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ростов-на-Дону",
-      "street": "ул. Восточная",
-      "house": "9",
-      "postal_code": "620753",
+      "city": "Уфа",
+      "street": "пр. Крылова",
+      "house": "49",
+      "postal_code": "239977",
       "coordinates": {
-        "latitude": 47.232524,
-        "longitude": 39.706131
+        "latitude": 54.737043,
+        "longitude": 55.967023
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1036",
-      "name": "Арбуз",
+      "product_id": "prd-1034",
+      "name": "Апельсины",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 250.0,
-      "total_price": 1000.0,
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 120.0,
+      "total_price": 360.0,
       "kbju": {
-        "calories": 92.1,
-        "protein": 0.5,
+        "calories": 83.6,
+        "protein": 1.8,
         "fat": 0.2,
-        "carbohydrates": 18.4
+        "carbohydrates": 18.3
       },
       "manufacturer": {
-        "name": "Астраханские арбузы",
+        "name": "Средиземноморский экспорт",
         "country": "Россия",
-        "website": "https://астраханскиеарбузы.ru",
-        "inn": "6713441892"
+        "website": "https://средиземноморскийэкспорт.ru",
+        "inn": "5609742568"
+      }
+    },
+    {
+      "product_id": "prd-1040",
+      "name": "Кабачки",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 70.0,
+      "total_price": 280.0,
+      "kbju": {
+        "calories": 47.5,
+        "protein": 1.3,
+        "fat": 0.3,
+        "carbohydrates": 5.1
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "8544353715"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Макароны рожки",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 110.0,
+      "kbju": {
+        "calories": 303.3,
+        "protein": 8.3,
+        "fat": 3.3,
+        "carbohydrates": 58.2
+      },
+      "manufacturer": {
+        "name": "ООО «Шебекинские»",
+        "country": "Россия",
+        "website": "https://шебекинские.ru",
+        "inn": "8469368887"
       }
     }
   ],
-  "total_amount": 1000.0,
+  "total_amount": 750.0,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Липецк",
-    "street": "бул. Радищева",
-    "house": "9",
-    "apartment": "25",
-    "postal_code": "916599"
+    "city": "Челябинск",
+    "street": "ш. Льва Толстого",
+    "house": "24",
+    "apartment": "52",
+    "postal_code": "834686"
   },
-  "purchase_datetime": "2026-02-24T17:57:36.224078"
+  "purchase_datetime": "2025-12-13T19:09:09.825654"
 }

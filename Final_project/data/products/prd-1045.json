@@ -1,24 +1,24 @@
 {
   "id": "prd-1045",
-  "name": "Чеснок",
+  "name": "Картофель мытый",
   "group": "🥦 Овощи и зелень",
-  "description": "Головки чеснока, 1 кг",
+  "description": "Молодой картофель, мытый, 1 кг",
   "kbju": {
-    "calories": 50.9,
-    "protein": 1.4,
-    "fat": 0.6,
-    "carbohydrates": 7.3
+    "calories": 40.4,
+    "protein": 2.8,
+    "fat": 0.8,
+    "carbohydrates": 5.3
   },
-  "price": 150.0,
+  "price": 40.0,
   "unit": "кг",
   "origin_country": "Россия",
-  "expiry_days": 11,
-  "is_organic": true,
-  "barcode": "5311035444161",
+  "expiry_days": 17,
+  "is_organic": false,
+  "barcode": "6939334307926",
   "manufacturer": {
-    "name": "ИП «Огородник»",
+    "name": "Фермерское хозяйство «Лето»",
     "country": "Россия",
-    "website": "https://огородник.ru",
-    "inn": "9765085333"
+    "website": "https://фермерскоехозяйстволето.ru",
+    "inn": "3737517956"
   }
 }

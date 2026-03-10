@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00105",
   "customer": {
-    "customer_id": "cus-1037",
-    "first_name": "Ксения",
-    "last_name": "Самсонова"
+    "customer_id": "cus-1032",
+    "first_name": "Мария",
+    "last_name": "Федорова"
   },
   "store": {
-    "store_id": "store-021",
-    "store_name": "Большая Пикча — Магазин на алл. Кузнецова",
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на пер. Фурманова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Курск",
-      "street": "алл. Кузнецова",
+      "city": "Самара",
+      "street": "пер. Фурманова",
       "house": "1",
-      "postal_code": "957961",
+      "postal_code": "101558",
       "coordinates": {
-        "latitude": 51.735868,
-        "longitude": 36.185717
+        "latitude": 53.244814,
+        "longitude": 50.227516
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1034",
-      "name": "Курага",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
+      "product_id": "prd-1003",
+      "name": "Торт Медовик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 600.0,
+      "price_per_unit": 250.0,
+      "total_price": 750.0,
       "kbju": {
-        "calories": 82.8,
-        "protein": 0.9,
-        "fat": 0.3,
-        "carbohydrates": 16.2
+        "calories": 230.5,
+        "protein": 8.3,
+        "fat": 2.8,
+        "carbohydrates": 50.7
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "ООО «Сластёна»",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "7277657027"
+        "website": "https://сластёна.ru",
+        "inn": "7728792532"
       }
     },
     {
       "product_id": "prd-1014",
-      "name": "Шашлык из свинины",
+      "name": "Конина",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 320.0,
-      "total_price": 640.0,
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 400.0,
+      "total_price": 400.0,
       "kbju": {
-        "calories": 154.6,
-        "protein": 21.5,
-        "fat": 3.3,
-        "carbohydrates": 8.2
+        "calories": 320.1,
+        "protein": 20.0,
+        "fat": 17.6,
+        "carbohydrates": 1.7
       },
       "manufacturer": {
-        "name": "ООО «Шашлычный двор»",
+        "name": "АО «Табун»",
         "country": "Россия",
-        "website": "https://шашлычныйдвор.ru",
-        "inn": "2754811957"
+        "website": "https://табун.ru",
+        "inn": "1260330660"
       }
     }
   ],
-  "total_amount": 1240.0,
+  "total_amount": 1150.0,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Ярославль",
-    "street": "наб. Островского",
-    "house": "4",
-    "apartment": "78",
-    "postal_code": "046482"
+    "city": "Набережные Челны",
+    "street": "алл. Жукова",
+    "house": "7",
+    "apartment": "85",
+    "postal_code": "895502"
   },
-  "purchase_datetime": "2026-03-05T17:57:36.216722"
+  "purchase_datetime": "2026-01-18T19:09:09.825654"
 }

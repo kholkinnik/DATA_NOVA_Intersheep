@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00087",
   "customer": {
-    "customer_id": "cus-1020",
-    "first_name": "Севастьян",
-    "last_name": "Борисов"
+    "customer_id": "cus-1008",
+    "first_name": "Анна",
+    "last_name": "Панфилова"
   },
   "store": {
-    "store_id": "store-043",
-    "store_name": "Маленькая Пикча — Магазин на ул. 50 лет Октября",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на бул. Вокзальный",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Москва",
-      "street": "ул. 50 лет Октября",
-      "house": "2/5",
-      "postal_code": "674748",
+      "city": "Ижевск",
+      "street": "бул. Вокзальный",
+      "house": "6/8",
+      "postal_code": "189685",
       "coordinates": {
-        "latitude": 55.757578,
-        "longitude": 37.626976
+        "latitude": 56.849325,
+        "longitude": 53.20278
       }
     }
   },
   "items": [
     {
       "product_id": "prd-1030",
-      "name": "Грейпфрут",
+      "name": "Манго",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 250.0,
+      "price_per_unit": 120.0,
+      "total_price": 120.0,
       "kbju": {
-        "calories": 60.7,
-        "protein": 1.5,
-        "fat": 0.6,
-        "carbohydrates": 7.7
+        "calories": 68.7,
+        "protein": 1.0,
+        "fat": 0.4,
+        "carbohydrates": 5.6
       },
       "manufacturer": {
-        "name": "ИП Цитрус",
+        "name": "Тропические фрукты",
         "country": "Россия",
-        "website": "https://цитрус.ru",
-        "inn": "2114424981"
+        "website": "https://тропическиефрукты.ru",
+        "inn": "4742502578"
       }
     },
     {
-      "product_id": "prd-1004",
-      "name": "Сухари панировочные",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 40.0,
-      "total_price": 160.0,
+      "product_id": "prd-1014",
+      "name": "Конина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 400.0,
+      "total_price": 400.0,
       "kbju": {
-        "calories": 243.4,
-        "protein": 9.6,
-        "fat": 5.4,
-        "carbohydrates": 53.0
+        "calories": 320.1,
+        "protein": 20.0,
+        "fat": 17.6,
+        "carbohydrates": 1.7
       },
       "manufacturer": {
-        "name": "ООО «Русский продукт»",
+        "name": "АО «Табун»",
         "country": "Россия",
-        "website": "https://русскийпродукт.ru",
-        "inn": "0882036165"
+        "website": "https://табун.ru",
+        "inn": "1260330660"
       }
     }
   ],
-  "total_amount": 410.0,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 520.0,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Курск",
-    "street": "наб. Гастелло",
-    "house": "868",
-    "apartment": "94",
-    "postal_code": "032682"
+    "city": "Набережные Челны",
+    "street": "пр. Лазо",
+    "house": "34",
+    "apartment": "22",
+    "postal_code": "623940"
   },
-  "purchase_datetime": "2026-01-17T17:57:36.201468"
+  "purchase_datetime": "2025-12-30T19:09:09.825654"
 }

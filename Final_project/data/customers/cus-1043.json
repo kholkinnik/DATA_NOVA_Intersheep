@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1043",
-  "first_name": "Василиса",
-  "last_name": "Семенова",
-  "email": "varvaragrishina@example.org",
-  "phone": "87314554166",
-  "birth_date": "1979-05-03",
+  "first_name": "Регина",
+  "last_name": "Бурова",
+  "email": "abramovamarija@example.net",
+  "phone": "+7 098 153 53 22",
+  "birth_date": "1993-10-17",
   "gender": "female",
-  "registration_date": "2026-01-30T17:57:36.128402",
+  "registration_date": "2026-01-08T19:09:09.766985",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-82EFECB0FB",
+  "loyalty_card_number": "LOYAL-4DE1C77EC1",
   "purchase_location": {
     "country": "Россия",
-    "city": "Омск",
-    "street": "ул. Льва Толстого",
-    "house": "6/4",
-    "postal_code": "211189",
+    "city": "Новосибирск",
+    "street": "ул. Волгоградская",
+    "house": "8",
+    "postal_code": "384264",
     "coordinates": {
-      "latitude": 54.988481,
-      "longitude": 73.361615
+      "latitude": 55.021852,
+      "longitude": 82.913795
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Омск",
-    "street": "бул. Марта 8",
-    "house": "723",
-    "apartment": "72",
-    "postal_code": "797273"
+    "city": "Новосибирск",
+    "street": "пр. Шаумяна",
+    "house": "4",
+    "apartment": "55",
+    "postal_code": "941592"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "card",
-    "receive_promotions": false
+    "receive_promotions": true
   }
 }

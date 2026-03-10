@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00110",
   "customer": {
-    "customer_id": "cus-1015",
-    "first_name": "Феликс",
-    "last_name": "Михайлов"
+    "customer_id": "cus-1030",
+    "first_name": "Автоном",
+    "last_name": "Маслов"
   },
   "store": {
-    "store_id": "store-040",
-    "store_name": "Маленькая Пикча — Магазин на ул. Вокзальная",
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на алл. Карбышева",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
       "city": "Екатеринбург",
-      "street": "ул. Вокзальная",
-      "house": "35",
-      "postal_code": "932596",
+      "street": "алл. Карбышева",
+      "house": "6",
+      "postal_code": "305586",
       "coordinates": {
-        "latitude": 56.830604,
-        "longitude": 60.608126
+        "latitude": 56.840877,
+        "longitude": 60.601196
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1006",
-      "name": "Гречка",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1044",
+      "name": "Редька зеленая",
+      "category": "🥦 Овощи и зелень",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 75.0,
-      "total_price": 300.0,
+      "price_per_unit": 50.0,
+      "total_price": 200.0,
       "kbju": {
-        "calories": 240.3,
-        "protein": 11.7,
-        "fat": 4.8,
-        "carbohydrates": 50.5
+        "calories": 57.7,
+        "protein": 1.6,
+        "fat": 0.5,
+        "carbohydrates": 5.9
       },
       "manufacturer": {
-        "name": "ООО «Мистраль»",
+        "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
-        "website": "https://мистраль.ru",
-        "inn": "6141052240"
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "9399903981"
       }
     },
     {
-      "product_id": "prd-1005",
-      "name": "Полба",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1016",
+      "name": "Шашлык из свинины",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 120.0,
+      "price_per_unit": 320.0,
+      "total_price": 320.0,
       "kbju": {
-        "calories": 236.2,
-        "protein": 11.5,
-        "fat": 1.3,
-        "carbohydrates": 59.0
+        "calories": 224.9,
+        "protein": 17.9,
+        "fat": 17.9,
+        "carbohydrates": 12.7
       },
       "manufacturer": {
-        "name": "ООО «Здоровое зерно»",
+        "name": "ООО «Шашлычный двор»",
         "country": "Россия",
-        "website": "https://здоровоезерно.ru",
-        "inn": "8224754920"
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "4814050842"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Сыворотка молочная",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 80.0,
+      "kbju": {
+        "calories": 199.6,
+        "protein": 4.0,
+        "fat": 1.6,
+        "carbohydrates": 6.9
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "8225289525"
       }
     }
   ],
-  "total_amount": 420.0,
-  "payment_method": "cash",
-  "is_delivery": true,
+  "total_amount": 600.0,
+  "payment_method": "card",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Москва",
-    "street": "ш. Юности",
-    "house": "109",
-    "apartment": "23",
-    "postal_code": "517799"
+    "city": "Челябинск",
+    "street": "ш. Льва Толстого",
+    "house": "24",
+    "apartment": "52",
+    "postal_code": "834686"
   },
-  "purchase_datetime": "2025-12-30T17:57:36.223064"
+  "purchase_datetime": "2026-02-01T19:09:09.825654"
 }

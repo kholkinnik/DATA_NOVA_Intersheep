@@ -1,6 +1,6 @@
 {
   "store_id": "store-015",
-  "store_name": "Большая Пикча — Магазин на пер. Чайковского",
+  "store_name": "Большая Пикча — Магазин на наб. Новгородская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Евдокия Мироновна Кириллова",
-    "phone": "8 159 178 0463",
-    "email": "averjan_2011@example.net"
+    "name": "Клавдий Давыдович Бобров",
+    "phone": "86487051001",
+    "email": "ruben29@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "пер. Чайковского",
-    "house": "7/3",
-    "postal_code": "170687",
+    "city": "Томск",
+    "street": "наб. Новгородская",
+    "house": "1/9",
+    "postal_code": "188860",
     "coordinates": {
-      "latitude": 55.170389,
-      "longitude": 61.429472
+      "latitude": 56.490847,
+      "longitude": 84.97497
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

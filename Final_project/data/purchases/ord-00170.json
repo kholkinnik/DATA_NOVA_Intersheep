@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00170",
   "customer": {
-    "customer_id": "cus-1014",
-    "first_name": "Евдокия",
-    "last_name": "Аксенова"
+    "customer_id": "cus-1019",
+    "first_name": "Афанасий",
+    "last_name": "Громов"
   },
   "store": {
-    "store_id": "store-022",
-    "store_name": "Большая Пикча — Магазин на наб. Гафури",
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на наб. Революции",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ижевск",
-      "street": "наб. Гафури",
-      "house": "2/5",
-      "postal_code": "302578",
+      "city": "Волгоград",
+      "street": "наб. Революции",
+      "house": "1",
+      "postal_code": "556959",
       "coordinates": {
-        "latitude": 56.843537,
-        "longitude": 53.217387
+        "latitude": 48.699699,
+        "longitude": 44.510105
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1028",
-      "name": "Сыр Плавленый",
+      "product_id": "prd-1029",
+      "name": "Молоко сгущённое",
       "category": "🥛 Молочные продукты",
       "quantity": 2,
       "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 140.0,
+      "kbju": {
+        "calories": 62.9,
+        "protein": 7.4,
+        "fat": 2.8,
+        "carbohydrates": 9.5
+      },
+      "manufacturer": {
+        "name": "ООО «Густияр»",
+        "country": "Россия",
+        "website": "https://густияр.ru",
+        "inn": "4184343517"
+      }
+    },
+    {
+      "product_id": "prd-1048",
+      "name": "Свекла",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "кг",
       "price_per_unit": 35.0,
       "total_price": 70.0,
       "kbju": {
-        "calories": 197.8,
-        "protein": 3.9,
-        "fat": 12.6,
-        "carbohydrates": 7.2
+        "calories": 40.8,
+        "protein": 1.1,
+        "fat": 0.5,
+        "carbohydrates": 7.4
       },
       "manufacturer": {
-        "name": "ООО «Сырок»",
+        "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
-        "website": "https://сырок.ru",
-        "inn": "4295304954"
-      }
-    },
-    {
-      "product_id": "prd-1005",
-      "name": "Полба",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 480.0,
-      "kbju": {
-        "calories": 236.2,
-        "protein": 11.5,
-        "fat": 1.3,
-        "carbohydrates": 59.0
-      },
-      "manufacturer": {
-        "name": "ООО «Здоровое зерно»",
-        "country": "Россия",
-        "website": "https://здоровоезерно.ru",
-        "inn": "8224754920"
-      }
-    },
-    {
-      "product_id": "prd-1014",
-      "name": "Шашлык из свинины",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 320.0,
-      "total_price": 640.0,
-      "kbju": {
-        "calories": 154.6,
-        "protein": 21.5,
-        "fat": 3.3,
-        "carbohydrates": 8.2
-      },
-      "manufacturer": {
-        "name": "ООО «Шашлычный двор»",
-        "country": "Россия",
-        "website": "https://шашлычныйдвор.ru",
-        "inn": "2754811957"
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "1779343790"
       }
     }
   ],
-  "total_amount": 1190.0,
-  "payment_method": "cash",
+  "total_amount": 210.0,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "алл. Курортная",
-    "house": "5/1",
-    "apartment": "94",
-    "postal_code": "304109"
+    "city": "Владимир",
+    "street": "пер. Высоцкого",
+    "house": "7/5",
+    "apartment": "99",
+    "postal_code": "951120"
   },
-  "purchase_datetime": "2026-01-18T17:57:36.278291"
+  "purchase_datetime": "2025-12-29T19:09:09.858117"
 }

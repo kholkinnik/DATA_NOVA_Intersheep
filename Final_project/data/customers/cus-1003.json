@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1003",
-  "first_name": "Азарий",
-  "last_name": "Макаров",
-  "email": "emilevdokimov@example.com",
-  "phone": "+7 (547) 544-86-09",
-  "birth_date": "1960-11-02",
+  "first_name": "Сергей",
+  "last_name": "Архипов",
+  "email": "svjatopolkkalashnikov@example.com",
+  "phone": "84552008720",
+  "birth_date": "1973-09-05",
   "gender": "male",
-  "registration_date": "2026-01-12T17:57:36.095856",
+  "registration_date": "2026-02-15T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-48EA6F8771",
+  "loyalty_card_number": "LOYAL-178D2A8774",
   "purchase_location": {
     "country": "Россия",
-    "city": "Чебоксары",
-    "street": "бул. Серова",
-    "house": "906",
-    "postal_code": "969267",
+    "city": "Воронеж",
+    "street": "алл. Минская",
+    "house": "1/8",
+    "postal_code": "337588",
     "coordinates": {
-      "latitude": 56.150128,
-      "longitude": 47.255986
+      "latitude": 51.662318,
+      "longitude": 39.199507
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Чебоксары",
-    "street": "пр. Ярославский",
-    "house": "4/2",
-    "apartment": "83",
-    "postal_code": "481830"
+    "city": "Воронеж",
+    "street": "ул. Интернациональная",
+    "house": "278",
+    "apartment": "7",
+    "postal_code": "000048"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "preferred_payment_method": "card",
+    "receive_promotions": false
   }
 }

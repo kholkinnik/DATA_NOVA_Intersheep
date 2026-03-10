@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1020",
-  "first_name": "Севастьян",
-  "last_name": "Борисов",
-  "email": "nikodimartemev@example.org",
-  "phone": "8 574 172 9156",
-  "birth_date": "1955-04-30",
-  "gender": "male",
-  "registration_date": "2025-12-14T17:57:36.109198",
+  "first_name": "Зинаида",
+  "last_name": "Яковлева",
+  "email": "martin_2006@example.org",
+  "phone": "8 234 766 01 13",
+  "birth_date": "1992-10-24",
+  "gender": "female",
+  "registration_date": "2025-12-12T19:09:09.757791",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-770D7173DA",
+  "loyalty_card_number": "LOYAL-F4D8DA1654",
   "purchase_location": {
     "country": "Россия",
-    "city": "Курск",
-    "street": "алл. Кузнецова",
-    "house": "1",
-    "postal_code": "957961",
+    "city": "Нижний Новгород",
+    "street": "наб. Гайдара",
+    "house": "46",
+    "postal_code": "760310",
     "coordinates": {
-      "latitude": 51.735868,
-      "longitude": 36.185717
+      "latitude": 56.322972,
+      "longitude": 43.996448
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Курск",
-    "street": "наб. Гастелло",
-    "house": "868",
-    "apartment": "94",
-    "postal_code": "032682"
+    "city": "Нижний Новгород",
+    "street": "ш. Маркса",
+    "house": "3",
+    "apartment": "87",
+    "postal_code": "771631"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "preferred_payment_method": "card",
+    "receive_promotions": false
   }
 }

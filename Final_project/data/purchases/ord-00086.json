@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00086",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Исидор",
-    "last_name": "Ефремов"
+    "customer_id": "cus-1018",
+    "first_name": "Синклитикия",
+    "last_name": "Селиверстова"
   },
   "store": {
-    "store_id": "store-029",
-    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
-    "store_network": "Большая Пикча",
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на алл. Карбышева",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Кемерово",
-      "street": "наб. 8-е Марта",
-      "house": "932",
-      "postal_code": "679874",
+      "city": "Екатеринбург",
+      "street": "алл. Карбышева",
+      "house": "6",
+      "postal_code": "305586",
       "coordinates": {
-        "latitude": 55.35299,
-        "longitude": 86.077364
+        "latitude": 56.840877,
+        "longitude": 60.601196
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1003",
-      "name": "Лаваш тонкий",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
+      "product_id": "prd-1010",
+      "name": "Тунец в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 60.0,
+      "price_per_unit": 120.0,
       "total_price": 240.0,
       "kbju": {
-        "calories": 317.4,
-        "protein": 6.8,
-        "fat": 2.9,
-        "carbohydrates": 59.2
+        "calories": 321.8,
+        "protein": 25.6,
+        "fat": 3.2,
+        "carbohydrates": 6.8
       },
       "manufacturer": {
-        "name": "ООО «Кавказская кухня»",
+        "name": "ООО «Морепродукт»",
         "country": "Россия",
-        "website": "https://кавказскаякухня.ru",
-        "inn": "0149115327"
+        "website": "https://морепродукт.ru",
+        "inn": "1426105985"
+      }
+    },
+    {
+      "product_id": "prd-1027",
+      "name": "Сметана 20%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 80.0,
+      "kbju": {
+        "calories": 93.9,
+        "protein": 9.6,
+        "fat": 13.8,
+        "carbohydrates": 10.1
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "3313924198"
       }
     }
   ],
-  "total_amount": 240.0,
+  "total_amount": 320.0,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Саратов",
-    "street": "ш. Союзное",
-    "house": "2/3",
-    "apartment": "56",
-    "postal_code": "135471"
+    "city": "Белгород",
+    "street": "алл. Сурикова",
+    "house": "23",
+    "apartment": "54",
+    "postal_code": "019990"
   },
-  "purchase_datetime": "2026-02-01T17:57:36.200455"
+  "purchase_datetime": "2026-01-08T19:09:09.824463"
 }

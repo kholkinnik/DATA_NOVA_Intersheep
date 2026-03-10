@@ -1,6 +1,6 @@
 {
   "store_id": "store-016",
-  "store_name": "Большая Пикча — Магазин на пр. Торговый",
+  "store_name": "Большая Пикча — Магазин на алл. Одесская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Павел Денисович Ефремов",
-    "phone": "83466134350",
-    "email": "maksimiljan_13@example.org"
+    "name": "Костина Лариса Руслановна",
+    "phone": "+7 970 564 8751",
+    "email": "kovalevefim@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Москва",
-    "street": "пр. Торговый",
-    "house": "371",
-    "postal_code": "184061",
+    "city": "Пенза",
+    "street": "алл. Одесская",
+    "house": "751",
+    "postal_code": "192855",
     "coordinates": {
-      "latitude": 55.749273,
-      "longitude": 37.611333
+      "latitude": 53.202,
+      "longitude": 44.970668
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00103",
   "customer": {
-    "customer_id": "cus-1005",
-    "first_name": "Светозар",
-    "last_name": "Беляков"
+    "customer_id": "cus-1043",
+    "first_name": "Регина",
+    "last_name": "Бурова"
   },
   "store": {
-    "store_id": "store-003",
-    "store_name": "Большая Пикча — Магазин на бул. Докучаева",
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на ш. Пригородное",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Тюмень",
-      "street": "бул. Докучаева",
-      "house": "80",
-      "postal_code": "941109",
+      "city": "Пермь",
+      "street": "ш. Пригородное",
+      "house": "1/9",
+      "postal_code": "158778",
       "coordinates": {
-        "latitude": 57.159651,
-        "longitude": 65.530977
+        "latitude": 58.0028,
+        "longitude": 56.250872
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1025",
-      "name": "Сливки 35%",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1009",
+      "name": "Булгур",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 300.0,
+      "price_per_unit": 85.0,
+      "total_price": 340.0,
       "kbju": {
-        "calories": 77.8,
-        "protein": 10.0,
-        "fat": 7.1,
-        "carbohydrates": 3.7
+        "calories": 255.2,
+        "protein": 10.7,
+        "fat": 5.5,
+        "carbohydrates": 49.3
       },
       "manufacturer": {
-        "name": "Простоквашино",
+        "name": "ООО «Мистраль»",
         "country": "Россия",
-        "website": "https://простоквашино.ru",
-        "inn": "1267810496"
+        "website": "https://мистраль.ru",
+        "inn": "6002803257"
       }
     },
     {
-      "product_id": "prd-1003",
-      "name": "Лаваш тонкий",
+      "product_id": "prd-1012",
+      "name": "Сельдь слабосолёная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 650.0,
+      "kbju": {
+        "calories": 328.3,
+        "protein": 25.5,
+        "fat": 15.9,
+        "carbohydrates": 7.4
+      },
+      "manufacturer": {
+        "name": "ООО «Рыбный край»",
+        "country": "Россия",
+        "website": "https://рыбныйкрай.ru",
+        "inn": "6471619959"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Макароны спагетти",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 1,
       "unit": "шт",
       "price_per_unit": 60.0,
       "total_price": 60.0,
       "kbju": {
-        "calories": 317.4,
-        "protein": 6.8,
-        "fat": 2.9,
-        "carbohydrates": 59.2
+        "calories": 347.9,
+        "protein": 10.4,
+        "fat": 3.5,
+        "carbohydrates": 41.9
       },
       "manufacturer": {
-        "name": "ООО «Кавказская кухня»",
+        "name": "ООО «Макфа»",
         "country": "Россия",
-        "website": "https://кавказскаякухня.ru",
-        "inn": "0149115327"
+        "website": "https://макфа.ru",
+        "inn": "3951013214"
       }
     }
   ],
-  "total_amount": 360.0,
+  "total_amount": 1050.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Барнаул",
-    "street": "ш. Раздольное",
-    "house": "43",
-    "apartment": "82",
-    "postal_code": "218085"
+    "city": "Новосибирск",
+    "street": "пр. Шаумяна",
+    "house": "4",
+    "apartment": "55",
+    "postal_code": "941592"
   },
-  "purchase_datetime": "2026-02-18T17:57:36.215715"
+  "purchase_datetime": "2026-01-27T19:09:09.825654"
 }

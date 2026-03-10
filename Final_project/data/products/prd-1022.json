@@ -1,24 +1,24 @@
 {
   "id": "prd-1022",
-  "name": "Сыр Моцарелла",
+  "name": "Снежок",
   "group": "🥛 Молочные продукты",
-  "description": "Для пиццы, 125 г",
+  "description": "Сладкий кисломолочный напиток, 500 мл",
   "kbju": {
-    "calories": 143.0,
-    "protein": 4.8,
-    "fat": 5.0,
-    "carbohydrates": 9.9
+    "calories": 82.7,
+    "protein": 7.6,
+    "fat": 1.8,
+    "carbohydrates": 5.0
   },
-  "price": 100.0,
+  "price": 55.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 26,
-  "is_organic": false,
-  "barcode": "2890621497628",
+  "expiry_days": 17,
+  "is_organic": true,
+  "barcode": "1170390767810",
   "manufacturer": {
-    "name": "ООО «Италика»",
+    "name": "Вимм-Билль-Данн",
     "country": "Россия",
-    "website": "https://италика.ru",
-    "inn": "8916194523"
+    "website": "https://вимм-билль-данн.ru",
+    "inn": "0415662193"
   }
 }

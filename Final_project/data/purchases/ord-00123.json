@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00123",
   "customer": {
-    "customer_id": "cus-1023",
-    "first_name": "Ксения",
-    "last_name": "Савельева"
+    "customer_id": "cus-1035",
+    "first_name": "Елена",
+    "last_name": "Кошелева"
   },
   "store": {
-    "store_id": "store-005",
-    "store_name": "Большая Пикча — Магазин на пер. Крестьянский",
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на пр. Ворошилова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Волгоград",
-      "street": "пер. Крестьянский",
-      "house": "797",
-      "postal_code": "959410",
+      "city": "Ростов-на-Дону",
+      "street": "пр. Ворошилова",
+      "house": "8/5",
+      "postal_code": "841256",
       "coordinates": {
-        "latitude": 48.699683,
-        "longitude": 44.515249
+        "latitude": 47.235012,
+        "longitude": 39.710919
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1021",
-      "name": "Айран",
+      "product_id": "prd-1020",
+      "name": "Сыр Адыгейский",
       "category": "🥛 Молочные продукты",
-      "quantity": 4,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 55.0,
+      "price_per_unit": 110.0,
       "total_price": 220.0,
       "kbju": {
-        "calories": 74.9,
-        "protein": 4.1,
-        "fat": 2.1,
-        "carbohydrates": 4.5
+        "calories": 62.6,
+        "protein": 6.0,
+        "fat": 13.9,
+        "carbohydrates": 11.8
       },
       "manufacturer": {
-        "name": "ООО «Молочный край»",
+        "name": "ООО «Адыгейский сыр»",
         "country": "Россия",
-        "website": "https://молочныйкрай.ru",
-        "inn": "1947487566"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Овсяные хлопья",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 45.0,
-      "total_price": 225.0,
-      "kbju": {
-        "calories": 238.1,
-        "protein": 12.0,
-        "fat": 4.7,
-        "carbohydrates": 51.5
-      },
-      "manufacturer": {
-        "name": "ООО «Овсянка»",
-        "country": "Россия",
-        "website": "https://овсянка.ru",
-        "inn": "0162446009"
-      }
-    },
-    {
-      "product_id": "prd-1024",
-      "name": "Йогурт питьевой клубничный",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 48.0,
-      "total_price": 48.0,
-      "kbju": {
-        "calories": 151.1,
-        "protein": 9.0,
-        "fat": 11.5,
-        "carbohydrates": 12.0
-      },
-      "manufacturer": {
-        "name": "Danone",
-        "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3928715855"
+        "website": "https://адыгейскийсыр.ru",
+        "inn": "3595417802"
       }
     }
   ],
-  "total_amount": 493.0,
+  "total_amount": 220.0,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Крупской",
-    "house": "14",
-    "apartment": "97",
-    "postal_code": "966241"
+    "city": "Рязань",
+    "street": "пер. Кубанский",
+    "house": "7/5",
+    "apartment": "28",
+    "postal_code": "807273"
   },
-  "purchase_datetime": "2025-12-09T17:57:36.232596"
+  "purchase_datetime": "2026-02-05T19:09:09.841143"
 }

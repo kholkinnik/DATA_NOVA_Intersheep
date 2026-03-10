@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00095",
   "customer": {
-    "customer_id": "cus-1020",
-    "first_name": "Севастьян",
-    "last_name": "Борисов"
+    "customer_id": "cus-1019",
+    "first_name": "Афанасий",
+    "last_name": "Громов"
   },
   "store": {
-    "store_id": "store-024",
-    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на алл. Минская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владимир",
-      "street": "ш. Ломоносова",
-      "house": "842",
-      "postal_code": "193551",
+      "city": "Воронеж",
+      "street": "алл. Минская",
+      "house": "1/8",
+      "postal_code": "337588",
       "coordinates": {
-        "latitude": 56.132124,
-        "longitude": 40.387311
+        "latitude": 51.662318,
+        "longitude": 39.199507
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Камбала тушка",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "product_id": "prd-1025",
+      "name": "Сыворотка молочная",
+      "category": "🥛 Молочные продукты",
       "quantity": 5,
-      "unit": "кг",
-      "price_per_unit": 220.0,
-      "total_price": 1100.0,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 200.0,
       "kbju": {
-        "calories": 264.8,
-        "protein": 27.0,
-        "fat": 21.9,
-        "carbohydrates": 14.4
+        "calories": 199.6,
+        "protein": 4.0,
+        "fat": 1.6,
+        "carbohydrates": 6.9
       },
       "manufacturer": {
-        "name": "Дальморепродукт",
+        "name": "ООО «Молочный край»",
         "country": "Россия",
-        "website": "https://дальморепродукт.ru",
-        "inn": "6271784897"
+        "website": "https://молочныйкрай.ru",
+        "inn": "8225289525"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 680.0,
+      "kbju": {
+        "calories": 37.0,
+        "protein": 1.6,
+        "fat": 0.6,
+        "carbohydrates": 10.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "2628915967"
+      }
+    },
+    {
+      "product_id": "prd-1045",
+      "name": "Картофель мытый",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 40.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 40.4,
+        "protein": 2.8,
+        "fat": 0.8,
+        "carbohydrates": 5.3
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "3737517956"
       }
     }
   ],
-  "total_amount": 1100.0,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 1000.0,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Курск",
-    "street": "наб. Гастелло",
-    "house": "868",
-    "apartment": "94",
-    "postal_code": "032682"
+    "city": "Владимир",
+    "street": "пер. Высоцкого",
+    "house": "7/5",
+    "apartment": "99",
+    "postal_code": "951120"
   },
-  "purchase_datetime": "2025-12-14T17:57:36.209599"
+  "purchase_datetime": "2026-01-21T19:09:09.825654"
 }

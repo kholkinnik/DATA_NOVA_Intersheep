@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00061",
   "customer": {
-    "customer_id": "cus-1032",
-    "first_name": "Ермил",
-    "last_name": "Савин"
+    "customer_id": "cus-1027",
+    "first_name": "Святополк",
+    "last_name": "Антонов"
   },
   "store": {
-    "store_id": "store-035",
-    "store_name": "Маленькая Пикча — Магазин на пер. Луначарского",
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на пер. Торговый",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Омск",
-      "street": "пер. Луначарского",
-      "house": "2/8",
-      "postal_code": "213562",
+      "city": "Набережные Челны",
+      "street": "пер. Торговый",
+      "house": "8/1",
+      "postal_code": "289375",
       "coordinates": {
-        "latitude": 54.990091,
-        "longitude": 73.362958
+        "latitude": 55.735832,
+        "longitude": 52.4045
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Пельмени русские",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
-      "unit": "уп",
-      "price_per_unit": 130.0,
-      "total_price": 390.0,
+      "product_id": "prd-1030",
+      "name": "Манго",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 240.0,
       "kbju": {
-        "calories": 290.9,
-        "protein": 18.9,
-        "fat": 5.2,
-        "carbohydrates": 2.0
+        "calories": 68.7,
+        "protein": 1.0,
+        "fat": 0.4,
+        "carbohydrates": 5.6
       },
       "manufacturer": {
-        "name": "ООО «Сибирский гурман»",
+        "name": "Тропические фрукты",
         "country": "Россия",
-        "website": "https://сибирскийгурман.ru",
-        "inn": "8707694030"
+        "website": "https://тропическиефрукты.ru",
+        "inn": "4742502578"
       }
     },
     {
-      "product_id": "prd-1034",
-      "name": "Курага",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
+      "product_id": "prd-1023",
+      "name": "Йогурт питьевой клубничный",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 360.0,
+      "price_per_unit": 48.0,
+      "total_price": 48.0,
       "kbju": {
-        "calories": 82.8,
-        "protein": 0.9,
-        "fat": 0.3,
-        "carbohydrates": 16.2
+        "calories": 191.1,
+        "protein": 4.9,
+        "fat": 14.3,
+        "carbohydrates": 9.0
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "Danone",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "7277657027"
+        "website": "https://danone.ru",
+        "inn": "3163770889"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Яйцо перепелиное",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "уп",
+      "price_per_unit": 75.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 200.4,
+        "protein": 26.1,
+        "fat": 23.7,
+        "carbohydrates": 12.2
+      },
+      "manufacturer": {
+        "name": "ИП «Перепел»",
+        "country": "Россия",
+        "website": "https://перепел.ru",
+        "inn": "3661177130"
       }
     }
   ],
-  "total_amount": 750.0,
+  "total_amount": 438.0,
   "payment_method": "card",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Ломоносова",
-    "house": "352",
-    "apartment": "57",
-    "postal_code": "331588"
+    "city": "Пенза",
+    "street": "пер. Выгонный",
+    "house": "75",
+    "apartment": "48",
+    "postal_code": "739292"
   },
-  "purchase_datetime": "2026-02-01T17:57:36.173133"
+  "purchase_datetime": "2026-01-24T19:09:09.811497"
 }

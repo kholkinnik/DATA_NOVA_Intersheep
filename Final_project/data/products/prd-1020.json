@@ -1,24 +1,24 @@
 {
   "id": "prd-1020",
-  "name": "Йогурт греческий",
+  "name": "Сыр Адыгейский",
   "group": "🥛 Молочные продукты",
-  "description": "Натуральный, 150 г",
+  "description": "Рассольный сыр, 250 г",
   "kbju": {
-    "calories": 194.0,
-    "protein": 9.6,
-    "fat": 1.7,
-    "carbohydrates": 7.9
+    "calories": 62.6,
+    "protein": 6.0,
+    "fat": 13.9,
+    "carbohydrates": 11.8
   },
-  "price": 50.0,
+  "price": 110.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 7,
+  "expiry_days": 18,
   "is_organic": false,
-  "barcode": "7017853623235",
+  "barcode": "1025068065265",
   "manufacturer": {
-    "name": "Danone",
+    "name": "ООО «Адыгейский сыр»",
     "country": "Россия",
-    "website": "https://danone.ru",
-    "inn": "3936658627"
+    "website": "https://адыгейскийсыр.ru",
+    "inn": "3595417802"
   }
 }

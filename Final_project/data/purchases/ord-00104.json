@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00104",
   "customer": {
-    "customer_id": "cus-1012",
-    "first_name": "Валерия",
-    "last_name": "Лихачева"
+    "customer_id": "cus-1008",
+    "first_name": "Анна",
+    "last_name": "Панфилова"
   },
   "store": {
-    "store_id": "store-026",
-    "store_name": "Большая Пикча — Магазин на ш. Водников",
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на пр. Ворошилова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владивосток",
-      "street": "ш. Водников",
-      "house": "2",
-      "postal_code": "061270",
+      "city": "Ростов-на-Дону",
+      "street": "пр. Ворошилова",
+      "house": "8/5",
+      "postal_code": "841256",
       "coordinates": {
-        "latitude": 43.141065,
-        "longitude": 131.912086
+        "latitude": 47.235012,
+        "longitude": 39.710919
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Сухари панировочные",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 40.0,
-      "total_price": 80.0,
-      "kbju": {
-        "calories": 243.4,
-        "protein": 9.6,
-        "fat": 5.4,
-        "carbohydrates": 53.0
-      },
-      "manufacturer": {
-        "name": "ООО «Русский продукт»",
-        "country": "Россия",
-        "website": "https://русскийпродукт.ru",
-        "inn": "0882036165"
-      }
-    },
-    {
-      "product_id": "prd-1022",
-      "name": "Сыр Моцарелла",
+      "product_id": "prd-1023",
+      "name": "Йогурт питьевой клубничный",
       "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 500.0,
+      "price_per_unit": 48.0,
+      "total_price": 192.0,
       "kbju": {
-        "calories": 143.0,
-        "protein": 4.8,
-        "fat": 5.0,
-        "carbohydrates": 9.9
+        "calories": 191.1,
+        "protein": 4.9,
+        "fat": 14.3,
+        "carbohydrates": 9.0
       },
       "manufacturer": {
-        "name": "ООО «Италика»",
+        "name": "Danone",
         "country": "Россия",
-        "website": "https://италика.ru",
-        "inn": "8916194523"
+        "website": "https://danone.ru",
+        "inn": "3163770889"
       }
     }
   ],
-  "total_amount": 580.0,
+  "total_amount": 192.0,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "ш. Достоевского",
-    "house": "8/9",
-    "apartment": "86",
-    "postal_code": "239862"
+    "city": "Набережные Челны",
+    "street": "пр. Лазо",
+    "house": "34",
+    "apartment": "22",
+    "postal_code": "623940"
   },
-  "purchase_datetime": "2026-01-02T17:57:36.216722"
+  "purchase_datetime": "2026-03-05T19:09:09.825654"
 }

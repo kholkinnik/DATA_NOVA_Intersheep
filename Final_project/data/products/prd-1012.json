@@ -1,24 +1,24 @@
 {
   "id": "prd-1012",
-  "name": "Кальмары",
+  "name": "Сельдь слабосолёная",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Замороженные тушки, 500 г",
+  "description": "Филе кусочки, 300 г",
   "kbju": {
-    "calories": 165.0,
-    "protein": 29.2,
-    "fat": 3.4,
-    "carbohydrates": 10.6
+    "calories": 328.3,
+    "protein": 25.5,
+    "fat": 15.9,
+    "carbohydrates": 7.4
   },
-  "price": 250.0,
+  "price": 130.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 25,
+  "expiry_days": 10,
   "is_organic": true,
-  "barcode": "7898744554216",
+  "barcode": "9504022039860",
   "manufacturer": {
-    "name": "Дальморепродукт",
+    "name": "ООО «Рыбный край»",
     "country": "Россия",
-    "website": "https://дальморепродукт.ru",
-    "inn": "9287137924"
+    "website": "https://рыбныйкрай.ru",
+    "inn": "6471619959"
   }
 }

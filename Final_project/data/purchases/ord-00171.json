@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00171",
   "customer": {
-    "customer_id": "cus-1015",
-    "first_name": "Феликс",
-    "last_name": "Михайлов"
+    "customer_id": "cus-1004",
+    "first_name": "Харлампий",
+    "last_name": "Комиссаров"
   },
   "store": {
-    "store_id": "store-009",
-    "store_name": "Большая Пикча — Магазин на ш. Крайнее",
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на пер. Свердлова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Саратов",
-      "street": "ш. Крайнее",
-      "house": "57",
-      "postal_code": "969550",
+      "city": "Белгород",
+      "street": "пер. Свердлова",
+      "house": "977",
+      "postal_code": "272074",
       "coordinates": {
-        "latitude": 51.526265,
-        "longitude": 46.031033
+        "latitude": 50.603854,
+        "longitude": 36.591365
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1036",
-      "name": "Арбуз",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1008",
+      "name": "Макароны рожки",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 250.0,
-      "total_price": 1000.0,
+      "price_per_unit": 55.0,
+      "total_price": 220.0,
       "kbju": {
-        "calories": 92.1,
-        "protein": 0.5,
-        "fat": 0.2,
-        "carbohydrates": 18.4
+        "calories": 303.3,
+        "protein": 8.3,
+        "fat": 3.3,
+        "carbohydrates": 58.2
       },
       "manufacturer": {
-        "name": "Астраханские арбузы",
+        "name": "ООО «Шебекинские»",
         "country": "Россия",
-        "website": "https://астраханскиеарбузы.ru",
-        "inn": "6713441892"
+        "website": "https://шебекинские.ru",
+        "inn": "8469368887"
       }
     },
     {
-      "product_id": "prd-1011",
-      "name": "Мидии в масле",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
+      "product_id": "prd-1038",
+      "name": "Крыжовник",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 150.0,
-      "total_price": 300.0,
+      "price_per_unit": 80.0,
+      "total_price": 400.0,
       "kbju": {
-        "calories": 133.4,
-        "protein": 22.0,
-        "fat": 11.1,
-        "carbohydrates": 2.1
+        "calories": 41.4,
+        "protein": 0.6,
+        "fat": 0.3,
+        "carbohydrates": 19.2
       },
       "manufacturer": {
-        "name": "ООО «Морепродукт»",
+        "name": "ИП Ягодная поляна",
         "country": "Россия",
-        "website": "https://морепродукт.ru",
-        "inn": "5750711306"
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1469683626"
       }
     }
   ],
-  "total_amount": 1300.0,
+  "total_amount": 620.0,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Москва",
-    "street": "ш. Юности",
-    "house": "109",
-    "apartment": "23",
-    "postal_code": "517799"
+    "city": "Оренбург",
+    "street": "ул. Новосельская",
+    "house": "74",
+    "apartment": "84",
+    "postal_code": "021388"
   },
-  "purchase_datetime": "2026-02-22T17:57:36.279290"
+  "purchase_datetime": "2025-12-21T19:09:09.868371"
 }

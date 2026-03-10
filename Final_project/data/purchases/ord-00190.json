@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00190",
   "customer": {
-    "customer_id": "cus-1037",
-    "first_name": "Ксения",
-    "last_name": "Самсонова"
+    "customer_id": "cus-1022",
+    "first_name": "Алина",
+    "last_name": "Кузнецова"
   },
   "store": {
     "store_id": "store-042",
-    "store_name": "Маленькая Пикча — Магазин на бул. Приозерный",
+    "store_name": "Маленькая Пикча — Магазин на пр. Гафури",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Кемерово",
-      "street": "бул. Приозерный",
-      "house": "6/6",
-      "postal_code": "728996",
+      "city": "Барнаул",
+      "street": "пр. Гафури",
+      "house": "53",
+      "postal_code": "661113",
       "coordinates": {
-        "latitude": 55.352769,
-        "longitude": 86.085351
+        "latitude": 53.36306,
+        "longitude": 83.764942
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1027",
-      "name": "Мороженое пломбир",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1003",
+      "name": "Торт Медовик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 130.0,
-      "total_price": 390.0,
+      "price_per_unit": 250.0,
+      "total_price": 250.0,
       "kbju": {
-        "calories": 133.0,
-        "protein": 7.5,
-        "fat": 11.1,
-        "carbohydrates": 4.8
+        "calories": 230.5,
+        "protein": 8.3,
+        "fat": 2.8,
+        "carbohydrates": 50.7
       },
       "manufacturer": {
-        "name": "ООО «Айсберг»",
+        "name": "ООО «Сластёна»",
         "country": "Россия",
-        "website": "https://айсберг.ru",
-        "inn": "4545124016"
+        "website": "https://сластёна.ru",
+        "inn": "7728792532"
       }
     }
   ],
-  "total_amount": 390.0,
+  "total_amount": 250.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Ярославль",
-    "street": "наб. Островского",
-    "house": "4",
-    "apartment": "78",
-    "postal_code": "046482"
+    "city": "Волгоград",
+    "street": "ул. Азовская",
+    "house": "73",
+    "apartment": "23",
+    "postal_code": "584832"
   },
-  "purchase_datetime": "2026-03-05T17:57:36.298787"
+  "purchase_datetime": "2026-01-09T19:09:09.879532"
 }

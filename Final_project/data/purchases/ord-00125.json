@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00125",
   "customer": {
-    "customer_id": "cus-1038",
-    "first_name": "Глафира",
-    "last_name": "Рябова"
+    "customer_id": "cus-1039",
+    "first_name": "Ксения",
+    "last_name": "Назарова"
   },
   "store": {
-    "store_id": "store-015",
-    "store_name": "Большая Пикча — Магазин на пер. Чайковского",
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Волочаевская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Челябинск",
-      "street": "пер. Чайковского",
-      "house": "7/3",
-      "postal_code": "170687",
+      "city": "Оренбург",
+      "street": "алл. Волочаевская",
+      "house": "67",
+      "postal_code": "998293",
       "coordinates": {
-        "latitude": 55.170389,
-        "longitude": 61.429472
+        "latitude": 51.769113,
+        "longitude": 55.091894
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1029",
-      "name": "Закваска для йогурта",
+      "product_id": "prd-1024",
+      "name": "Сыр Моцарелла",
       "category": "🥛 Молочные продукты",
-      "quantity": 1,
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 30.0,
-      "total_price": 30.0,
+      "price_per_unit": 100.0,
+      "total_price": 300.0,
       "kbju": {
-        "calories": 89.6,
-        "protein": 7.7,
-        "fat": 11.2,
-        "carbohydrates": 3.1
+        "calories": 116.0,
+        "protein": 9.8,
+        "fat": 9.2,
+        "carbohydrates": 7.1
       },
       "manufacturer": {
-        "name": "ООО «Молочная культура»",
+        "name": "ООО «Италика»",
         "country": "Россия",
-        "website": "https://молочнаякультура.ru",
-        "inn": "4147659609"
+        "website": "https://италика.ru",
+        "inn": "3633846073"
       }
     }
   ],
-  "total_amount": 30.0,
-  "payment_method": "cash",
+  "total_amount": 300.0,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "пер. Ручейный",
-    "house": "1",
-    "apartment": "62",
-    "postal_code": "051294"
+    "city": "Ижевск",
+    "street": "наб. Машиностроителей",
+    "house": "68",
+    "apartment": "37",
+    "postal_code": "409842"
   },
-  "purchase_datetime": "2026-02-10T17:57:36.233597"
+  "purchase_datetime": "2026-02-01T19:09:09.841143"
 }

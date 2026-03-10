@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00007",
   "customer": {
-    "customer_id": "cus-1016",
-    "first_name": "Александра",
-    "last_name": "Стрелкова"
+    "customer_id": "cus-1041",
+    "first_name": "Эмилия",
+    "last_name": "Афанасьева"
   },
   "store": {
-    "store_id": "store-009",
-    "store_name": "Большая Пикча — Магазин на ш. Крайнее",
-    "store_network": "Большая Пикча",
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на пер. Мельничный",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Саратов",
-      "street": "ш. Крайнее",
-      "house": "57",
-      "postal_code": "969550",
+      "city": "Белгород",
+      "street": "пер. Мельничный",
+      "house": "92",
+      "postal_code": "259457",
       "coordinates": {
-        "latitude": 51.526265,
-        "longitude": 46.031033
+        "latitude": 50.604761,
+        "longitude": 36.596048
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1029",
-      "name": "Закваска для йогурта",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 30.0,
-      "total_price": 150.0,
-      "kbju": {
-        "calories": 89.6,
-        "protein": 7.7,
-        "fat": 11.2,
-        "carbohydrates": 3.1
-      },
-      "manufacturer": {
-        "name": "ООО «Молочная культура»",
-        "country": "Россия",
-        "website": "https://молочнаякультура.ru",
-        "inn": "4147659609"
-      }
-    },
-    {
-      "product_id": "prd-1034",
-      "name": "Курага",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1013",
+      "name": "Горох колотый",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 360.0,
+      "price_per_unit": 45.0,
+      "total_price": 135.0,
       "kbju": {
-        "calories": 82.8,
-        "protein": 0.9,
-        "fat": 0.3,
-        "carbohydrates": 16.2
+        "calories": 244.7,
+        "protein": 16.0,
+        "fat": 14.9,
+        "carbohydrates": 6.1
       },
       "manufacturer": {
-        "name": "ООО «Сухофрукты»",
+        "name": "ООО «Крупяной двор»",
         "country": "Россия",
-        "website": "https://сухофрукты.ru",
-        "inn": "7277657027"
+        "website": "https://крупянойдвор.ru",
+        "inn": "4511537443"
       }
     }
   ],
-  "total_amount": 510.0,
+  "total_amount": 135.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Севастополь",
-    "street": "наб. Дарвина",
-    "house": "43",
-    "apartment": "77",
-    "postal_code": "319629"
+    "city": "Барнаул",
+    "street": "ул. Комсомольская",
+    "house": "7",
+    "apartment": "58",
+    "postal_code": "815517"
   },
-  "purchase_datetime": "2026-01-09T17:57:36.135708"
+  "purchase_datetime": "2025-12-26T19:09:09.781003"
 }

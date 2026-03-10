@@ -1,6 +1,6 @@
 {
   "store_id": "store-011",
-  "store_name": "Большая Пикча — Магазин на алл. З.Космодемьянской",
+  "store_name": "Большая Пикча — Магазин на ул. Калинина",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Пахомов Болеслав Устинович",
-    "phone": "8 279 709 31 45",
-    "email": "vadim2006@example.net"
+    "name": "Сысоев Алексей Евсеевич",
+    "phone": "+7 398 214 4182",
+    "email": "veronikapavlova@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Красноярск",
-    "street": "алл. З.Космодемьянской",
-    "house": "68",
-    "postal_code": "882212",
+    "city": "Волгоград",
+    "street": "ул. Калинина",
+    "house": "5",
+    "postal_code": "247980",
     "coordinates": {
-      "latitude": 56.003083,
-      "longitude": 92.853782
+      "latitude": 48.711553,
+      "longitude": 44.507736
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-03-10"
 }

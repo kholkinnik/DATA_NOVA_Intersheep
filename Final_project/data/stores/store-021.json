@@ -1,6 +1,6 @@
 {
   "store_id": "store-021",
-  "store_name": "Большая Пикча — Магазин на алл. Кузнецова",
+  "store_name": "Большая Пикча — Магазин на наб. Гайдара",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Василиса Семеновна Белякова",
-    "phone": "8 (333) 948-94-31",
-    "email": "filimongerasimov@example.net"
+    "name": "Викторин Артемьевич Соколов",
+    "phone": "8 (389) 256-9762",
+    "email": "karpovaveronika@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Курск",
-    "street": "алл. Кузнецова",
-    "house": "1",
-    "postal_code": "957961",
+    "city": "Нижний Новгород",
+    "street": "наб. Гайдара",
+    "house": "46",
+    "postal_code": "760310",
     "coordinates": {
-      "latitude": 51.735868,
-      "longitude": 36.185717
+      "latitude": 56.322972,
+      "longitude": 43.996448
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

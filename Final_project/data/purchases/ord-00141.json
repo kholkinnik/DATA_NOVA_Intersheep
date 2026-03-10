@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00141",
   "customer": {
-    "customer_id": "cus-1043",
-    "first_name": "Василиса",
-    "last_name": "Семенова"
+    "customer_id": "cus-1002",
+    "first_name": "Раиса",
+    "last_name": "Быкова"
   },
   "store": {
-    "store_id": "store-018",
-    "store_name": "Большая Пикча — Магазин на алл. Высоковольтная",
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на ул. Машиностроителей",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Симферополь",
-      "street": "алл. Высоковольтная",
-      "house": "59",
-      "postal_code": "727324",
+      "city": "Пенза",
+      "street": "ул. Машиностроителей",
+      "house": "397",
+      "postal_code": "718441",
       "coordinates": {
-        "latitude": 44.952833,
-        "longitude": 34.103069
+        "latitude": 53.194061,
+        "longitude": 44.959002
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1046",
-      "name": "Батат",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
-      "unit": "кг",
-      "price_per_unit": 150.0,
-      "total_price": 450.0,
+      "product_id": "prd-1002",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 90.0,
       "kbju": {
-        "calories": 52.1,
-        "protein": 1.3,
-        "fat": 0.7,
-        "carbohydrates": 4.8
+        "calories": 259.0,
+        "protein": 7.4,
+        "fat": 2.6,
+        "carbohydrates": 50.4
       },
       "manufacturer": {
-        "name": "ИП «Овощная экзотика»",
+        "name": "ООО «Овсянка»",
         "country": "Россия",
-        "website": "https://овощнаяэкзотика.ru",
-        "inn": "1614695490"
+        "website": "https://овсянка.ru",
+        "inn": "2299793789"
       }
     },
     {
-      "product_id": "prd-1040",
-      "name": "Лук зеленый",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 5,
+      "product_id": "prd-1010",
+      "name": "Тунец в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 20.0,
-      "total_price": 100.0,
+      "price_per_unit": 120.0,
+      "total_price": 240.0,
       "kbju": {
-        "calories": 42.2,
-        "protein": 1.3,
-        "fat": 0.2,
+        "calories": 321.8,
+        "protein": 25.6,
+        "fat": 3.2,
         "carbohydrates": 6.8
       },
       "manufacturer": {
-        "name": "ИП «Зелень»",
+        "name": "ООО «Морепродукт»",
         "country": "Россия",
-        "website": "https://зелень.ru",
-        "inn": "1272106545"
+        "website": "https://морепродукт.ru",
+        "inn": "1426105985"
       }
     },
     {
-      "product_id": "prd-1030",
-      "name": "Грейпфрут",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
+      "product_id": "prd-1005",
+      "name": "Пшено",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 150.0,
+      "price_per_unit": 40.0,
+      "total_price": 80.0,
       "kbju": {
-        "calories": 60.7,
-        "protein": 1.5,
-        "fat": 0.6,
-        "carbohydrates": 7.7
+        "calories": 260.5,
+        "protein": 12.0,
+        "fat": 4.5,
+        "carbohydrates": 58.9
       },
       "manufacturer": {
-        "name": "ИП Цитрус",
+        "name": "ООО «Крупяной двор»",
         "country": "Россия",
-        "website": "https://цитрус.ru",
-        "inn": "2114424981"
+        "website": "https://крупянойдвор.ru",
+        "inn": "8570148518"
       }
     }
   ],
-  "total_amount": 700.0,
+  "total_amount": 410.0,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Омск",
-    "street": "бул. Марта 8",
-    "house": "723",
-    "apartment": "72",
-    "postal_code": "797273"
+    "city": "Нижний Тагил",
+    "street": "пер. Орловский",
+    "house": "4",
+    "apartment": "86",
+    "postal_code": "084407"
   },
-  "purchase_datetime": "2025-12-11T17:57:36.248702"
+  "purchase_datetime": "2026-02-14T19:09:09.841143"
 }

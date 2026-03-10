@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00169",
   "customer": {
-    "customer_id": "cus-1001",
-    "first_name": "Мария",
-    "last_name": "Артемьева"
+    "customer_id": "cus-1028",
+    "first_name": "Светлана",
+    "last_name": "Титова"
   },
   "store": {
-    "store_id": "store-036",
-    "store_name": "Маленькая Пикча — Магазин на ул. Речная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на ул. Калинина",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Владивосток",
-      "street": "ул. Речная",
+      "city": "Волгоград",
+      "street": "ул. Калинина",
       "house": "5",
-      "postal_code": "459043",
+      "postal_code": "247980",
       "coordinates": {
-        "latitude": 43.141105,
-        "longitude": 131.904996
+        "latitude": 48.711553,
+        "longitude": 44.507736
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Печенье сахарное",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1015",
+      "name": "Вареники с картошкой",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 70.0,
-      "total_price": 70.0,
+      "unit": "уп",
+      "price_per_unit": 110.0,
+      "total_price": 110.0,
       "kbju": {
-        "calories": 324.2,
-        "protein": 6.0,
-        "fat": 2.0,
-        "carbohydrates": 41.9
+        "calories": 135.5,
+        "protein": 17.0,
+        "fat": 8.1,
+        "carbohydrates": 13.7
       },
       "manufacturer": {
-        "name": "ООО «Кондитер»",
+        "name": "ООО «Домашние вареники»",
         "country": "Россия",
-        "website": "https://кондитер.ru",
-        "inn": "1078687409"
+        "website": "https://домашниевареники.ru",
+        "inn": "6238389761"
+      }
+    },
+    {
+      "product_id": "prd-1043",
+      "name": "Сельдерей корневой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 29.4,
+        "protein": 0.8,
+        "fat": 0.5,
+        "carbohydrates": 6.0
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "0862782320"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 340.0,
+      "kbju": {
+        "calories": 37.0,
+        "protein": 1.6,
+        "fat": 0.6,
+        "carbohydrates": 10.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "2628915967"
       }
     }
   ],
-  "total_amount": 70.0,
+  "total_amount": 650.0,
   "payment_method": "card",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "наб. Ангарская",
-    "house": "4/7",
-    "apartment": "98",
-    "postal_code": "356308"
+    "city": "Пенза",
+    "street": "пр. Осенний",
+    "house": "13",
+    "apartment": "74",
+    "postal_code": "244565"
   },
-  "purchase_datetime": "2026-03-01T17:57:36.276291"
+  "purchase_datetime": "2026-01-27T19:09:09.858117"
 }

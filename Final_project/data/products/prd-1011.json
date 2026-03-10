@@ -1,24 +1,24 @@
 {
   "id": "prd-1011",
-  "name": "Мидии в масле",
+  "name": "Лосось слабосолёный",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Консервы, 170 г",
+  "description": "Филе лосося, нарезка в вакуумной упаковке, 200 г",
   "kbju": {
-    "calories": 133.4,
-    "protein": 22.0,
-    "fat": 11.1,
-    "carbohydrates": 2.1
+    "calories": 209.2,
+    "protein": 23.5,
+    "fat": 4.8,
+    "carbohydrates": 2.5
   },
-  "price": 150.0,
+  "price": 350.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 5,
-  "is_organic": false,
-  "barcode": "0943417556763",
+  "expiry_days": 21,
+  "is_organic": true,
+  "barcode": "7283989896250",
   "manufacturer": {
-    "name": "ООО «Морепродукт»",
+    "name": "Русское море",
     "country": "Россия",
-    "website": "https://морепродукт.ru",
-    "inn": "5750711306"
+    "website": "https://русскоеморе.ru",
+    "inn": "2636876885"
   }
 }

@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1007",
-  "first_name": "Оксана",
-  "last_name": "Костина",
-  "email": "nadezhdakudrjavtseva@example.com",
-  "phone": "+7 186 406 6985",
-  "birth_date": "1969-02-25",
-  "gender": "female",
-  "registration_date": "2026-01-03T17:57:36.095856",
+  "first_name": "Станимир",
+  "last_name": "Ермаков",
+  "email": "zinovi_94@example.com",
+  "phone": "8 (418) 640-6938",
+  "birth_date": "1974-06-07",
+  "gender": "male",
+  "registration_date": "2026-01-10T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-3EAEB04B98",
+  "loyalty_card_number": "LOYAL-A2C6F2EC52",
   "purchase_location": {
     "country": "Россия",
-    "city": "Липецк",
-    "street": "наб. Троицкая",
-    "house": "6",
-    "postal_code": "888182",
+    "city": "Хабаровск",
+    "street": "алл. Смирнова",
+    "house": "5/3",
+    "postal_code": "556655",
     "coordinates": {
-      "latitude": 52.617944,
-      "longitude": 39.593519
+      "latitude": 48.488297,
+      "longitude": 135.081803
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Липецк",
-    "street": "бул. Радищева",
-    "house": "9",
-    "apartment": "25",
-    "postal_code": "916599"
+    "city": "Хабаровск",
+    "street": "алл. Покровская",
+    "house": "1/6",
+    "apartment": "89",
+    "postal_code": "516949"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": false
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
   }
 }

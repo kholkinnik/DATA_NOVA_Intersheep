@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1006",
-  "first_name": "Анжелика",
-  "last_name": "Лаврентьева",
-  "email": "evlampi25@example.com",
-  "phone": "8 (019) 663-93-96",
-  "birth_date": "1956-06-13",
-  "gender": "female",
-  "registration_date": "2026-02-21T17:57:36.095856",
+  "first_name": "Максим",
+  "last_name": "Шаров",
+  "email": "galinarozhkova@example.org",
+  "phone": "+7 (729) 644-6075",
+  "birth_date": "1969-12-24",
+  "gender": "male",
+  "registration_date": "2026-02-11T19:09:09.748076",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-175D8A38CA",
+  "loyalty_card_number": "LOYAL-3BA8BF8125",
   "purchase_location": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "ш. Приозерное",
-    "house": "1",
-    "postal_code": "883921",
+    "city": "Москва",
+    "street": "бул. Правды",
+    "house": "51",
+    "postal_code": "956240",
     "coordinates": {
-      "latitude": 55.798939,
-      "longitude": 37.929929
+      "latitude": 55.762646,
+      "longitude": 37.609722
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "ул. Тепличная",
-    "house": "1",
-    "apartment": "3",
-    "postal_code": "542451"
+    "city": "Москва",
+    "street": "ш. Строительное",
+    "house": "42",
+    "apartment": "59",
+    "postal_code": "911001"
   },
   "preferences": {
     "preferred_language": "ru",

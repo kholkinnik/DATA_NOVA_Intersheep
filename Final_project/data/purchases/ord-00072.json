@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00072",
   "customer": {
-    "customer_id": "cus-1044",
-    "first_name": "Конон",
-    "last_name": "Бобров"
+    "customer_id": "cus-1021",
+    "first_name": "Корнил",
+    "last_name": "Селезнев"
   },
   "store": {
-    "store_id": "store-002",
-    "store_name": "Большая Пикча — Магазин на наб. Целинная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на пер. Мельничный",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Челябинск",
-      "street": "наб. Целинная",
-      "house": "34",
-      "postal_code": "748924",
+      "city": "Белгород",
+      "street": "пер. Мельничный",
+      "house": "92",
+      "postal_code": "259457",
       "coordinates": {
-        "latitude": 55.163174,
-        "longitude": 61.431151
+        "latitude": 50.604761,
+        "longitude": 36.596048
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1045",
-      "name": "Чеснок",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
-      "unit": "кг",
-      "price_per_unit": 150.0,
-      "total_price": 450.0,
+      "product_id": "prd-1019",
+      "name": "Сардины в масле",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 380.0,
       "kbju": {
-        "calories": 50.9,
-        "protein": 1.4,
-        "fat": 0.6,
-        "carbohydrates": 7.3
+        "calories": 156.0,
+        "protein": 22.0,
+        "fat": 13.4,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "ИП «Огородник»",
+        "name": "ООО «Рыбные консервы»",
         "country": "Россия",
-        "website": "https://огородник.ru",
-        "inn": "9765085333"
+        "website": "https://рыбныеконсервы.ru",
+        "inn": "4948064786"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 45.0,
+      "kbju": {
+        "calories": 259.0,
+        "protein": 7.4,
+        "fat": 2.6,
+        "carbohydrates": 50.4
+      },
+      "manufacturer": {
+        "name": "ООО «Овсянка»",
+        "country": "Россия",
+        "website": "https://овсянка.ru",
+        "inn": "2299793789"
       }
     }
   ],
-  "total_amount": 450.0,
-  "payment_method": "cash",
+  "total_amount": 425.0,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "пер. Физкультурный",
-    "house": "5",
-    "apartment": "3",
-    "postal_code": "063371"
+    "city": "Самара",
+    "street": "пр. Макаренко",
+    "house": "7/9",
+    "apartment": "60",
+    "postal_code": "300909"
   },
-  "purchase_datetime": "2026-01-14T17:57:36.188159"
+  "purchase_datetime": "2026-01-17T19:09:09.811497"
 }

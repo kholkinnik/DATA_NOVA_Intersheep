@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1036",
-  "first_name": "Гаврила",
-  "last_name": "Елисеев",
-  "email": "evgraf_2006@example.org",
-  "phone": "+7 (612) 857-8941",
-  "birth_date": "1969-10-07",
+  "first_name": "Остромир",
+  "last_name": "Поляков",
+  "email": "ttretjakov@example.net",
+  "phone": "+7 (474) 199-98-01",
+  "birth_date": "1991-01-30",
   "gender": "male",
-  "registration_date": "2026-01-22T17:57:36.124037",
+  "registration_date": "2026-02-26T19:09:09.766985",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-5502CB31D3",
+  "loyalty_card_number": "LOYAL-AF66BF5537",
   "purchase_location": {
     "country": "Россия",
-    "city": "Томск",
-    "street": "бул. Севастопольский",
-    "house": "759",
-    "postal_code": "051056",
+    "city": "Екатеринбург",
+    "street": "алл. Карбышева",
+    "house": "6",
+    "postal_code": "305586",
     "coordinates": {
-      "latitude": 56.501398,
-      "longitude": 84.963037
+      "latitude": 56.840877,
+      "longitude": 60.601196
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Томск",
-    "street": "ш. Жукова",
-    "house": "7",
-    "apartment": "1",
-    "postal_code": "164588"
+    "city": "Екатеринбург",
+    "street": "ш. Лазурное",
+    "house": "143",
+    "apartment": "58",
+    "postal_code": "740810"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
-    "receive_promotions": false
+    "preferred_payment_method": "card",
+    "receive_promotions": true
   }
 }

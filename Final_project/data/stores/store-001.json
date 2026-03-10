@@ -1,6 +1,6 @@
 {
   "store_id": "store-001",
-  "store_name": "Большая Пикча — Магазин на ул. Высокая",
+  "store_name": "Большая Пикча — Магазин на алл. Дзержинского",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Жанна Андреевна Кононова",
-    "phone": "+7 (091) 790-14-75",
-    "email": "georgigromov@example.com"
+    "name": "Ангелина Валентиновна Силина",
+    "phone": "+70397880803",
+    "email": "filipp_65@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Киров",
-    "street": "ул. Высокая",
-    "house": "2",
-    "postal_code": "188331",
+    "city": "Рязань",
+    "street": "алл. Дзержинского",
+    "house": "7/9",
+    "postal_code": "976813",
     "coordinates": {
-      "latitude": 58.596229,
-      "longitude": 49.664371
+      "latitude": 54.610125,
+      "longitude": 39.736136
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-03-10"
 }

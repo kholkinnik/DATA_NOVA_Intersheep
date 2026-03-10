@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1040",
-  "first_name": "Ульяна",
-  "last_name": "Зиновьева",
-  "email": "arkadi1995@example.org",
-  "phone": "+7 086 984 11 63",
-  "birth_date": "1965-04-10",
-  "gender": "female",
-  "registration_date": "2026-01-09T17:57:36.127399",
+  "first_name": "Мирослав",
+  "last_name": "Суворов",
+  "email": "sharapovroman@example.net",
+  "phone": "88429027097",
+  "birth_date": "1999-12-06",
+  "gender": "male",
+  "registration_date": "2025-12-13T19:09:09.766985",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-51FE1E36F2",
+  "loyalty_card_number": "LOYAL-AFC1DE3C6D",
   "purchase_location": {
     "country": "Россия",
-    "city": "Ульяновск",
-    "street": "пер. Карла Маркса",
-    "house": "8/7",
-    "postal_code": "507091",
+    "city": "Нижний Новгород",
+    "street": "пер. Щербакова",
+    "house": "7",
+    "postal_code": "924885",
     "coordinates": {
-      "latitude": 54.32274,
-      "longitude": 48.393284
+      "latitude": 56.331715,
+      "longitude": 44.000386
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Ульяновск",
-    "street": "бул. Западный",
-    "house": "5/8",
-    "apartment": "31",
-    "postal_code": "869510"
+    "city": "Нижний Новгород",
+    "street": "алл. Тимирязева",
+    "house": "17",
+    "apartment": "58",
+    "postal_code": "556549"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
-    "receive_promotions": false
+    "preferred_payment_method": "card",
+    "receive_promotions": true
   }
 }

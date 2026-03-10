@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00143",
   "customer": {
-    "customer_id": "cus-1000",
-    "first_name": "Алевтина",
-    "last_name": "Терентьева"
+    "customer_id": "cus-1001",
+    "first_name": "Лаврентий",
+    "last_name": "Лазарев"
   },
   "store": {
-    "store_id": "store-016",
-    "store_name": "Большая Пикча — Магазин на пр. Торговый",
-    "store_network": "Большая Пикча",
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на пер. Торговый",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Москва",
-      "street": "пр. Торговый",
-      "house": "371",
-      "postal_code": "184061",
+      "city": "Набережные Челны",
+      "street": "пер. Торговый",
+      "house": "8/1",
+      "postal_code": "289375",
       "coordinates": {
-        "latitude": 55.749273,
-        "longitude": 37.611333
+        "latitude": 55.735832,
+        "longitude": 52.4045
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Пельмени русские",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
-      "unit": "уп",
-      "price_per_unit": 130.0,
-      "total_price": 390.0,
-      "kbju": {
-        "calories": 290.9,
-        "protein": 18.9,
-        "fat": 5.2,
-        "carbohydrates": 2.0
-      },
-      "manufacturer": {
-        "name": "ООО «Сибирский гурман»",
-        "country": "Россия",
-        "website": "https://сибирскийгурман.ru",
-        "inn": "8707694030"
-      }
-    },
-    {
-      "product_id": "prd-1022",
-      "name": "Сыр Моцарелла",
+      "product_id": "prd-1025",
+      "name": "Сыворотка молочная",
       "category": "🥛 Молочные продукты",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 200.0,
+      "price_per_unit": 40.0,
+      "total_price": 80.0,
       "kbju": {
-        "calories": 143.0,
-        "protein": 4.8,
-        "fat": 5.0,
-        "carbohydrates": 9.9
+        "calories": 199.6,
+        "protein": 4.0,
+        "fat": 1.6,
+        "carbohydrates": 6.9
       },
       "manufacturer": {
-        "name": "ООО «Италика»",
+        "name": "ООО «Молочный край»",
         "country": "Россия",
-        "website": "https://италика.ru",
-        "inn": "8916194523"
+        "website": "https://молочныйкрай.ru",
+        "inn": "8225289525"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Рис круглозёрный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 240.0,
+      "kbju": {
+        "calories": 215.4,
+        "protein": 9.5,
+        "fat": 5.9,
+        "carbohydrates": 58.9
+      },
+      "manufacturer": {
+        "name": "АО «Агроимпорт»",
+        "country": "Россия",
+        "website": "https://агроимпорт.ru",
+        "inn": "2507177426"
       }
     }
   ],
-  "total_amount": 590.0,
-  "payment_method": "cash",
+  "total_amount": 320.0,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Киров",
-    "street": "ул. Декабристов",
-    "house": "1",
-    "apartment": "64",
-    "postal_code": "133651"
+    "city": "Чебоксары",
+    "street": "пер. Заречный",
+    "house": "311",
+    "apartment": "42",
+    "postal_code": "514252"
   },
-  "purchase_datetime": "2026-02-28T17:57:36.249697"
+  "purchase_datetime": "2026-01-17T19:09:09.841143"
 }

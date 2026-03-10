@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00131",
   "customer": {
-    "customer_id": "cus-1005",
-    "first_name": "Светозар",
-    "last_name": "Беляков"
+    "customer_id": "cus-1036",
+    "first_name": "Остромир",
+    "last_name": "Поляков"
   },
   "store": {
-    "store_id": "store-035",
-    "store_name": "Маленькая Пикча — Магазин на пер. Луначарского",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пер. Беляева",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Омск",
-      "street": "пер. Луначарского",
-      "house": "2/8",
-      "postal_code": "213562",
+      "city": "Томск",
+      "street": "пер. Беляева",
+      "house": "3",
+      "postal_code": "143215",
       "coordinates": {
-        "latitude": 54.990091,
-        "longitude": 73.362958
+        "latitude": 56.492361,
+        "longitude": 84.972922
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1014",
-      "name": "Шашлык из свинины",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
+      "product_id": "prd-1021",
+      "name": "Молоко 3,2%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 320.0,
-      "total_price": 320.0,
+      "price_per_unit": 75.0,
+      "total_price": 225.0,
       "kbju": {
-        "calories": 154.6,
-        "protein": 21.5,
-        "fat": 3.3,
-        "carbohydrates": 8.2
+        "calories": 43.2,
+        "protein": 8.8,
+        "fat": 1.8,
+        "carbohydrates": 11.3
       },
       "manufacturer": {
-        "name": "ООО «Шашлычный двор»",
+        "name": "Вимм-Билль-Данн",
         "country": "Россия",
-        "website": "https://шашлычныйдвор.ru",
-        "inn": "2754811957"
-      }
-    },
-    {
-      "product_id": "prd-1030",
-      "name": "Грейпфрут",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 200.0,
-      "kbju": {
-        "calories": 60.7,
-        "protein": 1.5,
-        "fat": 0.6,
-        "carbohydrates": 7.7
-      },
-      "manufacturer": {
-        "name": "ИП Цитрус",
-        "country": "Россия",
-        "website": "https://цитрус.ru",
-        "inn": "2114424981"
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "7910577238"
       }
     }
   ],
-  "total_amount": 520.0,
-  "payment_method": "cash",
+  "total_amount": 225.0,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Барнаул",
-    "street": "ш. Раздольное",
-    "house": "43",
-    "apartment": "82",
-    "postal_code": "218085"
+    "city": "Екатеринбург",
+    "street": "ш. Лазурное",
+    "house": "143",
+    "apartment": "58",
+    "postal_code": "740810"
   },
-  "purchase_datetime": "2026-01-19T17:57:36.238906"
+  "purchase_datetime": "2026-02-05T19:09:09.841143"
 }

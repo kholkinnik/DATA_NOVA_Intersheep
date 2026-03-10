@@ -1,6 +1,6 @@
 {
   "store_id": "store-024",
-  "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+  "store_name": "Большая Пикча — Магазин на ул. Ягодная",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Самсонов Виталий Аверьянович",
-    "phone": "+7 (740) 594-7680",
-    "email": "zinaida_18@example.org"
+    "name": "Осипова Олимпиада Кирилловна",
+    "phone": "+7 901 825 63 78",
+    "email": "andronik1999@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "ш. Ломоносова",
-    "house": "842",
-    "postal_code": "193551",
+    "city": "Тюмень",
+    "street": "ул. Ягодная",
+    "house": "6",
+    "postal_code": "325932",
     "coordinates": {
-      "latitude": 56.132124,
-      "longitude": 40.387311
+      "latitude": 57.156176,
+      "longitude": 65.5343
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

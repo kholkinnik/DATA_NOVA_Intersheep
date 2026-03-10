@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00155",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Исидор",
-    "last_name": "Ефремов"
+    "customer_id": "cus-1042",
+    "first_name": "Михаил",
+    "last_name": "Логинов"
   },
   "store": {
-    "store_id": "store-013",
-    "store_name": "Большая Пикча — Магазин на пер. Короткий",
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на пер. Фурманова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Симферополь",
-      "street": "пер. Короткий",
-      "house": "2",
-      "postal_code": "839580",
+      "city": "Самара",
+      "street": "пер. Фурманова",
+      "house": "1",
+      "postal_code": "101558",
       "coordinates": {
-        "latitude": 44.954025,
-        "longitude": 34.119035
+        "latitude": 53.244814,
+        "longitude": 50.227516
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Печень куриная",
+      "product_id": "prd-1019",
+      "name": "Сардины в масле",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 110.0,
-      "total_price": 550.0,
-      "kbju": {
-        "calories": 158.4,
-        "protein": 16.3,
-        "fat": 7.4,
-        "carbohydrates": 13.5
-      },
-      "manufacturer": {
-        "name": "Птицефабрика «Северная»",
-        "country": "Россия",
-        "website": "https://птицефабрикасеверная.ru",
-        "inn": "8953760795"
-      }
-    },
-    {
-      "product_id": "prd-1037",
-      "name": "Бананы",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
-      "unit": "кг",
       "price_per_unit": 95.0,
-      "total_price": 285.0,
+      "total_price": 190.0,
       "kbju": {
-        "calories": 79.7,
-        "protein": 1.0,
-        "fat": 0.2,
-        "carbohydrates": 9.8
+        "calories": 156.0,
+        "protein": 22.0,
+        "fat": 13.4,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "Эко-Фрукты",
+        "name": "ООО «Рыбные консервы»",
         "country": "Россия",
-        "website": "https://эко-фрукты.ru",
-        "inn": "4842169369"
+        "website": "https://рыбныеконсервы.ru",
+        "inn": "4948064786"
       }
     },
     {
-      "product_id": "prd-1005",
-      "name": "Полба",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
+      "product_id": "prd-1022",
+      "name": "Снежок",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 600.0,
+      "price_per_unit": 55.0,
+      "total_price": 110.0,
       "kbju": {
-        "calories": 236.2,
-        "protein": 11.5,
-        "fat": 1.3,
-        "carbohydrates": 59.0
+        "calories": 82.7,
+        "protein": 7.6,
+        "fat": 1.8,
+        "carbohydrates": 5.0
       },
       "manufacturer": {
-        "name": "ООО «Здоровое зерно»",
+        "name": "Вимм-Билль-Данн",
         "country": "Россия",
-        "website": "https://здоровоезерно.ru",
-        "inn": "8224754920"
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "0415662193"
       }
     }
   ],
-  "total_amount": 1435.0,
+  "total_amount": 300.0,
   "payment_method": "card",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Саратов",
-    "street": "ш. Союзное",
-    "house": "2/3",
-    "apartment": "56",
-    "postal_code": "135471"
+    "city": "Пенза",
+    "street": "бул. Угловой",
+    "house": "6",
+    "apartment": "64",
+    "postal_code": "861584"
   },
-  "purchase_datetime": "2025-12-27T17:57:36.261753"
+  "purchase_datetime": "2025-12-20T19:09:09.858117"
 }

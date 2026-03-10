@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00030",
   "customer": {
-    "customer_id": "cus-1007",
-    "first_name": "Оксана",
-    "last_name": "Костина"
+    "customer_id": "cus-1031",
+    "first_name": "Остромир",
+    "last_name": "Шаров"
   },
   "store": {
-    "store_id": "store-018",
-    "store_name": "Большая Пикча — Магазин на алл. Высоковольтная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на бул. Серова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Симферополь",
-      "street": "алл. Высоковольтная",
-      "house": "59",
-      "postal_code": "727324",
+      "city": "Краснодар",
+      "street": "бул. Серова",
+      "house": "8/3",
+      "postal_code": "793357",
       "coordinates": {
-        "latitude": 44.952833,
-        "longitude": 34.103069
+        "latitude": 45.042573,
+        "longitude": 38.979058
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1008",
-      "name": "Булочка для бургера",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
-      "unit": "уп",
-      "price_per_unit": 60.0,
-      "total_price": 240.0,
+      "product_id": "prd-1037",
+      "name": "Клюква",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 500.0,
       "kbju": {
-        "calories": 293.2,
-        "protein": 11.6,
-        "fat": 5.0,
-        "carbohydrates": 56.8
+        "calories": 80.0,
+        "protein": 1.0,
+        "fat": 0.6,
+        "carbohydrates": 12.6
       },
       "manufacturer": {
-        "name": "ООО «Булка»",
+        "name": "ИП Ягодная поляна",
         "country": "Россия",
-        "website": "https://булка.ru",
-        "inn": "6303059533"
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "6354098213"
       }
     }
   ],
-  "total_amount": 240.0,
+  "total_amount": 500.0,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Липецк",
-    "street": "бул. Радищева",
-    "house": "9",
-    "apartment": "25",
-    "postal_code": "916599"
+    "city": "Белгород",
+    "street": "пр. Степана Разина",
+    "house": "708",
+    "apartment": "9",
+    "postal_code": "282539"
   },
-  "purchase_datetime": "2025-12-17T17:57:36.154359"
+  "purchase_datetime": "2026-02-23T19:09:09.792140"
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-010",
-  "store_name": "Большая Пикча — Магазин на ул. Высотная",
+  "store_name": "Большая Пикча — Магазин на пер. Некрасова",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Сысоева Марина Сергеевна",
-    "phone": "+7 031 136 5002",
-    "email": "foka_2018@example.org"
+    "name": "Ипат Феодосьевич Ларионов",
+    "phone": "8 (310) 449-7037",
+    "email": "jakov_31@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Краснодар",
-    "street": "ул. Высотная",
-    "house": "595",
-    "postal_code": "058824",
+    "city": "Барнаул",
+    "street": "пер. Некрасова",
+    "house": "4",
+    "postal_code": "717845",
     "coordinates": {
-      "latitude": 45.028884,
-      "longitude": 38.976453
+      "latitude": 53.360323,
+      "longitude": 83.77218
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-03-10"
 }

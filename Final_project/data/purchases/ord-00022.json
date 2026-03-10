@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00022",
   "customer": {
-    "customer_id": "cus-1003",
-    "first_name": "Азарий",
-    "last_name": "Макаров"
+    "customer_id": "cus-1043",
+    "first_name": "Регина",
+    "last_name": "Бурова"
   },
   "store": {
-    "store_id": "store-014",
-    "store_name": "Большая Пикча — Магазин на пер. Володарского",
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на наб. Революции",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Чебоксары",
-      "street": "пер. Володарского",
-      "house": "182",
-      "postal_code": "505264",
+      "city": "Волгоград",
+      "street": "наб. Революции",
+      "house": "1",
+      "postal_code": "556959",
       "coordinates": {
-        "latitude": 56.139571,
-        "longitude": 47.246618
+        "latitude": 48.699699,
+        "longitude": 44.510105
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1033",
-      "name": "Брусника",
+      "product_id": "prd-1038",
+      "name": "Крыжовник",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 1,
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 95.0,
-      "total_price": 95.0,
+      "price_per_unit": 80.0,
+      "total_price": 320.0,
       "kbju": {
-        "calories": 99.7,
-        "protein": 0.8,
-        "fat": 0.4,
-        "carbohydrates": 10.2
+        "calories": 41.4,
+        "protein": 0.6,
+        "fat": 0.3,
+        "carbohydrates": 19.2
       },
       "manufacturer": {
         "name": "ИП Ягодная поляна",
         "country": "Россия",
         "website": "https://ягоднаяполяна.ru",
-        "inn": "7966740421"
+        "inn": "1469683626"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Торт Медовик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 250.0,
+      "kbju": {
+        "calories": 230.5,
+        "protein": 8.3,
+        "fat": 2.8,
+        "carbohydrates": 50.7
+      },
+      "manufacturer": {
+        "name": "ООО «Сластёна»",
+        "country": "Россия",
+        "website": "https://сластёна.ru",
+        "inn": "7728792532"
       }
     }
   ],
-  "total_amount": 95.0,
-  "payment_method": "card",
-  "is_delivery": true,
+  "total_amount": 570.0,
+  "payment_method": "cash",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Чебоксары",
-    "street": "пр. Ярославский",
-    "house": "4/2",
-    "apartment": "83",
-    "postal_code": "481830"
+    "city": "Новосибирск",
+    "street": "пр. Шаумяна",
+    "house": "4",
+    "apartment": "55",
+    "postal_code": "941592"
   },
-  "purchase_datetime": "2026-01-25T17:57:36.146442"
+  "purchase_datetime": "2026-01-17T19:09:09.781999"
 }

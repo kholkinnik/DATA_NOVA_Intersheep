@@ -1,6 +1,6 @@
 {
   "store_id": "store-040",
-  "store_name": "Маленькая Пикча — Магазин на ул. Вокзальная",
+  "store_name": "Маленькая Пикча — Магазин на алл. Тельмана",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Лора Аскольдовна Дорофеева",
-    "phone": "8 (155) 974-46-79",
-    "email": "irakligolubev@example.org"
+    "name": "Мария Геннадиевна Назарова",
+    "phone": "+77617680993",
+    "email": "danila_2009@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Екатеринбург",
-    "street": "ул. Вокзальная",
-    "house": "35",
-    "postal_code": "932596",
+    "city": "Ижевск",
+    "street": "алл. Тельмана",
+    "house": "40",
+    "postal_code": "110271",
     "coordinates": {
-      "latitude": 56.830604,
-      "longitude": 60.608126
+      "latitude": 56.861138,
+      "longitude": 53.218005
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

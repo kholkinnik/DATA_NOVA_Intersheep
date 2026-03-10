@@ -1,6 +1,6 @@
 {
   "store_id": "store-002",
-  "store_name": "Большая Пикча — Магазин на наб. Целинная",
+  "store_name": "Большая Пикча — Магазин на ш. Сенное",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Селиван Валерьевич Евдокимов",
-    "phone": "8 (614) 805-15-02",
-    "email": "martjan37@example.org"
+    "name": "Галкин Марк Марсович",
+    "phone": "+7 755 970 3395",
+    "email": "mihalovaivanna@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Челябинск",
-    "street": "наб. Целинная",
-    "house": "34",
-    "postal_code": "748924",
+    "city": "Чебоксары",
+    "street": "ш. Сенное",
+    "house": "8/9",
+    "postal_code": "492060",
     "coordinates": {
-      "latitude": 55.163174,
-      "longitude": 61.431151
+      "latitude": 56.144881,
+      "longitude": 47.252853
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

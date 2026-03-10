@@ -1,24 +1,24 @@
 {
   "id": "prd-1010",
-  "name": "Фасоль белая",
+  "name": "Тунец в собственном соку",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Сухая, 500 г",
+  "description": "Консервы, 185 г",
   "kbju": {
-    "calories": 154.8,
-    "protein": 15.4,
-    "fat": 10.2,
-    "carbohydrates": 8.1
+    "calories": 321.8,
+    "protein": 25.6,
+    "fat": 3.2,
+    "carbohydrates": 6.8
   },
-  "price": 65.0,
+  "price": 120.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 9,
+  "expiry_days": 26,
   "is_organic": false,
-  "barcode": "3567107466407",
+  "barcode": "6214141750630",
   "manufacturer": {
-    "name": "ООО «Крупяной двор»",
+    "name": "ООО «Морепродукт»",
     "country": "Россия",
-    "website": "https://крупянойдвор.ru",
-    "inn": "9825245926"
+    "website": "https://морепродукт.ru",
+    "inn": "1426105985"
   }
 }

@@ -1,24 +1,24 @@
 {
   "id": "prd-1003",
-  "name": "Лаваш тонкий",
+  "name": "Торт Медовик",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Армянский лаваш, 300 г",
+  "description": "Готовый бисквитный торт, 600 г",
   "kbju": {
-    "calories": 317.4,
-    "protein": 6.8,
-    "fat": 2.9,
-    "carbohydrates": 59.2
+    "calories": 230.5,
+    "protein": 8.3,
+    "fat": 2.8,
+    "carbohydrates": 50.7
   },
-  "price": 60.0,
+  "price": 250.0,
   "unit": "шт",
   "origin_country": "Россия",
   "expiry_days": 20,
   "is_organic": true,
-  "barcode": "9911771223738",
+  "barcode": "3065013764049",
   "manufacturer": {
-    "name": "ООО «Кавказская кухня»",
+    "name": "ООО «Сластёна»",
     "country": "Россия",
-    "website": "https://кавказскаякухня.ru",
-    "inn": "0149115327"
+    "website": "https://сластёна.ru",
+    "inn": "7728792532"
   }
 }

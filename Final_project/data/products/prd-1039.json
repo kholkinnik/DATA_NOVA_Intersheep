@@ -1,24 +1,24 @@
 {
   "id": "prd-1039",
-  "name": "Манго",
+  "name": "Брусника",
   "group": "🍏 Фрукты и ягоды",
-  "description": "Спелое манго, 1 шт",
+  "description": "Свежая брусника, 250 г",
   "kbju": {
-    "calories": 61.3,
-    "protein": 1.7,
-    "fat": 0.8,
-    "carbohydrates": 12.1
+    "calories": 73.5,
+    "protein": 0.9,
+    "fat": 0.2,
+    "carbohydrates": 10.3
   },
-  "price": 120.0,
+  "price": 95.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 14,
+  "expiry_days": 6,
   "is_organic": true,
-  "barcode": "0228111222542",
+  "barcode": "2514320872226",
   "manufacturer": {
-    "name": "Тропические фрукты",
+    "name": "ИП Ягодная поляна",
     "country": "Россия",
-    "website": "https://тропическиефрукты.ru",
-    "inn": "9701474826"
+    "website": "https://ягоднаяполяна.ru",
+    "inn": "1796229374"
   }
 }

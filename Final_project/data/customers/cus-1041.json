@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1041",
-  "first_name": "Кира",
-  "last_name": "Бирюкова",
-  "email": "ivanna2014@example.net",
-  "phone": "8 (250) 726-4340",
-  "birth_date": "1977-10-08",
+  "first_name": "Эмилия",
+  "last_name": "Афанасьева",
+  "email": "demidvolkov@example.org",
+  "phone": "8 739 160 07 73",
+  "birth_date": "1970-07-30",
   "gender": "female",
-  "registration_date": "2026-01-14T17:57:36.128402",
+  "registration_date": "2026-01-23T19:09:09.766985",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-2F6EBA818C",
+  "loyalty_card_number": "LOYAL-3DC3851688",
   "purchase_location": {
     "country": "Россия",
-    "city": "Кемерово",
-    "street": "бул. Приозерный",
-    "house": "6/6",
-    "postal_code": "728996",
+    "city": "Барнаул",
+    "street": "пр. Гафури",
+    "house": "53",
+    "postal_code": "661113",
     "coordinates": {
-      "latitude": 55.352769,
-      "longitude": 86.085351
+      "latitude": 53.36306,
+      "longitude": 83.764942
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Кемерово",
-    "street": "бул. Толбухина",
-    "house": "6",
-    "apartment": "83",
-    "postal_code": "866936"
+    "city": "Барнаул",
+    "street": "ул. Комсомольская",
+    "house": "7",
+    "apartment": "58",
+    "postal_code": "815517"
   },
   "preferences": {
     "preferred_language": "ru",

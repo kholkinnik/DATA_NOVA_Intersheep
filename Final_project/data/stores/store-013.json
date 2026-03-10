@@ -1,6 +1,6 @@
 {
   "store_id": "store-013",
-  "store_name": "Большая Пикча — Магазин на пер. Короткий",
+  "store_name": "Большая Пикча — Магазин на ш. Брянское",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Зыков Светозар Игоревич",
-    "phone": "+7 (413) 986-6219",
-    "email": "bojan_82@example.org"
+    "name": "Фомичева Зинаида Валентиновна",
+    "phone": "8 650 900 1853",
+    "email": "juvenali_1990@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Симферополь",
-    "street": "пер. Короткий",
-    "house": "2",
-    "postal_code": "839580",
+    "city": "Екатеринбург",
+    "street": "ш. Брянское",
+    "house": "49",
+    "postal_code": "783125",
     "coordinates": {
-      "latitude": 44.954025,
-      "longitude": 34.119035
+      "latitude": 56.84367,
+      "longitude": 60.606991
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

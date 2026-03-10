@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00108",
   "customer": {
-    "customer_id": "cus-1029",
-    "first_name": "Иванна",
-    "last_name": "Орлова"
+    "customer_id": "cus-1013",
+    "first_name": "Никанор",
+    "last_name": "Муравьев"
   },
   "store": {
-    "store_id": "store-025",
-    "store_name": "Большая Пикча — Магазин на ш. Островского",
-    "store_network": "Большая Пикча",
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Щербакова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Красноярск",
-      "street": "ш. Островского",
-      "house": "2",
-      "postal_code": "556125",
+      "city": "Нижний Новгород",
+      "street": "пер. Щербакова",
+      "house": "7",
+      "postal_code": "924885",
       "coordinates": {
-        "latitude": 56.019131,
-        "longitude": 92.850536
+        "latitude": 56.331715,
+        "longitude": 44.000386
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1021",
-      "name": "Айран",
+      "product_id": "prd-1026",
+      "name": "Сыр Косичка",
       "category": "🥛 Молочные продукты",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 55.0,
-      "total_price": 110.0,
+      "price_per_unit": 130.0,
+      "total_price": 260.0,
       "kbju": {
-        "calories": 74.9,
-        "protein": 4.1,
-        "fat": 2.1,
-        "carbohydrates": 4.5
+        "calories": 85.5,
+        "protein": 5.4,
+        "fat": 1.1,
+        "carbohydrates": 10.2
       },
       "manufacturer": {
-        "name": "ООО «Молочный край»",
+        "name": "ООО «Сыровар»",
         "country": "Россия",
-        "website": "https://молочныйкрай.ru",
-        "inn": "1947487566"
-      }
-    },
-    {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 50.0,
-      "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
-      },
-      "manufacturer": {
-        "name": "Danone",
-        "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
+        "website": "https://сыровар.ru",
+        "inn": "7103183531"
       }
     }
   ],
-  "total_amount": 160.0,
-  "payment_method": "cash",
-  "is_delivery": true,
+  "total_amount": 260.0,
+  "payment_method": "card",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "алл. Димитрова",
-    "house": "387",
-    "apartment": "72",
-    "postal_code": "231661"
+    "city": "Томск",
+    "street": "пер. Орджоникидзе",
+    "house": "519",
+    "apartment": "12",
+    "postal_code": "794942"
   },
-  "purchase_datetime": "2026-02-17T17:57:36.219872"
+  "purchase_datetime": "2025-12-25T19:09:09.825654"
 }

@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00153",
   "customer": {
-    "customer_id": "cus-1042",
-    "first_name": "Октябрина",
-    "last_name": "Бурова"
+    "customer_id": "cus-1010",
+    "first_name": "Екатерина",
+    "last_name": "Нестерова"
   },
   "store": {
-    "store_id": "store-003",
-    "store_name": "Большая Пикча — Магазин на бул. Докучаева",
-    "store_network": "Большая Пикча",
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на ул. Леонова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Тюмень",
-      "street": "бул. Докучаева",
-      "house": "80",
-      "postal_code": "941109",
+      "city": "Тверь",
+      "street": "ул. Леонова",
+      "house": "4/6",
+      "postal_code": "909414",
       "coordinates": {
-        "latitude": 57.159651,
-        "longitude": 65.530977
+        "latitude": 56.850579,
+        "longitude": 35.909483
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1006",
-      "name": "Гречка",
+      "product_id": "prd-1040",
+      "name": "Кабачки",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 70.0,
+      "total_price": 280.0,
+      "kbju": {
+        "calories": 47.5,
+        "protein": 1.3,
+        "fat": 0.3,
+        "carbohydrates": 5.1
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "8544353715"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Мюсли с орехами",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 75.0,
-      "total_price": 75.0,
+      "price_per_unit": 110.0,
+      "total_price": 110.0,
       "kbju": {
-        "calories": 240.3,
-        "protein": 11.7,
-        "fat": 4.8,
-        "carbohydrates": 50.5
+        "calories": 310.4,
+        "protein": 6.9,
+        "fat": 2.3,
+        "carbohydrates": 44.1
       },
       "manufacturer": {
-        "name": "ООО «Мистраль»",
+        "name": "ООО «Здоровое утро»",
         "country": "Россия",
-        "website": "https://мистраль.ru",
-        "inn": "6141052240"
+        "website": "https://здоровоеутро.ru",
+        "inn": "2656122869"
       }
     }
   ],
-  "total_amount": 75.0,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 390.0,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Москва",
-    "street": "наб. Донская",
-    "house": "38",
-    "apartment": "21",
-    "postal_code": "664599"
+    "city": "Волгоград",
+    "street": "алл. Пожарского",
+    "house": "9/8",
+    "apartment": "53",
+    "postal_code": "673162"
   },
-  "purchase_datetime": "2026-01-26T17:57:36.259758"
+  "purchase_datetime": "2025-12-28T19:09:09.858117"
 }

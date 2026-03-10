@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00091",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Анжелика",
-    "last_name": "Лаврентьева"
+    "customer_id": "cus-1026",
+    "first_name": "Елизавета",
+    "last_name": "Котова"
   },
   "store": {
-    "store_id": "store-014",
-    "store_name": "Большая Пикча — Магазин на пер. Володарского",
-    "store_network": "Большая Пикча",
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на пер. Торговый",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Чебоксары",
-      "street": "пер. Володарского",
-      "house": "182",
-      "postal_code": "505264",
+      "city": "Набережные Челны",
+      "street": "пер. Торговый",
+      "house": "8/1",
+      "postal_code": "289375",
       "coordinates": {
-        "latitude": 56.139571,
-        "longitude": 47.246618
+        "latitude": 55.735832,
+        "longitude": 52.4045
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1028",
-      "name": "Сыр Плавленый",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1010",
+      "name": "Тунец в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 35.0,
-      "total_price": 105.0,
+      "price_per_unit": 120.0,
+      "total_price": 600.0,
       "kbju": {
-        "calories": 197.8,
-        "protein": 3.9,
-        "fat": 12.6,
-        "carbohydrates": 7.2
+        "calories": 321.8,
+        "protein": 25.6,
+        "fat": 3.2,
+        "carbohydrates": 6.8
       },
       "manufacturer": {
-        "name": "ООО «Сырок»",
+        "name": "ООО «Морепродукт»",
         "country": "Россия",
-        "website": "https://сырок.ru",
-        "inn": "4295304954"
+        "website": "https://морепродукт.ru",
+        "inn": "1426105985"
       }
     },
     {
-      "product_id": "prd-1020",
-      "name": "Йогурт греческий",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "product_id": "prd-1011",
+      "name": "Лосось слабосолёный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 50.0,
-      "total_price": 250.0,
+      "price_per_unit": 350.0,
+      "total_price": 1050.0,
       "kbju": {
-        "calories": 194.0,
-        "protein": 9.6,
-        "fat": 1.7,
-        "carbohydrates": 7.9
+        "calories": 209.2,
+        "protein": 23.5,
+        "fat": 4.8,
+        "carbohydrates": 2.5
       },
       "manufacturer": {
-        "name": "Danone",
+        "name": "Русское море",
         "country": "Россия",
-        "website": "https://danone.ru",
-        "inn": "3936658627"
+        "website": "https://русскоеморе.ru",
+        "inn": "2636876885"
       }
     }
   ],
-  "total_amount": 355.0,
-  "payment_method": "card",
-  "is_delivery": true,
+  "total_amount": 1650.0,
+  "payment_method": "cash",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "ул. Тепличная",
-    "house": "1",
-    "apartment": "3",
-    "postal_code": "542451"
+    "city": "Пермь",
+    "street": "ш. Карла Либкнехта",
+    "house": "1/5",
+    "apartment": "73",
+    "postal_code": "289951"
   },
-  "purchase_datetime": "2025-12-22T17:57:36.205603"
+  "purchase_datetime": "2026-02-19T19:09:09.825654"
 }

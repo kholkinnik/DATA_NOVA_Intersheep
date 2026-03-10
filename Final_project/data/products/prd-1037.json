@@ -1,24 +1,24 @@
 {
   "id": "prd-1037",
-  "name": "Бананы",
+  "name": "Клюква",
   "group": "🍏 Фрукты и ягоды",
-  "description": "Свежие бананы, Эквадор, 1 кг",
+  "description": "Свежая клюква, 250 г",
   "kbju": {
-    "calories": 79.7,
+    "calories": 80.0,
     "protein": 1.0,
-    "fat": 0.2,
-    "carbohydrates": 9.8
+    "fat": 0.6,
+    "carbohydrates": 12.6
   },
-  "price": 95.0,
-  "unit": "кг",
+  "price": 100.0,
+  "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 26,
+  "expiry_days": 30,
   "is_organic": false,
-  "barcode": "5323893368589",
+  "barcode": "9785576444922",
   "manufacturer": {
-    "name": "Эко-Фрукты",
+    "name": "ИП Ягодная поляна",
     "country": "Россия",
-    "website": "https://эко-фрукты.ru",
-    "inn": "4842169369"
+    "website": "https://ягоднаяполяна.ru",
+    "inn": "6354098213"
   }
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-031",
-  "store_name": "Маленькая Пикча — Магазин на бул. Толстого",
+  "store_name": "Маленькая Пикча — Магазин на пр. Титова",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "тов. Гордеева Акулина Юрьевна",
-    "phone": "+75241597814",
-    "email": "georgi17@example.org"
+    "name": "Романова Зинаида Ивановна",
+    "phone": "+75918761711",
+    "email": "seleznevaalevtina@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "Тюмень",
-    "street": "бул. Толстого",
-    "house": "492",
-    "postal_code": "631260",
+    "city": "Челябинск",
+    "street": "пр. Титова",
+    "house": "7/3",
+    "postal_code": "456221",
     "coordinates": {
-      "latitude": 57.149287,
-      "longitude": 65.53511
+      "latitude": 55.171584,
+      "longitude": 61.443729
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

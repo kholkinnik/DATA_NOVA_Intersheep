@@ -1,6 +1,6 @@
 {
   "store_id": "store-004",
-  "store_name": "Большая Пикча — Магазин на бул. Серова",
+  "store_name": "Большая Пикча — Магазин на алл. Минская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Никодим Харитонович Васильев",
-    "phone": "8 461 781 89 99",
-    "email": "pelageja_75@example.org"
+    "name": "Копылов Константин Жанович",
+    "phone": "+7 289 943 19 40",
+    "email": "evgraf_27@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Чебоксары",
-    "street": "бул. Серова",
-    "house": "906",
-    "postal_code": "969267",
+    "city": "Воронеж",
+    "street": "алл. Минская",
+    "house": "1/8",
+    "postal_code": "337588",
     "coordinates": {
-      "latitude": 56.150128,
-      "longitude": 47.255986
+      "latitude": 51.662318,
+      "longitude": 39.199507
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-03-09"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-10"
 }

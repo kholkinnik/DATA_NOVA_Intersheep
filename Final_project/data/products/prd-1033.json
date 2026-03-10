@@ -1,24 +1,24 @@
 {
   "id": "prd-1033",
-  "name": "Брусника",
+  "name": "Инжир",
   "group": "🍏 Фрукты и ягоды",
-  "description": "Свежая брусника, 250 г",
+  "description": "Свежий инжир, 250 г",
   "kbju": {
-    "calories": 99.7,
-    "protein": 0.8,
-    "fat": 0.4,
-    "carbohydrates": 10.2
+    "calories": 85.0,
+    "protein": 1.6,
+    "fat": 0.3,
+    "carbohydrates": 12.7
   },
-  "price": 95.0,
+  "price": 130.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 26,
+  "expiry_days": 6,
   "is_organic": false,
-  "barcode": "8576340544181",
+  "barcode": "5371755408980",
   "manufacturer": {
-    "name": "ИП Ягодная поляна",
+    "name": "Кавказские фрукты",
     "country": "Россия",
-    "website": "https://ягоднаяполяна.ru",
-    "inn": "7966740421"
+    "website": "https://кавказскиефрукты.ru",
+    "inn": "3325592298"
   }
 }

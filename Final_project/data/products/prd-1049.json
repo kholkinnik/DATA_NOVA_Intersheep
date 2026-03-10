@@ -1,24 +1,24 @@
 {
   "id": "prd-1049",
-  "name": "Морковь мытая",
+  "name": "Маслины",
   "group": "🥦 Овощи и зелень",
-  "description": "Морковь столовая, мытая, 1 кг",
+  "description": "Консервированные, 300 г",
   "kbju": {
-    "calories": 49.7,
+    "calories": 38.5,
     "protein": 1.1,
-    "fat": 0.6,
-    "carbohydrates": 6.4
+    "fat": 0.4,
+    "carbohydrates": 2.4
   },
-  "price": 45.0,
-  "unit": "кг",
+  "price": 100.0,
+  "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 27,
-  "is_organic": true,
-  "barcode": "8561687002210",
+  "expiry_days": 11,
+  "is_organic": false,
+  "barcode": "8415057331144",
   "manufacturer": {
-    "name": "Фермерское хозяйство «Лето»",
+    "name": "Италика",
     "country": "Россия",
-    "website": "https://фермерскоехозяйстволето.ru",
-    "inn": "4052033610"
+    "website": "https://италика.ru",
+    "inn": "3027808151"
   }
 }

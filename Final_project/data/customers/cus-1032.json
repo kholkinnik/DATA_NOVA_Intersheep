@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1032",
-  "first_name": "Ермил",
-  "last_name": "Савин",
-  "email": "januari2003@example.com",
-  "phone": "+7 469 818 6028",
-  "birth_date": "1962-01-04",
-  "gender": "male",
-  "registration_date": "2026-01-18T17:57:36.118961",
+  "first_name": "Мария",
+  "last_name": "Федорова",
+  "email": "anikevladimirov@example.net",
+  "phone": "8 394 756 55 60",
+  "birth_date": "1999-03-21",
+  "gender": "female",
+  "registration_date": "2026-02-16T19:09:09.766985",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-1C5BEC1467",
+  "loyalty_card_number": "LOYAL-F07167D24B",
   "purchase_location": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "алл. Революции",
-    "house": "2",
-    "postal_code": "304094",
+    "city": "Набережные Челны",
+    "street": "пер. Торговый",
+    "house": "8/1",
+    "postal_code": "289375",
     "coordinates": {
-      "latitude": 56.139013,
-      "longitude": 40.404611
+      "latitude": 55.735832,
+      "longitude": 52.4045
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Владимир",
-    "street": "пр. Ломоносова",
-    "house": "352",
-    "apartment": "57",
-    "postal_code": "331588"
+    "city": "Набережные Челны",
+    "street": "алл. Жукова",
+    "house": "7",
+    "apartment": "85",
+    "postal_code": "895502"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

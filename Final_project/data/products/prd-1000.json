@@ -1,24 +1,24 @@
 {
   "id": "prd-1000",
-  "name": "Мука пшеничная в/с",
+  "name": "Кекс столичный",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Мука для выпечки, 2 кг",
+  "description": "С изюмом, 300 г",
   "kbju": {
-    "calories": 254.9,
-    "protein": 9.5,
-    "fat": 1.1,
-    "carbohydrates": 52.4
+    "calories": 226.0,
+    "protein": 11.6,
+    "fat": 4.4,
+    "carbohydrates": 50.2
   },
-  "price": 85.0,
+  "price": 90.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 28,
-  "is_organic": false,
-  "barcode": "1234782324552",
+  "expiry_days": 21,
+  "is_organic": true,
+  "barcode": "0744060590902",
   "manufacturer": {
-    "name": "ООО «Мельница»",
+    "name": "ООО «Кекс»",
     "country": "Россия",
-    "website": "https://мельница.ru",
-    "inn": "1484891216"
+    "website": "https://кекс.ru",
+    "inn": "4509049327"
   }
 }

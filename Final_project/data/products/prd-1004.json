@@ -1,24 +1,24 @@
 {
   "id": "prd-1004",
-  "name": "Сухари панировочные",
+  "name": "Макароны спагетти",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Для жарки и запекания, 200 г",
+  "description": "Из твёрдых сортов пшеницы, 450 г",
   "kbju": {
-    "calories": 243.4,
-    "protein": 9.6,
-    "fat": 5.4,
-    "carbohydrates": 53.0
+    "calories": 347.9,
+    "protein": 10.4,
+    "fat": 3.5,
+    "carbohydrates": 41.9
   },
-  "price": 40.0,
+  "price": 60.0,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 28,
-  "is_organic": false,
-  "barcode": "8654952119413",
+  "expiry_days": 15,
+  "is_organic": true,
+  "barcode": "6793478175601",
   "manufacturer": {
-    "name": "ООО «Русский продукт»",
+    "name": "ООО «Макфа»",
     "country": "Россия",
-    "website": "https://русскийпродукт.ru",
-    "inn": "0882036165"
+    "website": "https://макфа.ru",
+    "inn": "3951013214"
   }
 }

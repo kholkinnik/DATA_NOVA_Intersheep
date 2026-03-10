@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1029",
-  "first_name": "Иванна",
-  "last_name": "Орлова",
-  "email": "prohor80@example.net",
-  "phone": "+74175238920",
-  "birth_date": "2003-04-20",
+  "first_name": "Полина",
+  "last_name": "Некрасова",
+  "email": "foka_2022@example.com",
+  "phone": "+7 418 489 36 04",
+  "birth_date": "2004-11-12",
   "gender": "female",
-  "registration_date": "2026-01-14T17:57:36.109198",
+  "registration_date": "2026-02-14T19:09:09.765984",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-AD703FC9B0",
+  "loyalty_card_number": "LOYAL-553244FBCB",
   "purchase_location": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "ул. Павлова",
-    "house": "6/6",
-    "postal_code": "942779",
+    "city": "Ростов-на-Дону",
+    "street": "пр. Ворошилова",
+    "house": "8/5",
+    "postal_code": "841256",
     "coordinates": {
-      "latitude": 51.827445,
-      "longitude": 107.583893
+      "latitude": 47.235012,
+      "longitude": 39.710919
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "алл. Димитрова",
-    "house": "387",
-    "apartment": "72",
-    "postal_code": "231661"
+    "city": "Ростов-на-Дону",
+    "street": "пер. Омский",
+    "house": "4",
+    "apartment": "88",
+    "postal_code": "920440"
   },
   "preferences": {
     "preferred_language": "ru",

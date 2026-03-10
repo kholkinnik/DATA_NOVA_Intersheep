@@ -2,58 +2,79 @@
   "purchase_id": "ord-00174",
   "customer": {
     "customer_id": "cus-1041",
-    "first_name": "Кира",
-    "last_name": "Бирюкова"
+    "first_name": "Эмилия",
+    "last_name": "Афанасьева"
   },
   "store": {
-    "store_id": "store-013",
-    "store_name": "Большая Пикча — Магазин на пер. Короткий",
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на ш. Литейное",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Симферополь",
-      "street": "пер. Короткий",
-      "house": "2",
-      "postal_code": "839580",
+      "city": "Набережные Челны",
+      "street": "ш. Литейное",
+      "house": "591",
+      "postal_code": "757311",
       "coordinates": {
-        "latitude": 44.954025,
-        "longitude": 34.119035
+        "latitude": 55.749725,
+        "longitude": 52.40402
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1025",
-      "name": "Сливки 35%",
+      "product_id": "prd-1022",
+      "name": "Снежок",
       "category": "🥛 Молочные продукты",
       "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 500.0,
+      "price_per_unit": 55.0,
+      "total_price": 275.0,
       "kbju": {
-        "calories": 77.8,
-        "protein": 10.0,
-        "fat": 7.1,
-        "carbohydrates": 3.7
+        "calories": 82.7,
+        "protein": 7.6,
+        "fat": 1.8,
+        "carbohydrates": 5.0
       },
       "manufacturer": {
-        "name": "Простоквашино",
+        "name": "Вимм-Билль-Данн",
         "country": "Россия",
-        "website": "https://простоквашино.ru",
-        "inn": "1267810496"
+        "website": "https://вимм-билль-данн.ru",
+        "inn": "0415662193"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Вареники с картошкой",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "уп",
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
+      "kbju": {
+        "calories": 135.5,
+        "protein": 17.0,
+        "fat": 8.1,
+        "carbohydrates": 13.7
+      },
+      "manufacturer": {
+        "name": "ООО «Домашние вареники»",
+        "country": "Россия",
+        "website": "https://домашниевареники.ru",
+        "inn": "6238389761"
       }
     }
   ],
-  "total_amount": 500.0,
-  "payment_method": "cash",
-  "is_delivery": true,
+  "total_amount": 605.0,
+  "payment_method": "card",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Кемерово",
-    "street": "бул. Толбухина",
-    "house": "6",
-    "apartment": "83",
-    "postal_code": "866936"
+    "city": "Барнаул",
+    "street": "ул. Комсомольская",
+    "house": "7",
+    "apartment": "58",
+    "postal_code": "815517"
   },
-  "purchase_datetime": "2026-02-06T17:57:36.282741"
+  "purchase_datetime": "2025-12-28T19:09:09.869922"
 }

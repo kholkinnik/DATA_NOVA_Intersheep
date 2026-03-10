@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00040",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Анжелика",
-    "last_name": "Лаврентьева"
+    "customer_id": "cus-1000",
+    "first_name": "Агата",
+    "last_name": "Суханова"
   },
   "store": {
-    "store_id": "store-038",
-    "store_name": "Маленькая Пикча — Магазин на алл. Лесная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на ул. Калинина",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ярославль",
-      "street": "алл. Лесная",
-      "house": "706",
-      "postal_code": "021505",
+      "city": "Волгоград",
+      "street": "ул. Калинина",
+      "house": "5",
+      "postal_code": "247980",
       "coordinates": {
-        "latitude": 57.633645,
-        "longitude": 39.884674
+        "latitude": 48.711553,
+        "longitude": 44.507736
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Пельмени русские",
+      "product_id": "prd-1013",
+      "name": "Горох колотый",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
-      "unit": "уп",
-      "price_per_unit": 130.0,
-      "total_price": 260.0,
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 180.0,
       "kbju": {
-        "calories": 290.9,
-        "protein": 18.9,
-        "fat": 5.2,
-        "carbohydrates": 2.0
+        "calories": 244.7,
+        "protein": 16.0,
+        "fat": 14.9,
+        "carbohydrates": 6.1
       },
       "manufacturer": {
-        "name": "ООО «Сибирский гурман»",
+        "name": "ООО «Крупяной двор»",
         "country": "Россия",
-        "website": "https://сибирскийгурман.ru",
-        "inn": "8707694030"
+        "website": "https://крупянойдвор.ru",
+        "inn": "4511537443"
       }
     }
   ],
-  "total_amount": 260.0,
-  "payment_method": "card",
+  "total_amount": 180.0,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "ул. Тепличная",
-    "house": "1",
-    "apartment": "3",
-    "postal_code": "542451"
+    "city": "Рязань",
+    "street": "пр. Энергетический",
+    "house": "6/1",
+    "apartment": "4",
+    "postal_code": "139765"
   },
-  "purchase_datetime": "2026-01-22T17:57:36.157530"
+  "purchase_datetime": "2026-01-09T19:09:09.799949"
 }

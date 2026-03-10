@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00024",
   "customer": {
-    "customer_id": "cus-1010",
-    "first_name": "Светлана",
-    "last_name": "Быкова"
+    "customer_id": "cus-1035",
+    "first_name": "Елена",
+    "last_name": "Кошелева"
   },
   "store": {
-    "store_id": "store-022",
-    "store_name": "Большая Пикча — Магазин на наб. Гафури",
-    "store_network": "Большая Пикча",
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пр. Гафури",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ижевск",
-      "street": "наб. Гафури",
-      "house": "2/5",
-      "postal_code": "302578",
+      "city": "Барнаул",
+      "street": "пр. Гафури",
+      "house": "53",
+      "postal_code": "661113",
       "coordinates": {
-        "latitude": 56.843537,
-        "longitude": 53.217387
+        "latitude": 53.36306,
+        "longitude": 83.764942
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Фасоль белая",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
+      "product_id": "prd-1031",
+      "name": "Ананас",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 65.0,
-      "total_price": 130.0,
+      "price_per_unit": 150.0,
+      "total_price": 600.0,
       "kbju": {
-        "calories": 154.8,
-        "protein": 15.4,
-        "fat": 10.2,
-        "carbohydrates": 8.1
+        "calories": 49.7,
+        "protein": 1.5,
+        "fat": 0.6,
+        "carbohydrates": 9.6
       },
       "manufacturer": {
-        "name": "ООО «Крупяной двор»",
+        "name": "Тропические фрукты",
         "country": "Россия",
-        "website": "https://крупянойдвор.ru",
-        "inn": "9825245926"
+        "website": "https://тропическиефрукты.ru",
+        "inn": "5491167505"
       }
     },
     {
-      "product_id": "prd-1037",
-      "name": "Бананы",
+      "product_id": "prd-1036",
+      "name": "Абрикосы",
       "category": "🍏 Фрукты и ягоды",
       "quantity": 3,
       "unit": "кг",
-      "price_per_unit": 95.0,
-      "total_price": 285.0,
+      "price_per_unit": 170.0,
+      "total_price": 510.0,
       "kbju": {
-        "calories": 79.7,
-        "protein": 1.0,
-        "fat": 0.2,
-        "carbohydrates": 9.8
+        "calories": 37.0,
+        "protein": 1.6,
+        "fat": 0.6,
+        "carbohydrates": 10.9
       },
       "manufacturer": {
-        "name": "Эко-Фрукты",
+        "name": "Кубанские фрукты",
         "country": "Россия",
-        "website": "https://эко-фрукты.ru",
-        "inn": "4842169369"
-      }
-    },
-    {
-      "product_id": "prd-1006",
-      "name": "Гречка",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 75.0,
-      "total_price": 300.0,
-      "kbju": {
-        "calories": 240.3,
-        "protein": 11.7,
-        "fat": 4.8,
-        "carbohydrates": 50.5
-      },
-      "manufacturer": {
-        "name": "ООО «Мистраль»",
-        "country": "Россия",
-        "website": "https://мистраль.ru",
-        "inn": "6141052240"
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "2628915967"
       }
     }
   ],
-  "total_amount": 715.0,
+  "total_amount": 1110.0,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Красноярск",
-    "street": "ш. Коммунаров",
-    "house": "48",
-    "apartment": "89",
-    "postal_code": "603037"
+    "city": "Рязань",
+    "street": "пер. Кубанский",
+    "house": "7/5",
+    "apartment": "28",
+    "postal_code": "807273"
   },
-  "purchase_datetime": "2026-02-15T17:57:36.148439"
+  "purchase_datetime": "2026-01-25T19:09:09.781999"
 }

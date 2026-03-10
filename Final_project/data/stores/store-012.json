@@ -1,6 +1,6 @@
 {
   "store_id": "store-012",
-  "store_name": "Большая Пикча — Магазин на алл. Гагарина",
+  "store_name": "Большая Пикча — Магазин на бул. Вокзальный",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "тов. Маслова Регина Макаровна",
-    "phone": "80071902314",
-    "email": "nikon_2022@example.org"
+    "name": "Белоусова Светлана Игоревна",
+    "phone": "8 933 125 97 50",
+    "email": "anzhelikasharova@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "алл. Гагарина",
-    "house": "53",
-    "postal_code": "841356",
+    "city": "Ижевск",
+    "street": "бул. Вокзальный",
+    "house": "6/8",
+    "postal_code": "189685",
     "coordinates": {
-      "latitude": 55.803592,
-      "longitude": 37.930922
+      "latitude": 56.849325,
+      "longitude": 53.20278
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

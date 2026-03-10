@@ -1,6 +1,6 @@
 {
   "store_id": "store-038",
-  "store_name": "Маленькая Пикча — Магазин на алл. Лесная",
+  "store_name": "Маленькая Пикча — Магазин на ул. Леонова",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Куликова Нина Никифоровна",
-    "phone": "+7 (565) 985-45-42",
-    "email": "artemevalora@example.net"
+    "name": "Щукин Тихон Харлампович",
+    "phone": "8 (159) 959-3342",
+    "email": "ljubim04@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "Ярославль",
-    "street": "алл. Лесная",
-    "house": "706",
-    "postal_code": "021505",
+    "city": "Тверь",
+    "street": "ул. Леонова",
+    "house": "4/6",
+    "postal_code": "909414",
     "coordinates": {
-      "latitude": 57.633645,
-      "longitude": 39.884674
+      "latitude": 56.850579,
+      "longitude": 35.909483
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-03-09"
+  "last_inventory_date": "2026-03-10"
 }

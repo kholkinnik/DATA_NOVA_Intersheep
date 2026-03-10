@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00186",
   "customer": {
-    "customer_id": "cus-1029",
-    "first_name": "Иванна",
-    "last_name": "Орлова"
+    "customer_id": "cus-1010",
+    "first_name": "Екатерина",
+    "last_name": "Нестерова"
   },
   "store": {
-    "store_id": "store-038",
-    "store_name": "Маленькая Пикча — Магазин на алл. Лесная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на наб. Новгородская",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Ярославль",
-      "street": "алл. Лесная",
-      "house": "706",
-      "postal_code": "021505",
+      "city": "Томск",
+      "street": "наб. Новгородская",
+      "house": "1/9",
+      "postal_code": "188860",
       "coordinates": {
-        "latitude": 57.633645,
-        "longitude": 39.884674
+        "latitude": 56.490847,
+        "longitude": 84.97497
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Фасоль белая",
+      "product_id": "prd-1016",
+      "name": "Шашлык из свинины",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 65.0,
-      "total_price": 260.0,
-      "kbju": {
-        "calories": 154.8,
-        "protein": 15.4,
-        "fat": 10.2,
-        "carbohydrates": 8.1
-      },
-      "manufacturer": {
-        "name": "ООО «Крупяной двор»",
-        "country": "Россия",
-        "website": "https://крупянойдвор.ru",
-        "inn": "9825245926"
-      }
-    },
-    {
-      "product_id": "prd-1021",
-      "name": "Айран",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 55.0,
-      "total_price": 165.0,
-      "kbju": {
-        "calories": 74.9,
-        "protein": 4.1,
-        "fat": 2.1,
-        "carbohydrates": 4.5
-      },
-      "manufacturer": {
-        "name": "ООО «Молочный край»",
-        "country": "Россия",
-        "website": "https://молочныйкрай.ru",
-        "inn": "1947487566"
-      }
-    },
-    {
-      "product_id": "prd-1045",
-      "name": "Чеснок",
-      "category": "🥦 Овощи и зелень",
       "quantity": 1,
-      "unit": "кг",
-      "price_per_unit": 150.0,
-      "total_price": 150.0,
+      "unit": "шт",
+      "price_per_unit": 320.0,
+      "total_price": 320.0,
       "kbju": {
-        "calories": 50.9,
-        "protein": 1.4,
-        "fat": 0.6,
-        "carbohydrates": 7.3
+        "calories": 224.9,
+        "protein": 17.9,
+        "fat": 17.9,
+        "carbohydrates": 12.7
       },
       "manufacturer": {
-        "name": "ИП «Огородник»",
+        "name": "ООО «Шашлычный двор»",
         "country": "Россия",
-        "website": "https://огородник.ru",
-        "inn": "9765085333"
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "4814050842"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Яйцо перепелиное",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "уп",
+      "price_per_unit": 75.0,
+      "total_price": 375.0,
+      "kbju": {
+        "calories": 200.4,
+        "protein": 26.1,
+        "fat": 23.7,
+        "carbohydrates": 12.2
+      },
+      "manufacturer": {
+        "name": "ИП «Перепел»",
+        "country": "Россия",
+        "website": "https://перепел.ru",
+        "inn": "3661177130"
       }
     }
   ],
-  "total_amount": 575.0,
-  "payment_method": "cash",
+  "total_amount": 695.0,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Улан-Удэ",
-    "street": "алл. Димитрова",
-    "house": "387",
-    "apartment": "72",
-    "postal_code": "231661"
+    "city": "Волгоград",
+    "street": "алл. Пожарского",
+    "house": "9/8",
+    "apartment": "53",
+    "postal_code": "673162"
   },
-  "purchase_datetime": "2026-02-26T17:57:36.293282"
+  "purchase_datetime": "2026-02-19T19:09:09.877446"
 }

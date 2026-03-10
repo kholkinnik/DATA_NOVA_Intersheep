@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00176",
   "customer": {
-    "customer_id": "cus-1035",
-    "first_name": "Октябрина",
-    "last_name": "Сергеева"
+    "customer_id": "cus-1043",
+    "first_name": "Регина",
+    "last_name": "Бурова"
   },
   "store": {
-    "store_id": "store-028",
-    "store_name": "Большая Пикча — Магазин на пр. Дзержинского",
-    "store_network": "Большая Пикча",
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на алл. Воровского",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Самара",
-      "street": "пр. Дзержинского",
-      "house": "18",
-      "postal_code": "824453",
+      "city": "Барнаул",
+      "street": "алл. Воровского",
+      "house": "29",
+      "postal_code": "591973",
       "coordinates": {
-        "latitude": 53.251358,
-        "longitude": 50.223879
+        "latitude": 53.350304,
+        "longitude": 83.767415
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1022",
-      "name": "Сыр Моцарелла",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "product_id": "prd-1008",
+      "name": "Макароны рожки",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 100.0,
-      "total_price": 500.0,
+      "price_per_unit": 55.0,
+      "total_price": 55.0,
       "kbju": {
-        "calories": 143.0,
-        "protein": 4.8,
-        "fat": 5.0,
-        "carbohydrates": 9.9
+        "calories": 303.3,
+        "protein": 8.3,
+        "fat": 3.3,
+        "carbohydrates": 58.2
       },
       "manufacturer": {
-        "name": "ООО «Италика»",
+        "name": "ООО «Шебекинские»",
         "country": "Россия",
-        "website": "https://италика.ru",
-        "inn": "8916194523"
+        "website": "https://шебекинские.ru",
+        "inn": "8469368887"
       }
     },
     {
       "product_id": "prd-1039",
-      "name": "Манго",
+      "name": "Брусника",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 2,
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 120.0,
-      "total_price": 240.0,
+      "price_per_unit": 95.0,
+      "total_price": 95.0,
       "kbju": {
-        "calories": 61.3,
-        "protein": 1.7,
-        "fat": 0.8,
-        "carbohydrates": 12.1
+        "calories": 73.5,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbohydrates": 10.3
       },
       "manufacturer": {
-        "name": "Тропические фрукты",
+        "name": "ИП Ягодная поляна",
         "country": "Россия",
-        "website": "https://тропическиефрукты.ru",
-        "inn": "9701474826"
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1796229374"
       }
     },
     {
-      "product_id": "prd-1009",
-      "name": "Овсяные хлопья",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 3,
+      "product_id": "prd-1044",
+      "name": "Редька зеленая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 45.0,
-      "total_price": 135.0,
+      "price_per_unit": 50.0,
+      "total_price": 100.0,
       "kbju": {
-        "calories": 238.1,
-        "protein": 12.0,
-        "fat": 4.7,
-        "carbohydrates": 51.5
+        "calories": 57.7,
+        "protein": 1.6,
+        "fat": 0.5,
+        "carbohydrates": 5.9
       },
       "manufacturer": {
-        "name": "ООО «Овсянка»",
+        "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
-        "website": "https://овсянка.ru",
-        "inn": "0162446009"
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "9399903981"
       }
     }
   ],
-  "total_amount": 875.0,
-  "payment_method": "card",
+  "total_amount": 250.0,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Владивосток",
-    "street": "пер. Высотный",
-    "house": "187",
-    "apartment": "73",
-    "postal_code": "360621"
+    "city": "Новосибирск",
+    "street": "пр. Шаумяна",
+    "house": "4",
+    "apartment": "55",
+    "postal_code": "941592"
   },
-  "purchase_datetime": "2026-01-25T17:57:36.285631"
+  "purchase_datetime": "2026-02-17T19:09:09.871503"
 }

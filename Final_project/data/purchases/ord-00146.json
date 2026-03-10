@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00146",
   "customer": {
-    "customer_id": "cus-1031",
-    "first_name": "Герман",
-    "last_name": "Попов"
+    "customer_id": "cus-1011",
+    "first_name": "Варвара",
+    "last_name": "Аксенова"
   },
   "store": {
-    "store_id": "store-016",
-    "store_name": "Большая Пикча — Магазин на пр. Торговый",
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на наб. Гайдара",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Москва",
-      "street": "пр. Торговый",
-      "house": "371",
-      "postal_code": "184061",
+      "city": "Нижний Новгород",
+      "street": "наб. Гайдара",
+      "house": "46",
+      "postal_code": "760310",
       "coordinates": {
-        "latitude": 55.749273,
-        "longitude": 37.611333
+        "latitude": 56.322972,
+        "longitude": 43.996448
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Пельмени русские",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
-      "unit": "уп",
-      "price_per_unit": 130.0,
-      "total_price": 390.0,
-      "kbju": {
-        "calories": 290.9,
-        "protein": 18.9,
-        "fat": 5.2,
-        "carbohydrates": 2.0
-      },
-      "manufacturer": {
-        "name": "ООО «Сибирский гурман»",
-        "country": "Россия",
-        "website": "https://сибирскийгурман.ru",
-        "inn": "8707694030"
-      }
-    },
-    {
-      "product_id": "prd-1048",
-      "name": "Редис",
+      "product_id": "prd-1044",
+      "name": "Редька зеленая",
       "category": "🥦 Овощи и зелень",
-      "quantity": 5,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 30.0,
-      "total_price": 150.0,
+      "price_per_unit": 50.0,
+      "total_price": 100.0,
       "kbju": {
-        "calories": 30.7,
-        "protein": 1.3,
-        "fat": 0.3,
-        "carbohydrates": 10.0
+        "calories": 57.7,
+        "protein": 1.6,
+        "fat": 0.5,
+        "carbohydrates": 5.9
       },
       "manufacturer": {
         "name": "Фермерское хозяйство «Лето»",
         "country": "Россия",
         "website": "https://фермерскоехозяйстволето.ru",
-        "inn": "6503657799"
+        "inn": "9399903981"
       }
     }
   ],
-  "total_amount": 540.0,
+  "total_amount": 100.0,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "Калининград",
-    "street": "ш. Осипенко",
-    "house": "43",
-    "apartment": "20",
-    "postal_code": "673690"
+    "city": "Ижевск",
+    "street": "наб. Подстанция",
+    "house": "615",
+    "apartment": "32",
+    "postal_code": "582776"
   },
-  "purchase_datetime": "2025-12-15T17:57:36.253280"
+  "purchase_datetime": "2026-02-13T19:09:09.841143"
 }

@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00145",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Анжелика",
-    "last_name": "Лаврентьева"
+    "customer_id": "cus-1025",
+    "first_name": "Лучезар",
+    "last_name": "Юдин"
   },
   "store": {
-    "store_id": "store-013",
-    "store_name": "Большая Пикча — Магазин на пер. Короткий",
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на бул. Правды",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "Симферополь",
-      "street": "пер. Короткий",
-      "house": "2",
-      "postal_code": "839580",
+      "city": "Москва",
+      "street": "бул. Правды",
+      "house": "51",
+      "postal_code": "956240",
       "coordinates": {
-        "latitude": 44.954025,
-        "longitude": 34.119035
+        "latitude": 55.762646,
+        "longitude": 37.609722
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1048",
-      "name": "Редис",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 30.0,
-      "total_price": 30.0,
+      "product_id": "prd-1018",
+      "name": "Котлеты домашние",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "уп",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
       "kbju": {
-        "calories": 30.7,
-        "protein": 1.3,
-        "fat": 0.3,
-        "carbohydrates": 10.0
+        "calories": 345.2,
+        "protein": 20.0,
+        "fat": 20.7,
+        "carbohydrates": 10.2
       },
       "manufacturer": {
-        "name": "Фермерское хозяйство «Лето»",
+        "name": "ООО «Мясные полуфабрикаты»",
         "country": "Россия",
-        "website": "https://фермерскоехозяйстволето.ru",
-        "inn": "6503657799"
+        "website": "https://мясныеполуфабрикаты.ru",
+        "inn": "3384785060"
+      }
+    },
+    {
+      "product_id": "prd-1038",
+      "name": "Крыжовник",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 80.0,
+      "total_price": 160.0,
+      "kbju": {
+        "calories": 41.4,
+        "protein": 0.6,
+        "fat": 0.3,
+        "carbohydrates": 19.2
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "1469683626"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 850.0,
+      "kbju": {
+        "calories": 37.0,
+        "protein": 1.6,
+        "fat": 0.6,
+        "carbohydrates": 10.9
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "2628915967"
       }
     }
   ],
-  "total_amount": 30.0,
+  "total_amount": 1460.0,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "Балашиха",
-    "street": "ул. Тепличная",
-    "house": "1",
-    "apartment": "3",
-    "postal_code": "542451"
+    "city": "Набережные Челны",
+    "street": "ш. Тополиное",
+    "house": "82",
+    "apartment": "49",
+    "postal_code": "652055"
   },
-  "purchase_datetime": "2026-02-28T17:57:36.252325"
+  "purchase_datetime": "2026-01-04T19:09:09.841143"
 }
