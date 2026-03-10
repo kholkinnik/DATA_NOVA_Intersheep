@@ -1,30 +1,30 @@
+# Окружение и секреты
 .env
-venv/
-./STREAMING/ALARM/.env
-./STREAMING/STREAMING/hw_stream_from_PGR_to_CH/.env
-./S3/.env
+*.env
 
 # Python
 venv/
-.env
+env/
+ENV/
+.Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.Python
-env/
-ENV/
-
-# Все папки jars
-jars/
-
-# Все папки logs  
-logs/
-
-
- 
-grafana_data/
-
-
- # Jupyter
 .ipynb_checkpoints/
+
+# Зависимости и сборки
+jars/
+logs/
+grafana_data/
+target/
+
+# Контейнеры - только содержимое
+Final_project/containers/
+
+
+# IDE и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
