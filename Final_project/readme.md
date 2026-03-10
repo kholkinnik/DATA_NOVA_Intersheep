@@ -53,7 +53,9 @@ Cхема pipeline:
 | Отчет в MinIO              | ✅      | containers/minio-data/report-clickhouse/ |
 | Создан DAG в Airflow       | ✅      | см. Airflow  (scren shots)               |
   
-  
+Cхема pipeline:
+![alt text](screenshots/airflow.png)
+
 
 
 
