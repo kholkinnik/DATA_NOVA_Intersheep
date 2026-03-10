@@ -21,8 +21,10 @@ jars/
 # Все папки logs  
 logs/
 
-/Final_project/containers/jars/
+
  
+grafana_data/
+
 
  # Jupyter
 .ipynb_checkpoints/
