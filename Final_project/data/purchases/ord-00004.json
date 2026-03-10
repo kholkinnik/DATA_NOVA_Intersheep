@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00004",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Анжелика",
+    "last_name": "Лаврентьева"
+  },
+  "store": {
+    "store_id": "store-027",
+    "store_name": "Большая Пикча — Магазин на ул. Восточная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ростов-на-Дону",
+      "street": "ул. Восточная",
+      "house": "9",
+      "postal_code": "620753",
+      "coordinates": {
+        "latitude": 47.232524,
+        "longitude": 39.706131
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "name": "Хлеб Бородинский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 165.0,
+      "kbju": {
+        "calories": 302.2,
+        "protein": 7.5,
+        "fat": 5.4,
+        "carbohydrates": 42.0
+      },
+      "manufacturer": {
+        "name": "ООО «Коломенский пекарь»",
+        "country": "Россия",
+        "website": "https://коломенскийпекарь.ru",
+        "inn": "1868975782"
+      }
+    },
+    {
+      "product_id": "prd-1026",
+      "name": "Сыр Маасдам",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 250.0,
+      "kbju": {
+        "calories": 87.2,
+        "protein": 4.1,
+        "fat": 6.0,
+        "carbohydrates": 4.6
+      },
+      "manufacturer": {
+        "name": "ООО «Сыробогатов»",
+        "country": "Россия",
+        "website": "https://сыробогатов.ru",
+        "inn": "5185580479"
+      }
+    }
+  ],
+  "total_amount": 415.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Балашиха",
+    "street": "ул. Тепличная",
+    "house": "1",
+    "apartment": "3",
+    "postal_code": "542451"
+  },
+  "purchase_datetime": "2025-12-10T17:57:36.131870"
+}

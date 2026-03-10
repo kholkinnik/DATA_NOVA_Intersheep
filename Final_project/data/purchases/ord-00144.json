@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00144",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Оксана",
+    "last_name": "Костина"
+  },
+  "store": {
+    "store_id": "store-018",
+    "store_name": "Большая Пикча — Магазин на алл. Высоковольтная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Симферополь",
+      "street": "алл. Высоковольтная",
+      "house": "59",
+      "postal_code": "727324",
+      "coordinates": {
+        "latitude": 44.952833,
+        "longitude": 34.103069
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Лаваш тонкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 317.4,
+        "protein": 6.8,
+        "fat": 2.9,
+        "carbohydrates": 59.2
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "0149115327"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 850.0,
+      "kbju": {
+        "calories": 60.3,
+        "protein": 1.1,
+        "fat": 0.8,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "3476861227"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Манты",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "уп",
+      "price_per_unit": 180.0,
+      "total_price": 720.0,
+      "kbju": {
+        "calories": 245.3,
+        "protein": 27.7,
+        "fat": 19.5,
+        "carbohydrates": 12.0
+      },
+      "manufacturer": {
+        "name": "ООО «Восточные пельмени»",
+        "country": "Россия",
+        "website": "https://восточныепельмени.ru",
+        "inn": "3404107841"
+      }
+    }
+  ],
+  "total_amount": 1690.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Липецк",
+    "street": "бул. Радищева",
+    "house": "9",
+    "apartment": "25",
+    "postal_code": "916599"
+  },
+  "purchase_datetime": "2026-01-26T17:57:36.250697"
+}

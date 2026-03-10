@@ -1,0 +1,24 @@
+{
+  "id": "prd-1037",
+  "name": "Бананы",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Свежие бананы, Эквадор, 1 кг",
+  "kbju": {
+    "calories": 79.7,
+    "protein": 1.0,
+    "fat": 0.2,
+    "carbohydrates": 9.8
+  },
+  "price": 95.0,
+  "unit": "кг",
+  "origin_country": "Россия",
+  "expiry_days": 26,
+  "is_organic": false,
+  "barcode": "5323893368589",
+  "manufacturer": {
+    "name": "Эко-Фрукты",
+    "country": "Россия",
+    "website": "https://эко-фрукты.ru",
+    "inn": "4842169369"
+  }
+}

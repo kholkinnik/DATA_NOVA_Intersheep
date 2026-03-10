@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00059",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Ермил",
+    "last_name": "Савин"
+  },
+  "store": {
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на алл. Революции",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владимир",
+      "street": "алл. Революции",
+      "house": "2",
+      "postal_code": "304094",
+      "coordinates": {
+        "latitude": 56.139013,
+        "longitude": 40.404611
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Мука пшеничная в/с",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 170.0,
+      "kbju": {
+        "calories": 254.9,
+        "protein": 9.5,
+        "fat": 1.1,
+        "carbohydrates": 52.4
+      },
+      "manufacturer": {
+        "name": "ООО «Мельница»",
+        "country": "Россия",
+        "website": "https://мельница.ru",
+        "inn": "1484891216"
+      }
+    }
+  ],
+  "total_amount": 170.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Ломоносова",
+    "house": "352",
+    "apartment": "57",
+    "postal_code": "331588"
+  },
+  "purchase_datetime": "2026-02-01T17:57:36.173133"
+}

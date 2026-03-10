@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00122",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Светлана",
+    "last_name": "Федосеева"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ш. Островского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Красноярск",
+      "street": "ш. Островского",
+      "house": "2",
+      "postal_code": "556125",
+      "coordinates": {
+        "latitude": 56.019131,
+        "longitude": 92.850536
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1038",
+      "name": "Чернослив",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 400.0,
+      "kbju": {
+        "calories": 33.4,
+        "protein": 1.3,
+        "fat": 0.5,
+        "carbohydrates": 18.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "5737508318"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Шашлык из свинины",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 320.0,
+      "total_price": 640.0,
+      "kbju": {
+        "calories": 154.6,
+        "protein": 21.5,
+        "fat": 3.3,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Шашлычный двор»",
+        "country": "Россия",
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "2754811957"
+      }
+    }
+  ],
+  "total_amount": 1040.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Волгоград",
+    "street": "ул. Прохладная",
+    "house": "6",
+    "apartment": "63",
+    "postal_code": "200366"
+  },
+  "purchase_datetime": "2026-01-05T17:57:36.231593"
+}

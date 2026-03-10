@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1004",
+  "first_name": "Светлана",
+  "last_name": "Федосеева",
+  "email": "terenti_1992@example.org",
+  "phone": "8 (422) 337-95-06",
+  "birth_date": "1995-04-18",
+  "gender": "female",
+  "registration_date": "2026-02-07T17:57:36.095856",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-74F0B5F42E",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Волгоград",
+    "street": "пер. Крестьянский",
+    "house": "797",
+    "postal_code": "959410",
+    "coordinates": {
+      "latitude": 48.699683,
+      "longitude": 44.515249
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Волгоград",
+    "street": "ул. Прохладная",
+    "house": "6",
+    "apartment": "63",
+    "postal_code": "200366"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

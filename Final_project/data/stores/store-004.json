@@ -1,0 +1,39 @@
+{
+  "store_id": "store-004",
+  "store_name": "Большая Пикча — Магазин на бул. Серова",
+  "store_network": "Большая Пикча",
+  "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
+  "type": "offline",
+  "categories": [
+    "🥖 Зерновые и хлебобулочные изделия",
+    "🥩 Мясо, рыба, яйца и бобовые",
+    "🥛 Молочные продукты",
+    "🍏 Фрукты и ягоды",
+    "🥦 Овощи и зелень"
+  ],
+  "manager": {
+    "name": "Никодим Харитонович Васильев",
+    "phone": "8 461 781 89 99",
+    "email": "pelageja_75@example.org"
+  },
+  "location": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "бул. Серова",
+    "house": "906",
+    "postal_code": "969267",
+    "coordinates": {
+      "latitude": 56.150128,
+      "longitude": 47.255986
+    }
+  },
+  "opening_hours": {
+    "mon_fri": "09:00-21:00",
+    "sat": "10:00-20:00",
+    "sun": "10:00-18:00"
+  },
+  "accepts_online_orders": true,
+  "delivery_available": true,
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-03-09"
+}

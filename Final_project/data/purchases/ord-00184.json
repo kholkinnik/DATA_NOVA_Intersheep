@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00184",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Октябрина",
+    "last_name": "Сергеева"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Сельская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Улан-Удэ",
+      "street": "ул. Сельская",
+      "house": "5/5",
+      "postal_code": "646443",
+      "coordinates": {
+        "latitude": 51.831632,
+        "longitude": 107.577692
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1044",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 35.1,
+        "protein": 2.4,
+        "fat": 0.3,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "1731751304"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 238.1,
+        "protein": 12.0,
+        "fat": 4.7,
+        "carbohydrates": 51.5
+      },
+      "manufacturer": {
+        "name": "ООО «Овсянка»",
+        "country": "Россия",
+        "website": "https://овсянка.ru",
+        "inn": "0162446009"
+      }
+    }
+  ],
+  "total_amount": 190.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "пер. Высотный",
+    "house": "187",
+    "apartment": "73",
+    "postal_code": "360621"
+  },
+  "purchase_datetime": "2026-01-05T17:57:36.292282"
+}

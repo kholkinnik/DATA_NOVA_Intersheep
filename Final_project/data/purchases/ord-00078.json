@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00078",
+  "customer": {
+    "customer_id": "cus-1036",
+    "first_name": "Гаврила",
+    "last_name": "Елисеев"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на наб. Смоленская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "наб. Смоленская",
+      "house": "6",
+      "postal_code": "109913",
+      "coordinates": {
+        "latitude": 57.145189,
+        "longitude": 65.528693
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1029",
+      "name": "Закваска для йогурта",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 89.6,
+        "protein": 7.7,
+        "fat": 11.2,
+        "carbohydrates": 3.1
+      },
+      "manufacturer": {
+        "name": "ООО «Молочная культура»",
+        "country": "Россия",
+        "website": "https://молочнаякультура.ru",
+        "inn": "4147659609"
+      }
+    }
+  ],
+  "total_amount": 90.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ш. Жукова",
+    "house": "7",
+    "apartment": "1",
+    "postal_code": "164588"
+  },
+  "purchase_datetime": "2026-03-08T17:57:36.193674"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00067",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Амос",
+    "last_name": "Денисов"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на алл. Лунная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Белгород",
+      "street": "алл. Лунная",
+      "house": "996",
+      "postal_code": "003029",
+      "coordinates": {
+        "latitude": 50.588138,
+        "longitude": 36.578235
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1046",
+      "name": "Батат",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 52.1,
+        "protein": 1.3,
+        "fat": 0.7,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ИП «Овощная экзотика»",
+        "country": "Россия",
+        "website": "https://овощнаяэкзотика.ru",
+        "inn": "1614695490"
+      }
+    },
+    {
+      "product_id": "prd-1035",
+      "name": "Нектарины",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 190.0,
+      "total_price": 380.0,
+      "kbju": {
+        "calories": 55.9,
+        "protein": 0.8,
+        "fat": 0.2,
+        "carbohydrates": 11.1
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "5719187927"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Печенье сахарное",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 70.0,
+      "kbju": {
+        "calories": 324.2,
+        "protein": 6.0,
+        "fat": 2.0,
+        "carbohydrates": 41.9
+      },
+      "manufacturer": {
+        "name": "ООО «Кондитер»",
+        "country": "Россия",
+        "website": "https://кондитер.ru",
+        "inn": "1078687409"
+      }
+    }
+  ],
+  "total_amount": 1050.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ижевск",
+    "street": "ул. Подстанция",
+    "house": "35",
+    "apartment": "21",
+    "postal_code": "934982"
+  },
+  "purchase_datetime": "2026-02-12T17:57:36.183168"
+}

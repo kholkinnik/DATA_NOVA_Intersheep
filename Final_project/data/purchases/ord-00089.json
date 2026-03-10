@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00089",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Ермолай",
+    "last_name": "Котов"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на бул. Февральский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ижевск",
+      "street": "бул. Февральский",
+      "house": "80",
+      "postal_code": "329029",
+      "coordinates": {
+        "latitude": 56.847632,
+        "longitude": 53.206254
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1034",
+      "name": "Курага",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 82.8,
+        "protein": 0.9,
+        "fat": 0.3,
+        "carbohydrates": 16.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "7277657027"
+      }
+    }
+  ],
+  "total_amount": 120.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Красноярск",
+    "street": "пр. Тельмана",
+    "house": "6/3",
+    "apartment": "5",
+    "postal_code": "201224"
+  },
+  "purchase_datetime": "2026-01-14T17:57:36.203601"
+}

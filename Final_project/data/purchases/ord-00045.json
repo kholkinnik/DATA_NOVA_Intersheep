@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00045",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Марфа",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владимир",
+      "street": "ш. Ломоносова",
+      "house": "842",
+      "postal_code": "193551",
+      "coordinates": {
+        "latitude": 56.132124,
+        "longitude": 40.387311
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Камбала тушка",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 220.0,
+      "total_price": 1100.0,
+      "kbju": {
+        "calories": 264.8,
+        "protein": 27.0,
+        "fat": 21.9,
+        "carbohydrates": 14.4
+      },
+      "manufacturer": {
+        "name": "Дальморепродукт",
+        "country": "Россия",
+        "website": "https://дальморепродукт.ru",
+        "inn": "6271784897"
+      }
+    },
+    {
+      "product_id": "prd-1038",
+      "name": "Чернослив",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 33.4,
+        "protein": 1.3,
+        "fat": 0.5,
+        "carbohydrates": 18.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "5737508318"
+      }
+    }
+  ],
+  "total_amount": 1200.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "наб. Краснофлотская",
+    "house": "2",
+    "apartment": "48",
+    "postal_code": "221508"
+  },
+  "purchase_datetime": "2026-03-05T17:57:36.164755"
+}

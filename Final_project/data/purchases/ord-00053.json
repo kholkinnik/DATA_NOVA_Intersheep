@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00053",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Анжелика",
+    "last_name": "Носова"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на бул. Серова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Чебоксары",
+      "street": "бул. Серова",
+      "house": "906",
+      "postal_code": "969267",
+      "coordinates": {
+        "latitude": 56.150128,
+        "longitude": 47.255986
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1037",
+      "name": "Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 95.0,
+      "total_price": 380.0,
+      "kbju": {
+        "calories": 79.7,
+        "protein": 1.0,
+        "fat": 0.2,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Эко-Фрукты",
+        "country": "Россия",
+        "website": "https://эко-фрукты.ru",
+        "inn": "4842169369"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 135.0,
+      "kbju": {
+        "calories": 238.1,
+        "protein": 12.0,
+        "fat": 4.7,
+        "carbohydrates": 51.5
+      },
+      "manufacturer": {
+        "name": "ООО «Овсянка»",
+        "country": "Россия",
+        "website": "https://овсянка.ru",
+        "inn": "0162446009"
+      }
+    }
+  ],
+  "total_amount": 515.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "пер. Ватутина",
+    "house": "7",
+    "apartment": "47",
+    "postal_code": "342287"
+  },
+  "purchase_datetime": "2026-02-07T17:57:36.170989"
+}

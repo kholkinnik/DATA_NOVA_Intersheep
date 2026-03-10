@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00117",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Светлана",
+    "last_name": "Федосеева"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на пр. Водников",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Севастополь",
+      "street": "пр. Водников",
+      "house": "5/5",
+      "postal_code": "317340",
+      "coordinates": {
+        "latitude": 44.608385,
+        "longitude": 33.524218
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Мороженое пломбир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 650.0,
+      "kbju": {
+        "calories": 133.0,
+        "protein": 7.5,
+        "fat": 11.1,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ООО «Айсберг»",
+        "country": "Россия",
+        "website": "https://айсберг.ru",
+        "inn": "4545124016"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Фасоль белая",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 65.0,
+      "total_price": 260.0,
+      "kbju": {
+        "calories": 154.8,
+        "protein": 15.4,
+        "fat": 10.2,
+        "carbohydrates": 8.1
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "9825245926"
+      }
+    }
+  ],
+  "total_amount": 910.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Волгоград",
+    "street": "ул. Прохладная",
+    "house": "6",
+    "apartment": "63",
+    "postal_code": "200366"
+  },
+  "purchase_datetime": "2026-01-08T17:57:36.228076"
+}

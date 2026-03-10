@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00128",
+  "customer": {
+    "customer_id": "cus-1014",
+    "first_name": "Евдокия",
+    "last_name": "Аксенова"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на ш. Водников",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владивосток",
+      "street": "ш. Водников",
+      "house": "2",
+      "postal_code": "061270",
+      "coordinates": {
+        "latitude": 43.141065,
+        "longitude": 131.912086
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Морковь мытая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 45.0,
+      "total_price": 225.0,
+      "kbju": {
+        "calories": 49.7,
+        "protein": 1.1,
+        "fat": 0.6,
+        "carbohydrates": 6.4
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "4052033610"
+      }
+    },
+    {
+      "product_id": "prd-1044",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 400.0,
+      "kbju": {
+        "calories": 35.1,
+        "protein": 2.4,
+        "fat": 0.3,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "1731751304"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Манты",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "уп",
+      "price_per_unit": 180.0,
+      "total_price": 540.0,
+      "kbju": {
+        "calories": 245.3,
+        "protein": 27.7,
+        "fat": 19.5,
+        "carbohydrates": 12.0
+      },
+      "manufacturer": {
+        "name": "ООО «Восточные пельмени»",
+        "country": "Россия",
+        "website": "https://восточныепельмени.ru",
+        "inn": "3404107841"
+      }
+    }
+  ],
+  "total_amount": 1165.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Челябинск",
+    "street": "алл. Курортная",
+    "house": "5/1",
+    "apartment": "94",
+    "postal_code": "304109"
+  },
+  "purchase_datetime": "2026-01-10T17:57:36.237367"
+}

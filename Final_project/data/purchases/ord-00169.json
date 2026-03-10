@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00169",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Мария",
+    "last_name": "Артемьева"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ул. Речная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владивосток",
+      "street": "ул. Речная",
+      "house": "5",
+      "postal_code": "459043",
+      "coordinates": {
+        "latitude": 43.141105,
+        "longitude": 131.904996
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Печенье сахарное",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 70.0,
+      "kbju": {
+        "calories": 324.2,
+        "protein": 6.0,
+        "fat": 2.0,
+        "carbohydrates": 41.9
+      },
+      "manufacturer": {
+        "name": "ООО «Кондитер»",
+        "country": "Россия",
+        "website": "https://кондитер.ru",
+        "inn": "1078687409"
+      }
+    }
+  ],
+  "total_amount": 70.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Челябинск",
+    "street": "наб. Ангарская",
+    "house": "4/7",
+    "apartment": "98",
+    "postal_code": "356308"
+  },
+  "purchase_datetime": "2026-03-01T17:57:36.276291"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1020",
+  "first_name": "Севастьян",
+  "last_name": "Борисов",
+  "email": "nikodimartemev@example.org",
+  "phone": "8 574 172 9156",
+  "birth_date": "1955-04-30",
+  "gender": "male",
+  "registration_date": "2025-12-14T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-770D7173DA",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Курск",
+    "street": "алл. Кузнецова",
+    "house": "1",
+    "postal_code": "957961",
+    "coordinates": {
+      "latitude": 51.735868,
+      "longitude": 36.185717
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Курск",
+    "street": "наб. Гастелло",
+    "house": "868",
+    "apartment": "94",
+    "postal_code": "032682"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

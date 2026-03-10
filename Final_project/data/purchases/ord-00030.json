@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00030",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Оксана",
+    "last_name": "Костина"
+  },
+  "store": {
+    "store_id": "store-018",
+    "store_name": "Большая Пикча — Магазин на алл. Высоковольтная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Симферополь",
+      "street": "алл. Высоковольтная",
+      "house": "59",
+      "postal_code": "727324",
+      "coordinates": {
+        "latitude": 44.952833,
+        "longitude": 34.103069
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Булочка для бургера",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "уп",
+      "price_per_unit": 60.0,
+      "total_price": 240.0,
+      "kbju": {
+        "calories": 293.2,
+        "protein": 11.6,
+        "fat": 5.0,
+        "carbohydrates": 56.8
+      },
+      "manufacturer": {
+        "name": "ООО «Булка»",
+        "country": "Россия",
+        "website": "https://булка.ru",
+        "inn": "6303059533"
+      }
+    }
+  ],
+  "total_amount": 240.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Липецк",
+    "street": "бул. Радищева",
+    "house": "9",
+    "apartment": "25",
+    "postal_code": "916599"
+  },
+  "purchase_datetime": "2025-12-17T17:57:36.154359"
+}

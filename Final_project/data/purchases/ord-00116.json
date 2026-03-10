@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00116",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Алина",
+    "last_name": "Борисова"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на бул. Толстого",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "бул. Толстого",
+      "house": "492",
+      "postal_code": "631260",
+      "coordinates": {
+        "latitude": 57.149287,
+        "longitude": 65.53511
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1026",
+      "name": "Сыр Маасдам",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 1000.0,
+      "kbju": {
+        "calories": 87.2,
+        "protein": 4.1,
+        "fat": 6.0,
+        "carbohydrates": 4.6
+      },
+      "manufacturer": {
+        "name": "ООО «Сыробогатов»",
+        "country": "Россия",
+        "website": "https://сыробогатов.ru",
+        "inn": "5185580479"
+      }
+    },
+    {
+      "product_id": "prd-1022",
+      "name": "Сыр Моцарелла",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 143.0,
+        "protein": 4.8,
+        "fat": 5.0,
+        "carbohydrates": 9.9
+      },
+      "manufacturer": {
+        "name": "ООО «Италика»",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "8916194523"
+      }
+    }
+  ],
+  "total_amount": 1300.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "ул. Подлесная",
+    "house": "6",
+    "apartment": "24",
+    "postal_code": "075887"
+  },
+  "purchase_datetime": "2026-03-06T17:57:36.228076"
+}

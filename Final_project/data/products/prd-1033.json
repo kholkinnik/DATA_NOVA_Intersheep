@@ -1,0 +1,24 @@
+{
+  "id": "prd-1033",
+  "name": "Брусника",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Свежая брусника, 250 г",
+  "kbju": {
+    "calories": 99.7,
+    "protein": 0.8,
+    "fat": 0.4,
+    "carbohydrates": 10.2
+  },
+  "price": 95.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 26,
+  "is_organic": false,
+  "barcode": "8576340544181",
+  "manufacturer": {
+    "name": "ИП Ягодная поляна",
+    "country": "Россия",
+    "website": "https://ягоднаяполяна.ru",
+    "inn": "7966740421"
+  }
+}

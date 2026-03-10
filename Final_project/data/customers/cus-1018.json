@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1018",
+  "first_name": "Алина",
+  "last_name": "Борисова",
+  "email": "paramonpetrov@example.org",
+  "phone": "+7 129 742 0888",
+  "birth_date": "1991-02-03",
+  "gender": "female",
+  "registration_date": "2026-02-08T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-A9E9319DE4",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "пер. Камский",
+    "house": "36",
+    "postal_code": "521736",
+    "coordinates": {
+      "latitude": 53.413617,
+      "longitude": 58.971875
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "ул. Подлесная",
+    "house": "6",
+    "apartment": "24",
+    "postal_code": "075887"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

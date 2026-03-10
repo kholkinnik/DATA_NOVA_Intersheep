@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00062",
+  "customer": {
+    "customer_id": "cus-1036",
+    "first_name": "Гаврила",
+    "last_name": "Елисеев"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Сельская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Улан-Удэ",
+      "street": "ул. Сельская",
+      "house": "5/5",
+      "postal_code": "646443",
+      "coordinates": {
+        "latitude": 51.831632,
+        "longitude": 107.577692
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 286.2,
+        "protein": 8.1,
+        "fat": 2.0,
+        "carbohydrates": 57.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "3214656787"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 340.0,
+      "kbju": {
+        "calories": 60.3,
+        "protein": 1.1,
+        "fat": 0.8,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "3476861227"
+      }
+    }
+  ],
+  "total_amount": 790.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ш. Жукова",
+    "house": "7",
+    "apartment": "1",
+    "postal_code": "164588"
+  },
+  "purchase_datetime": "2026-02-15T17:57:36.173133"
+}

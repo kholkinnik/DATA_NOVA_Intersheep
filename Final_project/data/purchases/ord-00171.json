@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00171",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Феликс",
+    "last_name": "Михайлов"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на ш. Крайнее",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "ш. Крайнее",
+      "house": "57",
+      "postal_code": "969550",
+      "coordinates": {
+        "latitude": 51.526265,
+        "longitude": 46.031033
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1036",
+      "name": "Арбуз",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 1000.0,
+      "kbju": {
+        "calories": 92.1,
+        "protein": 0.5,
+        "fat": 0.2,
+        "carbohydrates": 18.4
+      },
+      "manufacturer": {
+        "name": "Астраханские арбузы",
+        "country": "Россия",
+        "website": "https://астраханскиеарбузы.ru",
+        "inn": "6713441892"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Мидии в масле",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 150.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 133.4,
+        "protein": 22.0,
+        "fat": 11.1,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ООО «Морепродукт»",
+        "country": "Россия",
+        "website": "https://морепродукт.ru",
+        "inn": "5750711306"
+      }
+    }
+  ],
+  "total_amount": 1300.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "ш. Юности",
+    "house": "109",
+    "apartment": "23",
+    "postal_code": "517799"
+  },
+  "purchase_datetime": "2026-02-22T17:57:36.279290"
+}

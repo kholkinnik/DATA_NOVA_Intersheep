@@ -1,0 +1,24 @@
+{
+  "id": "prd-1028",
+  "name": "Сыр Плавленый",
+  "group": "🥛 Молочные продукты",
+  "description": "Дружба, 90 г",
+  "kbju": {
+    "calories": 197.8,
+    "protein": 3.9,
+    "fat": 12.6,
+    "carbohydrates": 7.2
+  },
+  "price": 35.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 28,
+  "is_organic": false,
+  "barcode": "1025423527957",
+  "manufacturer": {
+    "name": "ООО «Сырок»",
+    "country": "Россия",
+    "website": "https://сырок.ru",
+    "inn": "4295304954"
+  }
+}

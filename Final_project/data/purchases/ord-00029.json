@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00029",
+  "customer": {
+    "customer_id": "cus-1017",
+    "first_name": "Акулина",
+    "last_name": "Овчинникова"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пер. Чайковского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Челябинск",
+      "street": "пер. Чайковского",
+      "house": "7/3",
+      "postal_code": "170687",
+      "coordinates": {
+        "latitude": 55.170389,
+        "longitude": 61.429472
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Фасоль красная в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 230.4,
+        "protein": 26.9,
+        "fat": 13.5,
+        "carbohydrates": 0.4
+      },
+      "manufacturer": {
+        "name": "Бондюэль",
+        "country": "Россия",
+        "website": "https://бондюэль.ru",
+        "inn": "8320355207"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Пельмени русские",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "уп",
+      "price_per_unit": 130.0,
+      "total_price": 520.0,
+      "kbju": {
+        "calories": 290.9,
+        "protein": 18.9,
+        "fat": 5.2,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ООО «Сибирский гурман»",
+        "country": "Россия",
+        "website": "https://сибирскийгурман.ru",
+        "inn": "8707694030"
+      }
+    }
+  ],
+  "total_amount": 610.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Симферополь",
+    "street": "алл. Осенняя",
+    "house": "3/6",
+    "apartment": "32",
+    "postal_code": "668106"
+  },
+  "purchase_datetime": "2025-12-13T17:57:36.152350"
+}

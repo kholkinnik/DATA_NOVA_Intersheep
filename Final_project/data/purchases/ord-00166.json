@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00166",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Ульяна",
+    "last_name": "Зиновьева"
+  },
+  "store": {
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на ул. Льва Толстого",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Омск",
+      "street": "ул. Льва Толстого",
+      "house": "6/4",
+      "postal_code": "211189",
+      "coordinates": {
+        "latitude": 54.988481,
+        "longitude": 73.361615
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1020",
+      "name": "Йогурт греческий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 50.0,
+      "kbju": {
+        "calories": 194.0,
+        "protein": 9.6,
+        "fat": 1.7,
+        "carbohydrates": 7.9
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3936658627"
+      }
+    }
+  ],
+  "total_amount": 50.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ульяновск",
+    "street": "бул. Западный",
+    "house": "5/8",
+    "apartment": "31",
+    "postal_code": "869510"
+  },
+  "purchase_datetime": "2026-02-22T17:57:36.271556"
+}

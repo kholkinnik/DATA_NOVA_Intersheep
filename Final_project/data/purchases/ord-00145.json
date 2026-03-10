@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00145",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Анжелика",
+    "last_name": "Лаврентьева"
+  },
+  "store": {
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на пер. Короткий",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Симферополь",
+      "street": "пер. Короткий",
+      "house": "2",
+      "postal_code": "839580",
+      "coordinates": {
+        "latitude": 44.954025,
+        "longitude": 34.119035
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1048",
+      "name": "Редис",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 30.0,
+      "kbju": {
+        "calories": 30.7,
+        "protein": 1.3,
+        "fat": 0.3,
+        "carbohydrates": 10.0
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "6503657799"
+      }
+    }
+  ],
+  "total_amount": 30.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Балашиха",
+    "street": "ул. Тепличная",
+    "house": "1",
+    "apartment": "3",
+    "postal_code": "542451"
+  },
+  "purchase_datetime": "2026-02-28T17:57:36.252325"
+}

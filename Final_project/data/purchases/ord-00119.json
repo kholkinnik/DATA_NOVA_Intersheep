@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00119",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Алина",
+    "last_name": "Борисова"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на ул. Высотная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Краснодар",
+      "street": "ул. Высотная",
+      "house": "595",
+      "postal_code": "058824",
+      "coordinates": {
+        "latitude": 45.028884,
+        "longitude": 38.976453
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Мороженое пломбир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 390.0,
+      "kbju": {
+        "calories": 133.0,
+        "protein": 7.5,
+        "fat": 11.1,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ООО «Айсберг»",
+        "country": "Россия",
+        "website": "https://айсберг.ru",
+        "inn": "4545124016"
+      }
+    }
+  ],
+  "total_amount": 390.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "ул. Подлесная",
+    "house": "6",
+    "apartment": "24",
+    "postal_code": "075887"
+  },
+  "purchase_datetime": "2025-12-15T17:57:36.229586"
+}

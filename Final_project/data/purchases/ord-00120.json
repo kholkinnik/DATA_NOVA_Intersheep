@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00120",
+  "customer": {
+    "customer_id": "cus-1012",
+    "first_name": "Валерия",
+    "last_name": "Лихачева"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на алл. Лунная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Белгород",
+      "street": "алл. Лунная",
+      "house": "996",
+      "postal_code": "003029",
+      "coordinates": {
+        "latitude": 50.588138,
+        "longitude": 36.578235
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Морковь мытая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 45.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 49.7,
+        "protein": 1.1,
+        "fat": 0.6,
+        "carbohydrates": 6.4
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "4052033610"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 270.0,
+      "kbju": {
+        "calories": 286.2,
+        "protein": 8.1,
+        "fat": 2.0,
+        "carbohydrates": 57.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "3214656787"
+      }
+    }
+  ],
+  "total_amount": 450.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Симферополь",
+    "street": "ш. Достоевского",
+    "house": "8/9",
+    "apartment": "86",
+    "postal_code": "239862"
+  },
+  "purchase_datetime": "2026-01-30T17:57:36.230596"
+}

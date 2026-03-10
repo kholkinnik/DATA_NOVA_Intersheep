@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00046",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Анжелика",
+    "last_name": "Носова"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на ул. Высокая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Киров",
+      "street": "ул. Высокая",
+      "house": "2",
+      "postal_code": "188331",
+      "coordinates": {
+        "latitude": 58.596229,
+        "longitude": 49.664371
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Морковь мытая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 45.0,
+      "total_price": 225.0,
+      "kbju": {
+        "calories": 49.7,
+        "protein": 1.1,
+        "fat": 0.6,
+        "carbohydrates": 6.4
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "4052033610"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 380.0,
+      "kbju": {
+        "calories": 99.7,
+        "protein": 0.8,
+        "fat": 0.4,
+        "carbohydrates": 10.2
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "7966740421"
+      }
+    }
+  ],
+  "total_amount": 605.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "пер. Ватутина",
+    "house": "7",
+    "apartment": "47",
+    "postal_code": "342287"
+  },
+  "purchase_datetime": "2025-12-12T17:57:36.164755"
+}

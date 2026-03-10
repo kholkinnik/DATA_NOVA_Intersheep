@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00103",
+  "customer": {
+    "customer_id": "cus-1005",
+    "first_name": "Светозар",
+    "last_name": "Беляков"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на бул. Докучаева",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "бул. Докучаева",
+      "house": "80",
+      "postal_code": "941109",
+      "coordinates": {
+        "latitude": 57.159651,
+        "longitude": 65.530977
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1025",
+      "name": "Сливки 35%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 77.8,
+        "protein": 10.0,
+        "fat": 7.1,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "1267810496"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Лаваш тонкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 60.0,
+      "kbju": {
+        "calories": 317.4,
+        "protein": 6.8,
+        "fat": 2.9,
+        "carbohydrates": 59.2
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "0149115327"
+      }
+    }
+  ],
+  "total_amount": 360.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Барнаул",
+    "street": "ш. Раздольное",
+    "house": "43",
+    "apartment": "82",
+    "postal_code": "218085"
+  },
+  "purchase_datetime": "2026-02-18T17:57:36.215715"
+}

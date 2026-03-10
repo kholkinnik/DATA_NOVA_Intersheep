@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00074",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Иннокентий",
+    "last_name": "Мельников"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ш. Островского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Красноярск",
+      "street": "ш. Островского",
+      "house": "2",
+      "postal_code": "556125",
+      "coordinates": {
+        "latitude": 56.019131,
+        "longitude": 92.850536
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1024",
+      "name": "Йогурт питьевой клубничный",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 144.0,
+      "kbju": {
+        "calories": 151.1,
+        "protein": 9.0,
+        "fat": 11.5,
+        "carbohydrates": 12.0
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3928715855"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Фасоль красная в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 230.4,
+        "protein": 26.9,
+        "fat": 13.5,
+        "carbohydrates": 0.4
+      },
+      "manufacturer": {
+        "name": "Бондюэль",
+        "country": "Россия",
+        "website": "https://бондюэль.ru",
+        "inn": "8320355207"
+      }
+    }
+  ],
+  "total_amount": 234.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "ул. Овражная",
+    "house": "9/5",
+    "apartment": "80",
+    "postal_code": "322141"
+  },
+  "purchase_datetime": "2026-01-16T17:57:36.190664"
+}

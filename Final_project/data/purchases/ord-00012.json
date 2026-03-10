@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00012",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Октябрина",
+    "last_name": "Бурова"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на бул. Февральский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ижевск",
+      "street": "бул. Февральский",
+      "house": "80",
+      "postal_code": "329029",
+      "coordinates": {
+        "latitude": 56.847632,
+        "longitude": 53.206254
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1048",
+      "name": "Редис",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 30.7,
+        "protein": 1.3,
+        "fat": 0.3,
+        "carbohydrates": 10.0
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "6503657799"
+      }
+    },
+    {
+      "product_id": "prd-1040",
+      "name": "Лук зеленый",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 40.0,
+      "kbju": {
+        "calories": 42.2,
+        "protein": 1.3,
+        "fat": 0.2,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "1272106545"
+      }
+    }
+  ],
+  "total_amount": 160.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "наб. Донская",
+    "house": "38",
+    "apartment": "21",
+    "postal_code": "664599"
+  },
+  "purchase_datetime": "2025-12-27T17:57:36.139760"
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00095",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Севастьян",
+    "last_name": "Борисов"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владимир",
+      "street": "ш. Ломоносова",
+      "house": "842",
+      "postal_code": "193551",
+      "coordinates": {
+        "latitude": 56.132124,
+        "longitude": 40.387311
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Камбала тушка",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 220.0,
+      "total_price": 1100.0,
+      "kbju": {
+        "calories": 264.8,
+        "protein": 27.0,
+        "fat": 21.9,
+        "carbohydrates": 14.4
+      },
+      "manufacturer": {
+        "name": "Дальморепродукт",
+        "country": "Россия",
+        "website": "https://дальморепродукт.ru",
+        "inn": "6271784897"
+      }
+    }
+  ],
+  "total_amount": 1100.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Курск",
+    "street": "наб. Гастелло",
+    "house": "868",
+    "apartment": "94",
+    "postal_code": "032682"
+  },
+  "purchase_datetime": "2025-12-14T17:57:36.209599"
+}

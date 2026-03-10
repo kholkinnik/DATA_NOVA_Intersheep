@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1011",
+  "first_name": "Никон",
+  "last_name": "Шубин",
+  "email": "zhdanovaregina@example.net",
+  "phone": "8 587 190 46 53",
+  "birth_date": "1976-03-06",
+  "gender": "male",
+  "registration_date": "2026-02-28T17:57:36.104025",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-EEF4858CC1",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Балашиха",
+    "street": "алл. Гагарина",
+    "house": "53",
+    "postal_code": "841356",
+    "coordinates": {
+      "latitude": 55.803592,
+      "longitude": 37.930922
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Балашиха",
+    "street": "пер. Путейский",
+    "house": "3/6",
+    "apartment": "57",
+    "postal_code": "156540"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00033",
+  "customer": {
+    "customer_id": "cus-1013",
+    "first_name": "Игорь",
+    "last_name": "Комаров"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на пр. Торговый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Москва",
+      "street": "пр. Торговый",
+      "house": "371",
+      "postal_code": "184061",
+      "coordinates": {
+        "latitude": 55.749273,
+        "longitude": 37.611333
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 286.2,
+        "protein": 8.1,
+        "fat": 2.0,
+        "carbohydrates": 57.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "3214656787"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Манго",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 61.3,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 12.1
+      },
+      "manufacturer": {
+        "name": "Тропические фрукты",
+        "country": "Россия",
+        "website": "https://тропическиефрукты.ru",
+        "inn": "9701474826"
+      }
+    }
+  ],
+  "total_amount": 1050.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "пр. Марта 8",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "045325"
+  },
+  "purchase_datetime": "2026-01-28T17:57:36.155356"
+}

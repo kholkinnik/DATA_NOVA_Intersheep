@@ -1,0 +1,24 @@
+{
+  "id": "prd-1017",
+  "name": "Печень куриная",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Охлаждённая, 400 г",
+  "kbju": {
+    "calories": 158.4,
+    "protein": 16.3,
+    "fat": 7.4,
+    "carbohydrates": 13.5
+  },
+  "price": 110.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 23,
+  "is_organic": true,
+  "barcode": "1002103615005",
+  "manufacturer": {
+    "name": "Птицефабрика «Северная»",
+    "country": "Россия",
+    "website": "https://птицефабрикасеверная.ru",
+    "inn": "8953760795"
+  }
+}

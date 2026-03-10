@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00178",
+  "customer": {
+    "customer_id": "cus-1019",
+    "first_name": "Евсей",
+    "last_name": "Ковалев"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на ул. Вокзальная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Екатеринбург",
+      "street": "ул. Вокзальная",
+      "house": "35",
+      "postal_code": "932596",
+      "coordinates": {
+        "latitude": 56.830604,
+        "longitude": 60.608126
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "name": "Манты",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "уп",
+      "price_per_unit": 180.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 245.3,
+        "protein": 27.7,
+        "fat": 19.5,
+        "carbohydrates": 12.0
+      },
+      "manufacturer": {
+        "name": "ООО «Восточные пельмени»",
+        "country": "Россия",
+        "website": "https://восточныепельмени.ru",
+        "inn": "3404107841"
+      }
+    },
+    {
+      "product_id": "prd-1047",
+      "name": "Грибы шампиньоны",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 360.0,
+      "kbju": {
+        "calories": 44.6,
+        "protein": 2.9,
+        "fat": 0.5,
+        "carbohydrates": 2.9
+      },
+      "manufacturer": {
+        "name": "ООО «Грибная ферма»",
+        "country": "Россия",
+        "website": "https://грибнаяферма.ru",
+        "inn": "2372272673"
+      }
+    }
+  ],
+  "total_amount": 540.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ижевск",
+    "street": "алл. Новая",
+    "house": "68",
+    "apartment": "46",
+    "postal_code": "508121"
+  },
+  "purchase_datetime": "2026-01-10T17:57:36.286556"
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00026",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Светлана",
+    "last_name": "Федосеева"
+  },
+  "store": {
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на наб. Целинная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Челябинск",
+      "street": "наб. Целинная",
+      "house": "34",
+      "postal_code": "748924",
+      "coordinates": {
+        "latitude": 55.163174,
+        "longitude": 61.431151
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1041",
+      "name": "Кинза свежая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 25.0,
+      "total_price": 25.0,
+      "kbju": {
+        "calories": 34.5,
+        "protein": 2.6,
+        "fat": 0.1,
+        "carbohydrates": 4.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "1623815573"
+      }
+    }
+  ],
+  "total_amount": 25.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Волгоград",
+    "street": "ул. Прохладная",
+    "house": "6",
+    "apartment": "63",
+    "postal_code": "200366"
+  },
+  "purchase_datetime": "2026-02-28T17:57:36.148439"
+}

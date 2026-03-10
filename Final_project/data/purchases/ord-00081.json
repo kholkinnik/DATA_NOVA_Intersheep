@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00081",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Конон",
+    "last_name": "Бобров"
+  },
+  "store": {
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на наб. Троицкая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Липецк",
+      "street": "наб. Троицкая",
+      "house": "6",
+      "postal_code": "888182",
+      "coordinates": {
+        "latitude": 52.617944,
+        "longitude": 39.593519
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "name": "Гречка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 75.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 240.3,
+        "protein": 11.7,
+        "fat": 4.8,
+        "carbohydrates": 50.5
+      },
+      "manufacturer": {
+        "name": "ООО «Мистраль»",
+        "country": "Россия",
+        "website": "https://мистраль.ru",
+        "inn": "6141052240"
+      }
+    }
+  ],
+  "total_amount": 300.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "пер. Физкультурный",
+    "house": "5",
+    "apartment": "3",
+    "postal_code": "063371"
+  },
+  "purchase_datetime": "2026-03-01T17:57:36.196181"
+}

@@ -1,0 +1,39 @@
+{
+  "store_id": "store-001",
+  "store_name": "Большая Пикча — Магазин на ул. Высокая",
+  "store_network": "Большая Пикча",
+  "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
+  "type": "offline",
+  "categories": [
+    "🥖 Зерновые и хлебобулочные изделия",
+    "🥩 Мясо, рыба, яйца и бобовые",
+    "🥛 Молочные продукты",
+    "🍏 Фрукты и ягоды",
+    "🥦 Овощи и зелень"
+  ],
+  "manager": {
+    "name": "Жанна Андреевна Кононова",
+    "phone": "+7 (091) 790-14-75",
+    "email": "georgigromov@example.com"
+  },
+  "location": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "ул. Высокая",
+    "house": "2",
+    "postal_code": "188331",
+    "coordinates": {
+      "latitude": 58.596229,
+      "longitude": 49.664371
+    }
+  },
+  "opening_hours": {
+    "mon_fri": "09:00-21:00",
+    "sat": "10:00-20:00",
+    "sun": "10:00-18:00"
+  },
+  "accepts_online_orders": true,
+  "delivery_available": true,
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-09"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00065",
+  "customer": {
+    "customer_id": "cus-1011",
+    "first_name": "Никон",
+    "last_name": "Шубин"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на ш. Приозерное",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Балашиха",
+      "street": "ш. Приозерное",
+      "house": "1",
+      "postal_code": "883921",
+      "coordinates": {
+        "latitude": 55.798939,
+        "longitude": 37.929929
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "name": "Печень куриная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
+      "kbju": {
+        "calories": 158.4,
+        "protein": 16.3,
+        "fat": 7.4,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Северная»",
+        "country": "Россия",
+        "website": "https://птицефабрикасеверная.ru",
+        "inn": "8953760795"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Гречка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 75.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 240.3,
+        "protein": 11.7,
+        "fat": 4.8,
+        "carbohydrates": 50.5
+      },
+      "manufacturer": {
+        "name": "ООО «Мистраль»",
+        "country": "Россия",
+        "website": "https://мистраль.ru",
+        "inn": "6141052240"
+      }
+    }
+  ],
+  "total_amount": 480.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Балашиха",
+    "street": "пер. Путейский",
+    "house": "3/6",
+    "apartment": "57",
+    "postal_code": "156540"
+  },
+  "purchase_datetime": "2025-12-27T17:57:36.181157"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "prd-1048",
+  "name": "Редис",
+  "group": "🥦 Овощи и зелень",
+  "description": "Пучок редиса, 200 г",
+  "kbju": {
+    "calories": 30.7,
+    "protein": 1.3,
+    "fat": 0.3,
+    "carbohydrates": 10.0
+  },
+  "price": 30.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 12,
+  "is_organic": true,
+  "barcode": "8297159728455",
+  "manufacturer": {
+    "name": "Фермерское хозяйство «Лето»",
+    "country": "Россия",
+    "website": "https://фермерскоехозяйстволето.ru",
+    "inn": "6503657799"
+  }
+}

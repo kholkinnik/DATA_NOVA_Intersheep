@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00020",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Ульяна",
+    "last_name": "Зиновьева"
+  },
+  "store": {
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на пер. Короткий",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Симферополь",
+      "street": "пер. Короткий",
+      "house": "2",
+      "postal_code": "839580",
+      "coordinates": {
+        "latitude": 44.954025,
+        "longitude": 34.119035
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1030",
+      "name": "Грейпфрут",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 50.0,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 1.5,
+        "fat": 0.6,
+        "carbohydrates": 7.7
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "2114424981"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Сухари панировочные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 243.4,
+        "protein": 9.6,
+        "fat": 5.4,
+        "carbohydrates": 53.0
+      },
+      "manufacturer": {
+        "name": "ООО «Русский продукт»",
+        "country": "Россия",
+        "website": "https://русскийпродукт.ru",
+        "inn": "0882036165"
+      }
+    }
+  ],
+  "total_amount": 170.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ульяновск",
+    "street": "бул. Западный",
+    "house": "5/8",
+    "apartment": "31",
+    "postal_code": "869510"
+  },
+  "purchase_datetime": "2026-01-09T17:57:36.145431"
+}

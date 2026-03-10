@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00190",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Ксения",
+    "last_name": "Самсонова"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на бул. Приозерный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Кемерово",
+      "street": "бул. Приозерный",
+      "house": "6/6",
+      "postal_code": "728996",
+      "coordinates": {
+        "latitude": 55.352769,
+        "longitude": 86.085351
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Мороженое пломбир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 390.0,
+      "kbju": {
+        "calories": 133.0,
+        "protein": 7.5,
+        "fat": 11.1,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ООО «Айсберг»",
+        "country": "Россия",
+        "website": "https://айсберг.ru",
+        "inn": "4545124016"
+      }
+    }
+  ],
+  "total_amount": 390.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ярославль",
+    "street": "наб. Островского",
+    "house": "4",
+    "apartment": "78",
+    "postal_code": "046482"
+  },
+  "purchase_datetime": "2026-03-05T17:57:36.298787"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "prd-1022",
+  "name": "Сыр Моцарелла",
+  "group": "🥛 Молочные продукты",
+  "description": "Для пиццы, 125 г",
+  "kbju": {
+    "calories": 143.0,
+    "protein": 4.8,
+    "fat": 5.0,
+    "carbohydrates": 9.9
+  },
+  "price": 100.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 26,
+  "is_organic": false,
+  "barcode": "2890621497628",
+  "manufacturer": {
+    "name": "ООО «Италика»",
+    "country": "Россия",
+    "website": "https://италика.ru",
+    "inn": "8916194523"
+  }
+}

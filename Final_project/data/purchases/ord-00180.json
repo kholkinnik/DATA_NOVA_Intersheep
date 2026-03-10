@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00180",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Герман",
+    "last_name": "Попов"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на бул. Толстого",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "бул. Толстого",
+      "house": "492",
+      "postal_code": "631260",
+      "coordinates": {
+        "latitude": 57.149287,
+        "longitude": 65.53511
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Шашлык из свинины",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 320.0,
+      "total_price": 320.0,
+      "kbju": {
+        "calories": 154.6,
+        "protein": 21.5,
+        "fat": 3.3,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Шашлычный двор»",
+        "country": "Россия",
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "2754811957"
+      }
+    }
+  ],
+  "total_amount": 320.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "ш. Осипенко",
+    "house": "43",
+    "apartment": "20",
+    "postal_code": "673690"
+  },
+  "purchase_datetime": "2026-01-05T17:57:36.288768"
+}

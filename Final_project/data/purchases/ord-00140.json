@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00140",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Азарий",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на пер. Крестьянский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Волгоград",
+      "street": "пер. Крестьянский",
+      "house": "797",
+      "postal_code": "959410",
+      "coordinates": {
+        "latitude": 48.699683,
+        "longitude": 44.515249
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1013",
+      "name": "Баранина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 550.0,
+      "total_price": 1650.0,
+      "kbju": {
+        "calories": 207.8,
+        "protein": 24.4,
+        "fat": 13.3,
+        "carbohydrates": 2.3
+      },
+      "manufacturer": {
+        "name": "ООО «Фермерское мясо»",
+        "country": "Россия",
+        "website": "https://фермерскоемясо.ru",
+        "inn": "9820475358"
+      }
+    },
+    {
+      "product_id": "prd-1041",
+      "name": "Кинза свежая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 25.0,
+      "total_price": 75.0,
+      "kbju": {
+        "calories": 34.5,
+        "protein": 2.6,
+        "fat": 0.1,
+        "carbohydrates": 4.5
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "1623815573"
+      }
+    }
+  ],
+  "total_amount": 1725.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "пр. Ярославский",
+    "house": "4/2",
+    "apartment": "83",
+    "postal_code": "481830"
+  },
+  "purchase_datetime": "2026-02-26T17:57:36.247701"
+}

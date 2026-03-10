@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00028",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Феликс",
+    "last_name": "Михайлов"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Карла Маркса",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ульяновск",
+      "street": "пер. Карла Маркса",
+      "house": "8/7",
+      "postal_code": "507091",
+      "coordinates": {
+        "latitude": 54.32274,
+        "longitude": 48.393284
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1031",
+      "name": "Дыня Торпеда",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 200.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 31.9,
+        "protein": 1.2,
+        "fat": 0.4,
+        "carbohydrates": 15.8
+      },
+      "manufacturer": {
+        "name": "Узбекские дыни",
+        "country": "Россия",
+        "website": "https://узбекскиедыни.ru",
+        "inn": "3457287499"
+      }
+    },
+    {
+      "product_id": "prd-1020",
+      "name": "Йогурт греческий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 50.0,
+      "kbju": {
+        "calories": 194.0,
+        "protein": 9.6,
+        "fat": 1.7,
+        "carbohydrates": 7.9
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3936658627"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Печенье сахарное",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 280.0,
+      "kbju": {
+        "calories": 324.2,
+        "protein": 6.0,
+        "fat": 2.0,
+        "carbohydrates": 41.9
+      },
+      "manufacturer": {
+        "name": "ООО «Кондитер»",
+        "country": "Россия",
+        "website": "https://кондитер.ru",
+        "inn": "1078687409"
+      }
+    }
+  ],
+  "total_amount": 930.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "ш. Юности",
+    "house": "109",
+    "apartment": "23",
+    "postal_code": "517799"
+  },
+  "purchase_datetime": "2026-02-25T17:57:36.151439"
+}

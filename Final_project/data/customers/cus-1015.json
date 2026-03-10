@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1015",
+  "first_name": "Феликс",
+  "last_name": "Михайлов",
+  "email": "nikanor_1980@example.org",
+  "phone": "8 026 230 9625",
+  "birth_date": "1992-01-08",
+  "gender": "male",
+  "registration_date": "2025-12-22T17:57:36.107198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-9387069F85",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "пр. Торговый",
+    "house": "371",
+    "postal_code": "184061",
+    "coordinates": {
+      "latitude": 55.749273,
+      "longitude": 37.611333
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "ш. Юности",
+    "house": "109",
+    "apartment": "23",
+    "postal_code": "517799"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

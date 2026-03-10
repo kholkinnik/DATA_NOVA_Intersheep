@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00043",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Ермил",
+    "last_name": "Савин"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Сельская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Улан-Удэ",
+      "street": "ул. Сельская",
+      "house": "5/5",
+      "postal_code": "646443",
+      "coordinates": {
+        "latitude": 51.831632,
+        "longitude": 107.577692
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "name": "Манты",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "уп",
+      "price_per_unit": 180.0,
+      "total_price": 900.0,
+      "kbju": {
+        "calories": 245.3,
+        "protein": 27.7,
+        "fat": 19.5,
+        "carbohydrates": 12.0
+      },
+      "manufacturer": {
+        "name": "ООО «Восточные пельмени»",
+        "country": "Россия",
+        "website": "https://восточныепельмени.ru",
+        "inn": "3404107841"
+      }
+    }
+  ],
+  "total_amount": 900.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Ломоносова",
+    "house": "352",
+    "apartment": "57",
+    "postal_code": "331588"
+  },
+  "purchase_datetime": "2026-03-05T17:57:36.157530"
+}

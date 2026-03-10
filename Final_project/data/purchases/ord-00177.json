@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00177",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Трифон",
+    "last_name": "Абрамов"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на пер. Камский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Магнитогорск",
+      "street": "пер. Камский",
+      "house": "36",
+      "postal_code": "521736",
+      "coordinates": {
+        "latitude": 53.413617,
+        "longitude": 58.971875
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Камбала тушка",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 220.0,
+      "total_price": 1100.0,
+      "kbju": {
+        "calories": 264.8,
+        "protein": 27.0,
+        "fat": 21.9,
+        "carbohydrates": 14.4
+      },
+      "manufacturer": {
+        "name": "Дальморепродукт",
+        "country": "Россия",
+        "website": "https://дальморепродукт.ru",
+        "inn": "6271784897"
+      }
+    }
+  ],
+  "total_amount": 1100.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Кемерово",
+    "street": "наб. Виноградная",
+    "house": "4/1",
+    "apartment": "4",
+    "postal_code": "402747"
+  },
+  "purchase_datetime": "2026-03-05T17:57:36.286556"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "prd-1011",
+  "name": "Мидии в масле",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Консервы, 170 г",
+  "kbju": {
+    "calories": 133.4,
+    "protein": 22.0,
+    "fat": 11.1,
+    "carbohydrates": 2.1
+  },
+  "price": 150.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 5,
+  "is_organic": false,
+  "barcode": "0943417556763",
+  "manufacturer": {
+    "name": "ООО «Морепродукт»",
+    "country": "Россия",
+    "website": "https://морепродукт.ru",
+    "inn": "5750711306"
+  }
+}

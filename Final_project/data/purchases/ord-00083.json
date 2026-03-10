@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00083",
+  "customer": {
+    "customer_id": "cus-1005",
+    "first_name": "Светозар",
+    "last_name": "Беляков"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пер. Володарского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Чебоксары",
+      "street": "пер. Володарского",
+      "house": "182",
+      "postal_code": "505264",
+      "coordinates": {
+        "latitude": 56.139571,
+        "longitude": 47.246618
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Шашлык из свинины",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 320.0,
+      "total_price": 1280.0,
+      "kbju": {
+        "calories": 154.6,
+        "protein": 21.5,
+        "fat": 3.3,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Шашлычный двор»",
+        "country": "Россия",
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "2754811957"
+      }
+    },
+    {
+      "product_id": "prd-1024",
+      "name": "Йогурт питьевой клубничный",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 48.0,
+      "kbju": {
+        "calories": 151.1,
+        "protein": 9.0,
+        "fat": 11.5,
+        "carbohydrates": 12.0
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3928715855"
+      }
+    }
+  ],
+  "total_amount": 1328.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Барнаул",
+    "street": "ш. Раздольное",
+    "house": "43",
+    "apartment": "82",
+    "postal_code": "218085"
+  },
+  "purchase_datetime": "2026-01-25T17:57:36.198206"
+}

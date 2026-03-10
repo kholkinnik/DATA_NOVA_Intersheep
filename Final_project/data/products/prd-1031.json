@@ -1,0 +1,24 @@
+{
+  "id": "prd-1031",
+  "name": "Дыня Торпеда",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Сладкая дыня, 1 шт (≈3 кг)",
+  "kbju": {
+    "calories": 31.9,
+    "protein": 1.2,
+    "fat": 0.4,
+    "carbohydrates": 15.8
+  },
+  "price": 200.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 27,
+  "is_organic": true,
+  "barcode": "9704920236891",
+  "manufacturer": {
+    "name": "Узбекские дыни",
+    "country": "Россия",
+    "website": "https://узбекскиедыни.ru",
+    "inn": "3457287499"
+  }
+}

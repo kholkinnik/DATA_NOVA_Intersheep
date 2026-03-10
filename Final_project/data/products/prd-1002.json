@@ -1,0 +1,24 @@
+{
+  "id": "prd-1002",
+  "name": "Печенье сахарное",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "К чаю, 350 г",
+  "kbju": {
+    "calories": 324.2,
+    "protein": 6.0,
+    "fat": 2.0,
+    "carbohydrates": 41.9
+  },
+  "price": 70.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 27,
+  "is_organic": false,
+  "barcode": "8675808929291",
+  "manufacturer": {
+    "name": "ООО «Кондитер»",
+    "country": "Россия",
+    "website": "https://кондитер.ru",
+    "inn": "1078687409"
+  }
+}

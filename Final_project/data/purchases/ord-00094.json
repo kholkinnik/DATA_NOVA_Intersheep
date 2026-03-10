@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00094",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Марфа",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владимир",
+      "street": "ш. Ломоносова",
+      "house": "842",
+      "postal_code": "193551",
+      "coordinates": {
+        "latitude": 56.132124,
+        "longitude": 40.387311
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "name": "Хлеб Бородинский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 55.0,
+      "kbju": {
+        "calories": 302.2,
+        "protein": 7.5,
+        "fat": 5.4,
+        "carbohydrates": 42.0
+      },
+      "manufacturer": {
+        "name": "ООО «Коломенский пекарь»",
+        "country": "Россия",
+        "website": "https://коломенскийпекарь.ru",
+        "inn": "1868975782"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 475.0,
+      "kbju": {
+        "calories": 99.7,
+        "protein": 0.8,
+        "fat": 0.4,
+        "carbohydrates": 10.2
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "7966740421"
+      }
+    },
+    {
+      "product_id": "prd-1047",
+      "name": "Грибы шампиньоны",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 44.6,
+        "protein": 2.9,
+        "fat": 0.5,
+        "carbohydrates": 2.9
+      },
+      "manufacturer": {
+        "name": "ООО «Грибная ферма»",
+        "country": "Россия",
+        "website": "https://грибнаяферма.ru",
+        "inn": "2372272673"
+      }
+    }
+  ],
+  "total_amount": 980.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "наб. Краснофлотская",
+    "house": "2",
+    "apartment": "48",
+    "postal_code": "221508"
+  },
+  "purchase_datetime": "2026-02-11T17:57:36.208597"
+}

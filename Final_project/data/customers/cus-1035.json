@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1035",
+  "first_name": "Октябрина",
+  "last_name": "Сергеева",
+  "email": "kononovasinklitikija@example.org",
+  "phone": "8 957 214 56 42",
+  "birth_date": "1982-04-24",
+  "gender": "female",
+  "registration_date": "2026-01-07T17:57:36.122686",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-E43950971D",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "ул. Речная",
+    "house": "5",
+    "postal_code": "459043",
+    "coordinates": {
+      "latitude": 43.141105,
+      "longitude": 131.904996
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "пер. Высотный",
+    "house": "187",
+    "apartment": "73",
+    "postal_code": "360621"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

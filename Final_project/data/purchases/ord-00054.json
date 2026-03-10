@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00054",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Амос",
+    "last_name": "Денисов"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на ш. Крайнее",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "ш. Крайнее",
+      "house": "57",
+      "postal_code": "969550",
+      "coordinates": {
+        "latitude": 51.526265,
+        "longitude": 46.031033
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1040",
+      "name": "Лук зеленый",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 60.0,
+      "kbju": {
+        "calories": 42.2,
+        "protein": 1.3,
+        "fat": 0.2,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "1272106545"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Шашлык из свинины",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 320.0,
+      "total_price": 1280.0,
+      "kbju": {
+        "calories": 154.6,
+        "protein": 21.5,
+        "fat": 3.3,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Шашлычный двор»",
+        "country": "Россия",
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "2754811957"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Манго",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 480.0,
+      "kbju": {
+        "calories": 61.3,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 12.1
+      },
+      "manufacturer": {
+        "name": "Тропические фрукты",
+        "country": "Россия",
+        "website": "https://тропическиефрукты.ru",
+        "inn": "9701474826"
+      }
+    }
+  ],
+  "total_amount": 1820.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ижевск",
+    "street": "ул. Подстанция",
+    "house": "35",
+    "apartment": "21",
+    "postal_code": "934982"
+  },
+  "purchase_datetime": "2026-02-21T17:57:36.173133"
+}

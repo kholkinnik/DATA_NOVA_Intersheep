@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00194",
+  "customer": {
+    "customer_id": "cus-1012",
+    "first_name": "Валерия",
+    "last_name": "Лихачева"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Сельская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Улан-Удэ",
+      "street": "ул. Сельская",
+      "house": "5/5",
+      "postal_code": "646443",
+      "coordinates": {
+        "latitude": 51.831632,
+        "longitude": 107.577692
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 286.2,
+        "protein": 8.1,
+        "fat": 2.0,
+        "carbohydrates": 57.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "3214656787"
+      }
+    }
+  ],
+  "total_amount": 90.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Симферополь",
+    "street": "ш. Достоевского",
+    "house": "8/9",
+    "apartment": "86",
+    "postal_code": "239862"
+  },
+  "purchase_datetime": "2026-02-24T17:57:36.302337"
+}

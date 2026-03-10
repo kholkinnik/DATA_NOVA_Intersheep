@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00049",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Глафира",
+    "last_name": "Рябова"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на бул. Докучаева",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "бул. Докучаева",
+      "house": "80",
+      "postal_code": "941109",
+      "coordinates": {
+        "latitude": 57.159651,
+        "longitude": 65.530977
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 360.0,
+      "kbju": {
+        "calories": 286.2,
+        "protein": 8.1,
+        "fat": 2.0,
+        "carbohydrates": 57.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "3214656787"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Мидии в масле",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 150.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 133.4,
+        "protein": 22.0,
+        "fat": 11.1,
+        "carbohydrates": 2.1
+      },
+      "manufacturer": {
+        "name": "ООО «Морепродукт»",
+        "country": "Россия",
+        "website": "https://морепродукт.ru",
+        "inn": "5750711306"
+      }
+    }
+  ],
+  "total_amount": 660.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Улан-Удэ",
+    "street": "пер. Ручейный",
+    "house": "1",
+    "apartment": "62",
+    "postal_code": "051294"
+  },
+  "purchase_datetime": "2026-01-03T17:57:36.166764"
+}

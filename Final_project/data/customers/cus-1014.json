@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1014",
+  "first_name": "Евдокия",
+  "last_name": "Аксенова",
+  "email": "natankorolev@example.net",
+  "phone": "+7 (245) 109-9320",
+  "birth_date": "2002-09-13",
+  "gender": "female",
+  "registration_date": "2026-01-17T17:57:36.107198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-01692D732C",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Челябинск",
+    "street": "пер. Чайковского",
+    "house": "7/3",
+    "postal_code": "170687",
+    "coordinates": {
+      "latitude": 55.170389,
+      "longitude": 61.429472
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Челябинск",
+    "street": "алл. Курортная",
+    "house": "5/1",
+    "apartment": "94",
+    "postal_code": "304109"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

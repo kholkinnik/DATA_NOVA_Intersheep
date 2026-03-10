@@ -1,0 +1,24 @@
+{
+  "id": "prd-1049",
+  "name": "Морковь мытая",
+  "group": "🥦 Овощи и зелень",
+  "description": "Морковь столовая, мытая, 1 кг",
+  "kbju": {
+    "calories": 49.7,
+    "protein": 1.1,
+    "fat": 0.6,
+    "carbohydrates": 6.4
+  },
+  "price": 45.0,
+  "unit": "кг",
+  "origin_country": "Россия",
+  "expiry_days": 27,
+  "is_organic": true,
+  "barcode": "8561687002210",
+  "manufacturer": {
+    "name": "Фермерское хозяйство «Лето»",
+    "country": "Россия",
+    "website": "https://фермерскоехозяйстволето.ru",
+    "inn": "4052033610"
+  }
+}

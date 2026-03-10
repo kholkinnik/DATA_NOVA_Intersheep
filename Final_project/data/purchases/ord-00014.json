@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00014",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Севастьян",
+    "last_name": "Борисов"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на наб. Гафури",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ижевск",
+      "street": "наб. Гафури",
+      "house": "2/5",
+      "postal_code": "302578",
+      "coordinates": {
+        "latitude": 56.843537,
+        "longitude": 53.217387
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Мука пшеничная в/с",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 85.0,
+      "kbju": {
+        "calories": 254.9,
+        "protein": 9.5,
+        "fat": 1.1,
+        "carbohydrates": 52.4
+      },
+      "manufacturer": {
+        "name": "ООО «Мельница»",
+        "country": "Россия",
+        "website": "https://мельница.ru",
+        "inn": "1484891216"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Печенье сахарное",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 70.0,
+      "kbju": {
+        "calories": 324.2,
+        "protein": 6.0,
+        "fat": 2.0,
+        "carbohydrates": 41.9
+      },
+      "manufacturer": {
+        "name": "ООО «Кондитер»",
+        "country": "Россия",
+        "website": "https://кондитер.ru",
+        "inn": "1078687409"
+      }
+    }
+  ],
+  "total_amount": 155.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Курск",
+    "street": "наб. Гастелло",
+    "house": "868",
+    "apartment": "94",
+    "postal_code": "032682"
+  },
+  "purchase_datetime": "2026-02-19T17:57:36.141771"
+}

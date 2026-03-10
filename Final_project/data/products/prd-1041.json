@@ -1,0 +1,24 @@
+{
+  "id": "prd-1041",
+  "name": "Кинза свежая",
+  "group": "🥦 Овощи и зелень",
+  "description": "Пучок кинзы",
+  "kbju": {
+    "calories": 34.5,
+    "protein": 2.6,
+    "fat": 0.1,
+    "carbohydrates": 4.5
+  },
+  "price": 25.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 7,
+  "is_organic": false,
+  "barcode": "9625523078285",
+  "manufacturer": {
+    "name": "ИП «Зелень»",
+    "country": "Россия",
+    "website": "https://зелень.ru",
+    "inn": "1623815573"
+  }
+}

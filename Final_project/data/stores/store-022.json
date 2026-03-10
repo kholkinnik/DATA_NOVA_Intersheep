@@ -1,0 +1,39 @@
+{
+  "store_id": "store-022",
+  "store_name": "Большая Пикча — Магазин на наб. Гафури",
+  "store_network": "Большая Пикча",
+  "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
+  "type": "offline",
+  "categories": [
+    "🥖 Зерновые и хлебобулочные изделия",
+    "🥩 Мясо, рыба, яйца и бобовые",
+    "🥛 Молочные продукты",
+    "🍏 Фрукты и ягоды",
+    "🥦 Овощи и зелень"
+  ],
+  "manager": {
+    "name": "Нонна Леонидовна Гущина",
+    "phone": "+7 622 927 9798",
+    "email": "spartak1970@example.org"
+  },
+  "location": {
+    "country": "Россия",
+    "city": "Ижевск",
+    "street": "наб. Гафури",
+    "house": "2/5",
+    "postal_code": "302578",
+    "coordinates": {
+      "latitude": 56.843537,
+      "longitude": 53.217387
+    }
+  },
+  "opening_hours": {
+    "mon_fri": "09:00-21:00",
+    "sat": "10:00-20:00",
+    "sun": "10:00-18:00"
+  },
+  "accepts_online_orders": true,
+  "delivery_available": true,
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-09"
+}

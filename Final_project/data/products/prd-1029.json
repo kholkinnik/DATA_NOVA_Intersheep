@@ -1,0 +1,24 @@
+{
+  "id": "prd-1029",
+  "name": "Закваска для йогурта",
+  "group": "🥛 Молочные продукты",
+  "description": "Сухая, 1 пакетик",
+  "kbju": {
+    "calories": 89.6,
+    "protein": 7.7,
+    "fat": 11.2,
+    "carbohydrates": 3.1
+  },
+  "price": 30.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 9,
+  "is_organic": true,
+  "barcode": "3379325428811",
+  "manufacturer": {
+    "name": "ООО «Молочная культура»",
+    "country": "Россия",
+    "website": "https://молочнаякультура.ru",
+    "inn": "4147659609"
+  }
+}

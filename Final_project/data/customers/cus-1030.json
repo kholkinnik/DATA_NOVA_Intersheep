@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1030",
+  "first_name": "Светозар",
+  "last_name": "Денисов",
+  "email": "margaritadoronina@example.net",
+  "phone": "8 (487) 574-3001",
+  "birth_date": "1974-07-12",
+  "gender": "male",
+  "registration_date": "2026-01-03T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-EB19F049D0",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "бул. Толстого",
+    "house": "492",
+    "postal_code": "631260",
+    "coordinates": {
+      "latitude": 57.149287,
+      "longitude": 65.53511
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "бул. Демьяна Бедного",
+    "house": "9",
+    "apartment": "76",
+    "postal_code": "418559"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

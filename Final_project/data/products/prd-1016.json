@@ -1,0 +1,24 @@
+{
+  "id": "prd-1016",
+  "name": "Манты",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Замороженные, 500 г",
+  "kbju": {
+    "calories": 245.3,
+    "protein": 27.7,
+    "fat": 19.5,
+    "carbohydrates": 12.0
+  },
+  "price": 180.0,
+  "unit": "уп",
+  "origin_country": "Россия",
+  "expiry_days": 18,
+  "is_organic": false,
+  "barcode": "6960089116051",
+  "manufacturer": {
+    "name": "ООО «Восточные пельмени»",
+    "country": "Россия",
+    "website": "https://восточныепельмени.ru",
+    "inn": "3404107841"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1027",
+  "first_name": "Андроник",
+  "last_name": "Капустин",
+  "email": "mkabanov@example.net",
+  "phone": "+7 485 363 0315",
+  "birth_date": "1972-12-15",
+  "gender": "male",
+  "registration_date": "2026-01-01T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-3C8768804B",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Самара",
+    "street": "пр. Дзержинского",
+    "house": "18",
+    "postal_code": "824453",
+    "coordinates": {
+      "latitude": 53.251358,
+      "longitude": 50.223879
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Самара",
+    "street": "наб. Безымянная",
+    "house": "448",
+    "apartment": "26",
+    "postal_code": "146639"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

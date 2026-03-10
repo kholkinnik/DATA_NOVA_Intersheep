@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00070",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Иннокентий",
+    "last_name": "Мельников"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на алл. Лунная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Белгород",
+      "street": "алл. Лунная",
+      "house": "996",
+      "postal_code": "003029",
+      "coordinates": {
+        "latitude": 50.588138,
+        "longitude": 36.578235
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1025",
+      "name": "Сливки 35%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 500.0,
+      "kbju": {
+        "calories": 77.8,
+        "protein": 10.0,
+        "fat": 7.1,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "1267810496"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Закваска для йогурта",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 89.6,
+        "protein": 7.7,
+        "fat": 11.2,
+        "carbohydrates": 3.1
+      },
+      "manufacturer": {
+        "name": "ООО «Молочная культура»",
+        "country": "Россия",
+        "website": "https://молочнаякультура.ru",
+        "inn": "4147659609"
+      }
+    }
+  ],
+  "total_amount": 650.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "ул. Овражная",
+    "house": "9/5",
+    "apartment": "80",
+    "postal_code": "322141"
+  },
+  "purchase_datetime": "2026-01-16T17:57:36.187135"
+}

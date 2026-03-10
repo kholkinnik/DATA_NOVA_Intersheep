@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1043",
+  "first_name": "Василиса",
+  "last_name": "Семенова",
+  "email": "varvaragrishina@example.org",
+  "phone": "87314554166",
+  "birth_date": "1979-05-03",
+  "gender": "female",
+  "registration_date": "2026-01-30T17:57:36.128402",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-82EFECB0FB",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Омск",
+    "street": "ул. Льва Толстого",
+    "house": "6/4",
+    "postal_code": "211189",
+    "coordinates": {
+      "latitude": 54.988481,
+      "longitude": 73.361615
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Омск",
+    "street": "бул. Марта 8",
+    "house": "723",
+    "apartment": "72",
+    "postal_code": "797273"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

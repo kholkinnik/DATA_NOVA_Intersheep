@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00199",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Феликс",
+    "last_name": "Михайлов"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на наб. Гафури",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ижевск",
+      "street": "наб. Гафури",
+      "house": "2/5",
+      "postal_code": "302578",
+      "coordinates": {
+        "latitude": 56.843537,
+        "longitude": 53.217387
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1023",
+      "name": "Творог 9%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 85.0,
+      "kbju": {
+        "calories": 176.2,
+        "protein": 4.2,
+        "fat": 1.3,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "5126422192"
+      }
+    },
+    {
+      "product_id": "prd-1043",
+      "name": "Квашеная капуста",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 36.9,
+        "protein": 3.0,
+        "fat": 0.5,
+        "carbohydrates": 3.9
+      },
+      "manufacturer": {
+        "name": "ИП «Соленья»",
+        "country": "Россия",
+        "website": "https://соленья.ru",
+        "inn": "8202780478"
+      }
+    }
+  ],
+  "total_amount": 265.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "ш. Юности",
+    "house": "109",
+    "apartment": "23",
+    "postal_code": "517799"
+  },
+  "purchase_datetime": "2025-12-16T17:57:36.305506"
+}

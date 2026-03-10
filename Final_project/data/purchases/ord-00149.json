@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00149",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Ермолай",
+    "last_name": "Котов"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на ш. Водников",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владивосток",
+      "street": "ш. Водников",
+      "house": "2",
+      "postal_code": "061270",
+      "coordinates": {
+        "latitude": 43.141065,
+        "longitude": 131.912086
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Мука пшеничная в/с",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 85.0,
+      "kbju": {
+        "calories": 254.9,
+        "protein": 9.5,
+        "fat": 1.1,
+        "carbohydrates": 52.4
+      },
+      "manufacturer": {
+        "name": "ООО «Мельница»",
+        "country": "Россия",
+        "website": "https://мельница.ru",
+        "inn": "1484891216"
+      }
+    },
+    {
+      "product_id": "prd-1022",
+      "name": "Сыр Моцарелла",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 143.0,
+        "protein": 4.8,
+        "fat": 5.0,
+        "carbohydrates": 9.9
+      },
+      "manufacturer": {
+        "name": "ООО «Италика»",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "8916194523"
+      }
+    }
+  ],
+  "total_amount": 385.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Красноярск",
+    "street": "пр. Тельмана",
+    "house": "6/3",
+    "apartment": "5",
+    "postal_code": "201224"
+  },
+  "purchase_datetime": "2026-03-05T17:57:36.255225"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00048",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Исидор",
+    "last_name": "Ефремов"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на пер. Прудный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "пер. Прудный",
+      "house": "9/9",
+      "postal_code": "854352",
+      "coordinates": {
+        "latitude": 51.525155,
+        "longitude": 46.026787
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Лаваш тонкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 317.4,
+        "protein": 6.8,
+        "fat": 2.9,
+        "carbohydrates": 59.2
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "0149115327"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Закваска для йогурта",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 60.0,
+      "kbju": {
+        "calories": 89.6,
+        "protein": 7.7,
+        "fat": 11.2,
+        "carbohydrates": 3.1
+      },
+      "manufacturer": {
+        "name": "ООО «Молочная культура»",
+        "country": "Россия",
+        "website": "https://молочнаякультура.ru",
+        "inn": "4147659609"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Сливки 35%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 77.8,
+        "protein": 10.0,
+        "fat": 7.1,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "1267810496"
+      }
+    }
+  ],
+  "total_amount": 440.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Саратов",
+    "street": "ш. Союзное",
+    "house": "2/3",
+    "apartment": "56",
+    "postal_code": "135471"
+  },
+  "purchase_datetime": "2025-12-28T17:57:36.166764"
+}

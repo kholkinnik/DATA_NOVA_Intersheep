@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00107",
+  "customer": {
+    "customer_id": "cus-1023",
+    "first_name": "Ксения",
+    "last_name": "Савельева"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пер. Чайковского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Челябинск",
+      "street": "пер. Чайковского",
+      "house": "7/3",
+      "postal_code": "170687",
+      "coordinates": {
+        "latitude": 55.170389,
+        "longitude": 61.429472
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Пельмени русские",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "уп",
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
+      "kbju": {
+        "calories": 290.9,
+        "protein": 18.9,
+        "fat": 5.2,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ООО «Сибирский гурман»",
+        "country": "Россия",
+        "website": "https://сибирскийгурман.ru",
+        "inn": "8707694030"
+      }
+    }
+  ],
+  "total_amount": 130.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Крупской",
+    "house": "14",
+    "apartment": "97",
+    "postal_code": "966241"
+  },
+  "purchase_datetime": "2026-01-09T17:57:36.219335"
+}

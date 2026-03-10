@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00164",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Герман",
+    "last_name": "Попов"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на алл. Кузнецова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Курск",
+      "street": "алл. Кузнецова",
+      "house": "1",
+      "postal_code": "957961",
+      "coordinates": {
+        "latitude": 51.735868,
+        "longitude": 36.185717
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1039",
+      "name": "Манго",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 360.0,
+      "kbju": {
+        "calories": 61.3,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 12.1
+      },
+      "manufacturer": {
+        "name": "Тропические фрукты",
+        "country": "Россия",
+        "website": "https://тропическиефрукты.ru",
+        "inn": "9701474826"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Гречка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 75.0,
+      "total_price": 75.0,
+      "kbju": {
+        "calories": 240.3,
+        "protein": 11.7,
+        "fat": 4.8,
+        "carbohydrates": 50.5
+      },
+      "manufacturer": {
+        "name": "ООО «Мистраль»",
+        "country": "Россия",
+        "website": "https://мистраль.ru",
+        "inn": "6141052240"
+      }
+    }
+  ],
+  "total_amount": 435.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "ш. Осипенко",
+    "house": "43",
+    "apartment": "20",
+    "postal_code": "673690"
+  },
+  "purchase_datetime": "2025-12-26T17:57:36.267893"
+}

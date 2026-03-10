@@ -1,0 +1,39 @@
+{
+  "store_id": "store-014",
+  "store_name": "Большая Пикча — Магазин на пер. Володарского",
+  "store_network": "Большая Пикча",
+  "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
+  "type": "offline",
+  "categories": [
+    "🥖 Зерновые и хлебобулочные изделия",
+    "🥩 Мясо, рыба, яйца и бобовые",
+    "🥛 Молочные продукты",
+    "🍏 Фрукты и ягоды",
+    "🥦 Овощи и зелень"
+  ],
+  "manager": {
+    "name": "Дроздов Максимильян Елизарович",
+    "phone": "8 (547) 858-3166",
+    "email": "irinaemeljanova@example.com"
+  },
+  "location": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "пер. Володарского",
+    "house": "182",
+    "postal_code": "505264",
+    "coordinates": {
+      "latitude": 56.139571,
+      "longitude": 47.246618
+    }
+  },
+  "opening_hours": {
+    "mon_fri": "09:00-21:00",
+    "sat": "10:00-20:00",
+    "sun": "10:00-18:00"
+  },
+  "accepts_online_orders": true,
+  "delivery_available": true,
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-03-09"
+}

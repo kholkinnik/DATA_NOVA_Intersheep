@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00176",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Октябрина",
+    "last_name": "Сергеева"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на пр. Дзержинского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Самара",
+      "street": "пр. Дзержинского",
+      "house": "18",
+      "postal_code": "824453",
+      "coordinates": {
+        "latitude": 53.251358,
+        "longitude": 50.223879
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1022",
+      "name": "Сыр Моцарелла",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 500.0,
+      "kbju": {
+        "calories": 143.0,
+        "protein": 4.8,
+        "fat": 5.0,
+        "carbohydrates": 9.9
+      },
+      "manufacturer": {
+        "name": "ООО «Италика»",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "8916194523"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Манго",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 240.0,
+      "kbju": {
+        "calories": 61.3,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 12.1
+      },
+      "manufacturer": {
+        "name": "Тропические фрукты",
+        "country": "Россия",
+        "website": "https://тропическиефрукты.ru",
+        "inn": "9701474826"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 135.0,
+      "kbju": {
+        "calories": 238.1,
+        "protein": 12.0,
+        "fat": 4.7,
+        "carbohydrates": 51.5
+      },
+      "manufacturer": {
+        "name": "ООО «Овсянка»",
+        "country": "Россия",
+        "website": "https://овсянка.ru",
+        "inn": "0162446009"
+      }
+    }
+  ],
+  "total_amount": 875.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "пер. Высотный",
+    "house": "187",
+    "apartment": "73",
+    "postal_code": "360621"
+  },
+  "purchase_datetime": "2026-01-25T17:57:36.285631"
+}

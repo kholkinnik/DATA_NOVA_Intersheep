@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00126",
+  "customer": {
+    "customer_id": "cus-1017",
+    "first_name": "Акулина",
+    "last_name": "Овчинникова"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на бул. Серова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Чебоксары",
+      "street": "бул. Серова",
+      "house": "906",
+      "postal_code": "969267",
+      "coordinates": {
+        "latitude": 56.150128,
+        "longitude": 47.255986
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Лаваш тонкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 60.0,
+      "kbju": {
+        "calories": 317.4,
+        "protein": 6.8,
+        "fat": 2.9,
+        "carbohydrates": 59.2
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "0149115327"
+      }
+    },
+    {
+      "product_id": "prd-1046",
+      "name": "Батат",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 52.1,
+        "protein": 1.3,
+        "fat": 0.7,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ИП «Овощная экзотика»",
+        "country": "Россия",
+        "website": "https://овощнаяэкзотика.ru",
+        "inn": "1614695490"
+      }
+    }
+  ],
+  "total_amount": 360.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Симферополь",
+    "street": "алл. Осенняя",
+    "house": "3/6",
+    "apartment": "32",
+    "postal_code": "668106"
+  },
+  "purchase_datetime": "2026-01-03T17:57:36.234596"
+}

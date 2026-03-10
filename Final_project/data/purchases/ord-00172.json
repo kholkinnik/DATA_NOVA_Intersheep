@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00172",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Трифон",
+    "last_name": "Шубин"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Карла Маркса",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ульяновск",
+      "street": "пер. Карла Маркса",
+      "house": "8/7",
+      "postal_code": "507091",
+      "coordinates": {
+        "latitude": 54.32274,
+        "longitude": 48.393284
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Лаваш тонкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 317.4,
+        "protein": 6.8,
+        "fat": 2.9,
+        "carbohydrates": 59.2
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "0149115327"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Сыр Плавленый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 35.0,
+      "total_price": 175.0,
+      "kbju": {
+        "calories": 197.8,
+        "protein": 3.9,
+        "fat": 12.6,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сырок»",
+        "country": "Россия",
+        "website": "https://сырок.ru",
+        "inn": "4295304954"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Баранина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 550.0,
+      "total_price": 550.0,
+      "kbju": {
+        "calories": 207.8,
+        "protein": 24.4,
+        "fat": 13.3,
+        "carbohydrates": 2.3
+      },
+      "manufacturer": {
+        "name": "ООО «Фермерское мясо»",
+        "country": "Россия",
+        "website": "https://фермерскоемясо.ru",
+        "inn": "9820475358"
+      }
+    }
+  ],
+  "total_amount": 845.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ростов-на-Дону",
+    "street": "пер. Ленинский",
+    "house": "3",
+    "apartment": "59",
+    "postal_code": "873517"
+  },
+  "purchase_datetime": "2025-12-13T17:57:36.280723"
+}

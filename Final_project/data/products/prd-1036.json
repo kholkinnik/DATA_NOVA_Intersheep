@@ -1,0 +1,24 @@
+{
+  "id": "prd-1036",
+  "name": "Арбуз",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Свежий арбуз, 1 шт (≈5 кг)",
+  "kbju": {
+    "calories": 92.1,
+    "protein": 0.5,
+    "fat": 0.2,
+    "carbohydrates": 18.4
+  },
+  "price": 250.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 11,
+  "is_organic": true,
+  "barcode": "4288252944907",
+  "manufacturer": {
+    "name": "Астраханские арбузы",
+    "country": "Россия",
+    "website": "https://астраханскиеарбузы.ru",
+    "inn": "6713441892"
+  }
+}

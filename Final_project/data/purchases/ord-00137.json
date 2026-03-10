@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00137",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Ирина",
+    "last_name": "Наумова"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пер. Володарского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Чебоксары",
+      "street": "пер. Володарского",
+      "house": "182",
+      "postal_code": "505264",
+      "coordinates": {
+        "latitude": 56.139571,
+        "longitude": 47.246618
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1043",
+      "name": "Квашеная капуста",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 36.9,
+        "protein": 3.0,
+        "fat": 0.5,
+        "carbohydrates": 3.9
+      },
+      "manufacturer": {
+        "name": "ИП «Соленья»",
+        "country": "Россия",
+        "website": "https://соленья.ru",
+        "inn": "8202780478"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Сухари панировочные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 160.0,
+      "kbju": {
+        "calories": 243.4,
+        "protein": 9.6,
+        "fat": 5.4,
+        "carbohydrates": 53.0
+      },
+      "manufacturer": {
+        "name": "ООО «Русский продукт»",
+        "country": "Россия",
+        "website": "https://русскийпродукт.ru",
+        "inn": "0882036165"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Хлеб Бородинский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 165.0,
+      "kbju": {
+        "calories": 302.2,
+        "protein": 7.5,
+        "fat": 5.4,
+        "carbohydrates": 42.0
+      },
+      "manufacturer": {
+        "name": "ООО «Коломенский пекарь»",
+        "country": "Россия",
+        "website": "https://коломенскийпекарь.ru",
+        "inn": "1868975782"
+      }
+    }
+  ],
+  "total_amount": 625.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Омск",
+    "street": "ул. Пархоменко",
+    "house": "551",
+    "apartment": "31",
+    "postal_code": "956983"
+  },
+  "purchase_datetime": "2026-02-17T17:57:36.243906"
+}

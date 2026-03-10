@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00158",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Ксения",
+    "last_name": "Самсонова"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на бул. Докучаева",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "бул. Докучаева",
+      "house": "80",
+      "postal_code": "941109",
+      "coordinates": {
+        "latitude": 57.159651,
+        "longitude": 65.530977
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1036",
+      "name": "Арбуз",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 500.0,
+      "kbju": {
+        "calories": 92.1,
+        "protein": 0.5,
+        "fat": 0.2,
+        "carbohydrates": 18.4
+      },
+      "manufacturer": {
+        "name": "Астраханские арбузы",
+        "country": "Россия",
+        "website": "https://астраханскиеарбузы.ru",
+        "inn": "6713441892"
+      }
+    }
+  ],
+  "total_amount": 500.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ярославль",
+    "street": "наб. Островского",
+    "house": "4",
+    "apartment": "78",
+    "postal_code": "046482"
+  },
+  "purchase_datetime": "2025-12-09T17:57:36.263896"
+}

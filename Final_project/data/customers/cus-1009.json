@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1009",
+  "first_name": "Анжелика",
+  "last_name": "Носова",
+  "email": "askold2025@example.com",
+  "phone": "+7 (303) 099-1010",
+  "birth_date": "1997-05-26",
+  "gender": "female",
+  "registration_date": "2026-02-16T17:57:36.102976",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-62A50E97DC",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "ул. Высотная",
+    "house": "595",
+    "postal_code": "058824",
+    "coordinates": {
+      "latitude": 45.028884,
+      "longitude": 38.976453
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "пер. Ватутина",
+    "house": "7",
+    "apartment": "47",
+    "postal_code": "342287"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

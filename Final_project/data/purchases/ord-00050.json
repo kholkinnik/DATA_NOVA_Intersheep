@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00050",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Алла",
+    "last_name": "Котова"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на наб. Гафури",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ижевск",
+      "street": "наб. Гафури",
+      "house": "2/5",
+      "postal_code": "302578",
+      "coordinates": {
+        "latitude": 56.843537,
+        "longitude": 53.217387
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1030",
+      "name": "Грейпфрут",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 1.5,
+        "fat": 0.6,
+        "carbohydrates": 7.7
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "2114424981"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Пельмени русские",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "уп",
+      "price_per_unit": 130.0,
+      "total_price": 390.0,
+      "kbju": {
+        "calories": 290.9,
+        "protein": 18.9,
+        "fat": 5.2,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ООО «Сибирский гурман»",
+        "country": "Россия",
+        "website": "https://сибирскийгурман.ru",
+        "inn": "8707694030"
+      }
+    }
+  ],
+  "total_amount": 490.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Екатеринбург",
+    "street": "алл. Привольная",
+    "house": "3",
+    "apartment": "43",
+    "postal_code": "735861"
+  },
+  "purchase_datetime": "2026-01-07T17:57:36.168981"
+}

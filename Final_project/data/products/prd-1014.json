@@ -1,0 +1,24 @@
+{
+  "id": "prd-1014",
+  "name": "Шашлык из свинины",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Маринованный, 500 г",
+  "kbju": {
+    "calories": 154.6,
+    "protein": 21.5,
+    "fat": 3.3,
+    "carbohydrates": 8.2
+  },
+  "price": 320.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 8,
+  "is_organic": false,
+  "barcode": "2475010193246",
+  "manufacturer": {
+    "name": "ООО «Шашлычный двор»",
+    "country": "Россия",
+    "website": "https://шашлычныйдвор.ru",
+    "inn": "2754811957"
+  }
+}

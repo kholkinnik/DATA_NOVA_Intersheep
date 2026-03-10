@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00112",
+  "customer": {
+    "customer_id": "cus-1023",
+    "first_name": "Ксения",
+    "last_name": "Савельева"
+  },
+  "store": {
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на пер. Луначарского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Омск",
+      "street": "пер. Луначарского",
+      "house": "2/8",
+      "postal_code": "213562",
+      "coordinates": {
+        "latitude": 54.990091,
+        "longitude": 73.362958
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Пельмени русские",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "уп",
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
+      "kbju": {
+        "calories": 290.9,
+        "protein": 18.9,
+        "fat": 5.2,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ООО «Сибирский гурман»",
+        "country": "Россия",
+        "website": "https://сибирскийгурман.ru",
+        "inn": "8707694030"
+      }
+    },
+    {
+      "product_id": "prd-1040",
+      "name": "Лук зеленый",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 20.0,
+      "kbju": {
+        "calories": 42.2,
+        "protein": 1.3,
+        "fat": 0.2,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "1272106545"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Печенье сахарное",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 210.0,
+      "kbju": {
+        "calories": 324.2,
+        "protein": 6.0,
+        "fat": 2.0,
+        "carbohydrates": 41.9
+      },
+      "manufacturer": {
+        "name": "ООО «Кондитер»",
+        "country": "Россия",
+        "website": "https://кондитер.ru",
+        "inn": "1078687409"
+      }
+    }
+  ],
+  "total_amount": 360.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Крупской",
+    "house": "14",
+    "apartment": "97",
+    "postal_code": "966241"
+  },
+  "purchase_datetime": "2025-12-26T17:57:36.225077"
+}

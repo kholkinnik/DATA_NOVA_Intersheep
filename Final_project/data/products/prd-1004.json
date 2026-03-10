@@ -1,0 +1,24 @@
+{
+  "id": "prd-1004",
+  "name": "Сухари панировочные",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "Для жарки и запекания, 200 г",
+  "kbju": {
+    "calories": 243.4,
+    "protein": 9.6,
+    "fat": 5.4,
+    "carbohydrates": 53.0
+  },
+  "price": 40.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 28,
+  "is_organic": false,
+  "barcode": "8654952119413",
+  "manufacturer": {
+    "name": "ООО «Русский продукт»",
+    "country": "Россия",
+    "website": "https://русскийпродукт.ru",
+    "inn": "0882036165"
+  }
+}

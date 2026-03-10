@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00133",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Октябрина",
+    "last_name": "Сергеева"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на пр. Водников",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Севастополь",
+      "street": "пр. Водников",
+      "house": "5/5",
+      "postal_code": "317340",
+      "coordinates": {
+        "latitude": 44.608385,
+        "longitude": 33.524218
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1032",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 850.0,
+      "kbju": {
+        "calories": 60.3,
+        "protein": 1.1,
+        "fat": 0.8,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "3476861227"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Закваска для йогурта",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 89.6,
+        "protein": 7.7,
+        "fat": 11.2,
+        "carbohydrates": 3.1
+      },
+      "manufacturer": {
+        "name": "ООО «Молочная культура»",
+        "country": "Россия",
+        "website": "https://молочнаякультура.ru",
+        "inn": "4147659609"
+      }
+    }
+  ],
+  "total_amount": 970.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "пер. Высотный",
+    "house": "187",
+    "apartment": "73",
+    "postal_code": "360621"
+  },
+  "purchase_datetime": "2026-01-13T17:57:36.240909"
+}

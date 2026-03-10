@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00058",
+  "customer": {
+    "customer_id": "cus-1000",
+    "first_name": "Алевтина",
+    "last_name": "Терентьева"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на пр. Торговый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Москва",
+      "street": "пр. Торговый",
+      "house": "371",
+      "postal_code": "184061",
+      "coordinates": {
+        "latitude": 55.749273,
+        "longitude": 37.611333
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1044",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 500.0,
+      "kbju": {
+        "calories": 35.1,
+        "protein": 2.4,
+        "fat": 0.3,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "1731751304"
+      }
+    },
+    {
+      "product_id": "prd-1020",
+      "name": "Йогурт греческий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 194.0,
+        "protein": 9.6,
+        "fat": 1.7,
+        "carbohydrates": 7.9
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3936658627"
+      }
+    }
+  ],
+  "total_amount": 600.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Киров",
+    "street": "ул. Декабристов",
+    "house": "1",
+    "apartment": "64",
+    "postal_code": "133651"
+  },
+  "purchase_datetime": "2026-02-03T17:57:36.173133"
+}

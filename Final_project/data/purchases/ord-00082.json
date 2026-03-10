@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00082",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Марфа",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Кемерово",
+      "street": "наб. 8-е Марта",
+      "house": "932",
+      "postal_code": "679874",
+      "coordinates": {
+        "latitude": 55.35299,
+        "longitude": 86.077364
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Камбала тушка",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 220.0,
+      "total_price": 1100.0,
+      "kbju": {
+        "calories": 264.8,
+        "protein": 27.0,
+        "fat": 21.9,
+        "carbohydrates": 14.4
+      },
+      "manufacturer": {
+        "name": "Дальморепродукт",
+        "country": "Россия",
+        "website": "https://дальморепродукт.ru",
+        "inn": "6271784897"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 170.0,
+      "kbju": {
+        "calories": 60.3,
+        "protein": 1.1,
+        "fat": 0.8,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "3476861227"
+      }
+    }
+  ],
+  "total_amount": 1270.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "наб. Краснофлотская",
+    "house": "2",
+    "apartment": "48",
+    "postal_code": "221508"
+  },
+  "purchase_datetime": "2026-01-05T17:57:36.197191"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00015",
+  "customer": {
+    "customer_id": "cus-1023",
+    "first_name": "Ксения",
+    "last_name": "Савельева"
+  },
+  "store": {
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на пер. Короткий",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Симферополь",
+      "street": "пер. Короткий",
+      "house": "2",
+      "postal_code": "839580",
+      "coordinates": {
+        "latitude": 44.954025,
+        "longitude": 34.119035
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 270.0,
+      "kbju": {
+        "calories": 286.2,
+        "protein": 8.1,
+        "fat": 2.0,
+        "carbohydrates": 57.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "3214656787"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 850.0,
+      "kbju": {
+        "calories": 60.3,
+        "protein": 1.1,
+        "fat": 0.8,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "3476861227"
+      }
+    }
+  ],
+  "total_amount": 1120.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Крупской",
+    "house": "14",
+    "apartment": "97",
+    "postal_code": "966241"
+  },
+  "purchase_datetime": "2026-01-01T17:57:36.141771"
+}

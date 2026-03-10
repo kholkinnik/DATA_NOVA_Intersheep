@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00154",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Октябрина",
+    "last_name": "Сергеева"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на ш. Приозерное",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Балашиха",
+      "street": "ш. Приозерное",
+      "house": "1",
+      "postal_code": "883921",
+      "coordinates": {
+        "latitude": 55.798939,
+        "longitude": 37.929929
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1045",
+      "name": "Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 50.9,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 7.3
+      },
+      "manufacturer": {
+        "name": "ИП «Огородник»",
+        "country": "Россия",
+        "website": "https://огородник.ru",
+        "inn": "9765085333"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Сухари панировочные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 160.0,
+      "kbju": {
+        "calories": 243.4,
+        "protein": 9.6,
+        "fat": 5.4,
+        "carbohydrates": 53.0
+      },
+      "manufacturer": {
+        "name": "ООО «Русский продукт»",
+        "country": "Россия",
+        "website": "https://русскийпродукт.ru",
+        "inn": "0882036165"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Сливки 35%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 77.8,
+        "protein": 10.0,
+        "fat": 7.1,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "1267810496"
+      }
+    }
+  ],
+  "total_amount": 560.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владивосток",
+    "street": "пер. Высотный",
+    "house": "187",
+    "apartment": "73",
+    "postal_code": "360621"
+  },
+  "purchase_datetime": "2026-01-09T17:57:36.260766"
+}

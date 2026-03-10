@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00105",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Ксения",
+    "last_name": "Самсонова"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на алл. Кузнецова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Курск",
+      "street": "алл. Кузнецова",
+      "house": "1",
+      "postal_code": "957961",
+      "coordinates": {
+        "latitude": 51.735868,
+        "longitude": 36.185717
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1034",
+      "name": "Курага",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 600.0,
+      "kbju": {
+        "calories": 82.8,
+        "protein": 0.9,
+        "fat": 0.3,
+        "carbohydrates": 16.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "7277657027"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Шашлык из свинины",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 320.0,
+      "total_price": 640.0,
+      "kbju": {
+        "calories": 154.6,
+        "protein": 21.5,
+        "fat": 3.3,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Шашлычный двор»",
+        "country": "Россия",
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "2754811957"
+      }
+    }
+  ],
+  "total_amount": 1240.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ярославль",
+    "street": "наб. Островского",
+    "house": "4",
+    "apartment": "78",
+    "postal_code": "046482"
+  },
+  "purchase_datetime": "2026-03-05T17:57:36.216722"
+}

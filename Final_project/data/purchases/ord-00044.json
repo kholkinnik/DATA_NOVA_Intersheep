@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00044",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Алина",
+    "last_name": "Борисова"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на ул. Дорожная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Барнаул",
+      "street": "ул. Дорожная",
+      "house": "916",
+      "postal_code": "507430",
+      "coordinates": {
+        "latitude": 53.35194,
+        "longitude": 83.77341
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1012",
+      "name": "Кальмары",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 1250.0,
+      "kbju": {
+        "calories": 165.0,
+        "protein": 29.2,
+        "fat": 3.4,
+        "carbohydrates": 10.6
+      },
+      "manufacturer": {
+        "name": "Дальморепродукт",
+        "country": "Россия",
+        "website": "https://дальморепродукт.ru",
+        "inn": "9287137924"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Кекс столичный",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 286.2,
+        "protein": 8.1,
+        "fat": 2.0,
+        "carbohydrates": 57.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кекс»",
+        "country": "Россия",
+        "website": "https://кекс.ru",
+        "inn": "3214656787"
+      }
+    }
+  ],
+  "total_amount": 1700.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Магнитогорск",
+    "street": "ул. Подлесная",
+    "house": "6",
+    "apartment": "24",
+    "postal_code": "075887"
+  },
+  "purchase_datetime": "2026-01-06T17:57:36.157530"
+}

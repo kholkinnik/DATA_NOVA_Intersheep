@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00175",
+  "customer": {
+    "customer_id": "cus-1019",
+    "first_name": "Евсей",
+    "last_name": "Ковалев"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на алл. Лунная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Белгород",
+      "street": "алл. Лунная",
+      "house": "996",
+      "postal_code": "003029",
+      "coordinates": {
+        "latitude": 50.588138,
+        "longitude": 36.578235
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1042",
+      "name": "Свекла",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 35.0,
+      "total_price": 175.0,
+      "kbju": {
+        "calories": 27.2,
+        "protein": 2.1,
+        "fat": 0.4,
+        "carbohydrates": 2.4
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "5988697644"
+      }
+    },
+    {
+      "product_id": "prd-1049",
+      "name": "Морковь мытая",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 45.0,
+      "total_price": 225.0,
+      "kbju": {
+        "calories": 49.7,
+        "protein": 1.1,
+        "fat": 0.6,
+        "carbohydrates": 6.4
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "4052033610"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Сливки 35%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 400.0,
+      "kbju": {
+        "calories": 77.8,
+        "protein": 10.0,
+        "fat": 7.1,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "1267810496"
+      }
+    }
+  ],
+  "total_amount": 800.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ижевск",
+    "street": "алл. Новая",
+    "house": "68",
+    "apartment": "46",
+    "postal_code": "508121"
+  },
+  "purchase_datetime": "2025-12-28T17:57:36.282741"
+}

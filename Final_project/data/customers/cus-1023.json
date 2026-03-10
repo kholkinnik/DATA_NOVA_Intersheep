@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1023",
+  "first_name": "Ксения",
+  "last_name": "Савельева",
+  "email": "rzuev@example.org",
+  "phone": "86676765810",
+  "birth_date": "1972-05-04",
+  "gender": "female",
+  "registration_date": "2026-01-17T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-EA80414925",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "ш. Ломоносова",
+    "house": "842",
+    "postal_code": "193551",
+    "coordinates": {
+      "latitude": 56.132124,
+      "longitude": 40.387311
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Крупской",
+    "house": "14",
+    "apartment": "97",
+    "postal_code": "966241"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00162",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Мария",
+    "last_name": "Артемьева"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на ш. Крайнее",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "ш. Крайнее",
+      "house": "57",
+      "postal_code": "969550",
+      "coordinates": {
+        "latitude": 51.526265,
+        "longitude": 46.031033
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1023",
+      "name": "Творог 9%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 170.0,
+      "kbju": {
+        "calories": 176.2,
+        "protein": 4.2,
+        "fat": 1.3,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "5126422192"
+      }
+    }
+  ],
+  "total_amount": 170.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Челябинск",
+    "street": "наб. Ангарская",
+    "house": "4/7",
+    "apartment": "98",
+    "postal_code": "356308"
+  },
+  "purchase_datetime": "2026-01-30T17:57:36.266892"
+}

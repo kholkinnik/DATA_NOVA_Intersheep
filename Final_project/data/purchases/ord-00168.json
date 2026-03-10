@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00168",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Александра",
+    "last_name": "Стрелкова"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на пер. Крестьянский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Волгоград",
+      "street": "пер. Крестьянский",
+      "house": "797",
+      "postal_code": "959410",
+      "coordinates": {
+        "latitude": 48.699683,
+        "longitude": 44.515249
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1032",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 850.0,
+      "kbju": {
+        "calories": 60.3,
+        "protein": 1.1,
+        "fat": 0.8,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "3476861227"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 190.0,
+      "kbju": {
+        "calories": 99.7,
+        "protein": 0.8,
+        "fat": 0.4,
+        "carbohydrates": 10.2
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "7966740421"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Булочка для бургера",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "уп",
+      "price_per_unit": 60.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 293.2,
+        "protein": 11.6,
+        "fat": 5.0,
+        "carbohydrates": 56.8
+      },
+      "manufacturer": {
+        "name": "ООО «Булка»",
+        "country": "Россия",
+        "website": "https://булка.ru",
+        "inn": "6303059533"
+      }
+    }
+  ],
+  "total_amount": 1340.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Севастополь",
+    "street": "наб. Дарвина",
+    "house": "43",
+    "apartment": "77",
+    "postal_code": "319629"
+  },
+  "purchase_datetime": "2026-02-05T17:57:36.275295"
+}

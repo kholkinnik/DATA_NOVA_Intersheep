@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00136",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Герман",
+    "last_name": "Попов"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на бул. Севастопольский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Томск",
+      "street": "бул. Севастопольский",
+      "house": "759",
+      "postal_code": "051056",
+      "coordinates": {
+        "latitude": 56.501398,
+        "longitude": 84.963037
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Мороженое пломбир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
+      "kbju": {
+        "calories": 133.0,
+        "protein": 7.5,
+        "fat": 11.1,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ООО «Айсберг»",
+        "country": "Россия",
+        "website": "https://айсберг.ru",
+        "inn": "4545124016"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Сухари панировочные",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 40.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 243.4,
+        "protein": 9.6,
+        "fat": 5.4,
+        "carbohydrates": 53.0
+      },
+      "manufacturer": {
+        "name": "ООО «Русский продукт»",
+        "country": "Россия",
+        "website": "https://русскийпродукт.ru",
+        "inn": "0882036165"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Фасоль белая",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 65.0,
+      "total_price": 195.0,
+      "kbju": {
+        "calories": 154.8,
+        "protein": 15.4,
+        "fat": 10.2,
+        "carbohydrates": 8.1
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "9825245926"
+      }
+    }
+  ],
+  "total_amount": 445.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "ш. Осипенко",
+    "house": "43",
+    "apartment": "20",
+    "postal_code": "673690"
+  },
+  "purchase_datetime": "2026-01-30T17:57:36.242907"
+}

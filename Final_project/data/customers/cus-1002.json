@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1002",
+  "first_name": "Марфа",
+  "last_name": "Меркушева",
+  "email": "reginabelova@example.com",
+  "phone": "8 993 691 53 08",
+  "birth_date": "1973-07-02",
+  "gender": "female",
+  "registration_date": "2026-01-15T17:57:36.095856",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-A77546E0DE",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "бул. Докучаева",
+    "house": "80",
+    "postal_code": "941109",
+    "coordinates": {
+      "latitude": 57.159651,
+      "longitude": 65.530977
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "наб. Краснофлотская",
+    "house": "2",
+    "apartment": "48",
+    "postal_code": "221508"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

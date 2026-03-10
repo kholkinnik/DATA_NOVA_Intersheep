@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00134",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Кира",
+    "last_name": "Бирюкова"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на пр. Водников",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Севастополь",
+      "street": "пр. Водников",
+      "house": "5/5",
+      "postal_code": "317340",
+      "coordinates": {
+        "latitude": 44.608385,
+        "longitude": 33.524218
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1022",
+      "name": "Сыр Моцарелла",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 143.0,
+        "protein": 4.8,
+        "fat": 5.0,
+        "carbohydrates": 9.9
+      },
+      "manufacturer": {
+        "name": "ООО «Италика»",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "8916194523"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Печень куриная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
+      "kbju": {
+        "calories": 158.4,
+        "protein": 16.3,
+        "fat": 7.4,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Северная»",
+        "country": "Россия",
+        "website": "https://птицефабрикасеверная.ru",
+        "inn": "8953760795"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Сыр Плавленый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 35.0,
+      "total_price": 70.0,
+      "kbju": {
+        "calories": 197.8,
+        "protein": 3.9,
+        "fat": 12.6,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сырок»",
+        "country": "Россия",
+        "website": "https://сырок.ru",
+        "inn": "4295304954"
+      }
+    }
+  ],
+  "total_amount": 500.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Кемерово",
+    "street": "бул. Толбухина",
+    "house": "6",
+    "apartment": "83",
+    "postal_code": "866936"
+  },
+  "purchase_datetime": "2026-01-20T17:57:36.241908"
+}

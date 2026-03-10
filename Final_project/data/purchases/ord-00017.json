@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00017",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Трифон",
+    "last_name": "Шубин"
+  },
+  "store": {
+    "store_id": "store-027",
+    "store_name": "Большая Пикча — Магазин на ул. Восточная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ростов-на-Дону",
+      "street": "ул. Восточная",
+      "house": "9",
+      "postal_code": "620753",
+      "coordinates": {
+        "latitude": 47.232524,
+        "longitude": 39.706131
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1028",
+      "name": "Сыр Плавленый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 35.0,
+      "total_price": 140.0,
+      "kbju": {
+        "calories": 197.8,
+        "protein": 3.9,
+        "fat": 12.6,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сырок»",
+        "country": "Россия",
+        "website": "https://сырок.ru",
+        "inn": "4295304954"
+      }
+    },
+    {
+      "product_id": "prd-1038",
+      "name": "Чернослив",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 33.4,
+        "protein": 1.3,
+        "fat": 0.5,
+        "carbohydrates": 18.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "5737508318"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "кг",
+      "price_per_unit": 95.0,
+      "total_price": 190.0,
+      "kbju": {
+        "calories": 79.7,
+        "protein": 1.0,
+        "fat": 0.2,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Эко-Фрукты",
+        "country": "Россия",
+        "website": "https://эко-фрукты.ru",
+        "inn": "4842169369"
+      }
+    }
+  ],
+  "total_amount": 530.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ростов-на-Дону",
+    "street": "пер. Ленинский",
+    "house": "3",
+    "apartment": "59",
+    "postal_code": "873517"
+  },
+  "purchase_datetime": "2026-01-12T17:57:36.142766"
+}

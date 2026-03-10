@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00072",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Конон",
+    "last_name": "Бобров"
+  },
+  "store": {
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на наб. Целинная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Челябинск",
+      "street": "наб. Целинная",
+      "house": "34",
+      "postal_code": "748924",
+      "coordinates": {
+        "latitude": 55.163174,
+        "longitude": 61.431151
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1045",
+      "name": "Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 50.9,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 7.3
+      },
+      "manufacturer": {
+        "name": "ИП «Огородник»",
+        "country": "Россия",
+        "website": "https://огородник.ru",
+        "inn": "9765085333"
+      }
+    }
+  ],
+  "total_amount": 450.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "пер. Физкультурный",
+    "house": "5",
+    "apartment": "3",
+    "postal_code": "063371"
+  },
+  "purchase_datetime": "2026-01-14T17:57:36.188159"
+}

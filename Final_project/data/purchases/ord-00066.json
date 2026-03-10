@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00066",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Марфа",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на наб. Смоленская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "наб. Смоленская",
+      "house": "6",
+      "postal_code": "109913",
+      "coordinates": {
+        "latitude": 57.145189,
+        "longitude": 65.528693
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Мороженое пломбир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 390.0,
+      "kbju": {
+        "calories": 133.0,
+        "protein": 7.5,
+        "fat": 11.1,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ООО «Айсберг»",
+        "country": "Россия",
+        "website": "https://айсберг.ru",
+        "inn": "4545124016"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Баранина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "кг",
+      "price_per_unit": 550.0,
+      "total_price": 550.0,
+      "kbju": {
+        "calories": 207.8,
+        "protein": 24.4,
+        "fat": 13.3,
+        "carbohydrates": 2.3
+      },
+      "manufacturer": {
+        "name": "ООО «Фермерское мясо»",
+        "country": "Россия",
+        "website": "https://фермерскоемясо.ru",
+        "inn": "9820475358"
+      }
+    }
+  ],
+  "total_amount": 940.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "наб. Краснофлотская",
+    "house": "2",
+    "apartment": "48",
+    "postal_code": "221508"
+  },
+  "purchase_datetime": "2026-01-20T17:57:36.183168"
+}

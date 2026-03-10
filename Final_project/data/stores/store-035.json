@@ -1,0 +1,39 @@
+{
+  "store_id": "store-035",
+  "store_name": "Маленькая Пикча — Магазин на пер. Луначарского",
+  "store_network": "Маленькая Пикча",
+  "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
+  "type": "offline",
+  "categories": [
+    "🥖 Зерновые и хлебобулочные изделия",
+    "🥩 Мясо, рыба, яйца и бобовые",
+    "🥛 Молочные продукты",
+    "🍏 Фрукты и ягоды",
+    "🥦 Овощи и зелень"
+  ],
+  "manager": {
+    "name": "Комаров Георгий Егорович",
+    "phone": "8 029 475 6074",
+    "email": "jkolesnikova@example.org"
+  },
+  "location": {
+    "country": "Россия",
+    "city": "Омск",
+    "street": "пер. Луначарского",
+    "house": "2/8",
+    "postal_code": "213562",
+    "coordinates": {
+      "latitude": 54.990091,
+      "longitude": 73.362958
+    }
+  },
+  "opening_hours": {
+    "mon_fri": "09:00-21:00",
+    "sat": "10:00-20:00",
+    "sun": "10:00-18:00"
+  },
+  "accepts_online_orders": true,
+  "delivery_available": true,
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-03-09"
+}

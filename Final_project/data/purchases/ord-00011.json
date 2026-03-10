@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00011",
+  "customer": {
+    "customer_id": "cus-1036",
+    "first_name": "Гаврила",
+    "last_name": "Елисеев"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на бул. Февральский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ижевск",
+      "street": "бул. Февральский",
+      "house": "80",
+      "postal_code": "329029",
+      "coordinates": {
+        "latitude": 56.847632,
+        "longitude": 53.206254
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "name": "Печень куриная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 110.0,
+      "kbju": {
+        "calories": 158.4,
+        "protein": 16.3,
+        "fat": 7.4,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Северная»",
+        "country": "Россия",
+        "website": "https://птицефабрикасеверная.ru",
+        "inn": "8953760795"
+      }
+    }
+  ],
+  "total_amount": 110.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ш. Жукова",
+    "house": "7",
+    "apartment": "1",
+    "postal_code": "164588"
+  },
+  "purchase_datetime": "2026-01-02T17:57:36.138146"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00039",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Иннокентий",
+    "last_name": "Мельников"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на пр. Дзержинского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Самара",
+      "street": "пр. Дзержинского",
+      "house": "18",
+      "postal_code": "824453",
+      "coordinates": {
+        "latitude": 53.251358,
+        "longitude": 50.223879
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1020",
+      "name": "Йогурт греческий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 50.0,
+      "kbju": {
+        "calories": 194.0,
+        "protein": 9.6,
+        "fat": 1.7,
+        "carbohydrates": 7.9
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3936658627"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Сыр Плавленый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 35.0,
+      "total_price": 105.0,
+      "kbju": {
+        "calories": 197.8,
+        "protein": 3.9,
+        "fat": 12.6,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сырок»",
+        "country": "Россия",
+        "website": "https://сырок.ru",
+        "inn": "4295304954"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Овсяные хлопья",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 45.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 238.1,
+        "protein": 12.0,
+        "fat": 4.7,
+        "carbohydrates": 51.5
+      },
+      "manufacturer": {
+        "name": "ООО «Овсянка»",
+        "country": "Россия",
+        "website": "https://овсянка.ru",
+        "inn": "0162446009"
+      }
+    }
+  ],
+  "total_amount": 245.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "ул. Овражная",
+    "house": "9/5",
+    "apartment": "80",
+    "postal_code": "322141"
+  },
+  "purchase_datetime": "2025-12-18T17:57:36.157530"
+}

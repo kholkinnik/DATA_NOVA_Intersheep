@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1036",
+  "first_name": "Гаврила",
+  "last_name": "Елисеев",
+  "email": "evgraf_2006@example.org",
+  "phone": "+7 (612) 857-8941",
+  "birth_date": "1969-10-07",
+  "gender": "male",
+  "registration_date": "2026-01-22T17:57:36.124037",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-5502CB31D3",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "бул. Севастопольский",
+    "house": "759",
+    "postal_code": "051056",
+    "coordinates": {
+      "latitude": 56.501398,
+      "longitude": 84.963037
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Томск",
+    "street": "ш. Жукова",
+    "house": "7",
+    "apartment": "1",
+    "postal_code": "164588"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

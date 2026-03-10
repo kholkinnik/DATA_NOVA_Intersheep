@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00022",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Азарий",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на пер. Володарского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Чебоксары",
+      "street": "пер. Володарского",
+      "house": "182",
+      "postal_code": "505264",
+      "coordinates": {
+        "latitude": 56.139571,
+        "longitude": 47.246618
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1033",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 95.0,
+      "kbju": {
+        "calories": 99.7,
+        "protein": 0.8,
+        "fat": 0.4,
+        "carbohydrates": 10.2
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "7966740421"
+      }
+    }
+  ],
+  "total_amount": 95.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "пр. Ярославский",
+    "house": "4/2",
+    "apartment": "83",
+    "postal_code": "481830"
+  },
+  "purchase_datetime": "2026-01-25T17:57:36.146442"
+}

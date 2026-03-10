@@ -1,0 +1,39 @@
+{
+  "store_id": "store-003",
+  "store_name": "Большая Пикча — Магазин на бул. Докучаева",
+  "store_network": "Большая Пикча",
+  "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
+  "type": "offline",
+  "categories": [
+    "🥖 Зерновые и хлебобулочные изделия",
+    "🥩 Мясо, рыба, яйца и бобовые",
+    "🥛 Молочные продукты",
+    "🍏 Фрукты и ягоды",
+    "🥦 Овощи и зелень"
+  ],
+  "manager": {
+    "name": "Зуев Тихон Артемьевич",
+    "phone": "8 (665) 917-5818",
+    "email": "fade_37@example.org"
+  },
+  "location": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "бул. Докучаева",
+    "house": "80",
+    "postal_code": "941109",
+    "coordinates": {
+      "latitude": 57.159651,
+      "longitude": 65.530977
+    }
+  },
+  "opening_hours": {
+    "mon_fri": "09:00-21:00",
+    "sat": "10:00-20:00",
+    "sun": "10:00-18:00"
+  },
+  "accepts_online_orders": true,
+  "delivery_available": true,
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-03-09"
+}

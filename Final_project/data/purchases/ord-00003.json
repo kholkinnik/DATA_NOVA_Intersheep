@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00003",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Азарий",
+    "last_name": "Макаров"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на алл. Гагарина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Балашиха",
+      "street": "алл. Гагарина",
+      "house": "53",
+      "postal_code": "841356",
+      "coordinates": {
+        "latitude": 55.803592,
+        "longitude": 37.930922
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "name": "Печень куриная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 330.0,
+      "kbju": {
+        "calories": 158.4,
+        "protein": 16.3,
+        "fat": 7.4,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Северная»",
+        "country": "Россия",
+        "website": "https://птицефабрикасеверная.ru",
+        "inn": "8953760795"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Арбуз",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 750.0,
+      "kbju": {
+        "calories": 92.1,
+        "protein": 0.5,
+        "fat": 0.2,
+        "carbohydrates": 18.4
+      },
+      "manufacturer": {
+        "name": "Астраханские арбузы",
+        "country": "Россия",
+        "website": "https://астраханскиеарбузы.ru",
+        "inn": "6713441892"
+      }
+    }
+  ],
+  "total_amount": 1080.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "пр. Ярославский",
+    "house": "4/2",
+    "apartment": "83",
+    "postal_code": "481830"
+  },
+  "purchase_datetime": "2026-03-06T17:57:36.131870"
+}

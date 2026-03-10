@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00135",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Александра",
+    "last_name": "Стрелкова"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Карла Маркса",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ульяновск",
+      "street": "пер. Карла Маркса",
+      "house": "8/7",
+      "postal_code": "507091",
+      "coordinates": {
+        "latitude": 54.32274,
+        "longitude": 48.393284
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1026",
+      "name": "Сыр Маасдам",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 250.0,
+      "kbju": {
+        "calories": 87.2,
+        "protein": 4.1,
+        "fat": 6.0,
+        "carbohydrates": 4.6
+      },
+      "manufacturer": {
+        "name": "ООО «Сыробогатов»",
+        "country": "Россия",
+        "website": "https://сыробогатов.ru",
+        "inn": "5185580479"
+      }
+    },
+    {
+      "product_id": "prd-1024",
+      "name": "Йогурт питьевой клубничный",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 48.0,
+      "kbju": {
+        "calories": 151.1,
+        "protein": 9.0,
+        "fat": 11.5,
+        "carbohydrates": 12.0
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3928715855"
+      }
+    }
+  ],
+  "total_amount": 298.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Севастополь",
+    "street": "наб. Дарвина",
+    "house": "43",
+    "apartment": "77",
+    "postal_code": "319629"
+  },
+  "purchase_datetime": "2026-02-26T17:57:36.241908"
+}

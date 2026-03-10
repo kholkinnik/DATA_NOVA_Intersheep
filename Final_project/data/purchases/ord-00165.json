@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00165",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Иванна",
+    "last_name": "Орлова"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на бул. Серова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Чебоксары",
+      "street": "бул. Серова",
+      "house": "906",
+      "postal_code": "969267",
+      "coordinates": {
+        "latitude": 56.150128,
+        "longitude": 47.255986
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "name": "Печень куриная",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 110.0,
+      "total_price": 110.0,
+      "kbju": {
+        "calories": 158.4,
+        "protein": 16.3,
+        "fat": 7.4,
+        "carbohydrates": 13.5
+      },
+      "manufacturer": {
+        "name": "Птицефабрика «Северная»",
+        "country": "Россия",
+        "website": "https://птицефабрикасеверная.ru",
+        "inn": "8953760795"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Пельмени русские",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "уп",
+      "price_per_unit": 130.0,
+      "total_price": 260.0,
+      "kbju": {
+        "calories": 290.9,
+        "protein": 18.9,
+        "fat": 5.2,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ООО «Сибирский гурман»",
+        "country": "Россия",
+        "website": "https://сибирскийгурман.ru",
+        "inn": "8707694030"
+      }
+    }
+  ],
+  "total_amount": 370.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Улан-Удэ",
+    "street": "алл. Димитрова",
+    "house": "387",
+    "apartment": "72",
+    "postal_code": "231661"
+  },
+  "purchase_datetime": "2026-03-07T17:57:36.270336"
+}

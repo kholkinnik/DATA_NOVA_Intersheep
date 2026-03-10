@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00113",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Исидор",
+    "last_name": "Ефремов"
+  },
+  "store": {
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на пер. Луначарского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Омск",
+      "street": "пер. Луначарского",
+      "house": "2/8",
+      "postal_code": "213562",
+      "coordinates": {
+        "latitude": 54.990091,
+        "longitude": 73.362958
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Булочка для бургера",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "уп",
+      "price_per_unit": 60.0,
+      "total_price": 60.0,
+      "kbju": {
+        "calories": 293.2,
+        "protein": 11.6,
+        "fat": 5.0,
+        "carbohydrates": 56.8
+      },
+      "manufacturer": {
+        "name": "ООО «Булка»",
+        "country": "Россия",
+        "website": "https://булка.ru",
+        "inn": "6303059533"
+      }
+    }
+  ],
+  "total_amount": 60.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Саратов",
+    "street": "ш. Союзное",
+    "house": "2/3",
+    "apartment": "56",
+    "postal_code": "135471"
+  },
+  "purchase_datetime": "2026-01-14T17:57:36.226078"
+}

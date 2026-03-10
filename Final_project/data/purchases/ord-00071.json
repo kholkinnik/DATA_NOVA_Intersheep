@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00071",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Андроник",
+    "last_name": "Капустин"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на ул. Дорожная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Барнаул",
+      "street": "ул. Дорожная",
+      "house": "916",
+      "postal_code": "507430",
+      "coordinates": {
+        "latitude": 53.35194,
+        "longitude": 83.77341
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1023",
+      "name": "Творог 9%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 340.0,
+      "kbju": {
+        "calories": 176.2,
+        "protein": 4.2,
+        "fat": 1.3,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "5126422192"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 95.0,
+      "total_price": 475.0,
+      "kbju": {
+        "calories": 79.7,
+        "protein": 1.0,
+        "fat": 0.2,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Эко-Фрукты",
+        "country": "Россия",
+        "website": "https://эко-фрукты.ru",
+        "inn": "4842169369"
+      }
+    }
+  ],
+  "total_amount": 815.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Самара",
+    "street": "наб. Безымянная",
+    "house": "448",
+    "apartment": "26",
+    "postal_code": "146639"
+  },
+  "purchase_datetime": "2025-12-29T17:57:36.188159"
+}

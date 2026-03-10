@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1024",
+  "first_name": "Ермолай",
+  "last_name": "Котов",
+  "email": "zuevmoke@example.net",
+  "phone": "+7 (546) 004-78-03",
+  "birth_date": "1981-06-07",
+  "gender": "male",
+  "registration_date": "2026-02-24T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-9A73B34C14",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Красноярск",
+    "street": "ш. Островского",
+    "house": "2",
+    "postal_code": "556125",
+    "coordinates": {
+      "latitude": 56.019131,
+      "longitude": 92.850536
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Красноярск",
+    "street": "пр. Тельмана",
+    "house": "6/3",
+    "apartment": "5",
+    "postal_code": "201224"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

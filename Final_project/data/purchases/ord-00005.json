@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00005",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Конон",
+    "last_name": "Бобров"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на ш. Водников",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владивосток",
+      "street": "ш. Водников",
+      "house": "2",
+      "postal_code": "061270",
+      "coordinates": {
+        "latitude": 43.141065,
+        "longitude": 131.912086
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1037",
+      "name": "Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 95.0,
+      "total_price": 285.0,
+      "kbju": {
+        "calories": 79.7,
+        "protein": 1.0,
+        "fat": 0.2,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Эко-Фрукты",
+        "country": "Россия",
+        "website": "https://эко-фрукты.ru",
+        "inn": "4842169369"
+      }
+    }
+  ],
+  "total_amount": 285.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "пер. Физкультурный",
+    "house": "5",
+    "apartment": "3",
+    "postal_code": "063371"
+  },
+  "purchase_datetime": "2026-03-05T17:57:36.134188"
+}

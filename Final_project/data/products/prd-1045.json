@@ -1,0 +1,24 @@
+{
+  "id": "prd-1045",
+  "name": "Чеснок",
+  "group": "🥦 Овощи и зелень",
+  "description": "Головки чеснока, 1 кг",
+  "kbju": {
+    "calories": 50.9,
+    "protein": 1.4,
+    "fat": 0.6,
+    "carbohydrates": 7.3
+  },
+  "price": 150.0,
+  "unit": "кг",
+  "origin_country": "Россия",
+  "expiry_days": 11,
+  "is_organic": true,
+  "barcode": "5311035444161",
+  "manufacturer": {
+    "name": "ИП «Огородник»",
+    "country": "Россия",
+    "website": "https://огородник.ru",
+    "inn": "9765085333"
+  }
+}

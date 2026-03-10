@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1026",
+  "first_name": "Трифон",
+  "last_name": "Шубин",
+  "email": "pfrolova@example.com",
+  "phone": "8 (424) 415-1951",
+  "birth_date": "2007-09-14",
+  "gender": "male",
+  "registration_date": "2026-03-06T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-FA07535112",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Ростов-на-Дону",
+    "street": "ул. Восточная",
+    "house": "9",
+    "postal_code": "620753",
+    "coordinates": {
+      "latitude": 47.232524,
+      "longitude": 39.706131
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ростов-на-Дону",
+    "street": "пер. Ленинский",
+    "house": "3",
+    "apartment": "59",
+    "postal_code": "873517"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

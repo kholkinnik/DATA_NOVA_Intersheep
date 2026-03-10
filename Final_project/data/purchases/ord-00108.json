@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00108",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Иванна",
+    "last_name": "Орлова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ш. Островского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Красноярск",
+      "street": "ш. Островского",
+      "house": "2",
+      "postal_code": "556125",
+      "coordinates": {
+        "latitude": 56.019131,
+        "longitude": 92.850536
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1021",
+      "name": "Айран",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 110.0,
+      "kbju": {
+        "calories": 74.9,
+        "protein": 4.1,
+        "fat": 2.1,
+        "carbohydrates": 4.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "1947487566"
+      }
+    },
+    {
+      "product_id": "prd-1020",
+      "name": "Йогурт греческий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 50.0,
+      "kbju": {
+        "calories": 194.0,
+        "protein": 9.6,
+        "fat": 1.7,
+        "carbohydrates": 7.9
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3936658627"
+      }
+    }
+  ],
+  "total_amount": 160.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Улан-Удэ",
+    "street": "алл. Димитрова",
+    "house": "387",
+    "apartment": "72",
+    "postal_code": "231661"
+  },
+  "purchase_datetime": "2026-02-17T17:57:36.219872"
+}

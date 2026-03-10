@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00077",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Герман",
+    "last_name": "Попов"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на алл. З.Космодемьянской",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Красноярск",
+      "street": "алл. З.Космодемьянской",
+      "house": "68",
+      "postal_code": "882212",
+      "coordinates": {
+        "latitude": 56.003083,
+        "longitude": 92.853782
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Печенье сахарное",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 70.0,
+      "total_price": 70.0,
+      "kbju": {
+        "calories": 324.2,
+        "protein": 6.0,
+        "fat": 2.0,
+        "carbohydrates": 41.9
+      },
+      "manufacturer": {
+        "name": "ООО «Кондитер»",
+        "country": "Россия",
+        "website": "https://кондитер.ru",
+        "inn": "1078687409"
+      }
+    }
+  ],
+  "total_amount": 70.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "ш. Осипенко",
+    "house": "43",
+    "apartment": "20",
+    "postal_code": "673690"
+  },
+  "purchase_datetime": "2025-12-27T17:57:36.192672"
+}

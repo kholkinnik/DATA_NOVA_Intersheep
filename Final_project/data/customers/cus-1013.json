@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1013",
+  "first_name": "Игорь",
+  "last_name": "Комаров",
+  "email": "innokenti2025@example.com",
+  "phone": "8 (409) 582-5601",
+  "birth_date": "1996-12-12",
+  "gender": "male",
+  "registration_date": "2026-01-04T17:57:36.106200",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-5E41F25128",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "пер. Володарского",
+    "house": "182",
+    "postal_code": "505264",
+    "coordinates": {
+      "latitude": 56.139571,
+      "longitude": 47.246618
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "пр. Марта 8",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "045325"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

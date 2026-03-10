@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00002",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Конон",
+    "last_name": "Бобров"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на ул. Вокзальная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Екатеринбург",
+      "street": "ул. Вокзальная",
+      "house": "35",
+      "postal_code": "932596",
+      "coordinates": {
+        "latitude": 56.830604,
+        "longitude": 60.608126
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1025",
+      "name": "Сливки 35%",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 77.8,
+        "protein": 10.0,
+        "fat": 7.1,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Простоквашино",
+        "country": "Россия",
+        "website": "https://простоквашино.ru",
+        "inn": "1267810496"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Арбуз",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 1250.0,
+      "kbju": {
+        "calories": 92.1,
+        "protein": 0.5,
+        "fat": 0.2,
+        "carbohydrates": 18.4
+      },
+      "manufacturer": {
+        "name": "Астраханские арбузы",
+        "country": "Россия",
+        "website": "https://астраханскиеарбузы.ru",
+        "inn": "6713441892"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Гречка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 75.0,
+      "total_price": 150.0,
+      "kbju": {
+        "calories": 240.3,
+        "protein": 11.7,
+        "fat": 4.8,
+        "carbohydrates": 50.5
+      },
+      "manufacturer": {
+        "name": "ООО «Мистраль»",
+        "country": "Россия",
+        "website": "https://мистраль.ru",
+        "inn": "6141052240"
+      }
+    }
+  ],
+  "total_amount": 1500.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Тюмень",
+    "street": "пер. Физкультурный",
+    "house": "5",
+    "apartment": "3",
+    "postal_code": "063371"
+  },
+  "purchase_datetime": "2025-12-19T17:57:36.128402"
+}

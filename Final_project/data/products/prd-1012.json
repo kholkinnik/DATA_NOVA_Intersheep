@@ -1,0 +1,24 @@
+{
+  "id": "prd-1012",
+  "name": "Кальмары",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Замороженные тушки, 500 г",
+  "kbju": {
+    "calories": 165.0,
+    "protein": 29.2,
+    "fat": 3.4,
+    "carbohydrates": 10.6
+  },
+  "price": 250.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 25,
+  "is_organic": true,
+  "barcode": "7898744554216",
+  "manufacturer": {
+    "name": "Дальморепродукт",
+    "country": "Россия",
+    "website": "https://дальморепродукт.ru",
+    "inn": "9287137924"
+  }
+}

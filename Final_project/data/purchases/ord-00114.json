@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00114",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Иннокентий",
+    "last_name": "Мельников"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на алл. Гагарина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Балашиха",
+      "street": "алл. Гагарина",
+      "house": "53",
+      "postal_code": "841356",
+      "coordinates": {
+        "latitude": 55.803592,
+        "longitude": 37.930922
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1021",
+      "name": "Айран",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 275.0,
+      "kbju": {
+        "calories": 74.9,
+        "protein": 4.1,
+        "fat": 2.1,
+        "carbohydrates": 4.5
+      },
+      "manufacturer": {
+        "name": "ООО «Молочный край»",
+        "country": "Россия",
+        "website": "https://молочныйкрай.ru",
+        "inn": "1947487566"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Абрикосы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 170.0,
+      "total_price": 510.0,
+      "kbju": {
+        "calories": 60.3,
+        "protein": 1.1,
+        "fat": 0.8,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кубанские фрукты",
+        "country": "Россия",
+        "website": "https://кубанскиефрукты.ru",
+        "inn": "3476861227"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Камбала тушка",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "кг",
+      "price_per_unit": 220.0,
+      "total_price": 880.0,
+      "kbju": {
+        "calories": 264.8,
+        "protein": 27.0,
+        "fat": 21.9,
+        "carbohydrates": 14.4
+      },
+      "manufacturer": {
+        "name": "Дальморепродукт",
+        "country": "Россия",
+        "website": "https://дальморепродукт.ru",
+        "inn": "6271784897"
+      }
+    }
+  ],
+  "total_amount": 1665.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Белгород",
+    "street": "ул. Овражная",
+    "house": "9/5",
+    "apartment": "80",
+    "postal_code": "322141"
+  },
+  "purchase_datetime": "2026-02-02T17:57:36.226078"
+}

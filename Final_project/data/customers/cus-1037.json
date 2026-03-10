@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1037",
+  "first_name": "Ксения",
+  "last_name": "Самсонова",
+  "email": "reginakudrjavtseva@example.org",
+  "phone": "8 (092) 753-2189",
+  "birth_date": "1958-06-09",
+  "gender": "female",
+  "registration_date": "2025-12-28T17:57:36.125035",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-9B57D9B576",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Ярославль",
+    "street": "алл. Лесная",
+    "house": "706",
+    "postal_code": "021505",
+    "coordinates": {
+      "latitude": 57.633645,
+      "longitude": 39.884674
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ярославль",
+    "street": "наб. Островского",
+    "house": "4",
+    "apartment": "78",
+    "postal_code": "046482"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

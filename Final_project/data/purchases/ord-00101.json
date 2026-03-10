@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00101",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Герман",
+    "last_name": "Попов"
+  },
+  "store": {
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на ул. Павлова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Улан-Удэ",
+      "street": "ул. Павлова",
+      "house": "6/6",
+      "postal_code": "942779",
+      "coordinates": {
+        "latitude": 51.827445,
+        "longitude": 107.583893
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1048",
+      "name": "Редис",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 60.0,
+      "kbju": {
+        "calories": 30.7,
+        "protein": 1.3,
+        "fat": 0.3,
+        "carbohydrates": 10.0
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "6503657799"
+      }
+    },
+    {
+      "product_id": "prd-1045",
+      "name": "Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 750.0,
+      "kbju": {
+        "calories": 50.9,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 7.3
+      },
+      "manufacturer": {
+        "name": "ИП «Огородник»",
+        "country": "Россия",
+        "website": "https://огородник.ru",
+        "inn": "9765085333"
+      }
+    }
+  ],
+  "total_amount": 810.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "ш. Осипенко",
+    "house": "43",
+    "apartment": "20",
+    "postal_code": "673690"
+  },
+  "purchase_datetime": "2025-12-30T17:57:36.214118"
+}

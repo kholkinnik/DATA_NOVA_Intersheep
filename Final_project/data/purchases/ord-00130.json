@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00130",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Анжелика",
+    "last_name": "Носова"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на ул. 50 лет Октября",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Москва",
+      "street": "ул. 50 лет Октября",
+      "house": "2/5",
+      "postal_code": "674748",
+      "coordinates": {
+        "latitude": 55.757578,
+        "longitude": 37.626976
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1038",
+      "name": "Чернослив",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 100.0,
+      "kbju": {
+        "calories": 33.4,
+        "protein": 1.3,
+        "fat": 0.5,
+        "carbohydrates": 18.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "5737508318"
+      }
+    }
+  ],
+  "total_amount": 100.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "пер. Ватутина",
+    "house": "7",
+    "apartment": "47",
+    "postal_code": "342287"
+  },
+  "purchase_datetime": "2026-01-20T17:57:36.238906"
+}

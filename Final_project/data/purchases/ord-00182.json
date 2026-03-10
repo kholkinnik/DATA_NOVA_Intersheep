@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00182",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Глафира",
+    "last_name": "Рябова"
+  },
+  "store": {
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на ул. Павлова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Улан-Удэ",
+      "street": "ул. Павлова",
+      "house": "6/6",
+      "postal_code": "942779",
+      "coordinates": {
+        "latitude": 51.827445,
+        "longitude": 107.583893
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1043",
+      "name": "Квашеная капуста",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 180.0,
+      "kbju": {
+        "calories": 36.9,
+        "protein": 3.0,
+        "fat": 0.5,
+        "carbohydrates": 3.9
+      },
+      "manufacturer": {
+        "name": "ИП «Соленья»",
+        "country": "Россия",
+        "website": "https://соленья.ru",
+        "inn": "8202780478"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Шашлык из свинины",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 320.0,
+      "total_price": 640.0,
+      "kbju": {
+        "calories": 154.6,
+        "protein": 21.5,
+        "fat": 3.3,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Шашлычный двор»",
+        "country": "Россия",
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "2754811957"
+      }
+    }
+  ],
+  "total_amount": 820.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Улан-Удэ",
+    "street": "пер. Ручейный",
+    "house": "1",
+    "apartment": "62",
+    "postal_code": "051294"
+  },
+  "purchase_datetime": "2026-01-10T17:57:36.290274"
+}

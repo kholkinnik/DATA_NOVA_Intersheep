@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00021",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Ермолай",
+    "last_name": "Котов"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на пер. Прудный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Саратов",
+      "street": "пер. Прудный",
+      "house": "9/9",
+      "postal_code": "854352",
+      "coordinates": {
+        "latitude": 51.525155,
+        "longitude": 46.026787
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1040",
+      "name": "Лук зеленый",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 20.0,
+      "total_price": 60.0,
+      "kbju": {
+        "calories": 42.2,
+        "protein": 1.3,
+        "fat": 0.2,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "ИП «Зелень»",
+        "country": "Россия",
+        "website": "https://зелень.ru",
+        "inn": "1272106545"
+      }
+    },
+    {
+      "product_id": "prd-1030",
+      "name": "Грейпфрут",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 1.5,
+        "fat": 0.6,
+        "carbohydrates": 7.7
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "2114424981"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Кальмары",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 750.0,
+      "kbju": {
+        "calories": 165.0,
+        "protein": 29.2,
+        "fat": 3.4,
+        "carbohydrates": 10.6
+      },
+      "manufacturer": {
+        "name": "Дальморепродукт",
+        "country": "Россия",
+        "website": "https://дальморепродукт.ru",
+        "inn": "9287137924"
+      }
+    }
+  ],
+  "total_amount": 1010.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Красноярск",
+    "street": "пр. Тельмана",
+    "house": "6/3",
+    "apartment": "5",
+    "postal_code": "201224"
+  },
+  "purchase_datetime": "2025-12-21T17:57:36.146442"
+}

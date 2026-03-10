@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00018",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Василиса",
+    "last_name": "Семенова"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на алл. Лесная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ярославль",
+      "street": "алл. Лесная",
+      "house": "706",
+      "postal_code": "021505",
+      "coordinates": {
+        "latitude": 57.633645,
+        "longitude": 39.884674
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1034",
+      "name": "Курага",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 360.0,
+      "kbju": {
+        "calories": 82.8,
+        "protein": 0.9,
+        "fat": 0.3,
+        "carbohydrates": 16.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сухофрукты»",
+        "country": "Россия",
+        "website": "https://сухофрукты.ru",
+        "inn": "7277657027"
+      }
+    },
+    {
+      "product_id": "prd-1030",
+      "name": "Грейпфрут",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 50.0,
+      "total_price": 200.0,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 1.5,
+        "fat": 0.6,
+        "carbohydrates": 7.7
+      },
+      "manufacturer": {
+        "name": "ИП Цитрус",
+        "country": "Россия",
+        "website": "https://цитрус.ru",
+        "inn": "2114424981"
+      }
+    }
+  ],
+  "total_amount": 560.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Омск",
+    "street": "бул. Марта 8",
+    "house": "723",
+    "apartment": "72",
+    "postal_code": "797273"
+  },
+  "purchase_datetime": "2025-12-23T17:57:36.144213"
+}

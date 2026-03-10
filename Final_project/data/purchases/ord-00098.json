@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00098",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Исидор",
+    "last_name": "Ефремов"
+  },
+  "store": {
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на пер. Луначарского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Омск",
+      "street": "пер. Луначарского",
+      "house": "2/8",
+      "postal_code": "213562",
+      "coordinates": {
+        "latitude": 54.990091,
+        "longitude": 73.362958
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Мука пшеничная в/с",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 85.0,
+      "total_price": 340.0,
+      "kbju": {
+        "calories": 254.9,
+        "protein": 9.5,
+        "fat": 1.1,
+        "carbohydrates": 52.4
+      },
+      "manufacturer": {
+        "name": "ООО «Мельница»",
+        "country": "Россия",
+        "website": "https://мельница.ru",
+        "inn": "1484891216"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Хлеб Бородинский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 220.0,
+      "kbju": {
+        "calories": 302.2,
+        "protein": 7.5,
+        "fat": 5.4,
+        "carbohydrates": 42.0
+      },
+      "manufacturer": {
+        "name": "ООО «Коломенский пекарь»",
+        "country": "Россия",
+        "website": "https://коломенскийпекарь.ru",
+        "inn": "1868975782"
+      }
+    }
+  ],
+  "total_amount": 560.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Саратов",
+    "street": "ш. Союзное",
+    "house": "2/3",
+    "apartment": "56",
+    "postal_code": "135471"
+  },
+  "purchase_datetime": "2026-02-25T17:57:36.211597"
+}

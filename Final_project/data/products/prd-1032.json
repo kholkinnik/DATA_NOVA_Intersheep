@@ -1,0 +1,24 @@
+{
+  "id": "prd-1032",
+  "name": "Абрикосы",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Сладкие абрикосы, 1 кг",
+  "kbju": {
+    "calories": 60.3,
+    "protein": 1.1,
+    "fat": 0.8,
+    "carbohydrates": 18.0
+  },
+  "price": 170.0,
+  "unit": "кг",
+  "origin_country": "Россия",
+  "expiry_days": 27,
+  "is_organic": true,
+  "barcode": "8287678366955",
+  "manufacturer": {
+    "name": "Кубанские фрукты",
+    "country": "Россия",
+    "website": "https://кубанскиефрукты.ru",
+    "inn": "3476861227"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00075",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Ульяна",
+    "last_name": "Зиновьева"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Карла Маркса",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Ульяновск",
+      "street": "пер. Карла Маркса",
+      "house": "8/7",
+      "postal_code": "507091",
+      "coordinates": {
+        "latitude": 54.32274,
+        "longitude": 48.393284
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1045",
+      "name": "Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 50.9,
+        "protein": 1.4,
+        "fat": 0.6,
+        "carbohydrates": 7.3
+      },
+      "manufacturer": {
+        "name": "ИП «Огородник»",
+        "country": "Россия",
+        "website": "https://огородник.ru",
+        "inn": "9765085333"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Сыр Плавленый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 35.0,
+      "total_price": 35.0,
+      "kbju": {
+        "calories": 197.8,
+        "protein": 3.9,
+        "fat": 12.6,
+        "carbohydrates": 7.2
+      },
+      "manufacturer": {
+        "name": "ООО «Сырок»",
+        "country": "Россия",
+        "website": "https://сырок.ru",
+        "inn": "4295304954"
+      }
+    }
+  ],
+  "total_amount": 485.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ульяновск",
+    "street": "бул. Западный",
+    "house": "5/8",
+    "apartment": "31",
+    "postal_code": "869510"
+  },
+  "purchase_datetime": "2026-01-28T17:57:36.190664"
+}

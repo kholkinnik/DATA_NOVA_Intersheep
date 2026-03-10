@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1007",
+  "first_name": "Оксана",
+  "last_name": "Костина",
+  "email": "nadezhdakudrjavtseva@example.com",
+  "phone": "+7 186 406 6985",
+  "birth_date": "1969-02-25",
+  "gender": "female",
+  "registration_date": "2026-01-03T17:57:36.095856",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-3EAEB04B98",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Липецк",
+    "street": "наб. Троицкая",
+    "house": "6",
+    "postal_code": "888182",
+    "coordinates": {
+      "latitude": 52.617944,
+      "longitude": 39.593519
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Липецк",
+    "street": "бул. Радищева",
+    "house": "9",
+    "apartment": "25",
+    "postal_code": "916599"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

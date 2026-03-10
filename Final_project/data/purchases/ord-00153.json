@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00153",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Октябрина",
+    "last_name": "Бурова"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на бул. Докучаева",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "бул. Докучаева",
+      "house": "80",
+      "postal_code": "941109",
+      "coordinates": {
+        "latitude": 57.159651,
+        "longitude": 65.530977
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "name": "Гречка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 75.0,
+      "total_price": 75.0,
+      "kbju": {
+        "calories": 240.3,
+        "protein": 11.7,
+        "fat": 4.8,
+        "carbohydrates": 50.5
+      },
+      "manufacturer": {
+        "name": "ООО «Мистраль»",
+        "country": "Россия",
+        "website": "https://мистраль.ru",
+        "inn": "6141052240"
+      }
+    }
+  ],
+  "total_amount": 75.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "наб. Донская",
+    "house": "38",
+    "apartment": "21",
+    "postal_code": "664599"
+  },
+  "purchase_datetime": "2026-01-26T17:57:36.259758"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1005",
+  "first_name": "Светозар",
+  "last_name": "Беляков",
+  "email": "marina_1984@example.org",
+  "phone": "+70113318949",
+  "birth_date": "1982-06-05",
+  "gender": "male",
+  "registration_date": "2025-12-16T17:57:36.095856",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-3B2973A9A0",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Барнаул",
+    "street": "ул. Дорожная",
+    "house": "916",
+    "postal_code": "507430",
+    "coordinates": {
+      "latitude": 53.35194,
+      "longitude": 83.77341
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Барнаул",
+    "street": "ш. Раздольное",
+    "house": "43",
+    "apartment": "82",
+    "postal_code": "218085"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

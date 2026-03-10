@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1003",
+  "first_name": "Азарий",
+  "last_name": "Макаров",
+  "email": "emilevdokimov@example.com",
+  "phone": "+7 (547) 544-86-09",
+  "birth_date": "1960-11-02",
+  "gender": "male",
+  "registration_date": "2026-01-12T17:57:36.095856",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-48EA6F8771",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "бул. Серова",
+    "house": "906",
+    "postal_code": "969267",
+    "coordinates": {
+      "latitude": 56.150128,
+      "longitude": 47.255986
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Чебоксары",
+    "street": "пр. Ярославский",
+    "house": "4/2",
+    "apartment": "83",
+    "postal_code": "481830"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

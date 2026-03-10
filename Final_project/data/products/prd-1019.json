@@ -1,0 +1,24 @@
+{
+  "id": "prd-1019",
+  "name": "Пельмени русские",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Замороженные, 500 г",
+  "kbju": {
+    "calories": 290.9,
+    "protein": 18.9,
+    "fat": 5.2,
+    "carbohydrates": 2.0
+  },
+  "price": 130.0,
+  "unit": "уп",
+  "origin_country": "Россия",
+  "expiry_days": 28,
+  "is_organic": false,
+  "barcode": "4345238215731",
+  "manufacturer": {
+    "name": "ООО «Сибирский гурман»",
+    "country": "Россия",
+    "website": "https://сибирскийгурман.ru",
+    "inn": "8707694030"
+  }
+}

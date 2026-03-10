@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00132",
+  "customer": {
+    "customer_id": "cus-1012",
+    "first_name": "Валерия",
+    "last_name": "Лихачева"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на наб. Смоленская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "наб. Смоленская",
+      "house": "6",
+      "postal_code": "109913",
+      "coordinates": {
+        "latitude": 57.145189,
+        "longitude": 65.528693
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Фасоль красная в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 230.4,
+        "protein": 26.9,
+        "fat": 13.5,
+        "carbohydrates": 0.4
+      },
+      "manufacturer": {
+        "name": "Бондюэль",
+        "country": "Россия",
+        "website": "https://бондюэль.ru",
+        "inn": "8320355207"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 95.0,
+      "kbju": {
+        "calories": 99.7,
+        "protein": 0.8,
+        "fat": 0.4,
+        "carbohydrates": 10.2
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "7966740421"
+      }
+    },
+    {
+      "product_id": "prd-1039",
+      "name": "Манго",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 120.0,
+      "total_price": 240.0,
+      "kbju": {
+        "calories": 61.3,
+        "protein": 1.7,
+        "fat": 0.8,
+        "carbohydrates": 12.1
+      },
+      "manufacturer": {
+        "name": "Тропические фрукты",
+        "country": "Россия",
+        "website": "https://тропическиефрукты.ru",
+        "inn": "9701474826"
+      }
+    }
+  ],
+  "total_amount": 425.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Симферополь",
+    "street": "ш. Достоевского",
+    "house": "8/9",
+    "apartment": "86",
+    "postal_code": "239862"
+  },
+  "purchase_datetime": "2026-02-18T17:57:36.239909"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1008",
+  "first_name": "Валентина",
+  "last_name": "Крылова",
+  "email": "bazhen79@example.org",
+  "phone": "82683548216",
+  "birth_date": "1960-08-01",
+  "gender": "female",
+  "registration_date": "2026-02-13T17:57:36.095856",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-0250AEA2FE",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Саратов",
+    "street": "ш. Крайнее",
+    "house": "57",
+    "postal_code": "969550",
+    "coordinates": {
+      "latitude": 51.526265,
+      "longitude": 46.031033
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Саратов",
+    "street": "пер. Мелиоративный",
+    "house": "8/5",
+    "apartment": "83",
+    "postal_code": "794283"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

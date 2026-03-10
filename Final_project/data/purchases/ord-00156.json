@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00156",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Анжелика",
+    "last_name": "Носова"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на пр. Торговый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Москва",
+      "street": "пр. Торговый",
+      "house": "371",
+      "postal_code": "184061",
+      "coordinates": {
+        "latitude": 55.749273,
+        "longitude": 37.611333
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Лаваш тонкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 120.0,
+      "kbju": {
+        "calories": 317.4,
+        "protein": 6.8,
+        "fat": 2.9,
+        "carbohydrates": 59.2
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "0149115327"
+      }
+    },
+    {
+      "product_id": "prd-1044",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 35.1,
+        "protein": 2.4,
+        "fat": 0.3,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "1731751304"
+      }
+    }
+  ],
+  "total_amount": 420.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "пер. Ватутина",
+    "house": "7",
+    "apartment": "47",
+    "postal_code": "342287"
+  },
+  "purchase_datetime": "2026-02-21T17:57:36.261753"
+}

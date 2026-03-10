@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00159",
+  "customer": {
+    "customer_id": "cus-1023",
+    "first_name": "Ксения",
+    "last_name": "Савельева"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на ш. Ломоносова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Владимир",
+      "street": "ш. Ломоносова",
+      "house": "842",
+      "postal_code": "193551",
+      "coordinates": {
+        "latitude": 56.132124,
+        "longitude": 40.387311
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1048",
+      "name": "Редис",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 30.0,
+      "total_price": 30.0,
+      "kbju": {
+        "calories": 30.7,
+        "protein": 1.3,
+        "fat": 0.3,
+        "carbohydrates": 10.0
+      },
+      "manufacturer": {
+        "name": "Фермерское хозяйство «Лето»",
+        "country": "Россия",
+        "website": "https://фермерскоехозяйстволето.ru",
+        "inn": "6503657799"
+      }
+    }
+  ],
+  "total_amount": 30.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Крупской",
+    "house": "14",
+    "apartment": "97",
+    "postal_code": "966241"
+  },
+  "purchase_datetime": "2026-02-19T17:57:36.264893"
+}

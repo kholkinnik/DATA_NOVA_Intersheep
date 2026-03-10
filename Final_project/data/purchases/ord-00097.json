@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00097",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Анжелика",
+    "last_name": "Носова"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на ул. Вокзальная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Екатеринбург",
+      "street": "ул. Вокзальная",
+      "house": "35",
+      "postal_code": "932596",
+      "coordinates": {
+        "latitude": 56.830604,
+        "longitude": 60.608126
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1033",
+      "name": "Брусника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 95.0,
+      "total_price": 95.0,
+      "kbju": {
+        "calories": 99.7,
+        "protein": 0.8,
+        "fat": 0.4,
+        "carbohydrates": 10.2
+      },
+      "manufacturer": {
+        "name": "ИП Ягодная поляна",
+        "country": "Россия",
+        "website": "https://ягоднаяполяна.ru",
+        "inn": "7966740421"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 95.0,
+      "total_price": 285.0,
+      "kbju": {
+        "calories": 79.7,
+        "protein": 1.0,
+        "fat": 0.2,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Эко-Фрукты",
+        "country": "Россия",
+        "website": "https://эко-фрукты.ru",
+        "inn": "4842169369"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Шашлык из свинины",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 320.0,
+      "total_price": 640.0,
+      "kbju": {
+        "calories": 154.6,
+        "protein": 21.5,
+        "fat": 3.3,
+        "carbohydrates": 8.2
+      },
+      "manufacturer": {
+        "name": "ООО «Шашлычный двор»",
+        "country": "Россия",
+        "website": "https://шашлычныйдвор.ru",
+        "inn": "2754811957"
+      }
+    }
+  ],
+  "total_amount": 1020.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Краснодар",
+    "street": "пер. Ватутина",
+    "house": "7",
+    "apartment": "47",
+    "postal_code": "342287"
+  },
+  "purchase_datetime": "2026-02-05T17:57:36.211597"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "prd-1020",
+  "name": "Йогурт греческий",
+  "group": "🥛 Молочные продукты",
+  "description": "Натуральный, 150 г",
+  "kbju": {
+    "calories": 194.0,
+    "protein": 9.6,
+    "fat": 1.7,
+    "carbohydrates": 7.9
+  },
+  "price": 50.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 7,
+  "is_organic": false,
+  "barcode": "7017853623235",
+  "manufacturer": {
+    "name": "Danone",
+    "country": "Россия",
+    "website": "https://danone.ru",
+    "inn": "3936658627"
+  }
+}

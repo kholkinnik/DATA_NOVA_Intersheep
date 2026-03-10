@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00192",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Октябрина",
+    "last_name": "Бурова"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на бул. Толстого",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Тюмень",
+      "street": "бул. Толстого",
+      "house": "492",
+      "postal_code": "631260",
+      "coordinates": {
+        "latitude": 57.149287,
+        "longitude": 65.53511
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Фасоль красная в собственном соку",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.0,
+      "total_price": 90.0,
+      "kbju": {
+        "calories": 230.4,
+        "protein": 26.9,
+        "fat": 13.5,
+        "carbohydrates": 0.4
+      },
+      "manufacturer": {
+        "name": "Бондюэль",
+        "country": "Россия",
+        "website": "https://бондюэль.ru",
+        "inn": "8320355207"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Хлеб Бородинский",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 55.0,
+      "total_price": 220.0,
+      "kbju": {
+        "calories": 302.2,
+        "protein": 7.5,
+        "fat": 5.4,
+        "carbohydrates": 42.0
+      },
+      "manufacturer": {
+        "name": "ООО «Коломенский пекарь»",
+        "country": "Россия",
+        "website": "https://коломенскийпекарь.ru",
+        "inn": "1868975782"
+      }
+    }
+  ],
+  "total_amount": 310.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "наб. Донская",
+    "house": "38",
+    "apartment": "21",
+    "postal_code": "664599"
+  },
+  "purchase_datetime": "2026-02-16T17:57:36.300795"
+}

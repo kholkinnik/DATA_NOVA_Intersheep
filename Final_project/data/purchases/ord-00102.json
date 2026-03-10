@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00102",
+  "customer": {
+    "customer_id": "cus-1017",
+    "first_name": "Акулина",
+    "last_name": "Овчинникова"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на алл. З.Космодемьянской",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Красноярск",
+      "street": "алл. З.Космодемьянской",
+      "house": "68",
+      "postal_code": "882212",
+      "coordinates": {
+        "latitude": 56.003083,
+        "longitude": 92.853782
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1044",
+      "name": "Маслины",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 100.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 35.1,
+        "protein": 2.4,
+        "fat": 0.3,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Италика",
+        "country": "Россия",
+        "website": "https://италика.ru",
+        "inn": "1731751304"
+      }
+    },
+    {
+      "product_id": "prd-1024",
+      "name": "Йогурт питьевой клубничный",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 48.0,
+      "total_price": 144.0,
+      "kbju": {
+        "calories": 151.1,
+        "protein": 9.0,
+        "fat": 11.5,
+        "carbohydrates": 12.0
+      },
+      "manufacturer": {
+        "name": "Danone",
+        "country": "Россия",
+        "website": "https://danone.ru",
+        "inn": "3928715855"
+      }
+    },
+    {
+      "product_id": "prd-1027",
+      "name": "Мороженое пломбир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 130.0,
+      "total_price": 130.0,
+      "kbju": {
+        "calories": 133.0,
+        "protein": 7.5,
+        "fat": 11.1,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ООО «Айсберг»",
+        "country": "Россия",
+        "website": "https://айсберг.ru",
+        "inn": "4545124016"
+      }
+    }
+  ],
+  "total_amount": 574.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Симферополь",
+    "street": "алл. Осенняя",
+    "house": "3/6",
+    "apartment": "32",
+    "postal_code": "668106"
+  },
+  "purchase_datetime": "2025-12-10T17:57:36.215715"
+}

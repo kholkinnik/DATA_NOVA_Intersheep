@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00187",
+  "customer": {
+    "customer_id": "cus-1008",
+    "first_name": "Валентина",
+    "last_name": "Крылова"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на ш. Приозерное",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Балашиха",
+      "street": "ш. Приозерное",
+      "house": "1",
+      "postal_code": "883921",
+      "coordinates": {
+        "latitude": 55.798939,
+        "longitude": 37.929929
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Фасоль белая",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 65.0,
+      "total_price": 195.0,
+      "kbju": {
+        "calories": 154.8,
+        "protein": 15.4,
+        "fat": 10.2,
+        "carbohydrates": 8.1
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "9825245926"
+      }
+    },
+    {
+      "product_id": "prd-1026",
+      "name": "Сыр Маасдам",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 250.0,
+      "total_price": 750.0,
+      "kbju": {
+        "calories": 87.2,
+        "protein": 4.1,
+        "fat": 6.0,
+        "carbohydrates": 4.6
+      },
+      "manufacturer": {
+        "name": "ООО «Сыробогатов»",
+        "country": "Россия",
+        "website": "https://сыробогатов.ru",
+        "inn": "5185580479"
+      }
+    }
+  ],
+  "total_amount": 945.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Саратов",
+    "street": "пер. Мелиоративный",
+    "house": "8/5",
+    "apartment": "83",
+    "postal_code": "794283"
+  },
+  "purchase_datetime": "2026-01-21T17:57:36.294282"
+}

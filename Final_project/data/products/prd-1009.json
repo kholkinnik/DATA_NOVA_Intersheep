@@ -1,0 +1,24 @@
+{
+  "id": "prd-1009",
+  "name": "Овсяные хлопья",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "Геркулес, 500 г",
+  "kbju": {
+    "calories": 238.1,
+    "protein": 12.0,
+    "fat": 4.7,
+    "carbohydrates": 51.5
+  },
+  "price": 45.0,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 19,
+  "is_organic": false,
+  "barcode": "2687043522751",
+  "manufacturer": {
+    "name": "ООО «Овсянка»",
+    "country": "Россия",
+    "website": "https://овсянка.ru",
+    "inn": "0162446009"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1032",
+  "first_name": "Ермил",
+  "last_name": "Савин",
+  "email": "januari2003@example.com",
+  "phone": "+7 469 818 6028",
+  "birth_date": "1962-01-04",
+  "gender": "male",
+  "registration_date": "2026-01-18T17:57:36.118961",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-1C5BEC1467",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "алл. Революции",
+    "house": "2",
+    "postal_code": "304094",
+    "coordinates": {
+      "latitude": 56.139013,
+      "longitude": 40.404611
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Владимир",
+    "street": "пр. Ломоносова",
+    "house": "352",
+    "apartment": "57",
+    "postal_code": "331588"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

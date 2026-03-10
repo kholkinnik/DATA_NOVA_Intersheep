@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1031",
+  "first_name": "Герман",
+  "last_name": "Попов",
+  "email": "igor_90@example.com",
+  "phone": "8 879 316 8736",
+  "birth_date": "1981-01-09",
+  "gender": "male",
+  "registration_date": "2026-02-23T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-26EC49C23C",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "пер. Парковый",
+    "house": "566",
+    "postal_code": "004425",
+    "coordinates": {
+      "latitude": 54.707861,
+      "longitude": 20.500571
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Калининград",
+    "street": "ш. Осипенко",
+    "house": "43",
+    "apartment": "20",
+    "postal_code": "673690"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

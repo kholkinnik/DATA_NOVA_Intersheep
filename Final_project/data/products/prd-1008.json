@@ -1,0 +1,24 @@
+{
+  "id": "prd-1008",
+  "name": "Булочка для бургера",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "С кунжутом, 4 шт",
+  "kbju": {
+    "calories": 293.2,
+    "protein": 11.6,
+    "fat": 5.0,
+    "carbohydrates": 56.8
+  },
+  "price": 60.0,
+  "unit": "уп",
+  "origin_country": "Россия",
+  "expiry_days": 18,
+  "is_organic": false,
+  "barcode": "8100509581276",
+  "manufacturer": {
+    "name": "ООО «Булка»",
+    "country": "Россия",
+    "website": "https://булка.ru",
+    "inn": "6303059533"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00052",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Ульяна",
+    "last_name": "Зиновьева"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на ул. Высотная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Краснодар",
+      "street": "ул. Высотная",
+      "house": "595",
+      "postal_code": "058824",
+      "coordinates": {
+        "latitude": 45.028884,
+        "longitude": 38.976453
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Фасоль белая",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 65.0,
+      "total_price": 130.0,
+      "kbju": {
+        "calories": 154.8,
+        "protein": 15.4,
+        "fat": 10.2,
+        "carbohydrates": 8.1
+      },
+      "manufacturer": {
+        "name": "ООО «Крупяной двор»",
+        "country": "Россия",
+        "website": "https://крупянойдвор.ru",
+        "inn": "9825245926"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "кг",
+      "price_per_unit": 95.0,
+      "total_price": 475.0,
+      "kbju": {
+        "calories": 79.7,
+        "protein": 1.0,
+        "fat": 0.2,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Эко-Фрукты",
+        "country": "Россия",
+        "website": "https://эко-фрукты.ru",
+        "inn": "4842169369"
+      }
+    },
+    {
+      "product_id": "prd-1046",
+      "name": "Батат",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "кг",
+      "price_per_unit": 150.0,
+      "total_price": 450.0,
+      "kbju": {
+        "calories": 52.1,
+        "protein": 1.3,
+        "fat": 0.7,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "ИП «Овощная экзотика»",
+        "country": "Россия",
+        "website": "https://овощнаяэкзотика.ru",
+        "inn": "1614695490"
+      }
+    }
+  ],
+  "total_amount": 1055.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ульяновск",
+    "street": "бул. Западный",
+    "house": "5/8",
+    "apartment": "31",
+    "postal_code": "869510"
+  },
+  "purchase_datetime": "2025-12-19T17:57:36.170989"
+}

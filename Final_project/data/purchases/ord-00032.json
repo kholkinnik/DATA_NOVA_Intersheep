@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00032",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Ермолай",
+    "last_name": "Котов"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на бул. Серова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "Чебоксары",
+      "street": "бул. Серова",
+      "house": "906",
+      "postal_code": "969267",
+      "coordinates": {
+        "latitude": 56.150128,
+        "longitude": 47.255986
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Лаваш тонкий",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 60.0,
+      "total_price": 240.0,
+      "kbju": {
+        "calories": 317.4,
+        "protein": 6.8,
+        "fat": 2.9,
+        "carbohydrates": 59.2
+      },
+      "manufacturer": {
+        "name": "ООО «Кавказская кухня»",
+        "country": "Россия",
+        "website": "https://кавказскаякухня.ru",
+        "inn": "0149115327"
+      }
+    }
+  ],
+  "total_amount": 240.0,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Красноярск",
+    "street": "пр. Тельмана",
+    "house": "6/3",
+    "apartment": "5",
+    "postal_code": "201224"
+  },
+  "purchase_datetime": "2026-02-10T17:57:36.155356"
+}

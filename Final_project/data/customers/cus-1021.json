@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1021",
+  "first_name": "Амос",
+  "last_name": "Денисов",
+  "email": "mechislav27@example.net",
+  "phone": "+7 820 158 63 58",
+  "birth_date": "1993-11-07",
+  "gender": "male",
+  "registration_date": "2026-03-07T17:57:36.109198",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-463564D7E1",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "Ижевск",
+    "street": "наб. Гафури",
+    "house": "2/5",
+    "postal_code": "302578",
+    "coordinates": {
+      "latitude": 56.843537,
+      "longitude": 53.217387
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "Ижевск",
+    "street": "ул. Подстанция",
+    "house": "35",
+    "apartment": "21",
+    "postal_code": "934982"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}
