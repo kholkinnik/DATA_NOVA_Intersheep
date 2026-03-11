@@ -32,7 +32,7 @@ with DAG(
     tags=['analityc_result']
     
 ) as dag:
-    start = EmptyOperator(
+    start_producer = EmptyOperator(
         task_id = 'start_producer'
     )
 
@@ -99,8 +99,7 @@ with DAG(
     finish = EmptyOperator(
         task_id = 'finish'
     )
-
-start >> [produce_1, produce_2, produce_3, produce_4, produce_5] \
+start_producer >> [produce_1, produce_2, produce_3, produce_4, produce_5] \
 >> start_consumer \
 >> [consume_1, consume_2, consume_3, consume_4] >> consume_5 \
 >> run_pyspark_task \
